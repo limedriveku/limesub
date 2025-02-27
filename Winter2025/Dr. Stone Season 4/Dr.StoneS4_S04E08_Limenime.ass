@@ -16,13 +16,13 @@ Active Line: 22
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: dialog,Basic Comical NC,263,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,133.333,100,0,0,1,5.625,3.75,2,480,480,244,1
-Style: dialog-atas,Basic Comical NC,263,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,133.333,100,0,0,1,5.625,3.75,8,0,0,244,1
-Style: tanda-5,Basic Comical NC,188,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,133.333,100,0,0,1,0,0,5,0,0,300,1
-Style: tanda-6,Basic Comical NC,188,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,133.333,100,0,0,1,0,0,6,0,0,300,1
-Style: tanda-4,Basic Comical NC,188,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,133.333,100,0,0,1,0,0,4,0,0,300,1
-Style: tanda,Basic Comical NC,188,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,133.333,100,0,0,1,0,0,5,0,0,300,1
-Style: tanda_srt,Basic Comical NC,281,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,133.333,100,0,0,1,3.75,0,8,0,0,0,1
+Style: dialog,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,96,96,65,1
+Style: dialog-atas,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,8,0,0,65,1
+Style: tanda-5,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,80,1
+Style: tanda-6,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,6,0,0,80,1
+Style: tanda-4,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,80,1
+Style: tanda,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,80,1
+Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
