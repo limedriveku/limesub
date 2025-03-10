@@ -5,14 +5,12 @@ Title: Bilibili Subtitle
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 19
-Active Line: 26
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,10 +20,21 @@ Style: 5-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 Style: 6-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,6,10,10,10,1
 Style: 4-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,4,10,10,10,1
 Style: Atas,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,0,0,65,1
+Style: resolution,Basic Comical NC,1080,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,0,0,0,0,1,2,2,2,10,10,10,1
 Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:55.11,0:02:58.74,5-normal,,0,0,0,,{\pos(1520,910)\fs65\b1\bord4.5\c&H54C2FF&\3c&H5AC4F7&\fad(450,450)}Selamat Tinggal Diriku yang Kikuk
+Dialogue: 0,0:02:55.11,0:02:58.74,5-normal,,0,0,0,,{\pos(1520,910)\fs65\b1\3c&HFFDC6B&\fad(450,450)}Selamat Tinggal Diriku yang Kikuk
+Dialogue: 0,0:04:47.30,0:04:49.26,5-normal,,0,0,0,,{\move(976,194,976,318,29,1947)\fs70\b1\bord6\c&HACB1B9&\3c&H9EBFCF&}Tempat Karaoke
+Dialogue: 0,0:04:47.30,0:04:49.26,5-normal,,0,0,0,,{\move(976,194,976,318,29,1947)\fs70\b1\bord4\c&H86ABFB&\3c&HEBFDFD&}Tempat Karaoke
+Dialogue: 0,0:06:45.50,0:06:48.67,5-normal,,0,0,0,,{\pos(960,165)\fs70\b1\bord0\c&HF8FEFF&}Aku Mulai Tahu Cara Berjalan Sendiri.
+Dialogue: 0,0:09:38.76,0:09:43.40,5-normal,,0,0,0,,{\pos(960,78)\fs70\b1\bord0\c&HFDFFED&\fad(750,0)}Apakah Aku Mengkhianati Ayah?
+Dialogue: 0,0:12:30.06,0:12:33.69,5-normal,,0,0,0,,{\move(398,170,547,170,23,3610)\frz11.72\fax-0.2\fs75\b1\bord0\c&H3A3022&\fad(567,0)}\h\h\hPengumuman Lulus Ujian Masuk SMA Shinsei\h\h\h
+Dialogue: 0,0:13:09.64,0:13:11.35,5-normal,,0,0,0,,{\fax0.1\fs60\b1\bord0\c&HD0CBCA&\fad(624,0)\pos(1000.143,626.857)\frz15.55}\h\h\hPesan Baru: Ayumi\h\h\h
+Dialogue: 0,0:16:23.42,0:16:26.38,5-normal,,0,0,0,,{\pos(960,145)\fs70\b1\bord0\c&HF8FEFF&}Selamat Tinggal Hari-Hari Kikukku
+Dialogue: 0,0:21:20.17,0:21:25.09,5-normal,,0,0,0,,{\move(1430,707,1415,699,22,4902)\fs70\b1\bord0\c&HFFFDAE&\fad(1200,0)}Bersambung
 Dialogue: 0,0:00:05.91,0:00:10.48,Default,,0,0,0,,Uka anaknya Pak Ishimori tidak rewel, ya.
 Dialogue: 0,0:00:10.48,0:00:12.08,Default,,0,0,0,,Dia anak yang baik.
 Dialogue: 0,0:00:12.08,0:00:14.03,Default,,0,0,0,,Aku jadi iri.
@@ -52,9 +61,8 @@ Dialogue: 0,0:01:14.27,0:01:15.87,Default,,0,0,0,,Selamat jalan.
 Dialogue: 0,0:01:17.13,0:01:18.33,Default,,0,0,0,,Sempit.
 Dialogue: 0,0:01:18.94,0:01:21.35,Default,,0,0,0,,Dunia sempitku ini
 Dialogue: 0,0:01:22.24,0:01:24.98,Default,,0,0,0,,telah dilindungi selama 15 tahun.
-Dialogue: 0,0:02:55.03,0:02:59.95,5-normal,,0,0,0,,{\fs60\b1\bord4.5\c&H54C2FF&\3c&H5AC4F7&\fad(450,0)\pos(1585,917)}Selamat Tinggal Diriku yang Kikuk
-Dialogue: 0,0:02:55.03,0:02:57.63,Default,,0,0,0,,Selamat pagi, Uka!
-Dialogue: 0,0:02:57.63,0:02:59.44,Default,,0,0,0,,Lama tidak berjumpa!
+Dialogue: 0,0:02:55.03,0:02:57.63,Default Above,,0,0,0,,Selamat pagi, Uka!
+Dialogue: 0,0:02:57.63,0:02:59.44,Default Above,,0,0,0,,Lama tidak berjumpa!
 Dialogue: 0,0:03:00.61,0:03:01.54,Default,,0,0,0,,Waduh.
 Dialogue: 0,0:03:01.54,0:03:02.48,Default,,0,0,0,,Yah.
 Dialogue: 0,0:03:02.48,0:03:04.72,Default,,0,0,0,,Suasana semester barunya kuat banget.
@@ -92,7 +100,6 @@ Dialogue: 0,0:04:41.11,0:04:42.26,Default,,0,0,0,,Sejak saat itu,
 Dialogue: 0,0:04:43.05,0:04:44.89,Default,,0,0,0,,rasanya ada yang mengganjal.
 Dialogue: 0,0:04:45.60,0:04:46.59,Default,,0,0,0,,Kita sampai.
 Dialogue: 0,0:04:47.31,0:04:49.27,Default,,0,0,0,,Karaoke!
-Dialogue: 0,0:04:47.31,0:04:49.27,tanda,,0,0,0,,TEMPAT KARAOKE
 Dialogue: 0,0:04:49.27,0:04:52.73,Default,,0,0,0,,Ruangannya banyak sekali,\Nada minuman isi ulang juga!
 Dialogue: 0,0:04:53.79,0:04:55.49,Default,,0,0,0,,Jangan sampai tersesat.
 Dialogue: 0,0:04:57.13,0:04:58.86,Default,,0,0,0,,Kamu kurang tidur?
@@ -129,7 +136,6 @@ Dialogue: 0,0:06:36.09,0:06:38.70,Default,,0,0,0,,Pak Manajer, ada apa?
 Dialogue: 0,0:06:38.70,0:06:41.59,Default,,0,0,0,,Tidak, bukan apa-apa.
 Dialogue: 0,0:06:41.59,0:06:43.81,Default,,0,0,0,,Ishimori, ada apa?
 Dialogue: 0,0:06:44.71,0:06:45.49,Default,,0,0,0,,Aku mulai tahu
-Dialogue: 0,0:06:45.49,0:06:46.85,tanda,,0,0,0,,AKU MULAI TAHU CARA BERJALAN SENDIRI.
 Dialogue: 0,0:06:46.85,0:06:48.68,Default,,0,0,0,,cara berjalan sendiri.
 Dialogue: 0,0:06:49.13,0:06:51.27,Default,,0,0,0,,Kamu tidak perlu melakukan apa-apa.
 Dialogue: 0,0:06:51.27,0:06:53.37,Default,,0,0,0,,Atasilah sendiri.
@@ -166,7 +172,6 @@ Dialogue: 0,0:08:14.89,0:08:16.74,Default,,0,0,0,,Ayah...
 Dialogue: 0,0:08:16.74,0:08:18.89,Default,,0,0,0,,Uka, kamu harus pindah sekolah.
 Dialogue: 0,0:08:19.83,0:08:22.23,Default,,0,0,0,,Aku tidak mengizinkanmu
 Dialogue: 0,0:08:23.11,0:08:24.75,Default,,0,0,0,,sekolah di SMA Hachimitsu.
-Dialogue: 0,0:08:24.75,0:08:28.11,tanda,,0,0,0,,HONEY LEMON SODA
 Dialogue: 0,0:08:28.51,0:08:31.30,Default,,0,0,0,,Lo? Uka belum datang?
 Dialogue: 0,0:08:31.30,0:08:33.07,Default,,0,0,0,,Benar juga, apa dia absen?
 Dialogue: 0,0:08:33.07,0:08:34.33,Default,,0,0,0,,Tumben.
@@ -190,7 +195,6 @@ Dialogue: 0,0:09:28.85,0:09:30.67,Default,,0,0,0,,Ayah tidak berhak menentukan
 Dialogue: 0,0:09:30.67,0:09:32.83,Default,,0,0,0,,apa yang baik dan buruk buat...
 Dialogue: 0,0:09:39.14,0:09:41.29,Default,,0,0,0,,Pikirkanlah baik-baik.
 Dialogue: 0,0:09:41.29,0:09:43.40,Default,,0,0,0,,Jangan pergi sekolah dulu.
-Dialogue: 0,0:09:39.14,0:09:43.40,tanda,,0,0,0,,APAKAH AKU MENGKHIANATI AYAH?
 Dialogue: 0,0:09:44.00,0:09:46.69,Default,,0,0,0,,Kenapa situasinya jadi begini?
 Dialogue: 0,0:09:48.23,0:09:49.78,Default,,0,0,0,,Uka...
 Dialogue: 0,0:09:49.78,0:09:50.47,Default,,0,0,0,,Pindah sekolah?
@@ -246,7 +250,6 @@ Dialogue: 0,0:12:19.01,0:12:20.05,Default,,0,0,0,,Jadi,
 Dialogue: 0,0:12:20.78,0:12:22.76,Default,,0,0,0,,Anda mau mengurungnya lagi?
 Dialogue: 0,0:12:24.13,0:12:25.89,Default,,0,0,0,,Diamlah, bocah ingusan.
 Dialogue: 0,0:12:26.88,0:12:28.73,Default,,0,0,0,,Dia tidak membutuhkanmu.
-Dialogue: 0,0:12:30.10,0:12:30.91,tanda,,0,0,0,,PENGUMUMAN LULUS\NUJIAN MASUK SMA SHINSEI
 Dialogue: 0,0:12:30.91,0:12:33.69,Default,,0,0,0,,Ayah, Uka lulus!
 Dialogue: 0,0:12:33.69,0:12:36.17,Default,,0,0,0,,Kamu berhasil, Uka!
 Dialogue: 0,0:12:47.20,0:12:49.42,Default,,0,0,0,,Ayumi! Miura!
@@ -256,7 +259,6 @@ Dialogue: 0,0:12:53.25,0:12:55.30,Default,,0,0,0,,Bukan, aku tidak mengenalnya.
 Dialogue: 0,0:12:56.22,0:12:57.26,Default,,0,0,0,,Apa dia teman Kai?
 Dialogue: 0,0:12:58.14,0:12:59.13,Default,,0,0,0,,Aku tidak kenal.
 Dialogue: 0,0:13:01.87,0:13:06.45,Default,,0,0,0,,Tadi itu cuma mimpi, kan?\NBikin kaget saja.
-Dialogue: 0,0:13:09.64,0:13:11.35,tanda,,0,0,0,,PESAN BARU: AYUMI
 Dialogue: 0,0:13:15.33,0:13:16.38,Default,,0,0,0,,Halo.
 Dialogue: 0,0:13:16.38,0:13:19.03,Default,,0,0,0,,Uka! Syukurlah kamu mengangkatnya!
 Dialogue: 0,0:13:19.03,0:13:20.22,Default,,0,0,0,,Ayumi!
@@ -317,7 +319,6 @@ Dialogue: 0,0:16:12.98,0:16:15.13,Default,,0,0,0,,Kamu adalah orang yang kucinta
 Dialogue: 0,0:16:15.91,0:16:17.53,Default,,0,0,0,,Anu, kok kamu bisa naik...
 Dialogue: 0,0:16:17.53,0:16:19.33,Default,,0,0,0,,Soalnya aku bisa terbang.
 Dialogue: 0,0:16:20.02,0:16:22.70,Default,,0,0,0,,Aku menantikan caramu mengatasinya.
-Dialogue: 0,0:16:23.42,0:16:26.38,tanda,,0,0,0,,SELAMAT TINGGAL HARI-HARI KIKUKKU
 Dialogue: 0,0:16:24.29,0:16:26.38,Default,,0,0,0,,Ibu, di mana Ayah?
 Dialogue: 0,0:16:26.38,0:16:30.99,Default,,0,0,0,,Eh? Kayaknya jalan-jalan ke taman,\Npadahal tadi ada di sini.
 Dialogue: 0,0:16:30.99,0:16:33.01,Default,,0,0,0,,Eh? Uka?
@@ -405,4 +406,3 @@ Dialogue: 0,0:21:04.63,0:21:05.89,Default,,0,0,0,,Ayah.
 Dialogue: 0,0:21:07.52,0:21:08.82,Default,,0,0,0,,Ibu.
 Dialogue: 0,0:21:10.80,0:21:12.19,Default,,0,0,0,,Akhirnya aku
 Dialogue: 0,0:21:14.85,0:21:17.14,Default,,0,0,0,,menemukan dunia ini.
-Dialogue: 0,0:21:20.09,0:21:25.10,5-normal,,0,0,0,,{\move(1430,707,1415,699,20,4900)\fs70\b1\bord0\c&HFFFDAE&\fad(1200,0)}Bersambung
