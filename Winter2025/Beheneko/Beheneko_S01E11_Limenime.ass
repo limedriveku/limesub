@@ -25,333 +25,333 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:23.35,0:01:29.73,5-normal,,0,0,0,,{\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(960,660)}Resepsionis Serikat dan Mantan Petualang Rank B
-Dialogue: 0,0:01:23.35,0:01:29.73,5-normal,,0,0,0,,{\fs80\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(960,715)}Arnold Holzweilzenegger
-Dialogue: 0,0:02:27.54,0:02:30.54,4-normal,,0,0,0,,{\move(186,179,169,169,24,2985)\fs70\b1\c&H3C3776&\3c&HFFFFFF&\bord3}Aku Adalah {\c&HA3A115&}"{\c&H1B16BE&}Behemoth{\c&HA3A115&}", Monster Rank-S,
-Dialogue: 0,0:02:27.54,0:02:30.54,4-normal,,0,0,0,,{\move(186,239,169,229,24,2985)\fs70\b1\c&H3C3776&\3c&HFFFFFF&\bord3\c&H3C3776&}Tapi Malah Dikira {\c&H1B16BE&}Kucing {\c&H3C3776&}dan Kini Hidup Sebagai {\c&HA3A115&}Peliharaan Kesatria Elf Wanita
-Dialogue: 0,0:03:38.32,0:03:40.49,5-normal,,0,0,0,,{\pos(790,705)\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)}Desa Elf
-Dialogue: 0,0:03:38.32,0:03:40.49,5-normal,,0,0,0,,{\fs75\b1\bord0\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1066,779)}Lumilus
-Dialogue: 0,0:04:14.94,0:04:20.53,5-normal,,0,0,0,,{\pos(850,705)\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)}Kepala Desa Lumilus
-Dialogue: 0,0:04:14.94,0:04:20.53,5-normal,,0,0,0,,{\fs80\b1\bord0\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1144,783)}Elvun
-Dialogue: 0,0:05:03.78,0:05:07.32,5-normal,,0,0,0,,{\pos(820,705)\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)}Pasukan Wanita Amazon
-Dialogue: 0,0:05:03.78,0:05:07.32,5-normal,,0,0,0,,{\fs80\b1\bord0\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1118,777)}Gusiona
-Dialogue: 0,0:06:18.60,0:06:24.40,5-normal,,0,0,0,,{\fs70\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(415,794)}Elemental Cat, Leo
-Dialogue: 0,0:06:21.73,0:06:24.40,5-normal,,0,0,0,,{\fs70\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1525,600)}Ordo Kesatria Lumilus, Fione
-Dialogue: 0,0:09:04.19,0:09:06.56,5-normal,,0,0,0,,{\fs80\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(960,692)}Kapten Unit Wanita Amazon, Leona
-Dialogue: 0,0:11:49.98,0:11:54.98,5-normal,,0,0,0,,{\fs80\bord2.5\b1\c&H253D4D&\\3c&HCEEEF3&\pos(1393.6,140)}Batu Cendekia
-Dialogue: 0,0:11:49.98,0:11:54.98,6-normal,,0,0,0,,{\fs60\bord2.5\b1\c&H1A3748&\3c&HCEEEF3&\pos(1806,630)}Benda Magis yang Bisa Membuat Penghalang Istimewa.\NMonster Rank A ke Bawah Tidak akan Bisa\NMendekati Penghalang Tersebut.
-Dialogue: 0,0:23:24.92,0:23:39.93,5-normal,,0,0,0,,{\fs75\bord4\c&H9E9E01&\b1\3c&HFFFFFF&\pos(195.6,51.6)}Selanjutnya
-Dialogue: 0,0:23:24.92,0:23:39.93,5-normal,,0,0,0,,{\pos(960,715)\fs75\b1\bord4\c&H0600C0&\3c&HFFFFFF&}Episode 12
-Dialogue: 0,0:23:24.92,0:23:39.93,5-normal,,0,0,0,,{\pos(960,1035)\fs75\b1\bord4\c&H010069&\3c&HFFFFFF&}Pedang Suci dan Hewan Suci
-Dialogue: 0,0:00:09.07,0:00:11.28,Default,,0,0,0,,Cari batu cendekianya!
-Dialogue: 0,0:00:11.28,0:00:13.99,Default,,0,0,0,,Yang melawan jangan diberi ampun!
-Dialogue: 0,0:00:13.99,0:00:16.00,Default,,0,0,0,,Berpencar ke tiga arah!
-Dialogue: 0,0:00:18.25,0:00:20.50,Default,,0,0,0,,Batu cendekianya ada di mana?
-Dialogue: 0,0:00:37.64,0:00:39.19,Default,,0,0,0,,Elemental Cat?
-Dialogue: 0,0:00:40.95,0:00:43.08,Default,,0,0,0,,Bukan tandingan kami!
-Dialogue: 0,0:00:50.52,0:00:52.45,Default,,0,0,0,,Sekarang sudah tidak apa-apa.
-Dialogue: 0,0:01:02.79,0:01:05.41,Default,,0,0,0,,Lumilus akan kembali menjadi medan perang.
-Dialogue: 0,0:01:05.98,0:01:08.71,Default,,0,0,0,,Majikanku, kamu pasti sangat khawatir.
-Dialogue: 0,0:01:10.15,0:01:13.47,Default,,0,0,0,,Tama, kamu ingin menghiburku, ya.
-Dialogue: 0,0:01:13.47,0:01:16.18,Default,,0,0,0,,Jangan bersedih, Aria!
-Dialogue: 0,0:01:16.18,0:01:19.16,Default,,0,0,0,,Diriku, maksudku, kami ada\Ndi sini bersamamu.
-Dialogue: 0,0:01:20.20,0:01:21.85,Default,,0,0,0,,Ada aku juga, lo.
-Dialogue: 0,0:01:23.31,0:01:25.48,Default Above,,0,0,0,,Kalau memakai jubah ini,
-Dialogue: 0,0:01:25.48,0:01:27.88,Default Above,,0,0,0,,jadi teringat kembali kenanganku
-Dialogue: 0,0:01:27.88,0:01:29.74,Default Above,,0,0,0,,saat disebut sebagai "Anna si Ratu Es".
-Dialogue: 0,0:01:31.66,0:01:33.33,Default,,0,0,0,,Kembali dari pensiun?
-Dialogue: 0,0:01:33.33,0:01:36.06,Default,,0,0,0,,Bukannya cuma pengin\Nketemu sama Kapten Cedric?
-Dialogue: 0,0:01:36.06,0:01:38.87,Default,,0,0,0,,Aduh, itu juga, sih.
-Dialogue: 0,0:01:39.64,0:01:43.92,Default,,0,0,0,,Aria, kamu sudah bukan gadis penakut lagi.
-Dialogue: 0,0:01:44.37,0:01:45.50,Default,,0,0,0,,Nona Alisha.
-Dialogue: 0,0:01:45.79,0:01:48.00,Default,,0,0,0,,Kamu juga mendapat skill baru, ya?
-Dialogue: 0,0:01:48.00,0:01:50.39,Default,,0,0,0,,Iya, skill bernama Excalibur.
-Dialogue: 0,0:01:50.39,0:01:54.51,Default,,0,0,0,,Sekarang giliranmu menolong semuanya\Ndengan kekuatan itu.
-Dialogue: 0,0:01:55.00,0:01:55.93,Default,,0,0,0,,Baik!
-Dialogue: 0,0:03:49.33,0:03:51.96,Default,,0,0,0,,Jadi ini kampung halaman Aria, meong.
-Dialogue: 0,0:03:51.96,0:03:53.96,Default,,0,0,0,,Pohonnya gede banget!
-Dialogue: 0,0:03:53.96,0:03:57.01,Default,,0,0,0,,Aku merasakan kekuatan yang tidak biasa.
-Dialogue: 0,0:03:57.55,0:03:59.36,Default,,0,0,0,,Itu adalah Pohon Raksasa.
-Dialogue: 0,0:03:59.36,0:04:03.51,Default,,0,0,0,,Pohon itu sudah lama menjaga desa ini\Nbahkan sejak aku belum lahir.
-Dialogue: 0,0:04:05.76,0:04:06.85,Default,,0,0,0,,Bisa dimakan enggak?
-Dialogue: 0,0:04:06.85,0:04:08.02,Default,,0,0,0,,Hentikan.
-Dialogue: 0,0:04:15.86,0:04:17.88,Default Above,,0,0,0,,Selamat datang.
-Dialogue: 0,0:04:18.32,0:04:20.53,Default Above,,0,0,0,,Kehadiran Anda sekalian\Nsungguh memberi rasa tenang.
-Dialogue: 0,0:04:20.88,0:04:22.41,Default,,0,0,0,,Terima kasih atas sambutannya.
-Dialogue: 0,0:04:22.99,0:04:26.08,Default,,0,0,0,,Aria, syukurlah kamu sehat-sehat saja.
-Dialogue: 0,0:04:26.08,0:04:27.66,Default,,0,0,0,,Aku sudah mendengar prestasimu.
-Dialogue: 0,0:04:28.20,0:04:30.75,Default,,0,0,0,,Berlebihan sekali kalau disebut prestasi.
-Dialogue: 0,0:04:30.75,0:04:32.92,Default,,0,0,0,,Kepala Desa juga terlihat sehat.
-Dialogue: 0,0:04:33.25,0:04:35.38,Default,,0,0,0,,Beliau adalah Tuan Elvun.
-Dialogue: 0,0:04:35.38,0:04:37.92,Default,,0,0,0,,Kudengar sudah cukup berumur,\Ntapi terlihat muda sekali.
-Dialogue: 0,0:04:38.88,0:04:45.68,Default,,0,0,0,,Bagi sang Pedang Suci Alisha yang telah\Nmenyelamatkan desa dari serangan iblis,
-Dialogue: 0,0:04:45.68,0:04:47.68,Default,,0,0,0,,sekali lagi, saya ucapkan terima kasih.
-Dialogue: 0,0:04:49.43,0:04:51.62,Default,,0,0,0,,Tolong angkat kepala kalian.
-Dialogue: 0,0:04:51.99,0:04:56.07,Default,,0,0,0,,Saya lihat formasi pertahanannya\Nsudah diperkuat semenjak kejadian itu.
-Dialogue: 0,0:04:56.37,0:04:59.82,Default,,0,0,0,,Benar, ada beberapa prajurit\Ndari desa lain yang ikut bergabung.
-Dialogue: 0,0:05:02.36,0:05:04.99,Default Above,,0,0,0,,Batu cendekia adalah harta mulia kaum elf.
-Dialogue: 0,0:05:04.99,0:05:07.33,Default Above,,0,0,0,,Tidak boleh direbut kaum iblis.
-Dialogue: 0,0:05:07.83,0:05:12.58,Default,,0,0,0,,Pantas saja aku merasa ada orang asing,\Nternyata begitu ceritanya.
-Dialogue: 0,0:05:13.83,0:05:15.08,Default,,0,0,0,,Ada apa, Stella?
-Dialogue: 0,0:05:15.08,0:05:17.54,Default,,0,0,0,,Dia orang yang lumayan perkasa.
-Dialogue: 0,0:05:17.54,0:05:18.84,Default,,0,0,0,,Oh, begitu.
-Dialogue: 0,0:05:19.46,0:05:21.58,Default,,0,0,0,,Kalau begitu, silakan masuk.
-Dialogue: 0,0:05:32.46,0:05:34.44,Default,,0,0,0,,Sang Pedang Suci!
-Dialogue: 0,0:05:35.10,0:05:37.36,Default,,0,0,0,,Selamat datang kembali, Neng Aria!
-Dialogue: 0,0:05:37.36,0:05:38.32,Default,,0,0,0,,Iya.
-Dialogue: 0,0:05:38.69,0:05:41.57,Default,,0,0,0,,Tama, aku lega semuanya masih sehat.
-Dialogue: 0,0:05:41.57,0:05:43.86,Default,,0,0,0,,Nanti biar kukenalkan\Nke ibundaku juga, ya.
-Dialogue: 0,0:05:45.41,0:05:47.62,Default,,0,0,0,,Ibunya pasti sangat cantik.
-Dialogue: 0,0:05:48.83,0:05:50.79,Default,,0,0,0,,Di dalam juga banyak tanaman hijau!
-Dialogue: 0,0:05:50.79,0:05:52.79,Default,,0,0,0,,Rasanya jadi tenang!
-Dialogue: 0,0:05:52.79,0:05:54.92,Default,,0,0,0,,Hei, mau menjelajah sebentar, enggak?
-Dialogue: 0,0:05:54.92,0:05:57.38,Default,,0,0,0,,Sepertinya menarik!
-Dialogue: 0,0:06:00.00,0:06:02.55,Default,,0,0,0,,Eh, Lily dan Feri mana?
-Dialogue: 0,0:06:02.55,0:06:03.88,Default,,0,0,0,,Oh, iya.
-Dialogue: 0,0:06:06.88,0:06:10.01,Default,,0,0,0,,Feri, sepertinya asyik\Nkalau main petak umpet di sini!
-Dialogue: 0,0:06:10.01,0:06:11.39,Default,,0,0,0,,Iya, ya!
-Dialogue: 0,0:06:11.39,0:06:13.39,Default,,0,0,0,,Kalian berdua, berhenti!
-Dialogue: 0,0:06:24.65,0:06:27.03,Default,,0,0,0,,Oh, aku belum pernah melihat kalian.
-Dialogue: 0,0:06:27.03,0:06:28.62,Default,,0,0,0,,Kalian datang dari mana?
-Dialogue: 0,0:06:28.62,0:06:30.10,Default,,0,0,0,,Hm...
-Dialogue: 0,0:06:30.63,0:06:32.79,Default,,0,0,0,,Dari tempat yang sangat jauh!
-Dialogue: 0,0:06:32.79,0:06:34.16,Default,,0,0,0,,Kami sedang menjelajah!
-Dialogue: 0,0:06:35.24,0:06:36.81,Default,,0,0,0,,Ketemu juga!
-Dialogue: 0,0:06:37.46,0:06:39.42,Default,,0,0,0,,Eh, Fione?
-Dialogue: 0,0:06:39.77,0:06:41.55,Default,,0,0,0,,Lo, ternyata Aria?
-Dialogue: 0,0:06:43.59,0:06:45.80,Default,,0,0,0,,Sudah lama sekali kita tidak bertemu.
-Dialogue: 0,0:06:46.09,0:06:48.62,Default,,0,0,0,,Iya, iya, kamu sudah jadi besar, ya.
-Dialogue: 0,0:06:49.19,0:06:50.91,Default,,0,0,0,,Kalau kalian...
-Dialogue: 0,0:06:51.31,0:06:53.06,Default,,0,0,0,,Mereka teman-temanku.
-Dialogue: 0,0:06:53.06,0:06:54.81,Default,,0,0,0,,Salam kenal, meong.
-Dialogue: 0,0:06:55.09,0:06:57.56,Default,,0,0,0,,Aduh, kalian ini, tiba-tiba menghilang.
-Dialogue: 0,0:06:57.56,0:06:59.26,Default,,0,0,0,,Enggak boleh, tahu!
-Dialogue: 0,0:06:59.26,0:07:01.19,Default,,0,0,0,,Maafkan kami.
-Dialogue: 0,0:07:01.95,0:07:05.37,Default,,0,0,0,,Yang terpenting, perkaranya tidak jadi be—
-Dialogue: 0,0:07:08.74,0:07:10.20,Default,,0,0,0,,Eh, ada apa ini?
-Dialogue: 0,0:07:13.95,0:07:15.29,Default,,0,0,0,,Eh, tidak mungkin!
-Dialogue: 0,0:07:15.29,0:07:18.21,Default,,0,0,0,,Leo yang angkuh itu\Nmau menunjukkan perutnya?
-Dialogue: 0,0:07:18.96,0:07:20.21,Default,,0,0,0,,Leo?
-Dialogue: 0,0:07:20.58,0:07:24.71,Default,,0,0,0,,Jangan bilang dirimu adalah kucing\Nyang telah menyelamatkan majikanku?
-Dialogue: 0,0:07:25.52,0:07:27.87,Default,,0,0,0,,Kalau begitu, diriku harus berterima kasih!
-Dialogue: 0,0:07:32.18,0:07:34.60,Default,,0,0,0,,Wah, Tama dan Leo, ini kan...
-Dialogue: 0,0:07:34.60,0:07:35.97,Default,,0,0,0,,Mereka akrab sekali.
-Dialogue: 0,0:07:36.48,0:07:40.94,Default,,0,0,0,,Langsung diakui Tama saat baru bertemu,\Nboleh juga dia!
-Dialogue: 0,0:07:40.94,0:07:42.48,Default,,0,0,0,,Aku juga mau ikut!
-Dialogue: 0,0:07:42.77,0:07:46.24,Default,,0,0,0,,Tubuhnya besar dan bulunya lembut!
-Dialogue: 0,0:07:51.17,0:07:55.74,Default,,0,0,0,,Langsung saja kita bahas mengenai\Npertempuran pertahanan yang akan datang.
-Dialogue: 0,0:07:56.02,0:07:59.50,Default,,0,0,0,,A-Apa tidak jadi masalah\Nsaya ikut perundingan ini?
-Dialogue: 0,0:07:59.93,0:08:05.21,Default,,0,0,0,,Majikanku adalah daya tempur berharga\Nyang telah berperan di penumpasan Empat Iblis.
-Dialogue: 0,0:08:05.21,0:08:06.55,Default,,0,0,0,,Berbanggalah.
-Dialogue: 0,0:08:07.20,0:08:09.97,Default,,0,0,0,,Pertama, ada tiga hal yang ingin kupastikan.
-Dialogue: 0,0:08:09.97,0:08:12.76,Default,,0,0,0,,Skema evakuasi, daya tempur desa,
-Dialogue: 0,0:08:13.07,0:08:16.52,Default,,0,0,0,,lalu tentang pengamanan batu cendekia.
-Dialogue: 0,0:08:16.80,0:08:21.34,Default,,0,0,0,,Kami sudah berlatih setiap hari\Nuntuk mengevakuasi para warga.
-Dialogue: 0,0:08:21.34,0:08:25.15,Default,,0,0,0,,Bila terjadi pengepungan,\Npersediaan makanan kami sudah cukup.
-Dialogue: 0,0:08:26.85,0:08:29.50,Default,,0,0,0,,Mengenai daya tempur desa,\Nsilakan lihat ini.
-Dialogue: 0,0:08:30.57,0:08:34.54,Default,,0,0,0,,Saya yakin kami bisa melawan dengan baik\Nwalau musuhnya kaum iblis.
-Dialogue: 0,0:08:34.93,0:08:39.16,Default,,0,0,0,,Kalau tidak salah, tadi Anda bilang\Nada prajurit dari desa lain yang bergabung.
-Dialogue: 0,0:08:39.47,0:08:42.42,Default,,0,0,0,,Benar, mereka orang-orang\Nyang berhati besar.
-Dialogue: 0,0:08:43.12,0:08:47.80,Default,,0,0,0,,Terutama Unit Wanita Amazon tempat\NGusiona berada, diisi orang-orang elite.
-Dialogue: 0,0:08:48.16,0:08:51.55,Default,,0,0,0,,Unit Wanita Amazon?\NBaru kali ini aku mendengarnya.
-Dialogue: 0,0:08:51.85,0:08:54.55,Default,,0,0,0,,Memang baru dibentuk setahun ini.
-Dialogue: 0,0:08:54.55,0:08:58.93,Default,,0,0,0,,Kaptennya yang akan kuperkenalkan\Nadalah orang yang sangat kamu kenal.
-Dialogue: 0,0:09:02.76,0:09:05.52,Default Above,,0,0,0,,Aku sudah sangat kangen denganmu, Aria.
-Dialogue: 0,0:09:06.87,0:09:08.44,Default,,0,0,0,,Ibunda?
-Dialogue: 0,0:09:08.96,0:09:10.57,Default,,0,0,0,,Ibunda majikanku?
-Dialogue: 0,0:09:10.90,0:09:13.07,Default,,0,0,0,,Apa maksudnya ini?
-Dialogue: 0,0:09:13.07,0:09:16.83,Default,,0,0,0,,Bunda yang tidak pernah\Nmemegang pedang kenapa bisa jadi kapten?
-Dialogue: 0,0:09:17.12,0:09:19.71,Default,,0,0,0,,Maaf sudah mengagetkanmu, ya.
-Dialogue: 0,0:09:20.18,0:09:24.46,Default,,0,0,0,,Itu terjadi di suatu hari\Nsetelah kepergianmu.
-Dialogue: 0,0:09:27.46,0:09:29.71,Default,,0,0,0,,Apa mungkin begini, ya?
-Dialogue: 0,0:09:35.80,0:09:39.35,Default,,0,0,0,,Wah, ternyata aku begitu kuat.
-Dialogue: 0,0:09:40.61,0:09:43.31,Default,,0,0,0,,Aku mendapat skill tempur\Nyang membuat serangan biasaku
-Dialogue: 0,0:09:43.31,0:09:46.48,Default,,0,0,0,,jadi serangan area\Nyang menyerang sebanyak dua kali.
-Dialogue: 0,0:09:46.48,0:09:52.24,Default,,0,0,0,,Serangan biasa... jadi area...\Nsebanyak dua kali?
-Dialogue: 0,0:09:52.86,0:09:56.99,Default,,0,0,0,,Diriku tidak begitu paham,\Ntapi pasti sangat kuat.
-Dialogue: 0,0:09:57.29,0:10:00.34,Default,,0,0,0,,Aria, maaf sudah mengagetkanmu.
-Dialogue: 0,0:10:00.73,0:10:02.66,Default,,0,0,0,,Jika tidak ada pertempuran yang mendekat,
-Dialogue: 0,0:10:02.66,0:10:05.50,Default,,0,0,0,,aku tidak ingin mempertemukan kalian\Nseperti ini.
-Dialogue: 0,0:10:05.50,0:10:07.81,Default,,0,0,0,,Be-Begitu rupanya.
-Dialogue: 0,0:10:10.23,0:10:11.41,Default,,0,0,0,,Majikanku.
-Dialogue: 0,0:10:18.07,0:10:21.26,Default,,0,0,0,,Masih belum selesai, ya?\NAku bosan.
-Dialogue: 0,0:10:21.26,0:10:24.31,Default,,0,0,0,,Ini rapat penting, kamu harus sabar.
-Dialogue: 0,0:10:24.31,0:10:25.77,Default,,0,0,0,,Hei, hei!
-Dialogue: 0,0:10:26.05,0:10:27.98,Default,,0,0,0,,Apa kakak berdua itu kuat?
-Dialogue: 0,0:10:27.98,0:10:30.77,Default,,0,0,0,,Kalian bisa mengalahkan kaum iblis jahat?
-Dialogue: 0,0:10:30.77,0:10:32.57,Default,,0,0,0,,Tentu saja!
-Dialogue: 0,0:10:32.57,0:10:34.03,Default,,0,0,0,,Tenang saja, meong.
-Dialogue: 0,0:10:35.53,0:10:40.66,Default,,0,0,0,,Terlebih lagi, kita punya makhluk\Nyang jauh lebih perkasa dari diriku!
-Dialogue: 0,0:10:41.79,0:10:42.66,Default,,0,0,0,,Siapa? Siapa?
-Dialogue: 0,0:10:44.04,0:10:45.00,Default,,0,0,0,,Dia—
-Dialogue: 0,0:10:45.00,0:10:46.42,Default,,0,0,0,,Tama!
-Dialogue: 0,0:10:46.42,0:10:49.42,Default,,0,0,0,,Hei, jangan mendahuluiku!
-Dialogue: 0,0:10:49.42,0:10:51.46,Default,,0,0,0,,Tama itu sangat kuat!
-Dialogue: 0,0:10:51.46,0:10:54.55,Default,,0,0,0,,Kaum iblis itu kecil buat Tama.
-Dialogue: 0,0:10:54.95,0:10:56.80,Default,,0,0,0,,Waktu itu dia keren sekali, meong.
-Dialogue: 0,0:10:57.32,0:11:00.01,Default,,0,0,0,,Tama yang berubah menjadi hewan suci.
-Dialogue: 0,0:11:00.64,0:11:02.83,Default,,0,0,0,,Makanya kalian tenang saja!
-Dialogue: 0,0:11:05.84,0:11:10.54,Default,,0,0,0,,Hanya sedikit orang desa yang tahu\Nlokasi batu cendekia berada.
-Dialogue: 0,0:11:10.96,0:11:14.94,Default,,0,0,0,,Itu alasannya kaum iblis gagal merebutnya\Ndi penyerangan terdahulu.
-Dialogue: 0,0:11:15.45,0:11:17.82,Default,,0,0,0,,Saya juga baru kali ini melihatnya.
-Dialogue: 0,0:11:17.82,0:11:20.20,Default,,0,0,0,,Disembunyikan di tempat rahasia, ya.
-Dialogue: 0,0:11:20.65,0:11:22.45,Default,,0,0,0,,Tetapi ada di mana?
-Dialogue: 0,0:11:31.21,0:11:32.21,Default,,0,0,0,,Ini...
-Dialogue: 0,0:11:33.00,0:11:35.90,Default,,0,0,0,,Pohon raksasa punya trik seperti ini?
-Dialogue: 0,0:11:36.53,0:11:38.61,Default,,0,0,0,,Kami saja yang akan masuk ke dalam.
-Dialogue: 0,0:11:39.01,0:11:40.59,Default,,0,0,0,,Kalian berjaga saja di sini.
-Dialogue: 0,0:11:40.59,0:11:41.87,Default,,0,0,0,,Baiklah.
-Dialogue: 0,0:12:12.22,0:12:13.75,Default,,0,0,0,,Gelap sekali.
-Dialogue: 0,0:12:23.26,0:12:24.47,Default,,0,0,0,,Inilah...
-Dialogue: 0,0:12:24.47,0:12:26.01,Default,,0,0,0,,Besar sekali!
-Dialogue: 0,0:12:26.49,0:12:29.01,Default,,0,0,0,,Beda level dengan pecahan\Nyang ada di labirin bawah tanah.
-Dialogue: 0,0:12:29.78,0:12:32.02,Default,,0,0,0,,Gila.
-Dialogue: 0,0:12:32.68,0:12:34.31,Default,,0,0,0,,Tolong berhati-hati.
-Dialogue: 0,0:12:40.47,0:12:43.28,Default,,0,0,0,,Batunya dilindungi oleh\Npenghalang yang kuat.
-Dialogue: 0,0:12:45.85,0:12:48.36,Default,,0,0,0,,Untuk berjaga-jaga, ya.
-Dialogue: 0,0:12:48.36,0:12:51.37,Default,,0,0,0,,Kalau perlindungannya seketat ini,
-Dialogue: 0,0:12:51.37,0:12:54.17,Default,,0,0,0,,kami bisa fokus pada pertarungan.
-Dialogue: 0,0:13:01.45,0:13:04.47,Default,,0,0,0,,Eh, jadi tante mamanya Aria?
-Dialogue: 0,0:13:04.47,0:13:06.93,Default,,0,0,0,,Anda cantik sekali.
-Dialogue: 0,0:13:06.93,0:13:08.76,Default,,0,0,0,,Aduh, kalian ini.
-Dialogue: 0,0:13:08.76,0:13:11.98,Default,,0,0,0,,Aria, mereka peri yang manis, ya.
-Dialogue: 0,0:13:11.98,0:13:12.68,Default,,0,0,0,,Iya.
-Dialogue: 0,0:13:12.68,0:13:15.23,Default,,0,0,0,,Semangka gedenya ada empat!
-Dialogue: 0,0:13:15.23,0:13:17.26,Default,,0,0,0,,Semangka tumbuh tidak jauh\Ndari pohon semangka!
-Dialogue: 0,0:13:18.23,0:13:19.86,Default,,0,0,0,,Kalian lapar, tidak?
-Dialogue: 0,0:13:19.86,0:13:22.29,Default,,0,0,0,,Oh, aku sudah keroncongan.
-Dialogue: 0,0:13:22.29,0:13:24.95,Default,,0,0,0,,Kalau begitu, biar segera kubuatkan makan.
-Dialogue: 0,0:13:24.95,0:13:26.95,Default,,0,0,0,,Biar kubantu, meong!
-Dialogue: 0,0:13:26.95,0:13:28.07,Default,,0,0,0,,Kami juga!
-Dialogue: 0,0:13:28.07,0:13:29.95,Default,,0,0,0,,Biar aku yang memanggang daging!
-Dialogue: 0,0:13:34.37,0:13:35.46,Default,,0,0,0,,Ibunda.
-Dialogue: 0,0:13:36.84,0:13:38.34,Default,,0,0,0,,Nanti aku ingin bicara.
-Dialogue: 0,0:13:39.50,0:13:40.84,Default,,0,0,0,,Majikanku?
-Dialogue: 0,0:13:41.50,0:13:42.71,Default,,0,0,0,,Benar juga.
-Dialogue: 0,0:13:43.17,0:13:45.54,Default,,0,0,0,,Ibu juga merasa harus membicarakannya.
-Dialogue: 0,0:13:49.60,0:13:53.48,Default,,0,0,0,,Sudah berapa lama kita tidak\Nmandi berdua seperti ini?
-Dialogue: 0,0:13:53.48,0:13:55.89,Default,,0,0,0,,Tama, suhu airnya bagaimana?
-Dialogue: 0,0:13:57.19,0:14:03.28,Default,,0,0,0,,Perkara Ibunda ikut ke medan perang,\Naku sebenarnya...
-Dialogue: 0,0:14:03.28,0:14:04.86,Default,,0,0,0,,Kamu khawatir, ya.
-Dialogue: 0,0:14:05.24,0:14:10.87,Default,,0,0,0,,Aku tahu kalau ini begitu egois\Ndan sekarang bukan saatnya bilang begitu.
-Dialogue: 0,0:14:11.22,0:14:13.87,Default,,0,0,0,,Tapi, kalau terjadi apa-apa...
-Dialogue: 0,0:14:14.45,0:14:17.17,Default,,0,0,0,,Ibu paham perasaanmu, Aria.
-Dialogue: 0,0:14:17.17,0:14:21.98,Default,,0,0,0,,Karena Ibu juga khawatir ketika\Nkamu pergi meninggalkan desa.
-Dialogue: 0,0:14:23.47,0:14:28.01,Default,,0,0,0,,Tapi Ibu selalu melihatmu\Nyang berjuang keras dari dekat.
-Dialogue: 0,0:14:28.59,0:14:31.14,Default,,0,0,0,,Jadi, meski begitu, Ibu ingin mendukungmu.
-Dialogue: 0,0:14:33.41,0:14:34.89,Default,,0,0,0,,Kalau diingat lagi,
-Dialogue: 0,0:14:34.89,0:14:37.77,Default,,0,0,0,,kurasa alasan Ibu mendapat skill tempur
-Dialogue: 0,0:14:37.77,0:14:42.90,Default,,0,0,0,,adalah perasaan kuat\Nuntuk melindungi tempatmu pulang
-Dialogue: 0,0:14:42.90,0:14:46.15,Default,,0,0,0,,selagi kamu berjuang keras\Ndi kota nun jauh di sana.
-Dialogue: 0,0:14:46.47,0:14:48.03,Default,,0,0,0,,Begitu rupanya.
-Dialogue: 0,0:14:48.03,0:14:50.31,Default,,0,0,0,,Sama seperti majikanku,
-Dialogue: 0,0:14:50.31,0:14:54.41,Default,,0,0,0,,ibundanya mendapat skill baru\Ndari perasaan ingin melindungi hal berharga.
-Dialogue: 0,0:14:54.77,0:14:58.75,Default,,0,0,0,,Aria, kali ini bisakah kamu mendukung Ibu?
-Dialogue: 0,0:14:58.75,0:15:00.08,Default,,0,0,0,,Aku yang mendukung Ibu?
-Dialogue: 0,0:15:00.08,0:15:01.21,Default,,0,0,0,,Iya.
-Dialogue: 0,0:15:01.21,0:15:05.61,Default,,0,0,0,,Sama seperti dirimu,\NIbu juga sudah berkembang.
-Dialogue: 0,0:15:06.08,0:15:09.93,Default,,0,0,0,,Ayo padukan kekuatan\Nuntuk melindungi desa kita.
-Dialogue: 0,0:15:10.34,0:15:11.72,Default,,0,0,0,,Ibunda...
-Dialogue: 0,0:15:12.47,0:15:16.42,Default,,0,0,0,,Tama, kamu mau bilang,\N"Aku yang akan melindungi Ibunda," ya.
-Dialogue: 0,0:15:17.26,0:15:21.44,Default,,0,0,0,,Aduh, padahal kamu begitu kecil,\Nternyata kesatria yang bisa diandalkan.
-Dialogue: 0,0:15:23.11,0:15:24.90,Default,,0,0,0,,Belaian macam apa ini?
-Dialogue: 0,0:15:24.90,0:15:26.44,Default,,0,0,0,,Sungguh menenangkan hati.
-Dialogue: 0,0:15:27.44,0:15:29.11,Default,,0,0,0,,Terima kasih, Tama.
-Dialogue: 0,0:15:29.52,0:15:31.74,Default,,0,0,0,,Berkat itu aku bisa membulatkan tekad.
-Dialogue: 0,0:15:31.74,0:15:34.95,Default,,0,0,0,,Ibunda, ayo kita lindungi Lumilus bersama!
-Dialogue: 0,0:15:35.37,0:15:36.20,Default,,0,0,0,,Iya.
-Dialogue: 0,0:15:38.98,0:15:41.58,Default,,0,0,0,,Na-Napasku...
-Dialogue: 0,0:15:41.58,0:15:45.71,Default,,0,0,0,,Se-Sebagai kesatria, diriku tidak boleh\Nnaik ke surga sebelum melindungi mereka...
-Dialogue: 0,0:15:45.71,0:15:46.84,Default,,0,0,0,,Ada apa, sih?
-Dialogue: 0,0:15:46.84,0:15:48.05,Default,,0,0,0,,Enggak kedengaran!
-Dialogue: 0,0:15:49.97,0:15:52.22,Default,,0,0,0,,Kalian kenapa?
-Dialogue: 0,0:15:53.93,0:15:57.10,Default,,0,0,0,,Habisnya gelagatmu aneh,\Njadi kami khawatir.
-Dialogue: 0,0:15:57.44,0:15:59.85,Default,,0,0,0,,Kalau kamu ada pikiran, bilang saja, lo.
-Dialogue: 0,0:16:00.35,0:16:03.23,Default,,0,0,0,,Sebagai gantinya, biarkan aku memeluk Tama!
-Dialogue: 0,0:16:03.23,0:16:07.23,Default,,0,0,0,,Wah, Aria punya teman-teman\Nyang begitu perhatian, ya.
-Dialogue: 0,0:16:07.57,0:16:08.65,Default,,0,0,0,,Iya!
-Dialogue: 0,0:16:15.03,0:16:19.25,Default,,0,0,0,,Sedikit lagi... aku bisa patroli malam\Nsambil jalan-jalan.
-Dialogue: 0,0:16:20.41,0:16:22.71,Default,,0,0,0,,Tama, jangan...
-Dialogue: 0,0:16:22.71,0:16:26.50,Default,,0,0,0,,Jangan lakukan itu dengan\Nwujud hewan sucimu...
-Dialogue: 0,0:16:26.50,0:16:30.01,Default,,0,0,0,,Ma-Majikanku?\NMimpi macam apa yang kamu lihat?
-Dialogue: 0,0:16:30.34,0:16:33.01,Default,,0,0,0,,Kira-kira dia memimpikan apa, ya?
-Dialogue: 0,0:16:35.56,0:16:38.52,Default,,0,0,0,,Ibunda, rupanya Anda terbangun?
-Dialogue: 0,0:16:38.52,0:16:39.83,Default,,0,0,0,,Tama.
-Dialogue: 0,0:16:41.17,0:16:44.22,Default,,0,0,0,,Terima kasih sudah selalu melindungi Aria.
-Dialogue: 0,0:16:45.27,0:16:49.49,Default,,0,0,0,,Surat Aria akhir-akhir ini\Nselalu menceritakan Tama.
-Dialogue: 0,0:16:49.91,0:16:54.03,Default,,0,0,0,,Dia bisa berkembang sejauh ini\Npasti berkat dirimu.
-Dialogue: 0,0:16:54.80,0:16:57.03,Default,,0,0,0,,Ungkapan yang begitu berlebihan.
-Dialogue: 0,0:16:57.03,0:16:59.29,Default,,0,0,0,,Ini semua karena kerja keras majikanku.
-Dialogue: 0,0:16:59.77,0:17:04.96,Default,,0,0,0,,Aku sebenarnya tidak enak meminta hal ini\Npadamu yang masih anakan.
-Dialogue: 0,0:17:04.96,0:17:07.29,Default,,0,0,0,,Tapi, tolong jaga dia untuk ke depannya, ya.
-Dialogue: 0,0:17:07.29,0:17:08.92,Default,,0,0,0,,Serahkan pada diriku!
-Dialogue: 0,0:17:08.92,0:17:12.55,Default,,0,0,0,,Akan kulindungi dia walau nyawaku\Nharus jadi taruhannya.
-Dialogue: 0,0:17:19.68,0:17:21.09,Default,,0,0,0,,Cukup sampai di situ.
-Dialogue: 0,0:17:22.36,0:17:25.06,Default,,0,0,0,,A-Alisha sang Pedang Suci.
-Dialogue: 0,0:17:25.73,0:17:29.57,Default,,0,0,0,,Ternyata memang ada anak buah\NVasago yang menyusup.
-Dialogue: 0,0:17:29.84,0:17:31.32,Default,,0,0,0,,Kenapa kamu bisa tahu?
-Dialogue: 0,0:17:31.77,0:17:33.82,Default,,0,0,0,,Penyamaranmu sudahlah sempurna.
-Dialogue: 0,0:17:34.08,0:17:36.32,Default,,0,0,0,,Pasti berkat Berkah Raja Iblis.
-Dialogue: 0,0:17:37.70,0:17:38.85,Default,,0,0,0,,Tetapi.
-Dialogue: 0,0:17:39.62,0:17:43.75,Default,,0,0,0,,Ada sedikit api jahat\Nyang berkobar di matamu.
-Dialogue: 0,0:17:46.84,0:17:49.59,Default,,0,0,0,,Alisha!
-Dialogue: 0,0:17:55.18,0:17:58.22,Default,,0,0,0,,Tu-Tuan Vasago...
-Dialogue: 0,0:17:58.22,0:18:00.60,Default,,0,0,0,,"Aku telah membunuh\Npenyusup dari kaum iblis."
-Dialogue: 0,0:18:01.44,0:18:03.81,Default,,0,0,0,,Biar kulaporkan seperti itu pada desa.
-Dialogue: 0,0:18:12.61,0:18:15.11,Default,,0,0,0,,Batu cendekianya...
-Dialogue: 0,0:18:28.04,0:18:30.13,Default,,0,0,0,,Kerja bagus, Gusiona.
-Dialogue: 0,0:18:31.29,0:18:34.01,Default,,0,0,0,,Waktu penyerbuan telah tiba!
-Dialogue: 0,0:18:43.89,0:18:47.02,Default,,0,0,0,,Serbuan musuh!
-Dialogue: 0,0:18:47.43,0:18:49.36,Default,,0,0,0,,Jumlahnya banyak sekali!
-Dialogue: 0,0:18:50.90,0:18:52.23,Default,,0,0,0,,Bunyi lonceng ini?
-Dialogue: 0,0:18:52.23,0:18:53.78,Default,,0,0,0,,Ibunda!
-Dialogue: 0,0:18:56.07,0:18:57.53,Default,,0,0,0,,Akhirnya datang juga!
-Dialogue: 0,0:18:58.86,0:19:00.66,Default,,0,0,0,,Ada apa?
-Dialogue: 0,0:19:00.66,0:19:02.41,Default,,0,0,0,,Kaum iblis datang menyerbu.
-Dialogue: 0,0:19:03.20,0:19:04.66,Default,,0,0,0,,Ayo berangkat.
-Dialogue: 0,0:19:10.12,0:19:11.17,Default,,0,0,0,,Serang!
-Dialogue: 0,0:19:11.17,0:19:13.63,Default,,0,0,0,,Tembak!
-Dialogue: 0,0:19:23.22,0:19:24.22,Default,,0,0,0,,Sudah datang, ya?
-Dialogue: 0,0:19:24.22,0:19:26.72,Default,,0,0,0,,Tuan Elvun tolong evakuasi warga.
-Dialogue: 0,0:19:26.72,0:19:28.02,Default,,0,0,0,,Saya mengerti.
-Dialogue: 0,0:19:31.60,0:19:34.74,Default,,0,0,0,,Tuanku, izinkan aku meminjam kekuatanmu.
-Dialogue: 0,0:19:36.03,0:19:40.24,Default,,0,0,0,,Terbukalah, Black Prison!
-Dialogue: 0,0:19:43.66,0:19:45.62,Default,,0,0,0,,Tembak!
-Dialogue: 0,0:19:53.88,0:19:56.38,Default,,0,0,0,,Jadi ini penghalang elemen kegelapan?
-Dialogue: 0,0:19:56.38,0:19:57.71,Default,,0,0,0,,Serangannya...
-Dialogue: 0,0:19:57.71,0:19:59.05,Default,,0,0,0,,menghilang begitu saja!
-Dialogue: 0,0:19:59.05,0:20:00.38,Default,,0,0,0,,Itu berkat Alisha!
-Dialogue: 0,0:20:00.38,0:20:02.39,Default,,0,0,0,,Sang Pedang Suci memang hebat.
-Dialogue: 0,0:20:03.05,0:20:05.39,Default,,0,0,0,,Bisa membuat penghalang sebesar ini\Nseorang diri.
-Dialogue: 0,0:20:05.79,0:20:07.14,Default,,0,0,0,,Pejuang sekalian!
-Dialogue: 0,0:20:07.14,0:20:09.00,Default,,0,0,0,,Perang penentuan telah tiba.
-Dialogue: 0,0:20:09.37,0:20:14.15,Default,,0,0,0,,Nasib Lumilus, bukan, tapi nasib dunia\Ndipertaruhkan dalam peperangan ini!
-Dialogue: 0,0:20:14.15,0:20:18.15,Default,,0,0,0,,Bagaimanapun kita harus menghentikan\Nserbuan kaum iblis!
-Dialogue: 0,0:20:18.60,0:20:22.16,Default,,0,0,0,,Lalu, ayo kita raih asa dan hari esok!
-Dialogue: 0,0:20:22.49,0:20:24.16,Default,,0,0,0,,Ya!
-Dialogue: 0,0:20:24.16,0:20:26.91,Default,,0,0,0,,Serbu!
-Dialogue: 0,0:20:32.46,0:20:33.92,Default,,0,0,0,,Padahal cuma tersentuh?
-Dialogue: 0,0:20:33.92,0:20:35.92,Default,,0,0,0,,Jangan gentar.
-Dialogue: 0,0:20:35.92,0:20:38.93,Default,,0,0,0,,Kalau cuma monster, tinggal dipasok lagi.
-Dialogue: 0,0:20:38.93,0:20:40.92,Default,,0,0,0,,Maju!
-Dialogue: 0,0:20:43.34,0:20:48.43,Default,,0,0,0,,Aku akan terus menyalakan Black Prison\Nagar kerusakannya seminimal mungkin.
-Dialogue: 0,0:20:48.97,0:20:51.68,Default,,0,0,0,,Tolong kalian tangani para penjajah itu.
-Dialogue: 0,0:20:52.06,0:20:54.44,Default,,0,0,0,,Regu penjaga tiap gerbang maju ke depan!
-Dialogue: 0,0:20:57.86,0:20:59.19,Default,,0,0,0,,Itu isyarat untuk maju!
-Dialogue: 0,0:21:00.32,0:21:04.49,Default,,0,0,0,,Padahal aku sudah menunggu-nunggu\Nuntuk bertarung bersama ayangku.
-Dialogue: 0,0:21:04.49,0:21:06.95,Default,,0,0,0,,Kapten Cedric pasti segera datang.
-Dialogue: 0,0:21:09.96,0:21:11.83,Default,,0,0,0,,Leo, ayo maju.
-Dialogue: 0,0:21:13.00,0:21:15.46,Default,,0,0,0,,Aria, waktunya telah tiba.
-Dialogue: 0,0:21:16.21,0:21:19.31,Default,,0,0,0,,Ibunda, semoga dirimu selamat.
-Dialogue: 0,0:21:20.00,0:21:21.71,Default,,0,0,0,,Berkah Raja Singa!
-Dialogue: 0,0:21:23.38,0:21:25.22,Default,,0,0,0,,Terima kasih, Tama!
-Dialogue: 0,0:21:28.05,0:21:29.47,Default,,0,0,0,,Tanganku sudah gatal rasanya!
-Dialogue: 0,0:21:29.47,0:21:31.39,Default,,0,0,0,,Sudah tidak ada pilihan lagi!
-Dialogue: 0,0:21:31.39,0:21:33.23,Default,,0,0,0,,Ayo kita lindungi desanya!
-Dialogue: 0,0:21:33.61,0:21:35.98,Default,,0,0,0,,Tama, teman-teman, ayo maju!
-Dialogue: 0,0:23:25.84,0:23:27.35,Default Above,,0,0,0,,Setelah peperangan ini selesai,
-Dialogue: 0,0:23:27.35,0:23:29.67,Default Above,,0,0,0,,aku mau mengenalkan Tama pada penduduk desa!
-Dialogue: 0,0:23:29.67,0:23:32.01,Default Above,,0,0,0,,Dia kesatriaku dan di masa depan—
-Dialogue: 0,0:23:32.76,0:23:35.80,Default Above,,0,0,0,,Kalau memang itu calon pilihanmu,\NIbu akan mendukung.
-Dialogue: 0,0:23:35.80,0:23:37.14,Default Above,,0,0,0,,Iya, Ibunda.
-Dialogue: 0,0:23:37.14,0:23:39.10,Default Above,,0,0,0,,Barusan ibunya kasih lampu hijau?
+Dialogue: 0,0:01:24.35,0:01:30.73,5-normal,,0,0,0,,{\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(960,660)}Resepsionis Serikat dan Mantan Petualang Rank B
+Dialogue: 0,0:01:24.35,0:01:30.73,5-normal,,0,0,0,,{\fs80\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(960,715)}Arnold Holzweilzenegger
+Dialogue: 0,0:02:28.54,0:02:31.54,4-normal,,0,0,0,,{\move(186,179,169,169,24,2985)\fs70\b1\c&H3C3776&\3c&HFFFFFF&\bord3}Aku Adalah {\c&HA3A115&}"{\c&H1B16BE&}Behemoth{\c&HA3A115&}", Monster Rank-S,
+Dialogue: 0,0:02:28.54,0:02:31.54,4-normal,,0,0,0,,{\move(186,239,169,229,24,2985)\fs70\b1\c&H3C3776&\3c&HFFFFFF&\bord3\c&H3C3776&}Tapi Malah Dikira {\c&H1B16BE&}Kucing {\c&H3C3776&}dan Kini Hidup Sebagai {\c&HA3A115&}Peliharaan Kesatria Elf Wanita
+Dialogue: 0,0:03:39.32,0:03:41.49,5-normal,,0,0,0,,{\pos(790,705)\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)}Desa Elf
+Dialogue: 0,0:03:39.32,0:03:41.49,5-normal,,0,0,0,,{\fs75\b1\bord0\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1066,779)}Lumilus
+Dialogue: 0,0:04:15.94,0:04:21.53,5-normal,,0,0,0,,{\pos(850,705)\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)}Kepala Desa Lumilus
+Dialogue: 0,0:04:15.94,0:04:21.53,5-normal,,0,0,0,,{\fs80\b1\bord0\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1144,783)}Elvun
+Dialogue: 0,0:05:04.78,0:05:08.32,5-normal,,0,0,0,,{\pos(820,705)\fs65\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)}Pasukan Wanita Amazon
+Dialogue: 0,0:05:04.78,0:05:08.32,5-normal,,0,0,0,,{\fs80\b1\bord0\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1118,777)}Gusiona
+Dialogue: 0,0:06:19.60,0:06:25.40,5-normal,,0,0,0,,{\fs70\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(415,794)}Elemental Cat, Leo
+Dialogue: 0,0:06:22.73,0:06:25.40,5-normal,,0,0,0,,{\fs70\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(1525,600)}Ordo Kesatria Lumilus, Fione
+Dialogue: 0,0:09:05.19,0:09:07.56,5-normal,,0,0,0,,{\fs80\b1\bord3\c&H3A3C50&\3c&HC3D2DF&\fad(500,0)\pos(960,692)}Kapten Unit Wanita Amazon, Leona
+Dialogue: 0,0:11:50.98,0:11:55.98,5-normal,,0,0,0,,{\fs80\bord2.5\b1\c&H253D4D&\\3c&HCEEEF3&\pos(1393.6,140)}Batu Cendekia
+Dialogue: 0,0:11:50.98,0:11:55.98,6-normal,,0,0,0,,{\fs60\bord2.5\b1\c&H1A3748&\3c&HCEEEF3&\pos(1806,630)}Benda Magis yang Bisa Membuat Penghalang Istimewa.\NMonster Rank A ke Bawah Tidak akan Bisa\NMendekati Penghalang Tersebut.
+Dialogue: 0,0:23:25.92,0:23:40.93,5-normal,,0,0,0,,{\fs75\bord4\c&H9E9E01&\b1\3c&HFFFFFF&\pos(195.6,51.6)}Selanjutnya
+Dialogue: 0,0:23:25.92,0:23:40.93,5-normal,,0,0,0,,{\pos(960,715)\fs75\b1\bord4\c&H0600C0&\3c&HFFFFFF&}Episode 12
+Dialogue: 0,0:23:25.92,0:23:40.93,5-normal,,0,0,0,,{\pos(960,1035)\fs75\b1\bord4\c&H010069&\3c&HFFFFFF&}Pedang Suci dan Hewan Suci
+Dialogue: 0,0:00:10.07,0:00:12.28,Default,,0,0,0,,Cari batu cendekianya!
+Dialogue: 0,0:00:12.28,0:00:14.99,Default,,0,0,0,,Yang melawan jangan diberi ampun!
+Dialogue: 0,0:00:14.99,0:00:17.00,Default,,0,0,0,,Berpencar ke tiga arah!
+Dialogue: 0,0:00:19.25,0:00:21.50,Default,,0,0,0,,Batu cendekianya ada di mana?
+Dialogue: 0,0:00:38.64,0:00:40.19,Default,,0,0,0,,Elemental Cat?
+Dialogue: 0,0:00:41.95,0:00:44.08,Default,,0,0,0,,Bukan tandingan kami!
+Dialogue: 0,0:00:51.52,0:00:53.45,Default,,0,0,0,,Sekarang sudah tidak apa-apa.
+Dialogue: 0,0:01:03.79,0:01:06.41,Default,,0,0,0,,Lumilus akan kembali menjadi medan perang.
+Dialogue: 0,0:01:06.98,0:01:09.71,Default,,0,0,0,,Majikanku, kamu pasti sangat khawatir.
+Dialogue: 0,0:01:11.15,0:01:14.47,Default,,0,0,0,,Tama, kamu ingin menghiburku, ya.
+Dialogue: 0,0:01:14.47,0:01:17.18,Default,,0,0,0,,Jangan bersedih, Aria!
+Dialogue: 0,0:01:17.18,0:01:20.16,Default,,0,0,0,,Diriku, maksudku, kami ada\Ndi sini bersamamu.
+Dialogue: 0,0:01:21.20,0:01:22.85,Default,,0,0,0,,Ada aku juga, lo.
+Dialogue: 0,0:01:24.31,0:01:26.48,Default Above,,0,0,0,,Kalau memakai jubah ini,
+Dialogue: 0,0:01:26.48,0:01:28.88,Default Above,,0,0,0,,jadi teringat kembali kenanganku
+Dialogue: 0,0:01:28.88,0:01:30.74,Default Above,,0,0,0,,saat disebut sebagai "Anna si Ratu Es".
+Dialogue: 0,0:01:32.66,0:01:34.33,Default,,0,0,0,,Kembali dari pensiun?
+Dialogue: 0,0:01:34.33,0:01:37.06,Default,,0,0,0,,Bukannya cuma pengin\Nketemu sama Kapten Cedric?
+Dialogue: 0,0:01:37.06,0:01:39.87,Default,,0,0,0,,Aduh, itu juga, sih.
+Dialogue: 0,0:01:40.64,0:01:44.92,Default,,0,0,0,,Aria, kamu sudah bukan gadis penakut lagi.
+Dialogue: 0,0:01:45.37,0:01:46.50,Default,,0,0,0,,Nona Alisha.
+Dialogue: 0,0:01:46.79,0:01:49.00,Default,,0,0,0,,Kamu juga mendapat skill baru, ya?
+Dialogue: 0,0:01:49.00,0:01:51.39,Default,,0,0,0,,Iya, skill bernama Excalibur.
+Dialogue: 0,0:01:51.39,0:01:55.51,Default,,0,0,0,,Sekarang giliranmu menolong semuanya\Ndengan kekuatan itu.
+Dialogue: 0,0:01:56.00,0:01:56.93,Default,,0,0,0,,Baik!
+Dialogue: 0,0:03:50.33,0:03:52.96,Default,,0,0,0,,Jadi ini kampung halaman Aria, meong.
+Dialogue: 0,0:03:52.96,0:03:54.96,Default,,0,0,0,,Pohonnya gede banget!
+Dialogue: 0,0:03:54.96,0:03:58.01,Default,,0,0,0,,Aku merasakan kekuatan yang tidak biasa.
+Dialogue: 0,0:03:58.55,0:04:00.36,Default,,0,0,0,,Itu adalah Pohon Raksasa.
+Dialogue: 0,0:04:00.36,0:04:04.51,Default,,0,0,0,,Pohon itu sudah lama menjaga desa ini\Nbahkan sejak aku belum lahir.
+Dialogue: 0,0:04:06.76,0:04:07.85,Default,,0,0,0,,Bisa dimakan enggak?
+Dialogue: 0,0:04:07.85,0:04:09.02,Default,,0,0,0,,Hentikan.
+Dialogue: 0,0:04:16.86,0:04:18.88,Default Above,,0,0,0,,Selamat datang.
+Dialogue: 0,0:04:19.32,0:04:21.53,Default Above,,0,0,0,,Kehadiran Anda sekalian\Nsungguh memberi rasa tenang.
+Dialogue: 0,0:04:21.88,0:04:23.41,Default,,0,0,0,,Terima kasih atas sambutannya.
+Dialogue: 0,0:04:23.99,0:04:27.08,Default,,0,0,0,,Aria, syukurlah kamu sehat-sehat saja.
+Dialogue: 0,0:04:27.08,0:04:28.66,Default,,0,0,0,,Aku sudah mendengar prestasimu.
+Dialogue: 0,0:04:29.20,0:04:31.75,Default,,0,0,0,,Berlebihan sekali kalau disebut prestasi.
+Dialogue: 0,0:04:31.75,0:04:33.92,Default,,0,0,0,,Kepala Desa juga terlihat sehat.
+Dialogue: 0,0:04:34.25,0:04:36.38,Default,,0,0,0,,Beliau adalah Tuan Elvun.
+Dialogue: 0,0:04:36.38,0:04:38.92,Default,,0,0,0,,Kudengar sudah cukup berumur,\Ntapi terlihat muda sekali.
+Dialogue: 0,0:04:39.88,0:04:46.68,Default,,0,0,0,,Bagi sang Pedang Suci Alisha yang telah\Nmenyelamatkan desa dari serangan iblis,
+Dialogue: 0,0:04:46.68,0:04:48.68,Default,,0,0,0,,sekali lagi, saya ucapkan terima kasih.
+Dialogue: 0,0:04:50.43,0:04:52.62,Default,,0,0,0,,Tolong angkat kepala kalian.
+Dialogue: 0,0:04:52.99,0:04:57.07,Default,,0,0,0,,Saya lihat formasi pertahanannya\Nsudah diperkuat semenjak kejadian itu.
+Dialogue: 0,0:04:57.37,0:05:00.82,Default,,0,0,0,,Benar, ada beberapa prajurit\Ndari desa lain yang ikut bergabung.
+Dialogue: 0,0:05:03.36,0:05:05.99,Default Above,,0,0,0,,Batu cendekia adalah harta mulia kaum elf.
+Dialogue: 0,0:05:05.99,0:05:08.33,Default Above,,0,0,0,,Tidak boleh direbut kaum iblis.
+Dialogue: 0,0:05:08.83,0:05:13.58,Default,,0,0,0,,Pantas saja aku merasa ada orang asing,\Nternyata begitu ceritanya.
+Dialogue: 0,0:05:14.83,0:05:16.08,Default,,0,0,0,,Ada apa, Stella?
+Dialogue: 0,0:05:16.08,0:05:18.54,Default,,0,0,0,,Dia orang yang lumayan perkasa.
+Dialogue: 0,0:05:18.54,0:05:19.84,Default,,0,0,0,,Oh, begitu.
+Dialogue: 0,0:05:20.46,0:05:22.58,Default,,0,0,0,,Kalau begitu, silakan masuk.
+Dialogue: 0,0:05:33.46,0:05:35.44,Default,,0,0,0,,Sang Pedang Suci!
+Dialogue: 0,0:05:36.10,0:05:38.36,Default,,0,0,0,,Selamat datang kembali, Neng Aria!
+Dialogue: 0,0:05:38.36,0:05:39.32,Default,,0,0,0,,Iya.
+Dialogue: 0,0:05:39.69,0:05:42.57,Default,,0,0,0,,Tama, aku lega semuanya masih sehat.
+Dialogue: 0,0:05:42.57,0:05:44.86,Default,,0,0,0,,Nanti biar kukenalkan\Nke ibundaku juga, ya.
+Dialogue: 0,0:05:46.41,0:05:48.62,Default,,0,0,0,,Ibunya pasti sangat cantik.
+Dialogue: 0,0:05:49.83,0:05:51.79,Default,,0,0,0,,Di dalam juga banyak tanaman hijau!
+Dialogue: 0,0:05:51.79,0:05:53.79,Default,,0,0,0,,Rasanya jadi tenang!
+Dialogue: 0,0:05:53.79,0:05:55.92,Default,,0,0,0,,Hei, mau menjelajah sebentar, enggak?
+Dialogue: 0,0:05:55.92,0:05:58.38,Default,,0,0,0,,Sepertinya menarik!
+Dialogue: 0,0:06:01.00,0:06:03.55,Default,,0,0,0,,Eh, Lily dan Feri mana?
+Dialogue: 0,0:06:03.55,0:06:04.88,Default,,0,0,0,,Oh, iya.
+Dialogue: 0,0:06:07.88,0:06:11.01,Default,,0,0,0,,Feri, sepertinya asyik\Nkalau main petak umpet di sini!
+Dialogue: 0,0:06:11.01,0:06:12.39,Default,,0,0,0,,Iya, ya!
+Dialogue: 0,0:06:12.39,0:06:14.39,Default,,0,0,0,,Kalian berdua, berhenti!
+Dialogue: 0,0:06:25.65,0:06:28.03,Default,,0,0,0,,Oh, aku belum pernah melihat kalian.
+Dialogue: 0,0:06:28.03,0:06:29.62,Default,,0,0,0,,Kalian datang dari mana?
+Dialogue: 0,0:06:29.62,0:06:31.10,Default,,0,0,0,,Hm...
+Dialogue: 0,0:06:31.63,0:06:33.79,Default,,0,0,0,,Dari tempat yang sangat jauh!
+Dialogue: 0,0:06:33.79,0:06:35.16,Default,,0,0,0,,Kami sedang menjelajah!
+Dialogue: 0,0:06:36.24,0:06:37.81,Default,,0,0,0,,Ketemu juga!
+Dialogue: 0,0:06:38.46,0:06:40.42,Default,,0,0,0,,Eh, Fione?
+Dialogue: 0,0:06:40.77,0:06:42.55,Default,,0,0,0,,Lo, ternyata Aria?
+Dialogue: 0,0:06:44.59,0:06:46.80,Default,,0,0,0,,Sudah lama sekali kita tidak bertemu.
+Dialogue: 0,0:06:47.09,0:06:49.62,Default,,0,0,0,,Iya, iya, kamu sudah jadi besar, ya.
+Dialogue: 0,0:06:50.19,0:06:51.91,Default,,0,0,0,,Kalau kalian...
+Dialogue: 0,0:06:52.31,0:06:54.06,Default,,0,0,0,,Mereka teman-temanku.
+Dialogue: 0,0:06:54.06,0:06:55.81,Default,,0,0,0,,Salam kenal, meong.
+Dialogue: 0,0:06:56.09,0:06:58.56,Default,,0,0,0,,Aduh, kalian ini, tiba-tiba menghilang.
+Dialogue: 0,0:06:58.56,0:07:00.26,Default,,0,0,0,,Enggak boleh, tahu!
+Dialogue: 0,0:07:00.26,0:07:02.19,Default,,0,0,0,,Maafkan kami.
+Dialogue: 0,0:07:02.95,0:07:06.37,Default,,0,0,0,,Yang terpenting, perkaranya tidak jadi be—
+Dialogue: 0,0:07:09.74,0:07:11.20,Default,,0,0,0,,Eh, ada apa ini?
+Dialogue: 0,0:07:14.95,0:07:16.29,Default,,0,0,0,,Eh, tidak mungkin!
+Dialogue: 0,0:07:16.29,0:07:19.21,Default,,0,0,0,,Leo yang angkuh itu\Nmau menunjukkan perutnya?
+Dialogue: 0,0:07:19.96,0:07:21.21,Default,,0,0,0,,Leo?
+Dialogue: 0,0:07:21.58,0:07:25.71,Default,,0,0,0,,Jangan bilang dirimu adalah kucing\Nyang telah menyelamatkan majikanku?
+Dialogue: 0,0:07:26.52,0:07:28.87,Default,,0,0,0,,Kalau begitu, diriku harus berterima kasih!
+Dialogue: 0,0:07:33.18,0:07:35.60,Default,,0,0,0,,Wah, Tama dan Leo, ini kan...
+Dialogue: 0,0:07:35.60,0:07:36.97,Default,,0,0,0,,Mereka akrab sekali.
+Dialogue: 0,0:07:37.48,0:07:41.94,Default,,0,0,0,,Langsung diakui Tama saat baru bertemu,\Nboleh juga dia!
+Dialogue: 0,0:07:41.94,0:07:43.48,Default,,0,0,0,,Aku juga mau ikut!
+Dialogue: 0,0:07:43.77,0:07:47.24,Default,,0,0,0,,Tubuhnya besar dan bulunya lembut!
+Dialogue: 0,0:07:52.17,0:07:56.74,Default,,0,0,0,,Langsung saja kita bahas mengenai\Npertempuran pertahanan yang akan datang.
+Dialogue: 0,0:07:57.02,0:08:00.50,Default,,0,0,0,,A-Apa tidak jadi masalah\Nsaya ikut perundingan ini?
+Dialogue: 0,0:08:00.93,0:08:06.21,Default,,0,0,0,,Majikanku adalah daya tempur berharga\Nyang telah berperan di penumpasan Empat Iblis.
+Dialogue: 0,0:08:06.21,0:08:07.55,Default,,0,0,0,,Berbanggalah.
+Dialogue: 0,0:08:08.20,0:08:10.97,Default,,0,0,0,,Pertama, ada tiga hal yang ingin kupastikan.
+Dialogue: 0,0:08:10.97,0:08:13.76,Default,,0,0,0,,Skema evakuasi, daya tempur desa,
+Dialogue: 0,0:08:14.07,0:08:17.52,Default,,0,0,0,,lalu tentang pengamanan batu cendekia.
+Dialogue: 0,0:08:17.80,0:08:22.34,Default,,0,0,0,,Kami sudah berlatih setiap hari\Nuntuk mengevakuasi para warga.
+Dialogue: 0,0:08:22.34,0:08:26.15,Default,,0,0,0,,Bila terjadi pengepungan,\Npersediaan makanan kami sudah cukup.
+Dialogue: 0,0:08:27.85,0:08:30.50,Default,,0,0,0,,Mengenai daya tempur desa,\Nsilakan lihat ini.
+Dialogue: 0,0:08:31.57,0:08:35.54,Default,,0,0,0,,Saya yakin kami bisa melawan dengan baik\Nwalau musuhnya kaum iblis.
+Dialogue: 0,0:08:35.93,0:08:40.16,Default,,0,0,0,,Kalau tidak salah, tadi Anda bilang\Nada prajurit dari desa lain yang bergabung.
+Dialogue: 0,0:08:40.47,0:08:43.42,Default,,0,0,0,,Benar, mereka orang-orang\Nyang berhati besar.
+Dialogue: 0,0:08:44.12,0:08:48.80,Default,,0,0,0,,Terutama Unit Wanita Amazon tempat\NGusiona berada, diisi orang-orang elite.
+Dialogue: 0,0:08:49.16,0:08:52.55,Default,,0,0,0,,Unit Wanita Amazon?\NBaru kali ini aku mendengarnya.
+Dialogue: 0,0:08:52.85,0:08:55.55,Default,,0,0,0,,Memang baru dibentuk setahun ini.
+Dialogue: 0,0:08:55.55,0:08:59.93,Default,,0,0,0,,Kaptennya yang akan kuperkenalkan\Nadalah orang yang sangat kamu kenal.
+Dialogue: 0,0:09:03.76,0:09:06.52,Default Above,,0,0,0,,Aku sudah sangat kangen denganmu, Aria.
+Dialogue: 0,0:09:07.87,0:09:09.44,Default,,0,0,0,,Ibunda?
+Dialogue: 0,0:09:09.96,0:09:11.57,Default,,0,0,0,,Ibunda majikanku?
+Dialogue: 0,0:09:11.90,0:09:14.07,Default,,0,0,0,,Apa maksudnya ini?
+Dialogue: 0,0:09:14.07,0:09:17.83,Default,,0,0,0,,Bunda yang tidak pernah\Nmemegang pedang kenapa bisa jadi kapten?
+Dialogue: 0,0:09:18.12,0:09:20.71,Default,,0,0,0,,Maaf sudah mengagetkanmu, ya.
+Dialogue: 0,0:09:21.18,0:09:25.46,Default,,0,0,0,,Itu terjadi di suatu hari\Nsetelah kepergianmu.
+Dialogue: 0,0:09:28.46,0:09:30.71,Default,,0,0,0,,Apa mungkin begini, ya?
+Dialogue: 0,0:09:36.80,0:09:40.35,Default,,0,0,0,,Wah, ternyata aku begitu kuat.
+Dialogue: 0,0:09:41.61,0:09:44.31,Default,,0,0,0,,Aku mendapat skill tempur\Nyang membuat serangan biasaku
+Dialogue: 0,0:09:44.31,0:09:47.48,Default,,0,0,0,,jadi serangan area\Nyang menyerang sebanyak dua kali.
+Dialogue: 0,0:09:47.48,0:09:53.24,Default,,0,0,0,,Serangan biasa... jadi area...\Nsebanyak dua kali?
+Dialogue: 0,0:09:53.86,0:09:57.99,Default,,0,0,0,,Diriku tidak begitu paham,\Ntapi pasti sangat kuat.
+Dialogue: 0,0:09:58.29,0:10:01.34,Default,,0,0,0,,Aria, maaf sudah mengagetkanmu.
+Dialogue: 0,0:10:01.73,0:10:03.66,Default,,0,0,0,,Jika tidak ada pertempuran yang mendekat,
+Dialogue: 0,0:10:03.66,0:10:06.50,Default,,0,0,0,,aku tidak ingin mempertemukan kalian\Nseperti ini.
+Dialogue: 0,0:10:06.50,0:10:08.81,Default,,0,0,0,,Be-Begitu rupanya.
+Dialogue: 0,0:10:11.23,0:10:12.41,Default,,0,0,0,,Majikanku.
+Dialogue: 0,0:10:19.07,0:10:22.26,Default,,0,0,0,,Masih belum selesai, ya?\NAku bosan.
+Dialogue: 0,0:10:22.26,0:10:25.31,Default,,0,0,0,,Ini rapat penting, kamu harus sabar.
+Dialogue: 0,0:10:25.31,0:10:26.77,Default,,0,0,0,,Hei, hei!
+Dialogue: 0,0:10:27.05,0:10:28.98,Default,,0,0,0,,Apa kakak berdua itu kuat?
+Dialogue: 0,0:10:28.98,0:10:31.77,Default,,0,0,0,,Kalian bisa mengalahkan kaum iblis jahat?
+Dialogue: 0,0:10:31.77,0:10:33.57,Default,,0,0,0,,Tentu saja!
+Dialogue: 0,0:10:33.57,0:10:35.03,Default,,0,0,0,,Tenang saja, meong.
+Dialogue: 0,0:10:36.53,0:10:41.66,Default,,0,0,0,,Terlebih lagi, kita punya makhluk\Nyang jauh lebih perkasa dari diriku!
+Dialogue: 0,0:10:42.79,0:10:43.66,Default,,0,0,0,,Siapa? Siapa?
+Dialogue: 0,0:10:45.04,0:10:46.00,Default,,0,0,0,,Dia—
+Dialogue: 0,0:10:46.00,0:10:47.42,Default,,0,0,0,,Tama!
+Dialogue: 0,0:10:47.42,0:10:50.42,Default,,0,0,0,,Hei, jangan mendahuluiku!
+Dialogue: 0,0:10:50.42,0:10:52.46,Default,,0,0,0,,Tama itu sangat kuat!
+Dialogue: 0,0:10:52.46,0:10:55.55,Default,,0,0,0,,Kaum iblis itu kecil buat Tama.
+Dialogue: 0,0:10:55.95,0:10:57.80,Default,,0,0,0,,Waktu itu dia keren sekali, meong.
+Dialogue: 0,0:10:58.32,0:11:01.01,Default,,0,0,0,,Tama yang berubah menjadi hewan suci.
+Dialogue: 0,0:11:01.64,0:11:03.83,Default,,0,0,0,,Makanya kalian tenang saja!
+Dialogue: 0,0:11:06.84,0:11:11.54,Default,,0,0,0,,Hanya sedikit orang desa yang tahu\Nlokasi batu cendekia berada.
+Dialogue: 0,0:11:11.96,0:11:15.94,Default,,0,0,0,,Itu alasannya kaum iblis gagal merebutnya\Ndi penyerangan terdahulu.
+Dialogue: 0,0:11:16.45,0:11:18.82,Default,,0,0,0,,Saya juga baru kali ini melihatnya.
+Dialogue: 0,0:11:18.82,0:11:21.20,Default,,0,0,0,,Disembunyikan di tempat rahasia, ya.
+Dialogue: 0,0:11:21.65,0:11:23.45,Default,,0,0,0,,Tetapi ada di mana?
+Dialogue: 0,0:11:32.21,0:11:33.21,Default,,0,0,0,,Ini...
+Dialogue: 0,0:11:34.00,0:11:36.90,Default,,0,0,0,,Pohon raksasa punya trik seperti ini?
+Dialogue: 0,0:11:37.53,0:11:39.61,Default,,0,0,0,,Kami saja yang akan masuk ke dalam.
+Dialogue: 0,0:11:40.01,0:11:41.59,Default,,0,0,0,,Kalian berjaga saja di sini.
+Dialogue: 0,0:11:41.59,0:11:42.87,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:12:13.22,0:12:14.75,Default,,0,0,0,,Gelap sekali.
+Dialogue: 0,0:12:24.26,0:12:25.47,Default,,0,0,0,,Inilah...
+Dialogue: 0,0:12:25.47,0:12:27.01,Default,,0,0,0,,Besar sekali!
+Dialogue: 0,0:12:27.49,0:12:30.01,Default,,0,0,0,,Beda level dengan pecahan\Nyang ada di labirin bawah tanah.
+Dialogue: 0,0:12:30.78,0:12:33.02,Default,,0,0,0,,Gila.
+Dialogue: 0,0:12:33.68,0:12:35.31,Default,,0,0,0,,Tolong berhati-hati.
+Dialogue: 0,0:12:41.47,0:12:44.28,Default,,0,0,0,,Batunya dilindungi oleh\Npenghalang yang kuat.
+Dialogue: 0,0:12:46.85,0:12:49.36,Default,,0,0,0,,Untuk berjaga-jaga, ya.
+Dialogue: 0,0:12:49.36,0:12:52.37,Default,,0,0,0,,Kalau perlindungannya seketat ini,
+Dialogue: 0,0:12:52.37,0:12:55.17,Default,,0,0,0,,kami bisa fokus pada pertarungan.
+Dialogue: 0,0:13:02.45,0:13:05.47,Default,,0,0,0,,Eh, jadi tante mamanya Aria?
+Dialogue: 0,0:13:05.47,0:13:07.93,Default,,0,0,0,,Anda cantik sekali.
+Dialogue: 0,0:13:07.93,0:13:09.76,Default,,0,0,0,,Aduh, kalian ini.
+Dialogue: 0,0:13:09.76,0:13:12.98,Default,,0,0,0,,Aria, mereka peri yang manis, ya.
+Dialogue: 0,0:13:12.98,0:13:13.68,Default,,0,0,0,,Iya.
+Dialogue: 0,0:13:13.68,0:13:16.23,Default,,0,0,0,,Semangka gedenya ada empat!
+Dialogue: 0,0:13:16.23,0:13:18.26,Default,,0,0,0,,Semangka tumbuh tidak jauh\Ndari pohon semangka!
+Dialogue: 0,0:13:19.23,0:13:20.86,Default,,0,0,0,,Kalian lapar, tidak?
+Dialogue: 0,0:13:20.86,0:13:23.29,Default,,0,0,0,,Oh, aku sudah keroncongan.
+Dialogue: 0,0:13:23.29,0:13:25.95,Default,,0,0,0,,Kalau begitu, biar segera kubuatkan makan.
+Dialogue: 0,0:13:25.95,0:13:27.95,Default,,0,0,0,,Biar kubantu, meong!
+Dialogue: 0,0:13:27.95,0:13:29.07,Default,,0,0,0,,Kami juga!
+Dialogue: 0,0:13:29.07,0:13:30.95,Default,,0,0,0,,Biar aku yang memanggang daging!
+Dialogue: 0,0:13:35.37,0:13:36.46,Default,,0,0,0,,Ibunda.
+Dialogue: 0,0:13:37.84,0:13:39.34,Default,,0,0,0,,Nanti aku ingin bicara.
+Dialogue: 0,0:13:40.50,0:13:41.84,Default,,0,0,0,,Majikanku?
+Dialogue: 0,0:13:42.50,0:13:43.71,Default,,0,0,0,,Benar juga.
+Dialogue: 0,0:13:44.17,0:13:46.54,Default,,0,0,0,,Ibu juga merasa harus membicarakannya.
+Dialogue: 0,0:13:50.60,0:13:54.48,Default,,0,0,0,,Sudah berapa lama kita tidak\Nmandi berdua seperti ini?
+Dialogue: 0,0:13:54.48,0:13:56.89,Default,,0,0,0,,Tama, suhu airnya bagaimana?
+Dialogue: 0,0:13:58.19,0:14:04.28,Default,,0,0,0,,Perkara Ibunda ikut ke medan perang,\Naku sebenarnya...
+Dialogue: 0,0:14:04.28,0:14:05.86,Default,,0,0,0,,Kamu khawatir, ya.
+Dialogue: 0,0:14:06.24,0:14:11.87,Default,,0,0,0,,Aku tahu kalau ini begitu egois\Ndan sekarang bukan saatnya bilang begitu.
+Dialogue: 0,0:14:12.22,0:14:14.87,Default,,0,0,0,,Tapi, kalau terjadi apa-apa...
+Dialogue: 0,0:14:15.45,0:14:18.17,Default,,0,0,0,,Ibu paham perasaanmu, Aria.
+Dialogue: 0,0:14:18.17,0:14:22.98,Default,,0,0,0,,Karena Ibu juga khawatir ketika\Nkamu pergi meninggalkan desa.
+Dialogue: 0,0:14:24.47,0:14:29.01,Default,,0,0,0,,Tapi Ibu selalu melihatmu\Nyang berjuang keras dari dekat.
+Dialogue: 0,0:14:29.59,0:14:32.14,Default,,0,0,0,,Jadi, meski begitu, Ibu ingin mendukungmu.
+Dialogue: 0,0:14:34.41,0:14:35.89,Default,,0,0,0,,Kalau diingat lagi,
+Dialogue: 0,0:14:35.89,0:14:38.77,Default,,0,0,0,,kurasa alasan Ibu mendapat skill tempur
+Dialogue: 0,0:14:38.77,0:14:43.90,Default,,0,0,0,,adalah perasaan kuat\Nuntuk melindungi tempatmu pulang
+Dialogue: 0,0:14:43.90,0:14:47.15,Default,,0,0,0,,selagi kamu berjuang keras\Ndi kota nun jauh di sana.
+Dialogue: 0,0:14:47.47,0:14:49.03,Default,,0,0,0,,Begitu rupanya.
+Dialogue: 0,0:14:49.03,0:14:51.31,Default,,0,0,0,,Sama seperti majikanku,
+Dialogue: 0,0:14:51.31,0:14:55.41,Default,,0,0,0,,ibundanya mendapat skill baru\Ndari perasaan ingin melindungi hal berharga.
+Dialogue: 0,0:14:55.77,0:14:59.75,Default,,0,0,0,,Aria, kali ini bisakah kamu mendukung Ibu?
+Dialogue: 0,0:14:59.75,0:15:01.08,Default,,0,0,0,,Aku yang mendukung Ibu?
+Dialogue: 0,0:15:01.08,0:15:02.21,Default,,0,0,0,,Iya.
+Dialogue: 0,0:15:02.21,0:15:06.61,Default,,0,0,0,,Sama seperti dirimu,\NIbu juga sudah berkembang.
+Dialogue: 0,0:15:07.08,0:15:10.93,Default,,0,0,0,,Ayo padukan kekuatan\Nuntuk melindungi desa kita.
+Dialogue: 0,0:15:11.34,0:15:12.72,Default,,0,0,0,,Ibunda...
+Dialogue: 0,0:15:13.47,0:15:17.42,Default,,0,0,0,,Tama, kamu mau bilang,\N"Aku yang akan melindungi Ibunda," ya.
+Dialogue: 0,0:15:18.26,0:15:22.44,Default,,0,0,0,,Aduh, padahal kamu begitu kecil,\Nternyata kesatria yang bisa diandalkan.
+Dialogue: 0,0:15:24.11,0:15:25.90,Default,,0,0,0,,Belaian macam apa ini?
+Dialogue: 0,0:15:25.90,0:15:27.44,Default,,0,0,0,,Sungguh menenangkan hati.
+Dialogue: 0,0:15:28.44,0:15:30.11,Default,,0,0,0,,Terima kasih, Tama.
+Dialogue: 0,0:15:30.52,0:15:32.74,Default,,0,0,0,,Berkat itu aku bisa membulatkan tekad.
+Dialogue: 0,0:15:32.74,0:15:35.95,Default,,0,0,0,,Ibunda, ayo kita lindungi Lumilus bersama!
+Dialogue: 0,0:15:36.37,0:15:37.20,Default,,0,0,0,,Iya.
+Dialogue: 0,0:15:39.98,0:15:42.58,Default,,0,0,0,,Na-Napasku...
+Dialogue: 0,0:15:42.58,0:15:46.71,Default,,0,0,0,,Se-Sebagai kesatria, diriku tidak boleh\Nnaik ke surga sebelum melindungi mereka...
+Dialogue: 0,0:15:46.71,0:15:47.84,Default,,0,0,0,,Ada apa, sih?
+Dialogue: 0,0:15:47.84,0:15:49.05,Default,,0,0,0,,Enggak kedengaran!
+Dialogue: 0,0:15:50.97,0:15:53.22,Default,,0,0,0,,Kalian kenapa?
+Dialogue: 0,0:15:54.93,0:15:58.10,Default,,0,0,0,,Habisnya gelagatmu aneh,\Njadi kami khawatir.
+Dialogue: 0,0:15:58.44,0:16:00.85,Default,,0,0,0,,Kalau kamu ada pikiran, bilang saja, lo.
+Dialogue: 0,0:16:01.35,0:16:04.23,Default,,0,0,0,,Sebagai gantinya, biarkan aku memeluk Tama!
+Dialogue: 0,0:16:04.23,0:16:08.23,Default,,0,0,0,,Wah, Aria punya teman-teman\Nyang begitu perhatian, ya.
+Dialogue: 0,0:16:08.57,0:16:09.65,Default,,0,0,0,,Iya!
+Dialogue: 0,0:16:16.03,0:16:20.25,Default,,0,0,0,,Sedikit lagi... aku bisa patroli malam\Nsambil jalan-jalan.
+Dialogue: 0,0:16:21.41,0:16:23.71,Default,,0,0,0,,Tama, jangan...
+Dialogue: 0,0:16:23.71,0:16:27.50,Default,,0,0,0,,Jangan lakukan itu dengan\Nwujud hewan sucimu...
+Dialogue: 0,0:16:27.50,0:16:31.01,Default,,0,0,0,,Ma-Majikanku?\NMimpi macam apa yang kamu lihat?
+Dialogue: 0,0:16:31.34,0:16:34.01,Default,,0,0,0,,Kira-kira dia memimpikan apa, ya?
+Dialogue: 0,0:16:36.56,0:16:39.52,Default,,0,0,0,,Ibunda, rupanya Anda terbangun?
+Dialogue: 0,0:16:39.52,0:16:40.83,Default,,0,0,0,,Tama.
+Dialogue: 0,0:16:42.17,0:16:45.22,Default,,0,0,0,,Terima kasih sudah selalu melindungi Aria.
+Dialogue: 0,0:16:46.27,0:16:50.49,Default,,0,0,0,,Surat Aria akhir-akhir ini\Nselalu menceritakan Tama.
+Dialogue: 0,0:16:50.91,0:16:55.03,Default,,0,0,0,,Dia bisa berkembang sejauh ini\Npasti berkat dirimu.
+Dialogue: 0,0:16:55.80,0:16:58.03,Default,,0,0,0,,Ungkapan yang begitu berlebihan.
+Dialogue: 0,0:16:58.03,0:17:00.29,Default,,0,0,0,,Ini semua karena kerja keras majikanku.
+Dialogue: 0,0:17:00.77,0:17:05.96,Default,,0,0,0,,Aku sebenarnya tidak enak meminta hal ini\Npadamu yang masih anakan.
+Dialogue: 0,0:17:05.96,0:17:08.29,Default,,0,0,0,,Tapi, tolong jaga dia untuk ke depannya, ya.
+Dialogue: 0,0:17:08.29,0:17:09.92,Default,,0,0,0,,Serahkan pada diriku!
+Dialogue: 0,0:17:09.92,0:17:13.55,Default,,0,0,0,,Akan kulindungi dia walau nyawaku\Nharus jadi taruhannya.
+Dialogue: 0,0:17:20.68,0:17:22.09,Default,,0,0,0,,Cukup sampai di situ.
+Dialogue: 0,0:17:23.36,0:17:26.06,Default,,0,0,0,,A-Alisha sang Pedang Suci.
+Dialogue: 0,0:17:26.73,0:17:30.57,Default,,0,0,0,,Ternyata memang ada anak buah\NVasago yang menyusup.
+Dialogue: 0,0:17:30.84,0:17:32.32,Default,,0,0,0,,Kenapa kamu bisa tahu?
+Dialogue: 0,0:17:32.77,0:17:34.82,Default,,0,0,0,,Penyamaranmu sudahlah sempurna.
+Dialogue: 0,0:17:35.08,0:17:37.32,Default,,0,0,0,,Pasti berkat Berkah Raja Iblis.
+Dialogue: 0,0:17:38.70,0:17:39.85,Default,,0,0,0,,Tetapi.
+Dialogue: 0,0:17:40.62,0:17:44.75,Default,,0,0,0,,Ada sedikit api jahat\Nyang berkobar di matamu.
+Dialogue: 0,0:17:47.84,0:17:50.59,Default,,0,0,0,,Alisha!
+Dialogue: 0,0:17:56.18,0:17:59.22,Default,,0,0,0,,Tu-Tuan Vasago...
+Dialogue: 0,0:17:59.22,0:18:01.60,Default,,0,0,0,,"Aku telah membunuh\Npenyusup dari kaum iblis."
+Dialogue: 0,0:18:02.44,0:18:04.81,Default,,0,0,0,,Biar kulaporkan seperti itu pada desa.
+Dialogue: 0,0:18:13.61,0:18:16.11,Default,,0,0,0,,Batu cendekianya...
+Dialogue: 0,0:18:29.04,0:18:31.13,Default,,0,0,0,,Kerja bagus, Gusiona.
+Dialogue: 0,0:18:32.29,0:18:35.01,Default,,0,0,0,,Waktu penyerbuan telah tiba!
+Dialogue: 0,0:18:44.89,0:18:48.02,Default,,0,0,0,,Serbuan musuh!
+Dialogue: 0,0:18:48.43,0:18:50.36,Default,,0,0,0,,Jumlahnya banyak sekali!
+Dialogue: 0,0:18:51.90,0:18:53.23,Default,,0,0,0,,Bunyi lonceng ini?
+Dialogue: 0,0:18:53.23,0:18:54.78,Default,,0,0,0,,Ibunda!
+Dialogue: 0,0:18:57.07,0:18:58.53,Default,,0,0,0,,Akhirnya datang juga!
+Dialogue: 0,0:18:59.86,0:19:01.66,Default,,0,0,0,,Ada apa?
+Dialogue: 0,0:19:01.66,0:19:03.41,Default,,0,0,0,,Kaum iblis datang menyerbu.
+Dialogue: 0,0:19:04.20,0:19:05.66,Default,,0,0,0,,Ayo berangkat.
+Dialogue: 0,0:19:11.12,0:19:12.17,Default,,0,0,0,,Serang!
+Dialogue: 0,0:19:12.17,0:19:14.63,Default,,0,0,0,,Tembak!
+Dialogue: 0,0:19:24.22,0:19:25.22,Default,,0,0,0,,Sudah datang, ya?
+Dialogue: 0,0:19:25.22,0:19:27.72,Default,,0,0,0,,Tuan Elvun tolong evakuasi warga.
+Dialogue: 0,0:19:27.72,0:19:29.02,Default,,0,0,0,,Saya mengerti.
+Dialogue: 0,0:19:32.60,0:19:35.74,Default,,0,0,0,,Tuanku, izinkan aku meminjam kekuatanmu.
+Dialogue: 0,0:19:37.03,0:19:41.24,Default,,0,0,0,,Terbukalah, Black Prison!
+Dialogue: 0,0:19:44.66,0:19:46.62,Default,,0,0,0,,Tembak!
+Dialogue: 0,0:19:54.88,0:19:57.38,Default,,0,0,0,,Jadi ini penghalang elemen kegelapan?
+Dialogue: 0,0:19:57.38,0:19:58.71,Default,,0,0,0,,Serangannya...
+Dialogue: 0,0:19:58.71,0:20:00.05,Default,,0,0,0,,menghilang begitu saja!
+Dialogue: 0,0:20:00.05,0:20:01.38,Default,,0,0,0,,Itu berkat Alisha!
+Dialogue: 0,0:20:01.38,0:20:03.39,Default,,0,0,0,,Sang Pedang Suci memang hebat.
+Dialogue: 0,0:20:04.05,0:20:06.39,Default,,0,0,0,,Bisa membuat penghalang sebesar ini\Nseorang diri.
+Dialogue: 0,0:20:06.79,0:20:08.14,Default,,0,0,0,,Pejuang sekalian!
+Dialogue: 0,0:20:08.14,0:20:10.00,Default,,0,0,0,,Perang penentuan telah tiba.
+Dialogue: 0,0:20:10.37,0:20:15.15,Default,,0,0,0,,Nasib Lumilus, bukan, tapi nasib dunia\Ndipertaruhkan dalam peperangan ini!
+Dialogue: 0,0:20:15.15,0:20:19.15,Default,,0,0,0,,Bagaimanapun kita harus menghentikan\Nserbuan kaum iblis!
+Dialogue: 0,0:20:19.60,0:20:23.16,Default,,0,0,0,,Lalu, ayo kita raih asa dan hari esok!
+Dialogue: 0,0:20:23.49,0:20:25.16,Default,,0,0,0,,Ya!
+Dialogue: 0,0:20:25.16,0:20:27.91,Default,,0,0,0,,Serbu!
+Dialogue: 0,0:20:33.46,0:20:34.92,Default,,0,0,0,,Padahal cuma tersentuh?
+Dialogue: 0,0:20:34.92,0:20:36.92,Default,,0,0,0,,Jangan gentar.
+Dialogue: 0,0:20:36.92,0:20:39.93,Default,,0,0,0,,Kalau cuma monster, tinggal dipasok lagi.
+Dialogue: 0,0:20:39.93,0:20:41.92,Default,,0,0,0,,Maju!
+Dialogue: 0,0:20:44.34,0:20:49.43,Default,,0,0,0,,Aku akan terus menyalakan Black Prison\Nagar kerusakannya seminimal mungkin.
+Dialogue: 0,0:20:49.97,0:20:52.68,Default,,0,0,0,,Tolong kalian tangani para penjajah itu.
+Dialogue: 0,0:20:53.06,0:20:55.44,Default,,0,0,0,,Regu penjaga tiap gerbang maju ke depan!
+Dialogue: 0,0:20:58.86,0:21:00.19,Default,,0,0,0,,Itu isyarat untuk maju!
+Dialogue: 0,0:21:01.32,0:21:05.49,Default,,0,0,0,,Padahal aku sudah menunggu-nunggu\Nuntuk bertarung bersama ayangku.
+Dialogue: 0,0:21:05.49,0:21:07.95,Default,,0,0,0,,Kapten Cedric pasti segera datang.
+Dialogue: 0,0:21:10.96,0:21:12.83,Default,,0,0,0,,Leo, ayo maju.
+Dialogue: 0,0:21:14.00,0:21:16.46,Default,,0,0,0,,Aria, waktunya telah tiba.
+Dialogue: 0,0:21:17.21,0:21:20.31,Default,,0,0,0,,Ibunda, semoga dirimu selamat.
+Dialogue: 0,0:21:21.00,0:21:22.71,Default,,0,0,0,,Berkah Raja Singa!
+Dialogue: 0,0:21:24.38,0:21:26.22,Default,,0,0,0,,Terima kasih, Tama!
+Dialogue: 0,0:21:29.05,0:21:30.47,Default,,0,0,0,,Tanganku sudah gatal rasanya!
+Dialogue: 0,0:21:30.47,0:21:32.39,Default,,0,0,0,,Sudah tidak ada pilihan lagi!
+Dialogue: 0,0:21:32.39,0:21:34.23,Default,,0,0,0,,Ayo kita lindungi desanya!
+Dialogue: 0,0:21:34.61,0:21:36.98,Default,,0,0,0,,Tama, teman-teman, ayo maju!
+Dialogue: 0,0:23:26.84,0:23:28.35,Default Above,,0,0,0,,Setelah peperangan ini selesai,
+Dialogue: 0,0:23:28.35,0:23:30.67,Default Above,,0,0,0,,aku mau mengenalkan Tama pada penduduk desa!
+Dialogue: 0,0:23:30.67,0:23:33.01,Default Above,,0,0,0,,Dia kesatriaku dan di masa depan—
+Dialogue: 0,0:23:33.76,0:23:36.80,Default Above,,0,0,0,,Kalau memang itu calon pilihanmu,\NIbu akan mendukung.
+Dialogue: 0,0:23:36.80,0:23:38.14,Default Above,,0,0,0,,Iya, Ibunda.
+Dialogue: 0,0:23:38.14,0:23:40.10,Default Above,,0,0,0,,Barusan ibunya kasih lampu hijau?
