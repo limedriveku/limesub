@@ -11,7 +11,7 @@ WrapStyle: 2
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Last Style Storage: kingreborn
+Last Style Storage: in_the_beningging_after_end
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +27,7 @@ Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:05:18.13,0:05:24.42,tanda-4,,0,0,0,,{\fad(800,900)\fs80\bord3\blur0\3c&HFFFFFF&\c&H000000&\pos(1005,876)}#1 Sang {\c&H138BC6&}Raja, {\c&H0E0903&}Meng{\c&H138BC6&}ulang {\c&H0E0903&}Ke{\c&H138BC6&}hidup{\c&H0E0903&}an.
+Dialogue: 0,0:05:18.13,0:05:24.42,tanda-4,,0,0,0,,{\fad(800,900)\fs80\bord3\blur0\3c&HFFFFFF&\c&H000000&\pos(1005,876)}#1  Sang {\c&H138BC6&}Raja, {\c&H0E0903&}Meng{\c&H138BC6&}ulang {\c&H0E0903&}Ke{\c&H138BC6&}hidup{\c&H0E0903&}an.
 Dialogue: 10,0:00:47.81,0:00:49.01,dialog,,0,0,0,,Aku...
 Dialogue: 10,0:00:55.58,0:00:57.05,dialog,,0,0,0,,menjadi seorang raja.
 Dialogue: 10,0:01:40.58,0:01:42.65,dialog,,0,0,0,,Raja yang paling kuat.
