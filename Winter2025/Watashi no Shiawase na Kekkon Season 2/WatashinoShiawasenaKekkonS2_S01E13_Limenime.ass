@@ -11,14 +11,9 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/Mekatik/Downloads/My.Happy.Marriage.S02E13.Once.Spring.Has.Come.1080p.NF.WEB-DL.JPN.AAC2.0.H.264-ToonsHub.mkv
-Video File: C:/Users/Mekatik/Downloads/My.Happy.Marriage.S02E13.Once.Spring.Has.Come.1080p.NF.WEB-DL.JPN.AAC2.0.H.264-ToonsHub.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 114
+Video Zoom Percent: 0.250000
+Scroll Position: 258
 Active Line: 269
-Video Position: 36607
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,301 +31,301 @@ Style: Dialog,Basic Comical NC,70,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.80,0:00:16.78,Dialog,,0,0,0,,{‎(美世(みよ))‎お母様の‎想(おも)‎いを伝えるべく}Saya mencoba menyampaikan\Nperasaan Ibunda ...
-Dialogue: 0,0:00:16.78,0:00:21.33,Dialog,,0,0,0,,... dan membujuk Usui Naoshi ...
-Dialogue: 0,0:00:21.37,0:00:24.43,Dialog,,0,0,0,,{‎それは そう簡単なものではなく...}... namun tak mudah dilakukan.
-Dialogue: 0,0:00:24.44,0:00:28.81,Dialog,,0,0,0,,{‎結局 届けたかった想いは\N‎届かぬまま}Pada akhirnya perasaanku tak didengarkan.
-Dialogue: 0,0:00:28.82,0:00:36.97,Dialog,,0,0,0,,{‎甘水 直は\N‎新(あらた)‎さんが放った銃弾によって}Usui Naoshi kehilangan nyawa \Nsetelah ditembak Tuan Arata.
-Dialogue: 0,0:00:38.41,0:00:41.95,Dialog,,0,0,0,,{‎五道(ごどう)‎さん率いる対異特殊部隊も}Pasukan yang dipimpin Tuan Godou ...
-Dialogue: 0,0:00:41.95,0:00:46.21,Dialog,,0,0,0,,{‎異能‎心教(しんきょう)‎に制圧されていた\N‎陸軍本部を取り戻し}...  telah menangkap Sekte Semahan ...
-Dialogue: 0,0:00:46.21,0:00:47.96,Dialog,,0,0,0,,{‎帝(みかど)‎を救出したことで}... dan Baginda telah diamankan.
-Dialogue: 0,0:00:48.79,0:00:53.13,Dialog,,0,0,0,,{‎一連の事件は\N‎ようやく幕引きとなったのでした}Dengan ini, \Nkasus resmi ditutup.
-Dialogue: 0,0:00:55.76,0:01:00.95,Dialog,,0,0,0,,{‎そうして\N‎何事もなかったかのように戻る⸺}Keesokannya kembali damai\Nseakan tak ada kejadian.
-Dialogue: 0,0:01:01.29,0:01:07.88,Dialog,,0,0,0,,{‎旦那様との穏やかな時間を}Kedamaian di sisi Suami berasa sebelah pihak.
-Dialogue: 0,0:01:07.90,0:01:15.88,Dialog,,0,0,0,,{‎私の胸の内では}Di dalam hati aku merasa ada kegelapan.
-Dialogue: 0,0:02:53.42,0:02:55.34,Dialog,,0,0,0,,{‎(大海渡(おおかいと))どういうことだ?}Apa maksudnya ini?
-Dialogue: 0,0:02:55.34,0:02:57.75,Dialog,,0,0,0,,{‎(清霞(きよか))書いてあるとおりです}Sesuai yang tertulis di situ.
-Dialogue: 0,0:02:57.76,0:02:59.59,Dialog,,0,0,0,,{‎(大海渡)理由を聞かせてくれ}Kasih tahu alasannya.
-Dialogue: 0,0:03:00.03,0:03:05.12,Dialog,,0,0,0,,{‎(清霞)私の\N‎対異特殊部隊隊長としての務めは}Saya merasa tak pantas\Nsebagai Komandan Anti Dedemit.
-Dialogue: 0,0:03:05.49,0:03:07.12,Dialog,,0,0,0,,{‎(大海渡)後任はどうなる?\N‎お前以外に隊長が務まるとは思えん}Penggantinya siapa?
-Dialogue: 0,0:03:07.37,0:03:10.23,Dialog,,0,0,0,,Tak ada yang terlintas di pikiranku.
-Dialogue: 0,0:03:10.50,0:03:13.10,Dialog,,0,0,0,,{‎後任ならば すでにおります}Kalau pengganti, \Nsudah saya siapkan.
-Dialogue: 0,0:03:14.40,0:03:15.61,Dialog,,0,0,0,,{‎五道です}Godou.
-Dialogue: 0,0:03:17.40,0:03:20.99,Dialog,,0,0,0,,{‎彼は 私がおらずとも\N‎隊の士気を保ち}Dia bergerak tanpa instruksiku ...
-Dialogue: 0,0:03:20.99,0:03:22.65,Dialog,,0,0,0,,{‎部隊を率いて}... dan memimpin pasukan.
-Dialogue: 0,0:03:22.66,0:03:25.99,Dialog,,0,0,0,,{‎見事 異能心教の手から\N‎帝を助け出した}Sampai menyelamatkan Baginda.
-Dialogue: 0,0:03:26.26,0:03:29.50,Dialog,,0,0,0,,{‎五道にならば あとを任せられます}Kalau itu Godou ...\Nsaya siap melepas jabatan.
-Dialogue: 0,0:03:32.79,0:03:34.62,Dialog,,0,0,0,,{‎お前の気持ちは分かった}Aku paham perasaanmu.
-Dialogue: 0,0:03:35.06,0:03:37.59,Dialog,,0,0,0,,{‎しかし 簡単に受理はできん}Tapi tak langsung kujawab.
-Dialogue: 0,0:03:38.71,0:03:40.13,Dialog,,0,0,0,,{‎時間をくれ}Beri aku waktu.
-Dialogue: 0,0:03:41.59,0:03:43.18,Dialog,,0,0,0,,{‎(美世)どうぞ}Silakan.
-Dialogue: 0,0:03:43.84,0:03:46.14,Dialog,,0,0,0,,{‎(新)ありがとうございます}Terima kasih.
-Dialogue: 0,0:03:46.14,0:03:47.60,Dialog,,0,0,0,,{新さん}Tuan Arata!
-Dialogue: 0,0:03:47.60,0:03:50.27,Dialog,,0,0,0,,{昨日より\N調子がよさそうですね}Kondisimu terlihat lebih baik.
-Dialogue: 0,0:03:50.54,0:03:51.64,Dialog,,0,0,0,,{ええ}Ya.
-Dialogue: 0,0:03:51.64,0:03:56.75,Dialog,,0,0,0,,{しかし 美世が\Nこうして見舞いに来て}Tapi, Miyo datang menjenguk \Ndan mengupas jeruk.
-Dialogue: 0,0:03:57.04,0:04:00.21,Dialog,,0,0,0,,Dirawat di rumah sakit boleh juga.
-Dialogue: 0,0:04:07.62,0:04:08.83,Dialog,,0,0,0,,{‎あの...}Anu ....
-Dialogue: 0,0:04:09.41,0:04:11.77,Dialog,,0,0,0,,{‎1つ聞いてもいいでしょうか}Boleh bertanya?
-Dialogue: 0,0:04:12.71,0:04:20.15,Dialog,,0,0,0,,{‎新さんは\N‎最初から甘水 直を撃つつもりで}Tuan Arata sejak awal masuk\NSekte Semahan ingin membunuh Usui?
-Dialogue: 0,0:04:22.51,0:04:26.68,Dialog,,0,0,0,,{‎美世には\N‎話しておかなければいけないですね}Miyo perlu mengetahui ini.
-Dialogue: 0,0:04:27.30,0:04:32.71,Dialog,,0,0,0,,{‎事の始まりは}Pemicunya dari ucapan Tuan Takaihito.
-Dialogue: 0,0:04:33.54,0:04:35.69,Dialog,,0,0,0,,{‎“厄災が来る”と}Katanya bencana akan datang.
-Dialogue: 0,0:04:36.90,0:04:40.23,Dialog,,0,0,0,,{‎甘水 直の名を聞いた時は\N‎驚きましたよ}Saya terkejut setelah\Ndengar nama Usui Naoshi.
-Dialogue: 0,0:04:40.23,0:04:44.19,Dialog,,0,0,0,,{‎ヤツは まさに\N‎“厄災”そのものだった}Dia bagaikan bencana itu sendiri.
-Dialogue: 0,0:04:44.20,0:04:49.43,Dialog,,0,0,0,,{‎甘水は 帝を倒して}Usui ingin mengalahkan Baginda\Nagar bisa berdiri di puncak.
-Dialogue: 0,0:04:49.45,0:04:53.08,Dialog,,0,0,0,,{‎薄刃の異能者が\N‎帝国で一番強いと信じ}Dia percaya kekuatan Usuba yang paling kuat.
-Dialogue: 0,0:04:53.66,0:04:57.48,Dialog,,0,0,0,,{‎薄刃を離れても}Tapi dia tak kesampaian memisah\Nkeluarga Usuba dari Baginda.
-Dialogue: 0,0:04:59.04,0:05:03.46,Dialog,,0,0,0,,{‎甘水は俺に\N‎自分自身を重ねていました}Usui menyamakan kehidupannya dengan diriku.
-Dialogue: 0,0:05:03.46,0:05:06.47,Dialog,,0,0,0,,{‎そして ある日 勧誘されたんです}Lalu aku direkrut.
-Dialogue: 0,0:05:07.14,0:05:12.70,Dialog,,0,0,0,,{‎薄刃の孤独も}Seharusnya kebenaran kekuata\Nasli Usuba hanya diketahui Usuba.
-Dialogue: 0,0:05:13.56,0:05:19.09,Dialog,,0,0,0,,{‎薄刃に連なる者ならば}Tapi ilusinya memperlihatkan kebeneran Usuba.
-Dialogue: 0,0:05:19.38,0:05:22.57,Dialog,,0,0,0,,{‎俺を誘えば\N‎ついてくると思ったんでしょう}Dia mencoba mengajakku\Nmelalui hasutannya.
-Dialogue: 0,0:05:23.57,0:05:30.47,Dialog,,0,0,0,,{‎まさか味方になったと見せかけて}Tak disangka dia tak sadar\Naku berpura-pura ikut rencananya.
-Dialogue: 0,0:05:31.28,0:05:35.12,Dialog,,0,0,0,,{‎気付かれたら その時はその時と\N‎覚悟はしていました}Jika ketahuan aku sudah siapkan tekat ...
-Dialogue: 0,0:05:35.96,0:05:38.25,Dialog,,0,0,0,,{‎薄刃として甘水を討つ}... sebagai Usuba untuk menembak Usui.
-Dialogue: 0,0:05:38.25,0:05:39.96,Dialog,,0,0,0,,{‎ただそのために...}Hanya demi itu.
-Dialogue: 0,0:05:39.96,0:05:41.13,Dialog,,0,0,0,,{‎(美世)新さん...}Tuan Arata ....
-Dialogue: 0,0:05:42.67,0:05:48.49,Dialog,,0,0,0,,{‎(新)美世}Miyo, perihal Tuan Kudou terluka.\NAku minta maaf.
-Dialogue: 0,0:05:48.51,0:05:53.33,Dialog,,0,0,0,,{‎そんなことをすれば}Padahal aku tahu jika lakuin itu, \NMiyo pasti sedih.
-Dialogue: 0,0:05:54.31,0:05:55.77,Dialog,,0,0,0,,{‎(美世)はい...}Ya.
-Dialogue: 0,0:05:56.48,0:06:00.31,Dialog,,0,0,0,,{‎つらかったです\N‎悲しかったです}Rasanya berat dan sedih.
-Dialogue: 0,0:06:00.98,0:06:05.36,Dialog,,0,0,0,,{‎もう二度と\N‎あんな思いはしたくありません...}Aku tak ingin mengalami perasan itu lagi.
-Dialogue: 0,0:06:10.70,0:06:13.16,Dialog,,0,0,0,,{‎どうしても考えてしまうんです}Saya terus terpikirkan.
-Dialogue: 0,0:06:13.99,0:06:18.85,Dialog,,0,0,0,,{‎あの人が生きて}Jika ia selamat\Napa akan menebus dosa?
-Dialogue: 0,0:06:20.00,0:06:23.54,Dialog,,0,0,0,,{‎せっかく夢見の異能が\N‎覚醒したというのに}Padahal mumpung kekuatan bangkit.
-Dialogue: 0,0:06:24.50,0:06:29.70,Dialog,,0,0,0,,{‎私は結局 甘水 直の心を}Tapi aku tetap tak bisa mengubah perasaannya.
-Dialogue: 0,0:06:31.09,0:06:34.80,Dialog,,0,0,0,,{‎すみません 取りとめのないことを}Maaf sudah banyak bicara.
-Dialogue: 0,0:06:37.52,0:06:38.68,Dialog,,0,0,0,,{‎(清霞)美世}Miyo!
-Dialogue: 0,0:06:39.25,0:06:40.44,Dialog,,0,0,0,,{‎(美世)旦那様}Suamiku.
-Dialogue: 0,0:06:40.44,0:06:42.44,Dialog,,0,0,0,,{‎これはこれは 久堂さん}Wah, ada Tuan Kudou.
-Dialogue: 0,0:06:42.44,0:06:44.81,Dialog,,0,0,0,,{‎もしかして 俺の見舞いに?}Jangan-jangan menjengukku?
-Dialogue: 0,0:06:44.82,0:06:48.82,Dialog,,0,0,0,,{‎勘違いするな\N‎美世を迎えに来ただけだ}Jangan salah paham.\NAku hanya menjemput Miyo.
-Dialogue: 0,0:06:50.36,0:06:54.35,Dialog,,0,0,0,,{‎ごめんなさい 新さん}Maaf, Tuan Arata.\NSaya izin pamit.
-Dialogue: 0,0:06:55.79,0:06:58.54,Dialog,,0,0,0,,{‎お二人は これからデヱトですか?}Kalian mau pergi kencan?
-Dialogue: 0,0:06:59.71,0:07:00.71,Dialog,,0,0,0,,{‎はい}Ya.
-Dialogue: 0,0:07:02.83,0:07:04.67,Dialog,,0,0,0,,{‎(清霞)では 失礼する}Dah, kami permisi.
-Dialogue: 0,0:07:04.67,0:07:07.21,Dialog,,0,0,0,,{‎(美世)新さん また来ますね}Tuan Arata,\Nsaya akan datang lagi.
-Dialogue: 0,0:07:09.01,0:07:11.22,Dialog,,0,0,0,,{‎ええ また}Ya, sampai ketemu lagi.
-Dialogue: 0,0:07:12.59,0:07:15.91,Dialog,,0,0,0,,{‎(葉月(はづき))だから}Dibilang kuning motif mawar ....
-Dialogue: 0,0:07:15.93,0:07:17.72,Dialog,,0,0,0,,{‎これで何がいけないの?}Kurang apanya?
-Dialogue: 0,0:07:17.72,0:07:20.93,Dialog,,0,0,0,,{‎(芙由(ふゆ))色打掛なんて古くさくてよ}Kuning tuh ketinggalan jaman.
-Dialogue: 0,0:07:20.94,0:07:22.54,Dialog,,0,0,0,,{‎式は白無垢\N‎あとはドレスでいいじゃない}Putih polos lebih cocok.
-Dialogue: 0,0:07:22.54,0:07:24.48,Dialog,,0,0,0,,Sisanya menyesuaikan gaun.
-Dialogue: 0,0:07:24.48,0:07:29.72,Dialog,,0,0,0,,{‎久堂家の結婚式として}Sebagai calon keluarga Kudou,\Njangan sampai terlihat memalukan.
-Dialogue: 0,0:07:29.88,0:07:33.32,Dialog,,0,0,0,,{‎(葉月)あのねえ\N‎これは美世ちゃんの結婚式なのよ?}Aduhai.\NIni tuh resepsi pernikahan Neng Miyo.
-Dialogue: 0,0:07:33.32,0:07:36.68,Dialog,,0,0,0,,{‎(芙由)いいえ\N‎これは久堂家当主の結婚式よ!}Bukan.\NIni tuh resepsi pernikahan keluarga Kudou.
-Dialogue: 0,0:07:37.10,0:07:41.19,Dialog,,0,0,0,,{‎(芙由・葉月)ゆり江は黙ってて!}Kalian berdua\Ntolong jangan terlalu berisik.
-Dialogue: 0,0:07:41.23,0:07:42.81,Dialog,,0,0,0,,Yurie diam saja.
-Dialogue: 0,0:07:41.23,0:07:42.81,Dialog,,0,0,0,,{\an8}Mbok Yurie diam saja.
-Dialogue: 0,0:07:45.02,0:07:48.34,Dialog,,0,0,0,,{‎(葉月)ハァ... お母様ったら\N‎本当に分からず屋なんだから}Mama nih memang susah diajak diskusi.
-Dialogue: 0,0:07:48.34,0:07:50.55,Dialog,,0,0,0,,{‎ごめんなさいねえ 美世ちゃん}Maaf, ya, Neng Miyo.
-Dialogue: 0,0:07:50.55,0:07:53.88,Dialog,,0,0,0,,{‎せっかく今日は\N‎衣装の確認がしたくて呼んだのに...}Padahal hari ini bahannya sudah jadi.
-Dialogue: 0,0:07:53.88,0:07:55.14,Dialog,,0,0,0,,{‎いえ}Tidak masalah.
-Dialogue: 0,0:07:55.14,0:07:58.89,Dialog,,0,0,0,,{‎わざわざお時間を作っていただいて\N‎ありがとうございます}Terima kasih meluangkan waktu hari ini.
-Dialogue: 0,0:07:59.37,0:08:04.63,Dialog,,0,0,0,,{‎色打掛とかドレスとか}Soal riasan atau model gaun, \Nmasih banyak yang perlu dipersiapkan.
-Dialogue: 0,0:08:04.65,0:08:07.44,Dialog,,0,0,0,,{‎まず 今日\N‎見てもらいたいものがあってね}Aku ingin kamu melihat barangnya.
-Dialogue: 0,0:08:07.44,0:08:08.98,Dialog,,0,0,0,,{‎桂子(けいこ)‎さん?}Mbok Keiko!
-Dialogue: 0,0:08:08.98,0:08:11.40,Dialog,,0,0,0,,{‎(桂子)は~い ただ今}Baik, segera datang.
-Dialogue: 0,0:08:12.95,0:08:17.41,Dialog,,0,0,0,,{‎お待たせいたしました\N‎ご準備 整いましたよ}Maaf menunggu.\NPesanan Anda telah siap.
-Dialogue: 0,0:08:27.92,0:08:29.42,Dialog,,0,0,0,,{‎キレイ...}Indah ....
-Dialogue: 0,0:08:29.53,0:08:36.37,Dialog,,0,0,0,,Itu model ketika Mama dipinang oleh Papa.
-Dialogue: 0,0:08:36.89,0:08:39.68,Dialog,,0,0,0,,{‎そんな大切なものを私に?}Sesuatu yang berharga ini untukku?
-Dialogue: 0,0:08:39.83,0:08:41.31,Dialog,,0,0,0,,{‎そうよ}Tentu.
-Dialogue: 0,0:08:41.31,0:08:44.85,Dialog,,0,0,0,,{‎美世ちゃん\N‎あなたに受け継いでもらいたいの}Neng Miyo, kami ingin kamu mewarisinya.
-Dialogue: 0,0:08:44.85,0:08:46.44,Dialog,,0,0,0,,{‎イヤじゃないかしら?}Tak keberatan?
-Dialogue: 0,0:08:48.73,0:08:51.94,Dialog,,0,0,0,,{‎イヤなわけ... ありません}Mana mungkin keberatan.
-Dialogue: 0,0:09:02.04,0:09:03.25,Dialog,,0,0,0,,{‎美世?}Miyo?
-Dialogue: 0,0:09:03.79,0:09:06.85,Dialog,,0,0,0,,{‎(美世)ごめんなさい}Maaf, saking senangnya ....
-Dialogue: 0,0:09:07.96,0:09:09.86,Dialog,,0,0,0,,{‎私のお母様が\N‎斎森(さいもり)‎家に嫁ぐ時に着た衣装は}Kenangan gaun Ibunda ...
-Dialogue: 0,0:09:09.86,0:09:15.49,Dialog,,0,0,0,,... saat menjadi keluarga Saimori sudah tak ada.
-Dialogue: 0,0:09:15.91,0:09:22.66,Dialog,,0,0,0,,{‎だから 私が\N‎誰かから何かを受け継ぐことなんて}Jadi saya merasa tak mungkin \Ndapat warisan dari seseorang.
-Dialogue: 0,0:09:22.68,0:09:24.48,Dialog,,0,0,0,,{‎美世ちゃん...}Miyo ....
-Dialogue: 0,0:09:26.44,0:09:32.34,Dialog,,0,0,0,,{‎(芙由)まったく}Duh, gaun doang.\NJangan merengek gitu.
-Dialogue: 0,0:09:34.84,0:09:36.44,Dialog,,0,0,0,,{‎あ... ありがとうございます}Terima kasih.
-Dialogue: 0,0:09:36.45,0:09:37.49,Dialog,,0,0,0,,{‎(芙由)フン...}Hmph ....
-Dialogue: 0,0:09:37.49,0:09:39.32,Dialog,,0,0,0,,{‎あらあら~}Ara, ara ....
-Dialogue: 0,0:09:39.32,0:09:46.81,Dialog,,0,0,0,,{‎お母様だって\N‎この白無垢を頂いた時}Mama sendiri ketika melihat gaun ini\Nmenangis bahagia kata Papa.
-Dialogue: 0,0:09:47.33,0:09:48.92,Dialog,,0,0,0,,{‎(芙由)お黙り!}Diam kamu!
-Dialogue: 0,0:09:51.50,0:09:52.50,Dialog,,0,0,0,,{‎(清霞)フゥ...}Hadeh.
-Dialogue: 0,0:09:52.50,0:09:55.00,Dialog,,0,0,0,,{‎騒がしくてすまなかったな}Maaf berisik, ya.
-Dialogue: 0,0:09:55.44,0:09:58.26,Dialog,,0,0,0,,{‎(美世)いいえ\N‎とても楽しかったです}Tidak masalah.\NMengasikkan, kok.
-Dialogue: 0,0:09:59.43,0:10:01.05,Dialog,,0,0,0,,{‎懐かしいな}Nostalgia, ya.
-Dialogue: 0,0:10:01.85,0:10:06.54,Dialog,,0,0,0,,{‎前も お前が あんみつ}Sebelumnya kamu pesan \Ncamilan dan aku pesan teh.
-Dialogue: 0,0:10:08.08,0:10:09.85,Dialog,,0,0,0,,{‎あ... あの時は...}Saat itu ....
-Dialogue: 0,0:10:10.35,0:10:14.90,Dialog,,0,0,0,,{‎実は 緊張で\N‎味が よく分からなくて}Jujur, saking gugup tak tahu rasanya.
-Dialogue: 0,0:10:20.61,0:10:22.28,Dialog,,0,0,0,,{‎うまいか?}Enak?
-Dialogue: 0,0:10:22.28,0:10:26.31,Dialog,,0,0,0,,{‎はい}Ya, sangat lezat.
-Dialogue: 0,0:10:26.29,0:10:29.29,Dialog,,0,0,0,,{‎そうか よかった}Begitu, ya.\NSyukurlah.
-Dialogue: 0,0:10:30.17,0:10:34.54,Dialog,,0,0,0,,{‎思い返せば\N‎あの頃から私たちも随分変わったな}Diingat-ingat kalau dibandingkan dulu,\Nkita banyak berubah, ya.
-Dialogue: 0,0:10:34.55,0:10:36.21,Dialog,,0,0,0,,{‎(美世)え?}Eh?
-Dialogue: 0,0:10:36.21,0:10:39.05,Dialog,,0,0,0,,{‎(清霞)お前は\N‎よく笑うようになった}Kamu kini banyak tersenyum.
-Dialogue: 0,0:10:45.14,0:10:47.06,Dialog,,0,0,0,,{‎どうかしたか?}Ada apa?
-Dialogue: 0,0:10:48.41,0:10:50.14,Dialog,,0,0,0,,{‎フフ... なんでもありません}Nggak ada, kok.
-Dialogue: 0,0:11:14.96,0:11:15.96,Dialog,,0,0,0,,{‎あれは...}Itu ....
-Dialogue: 0,0:11:18.84,0:11:20.34,Dialog,,0,0,0,,{‎(清霞)鷹倉(たかくら)様?}Tuan Takakura?
-Dialogue: 0,0:11:26.10,0:11:28.89,Dialog,,0,0,0,,{‎\N‎突然の訪問 申し訳ありません}Maaf mendadak bertamu.
-Dialogue: 0,0:11:28.89,0:11:33.65,Dialog,,0,0,0,,{‎いや あなたが来るということは\N‎よほどのことなのだろう}Tidak masalah.\NAnda datang mendadak pasti sangat penting.
-Dialogue: 0,0:11:33.65,0:11:34.61,Dialog,,0,0,0,,{‎それで?}Terus?
-Dialogue: 0,0:11:36.44,0:11:40.84,Dialog,,0,0,0,,{‎今日は}Saya datang mengajukan saran \Nkepada Nona Miyo untuk ke depannya.
-Dialogue: 0,0:11:40.86,0:11:43.61,Dialog,,0,0,0,,{‎わ... 私ですか?}Untuk saya?
-Dialogue: 0,0:11:43.61,0:11:46.08,Dialog,,0,0,0,,{‎(鷹倉)単刀直入に申し上げます}Maaf, langsung ke topik.
-Dialogue: 0,0:11:46.66,0:11:50.25,Dialog,,0,0,0,,{‎宮内省として\N‎あなたを宮城にお迎えしたい}Dapertemen ingin Anda tinggal di Istana.
-Dialogue: 0,0:11:51.04,0:11:52.75,Dialog,,0,0,0,,{‎宮城...}Istana.
-Dialogue: 0,0:11:52.75,0:11:58.50,Dialog,,0,0,0,,{‎もちろん美世様の婚約者である\N‎久堂少佐もご一緒に です}Tentu tunangan Anda juga ikut.
-Dialogue: 0,0:11:59.38,0:12:10.54,Dialog,,0,0,0,,{‎これまで薄刃家は\N‎異能者の抑止力として}Selama ini keluarga Usuba dikenal\Nsebagai terkuat di negeri ini.
-Dialogue: 0,0:12:11.10,0:12:16.09,Dialog,,0,0,0,,{‎しかしながら\N‎こたびの事件によって}Namun yang awal damai ...
-Dialogue: 0,0:12:16.09,0:12:23.30,Dialog,,0,0,0,,... kemunculan Usui membuat semuanya kacau.
-Dialogue: 0,0:12:23.72,0:12:27.76,Dialog,,0,0,0,,{‎これからの帝都は\N‎二度と同じ‎轍(てつ)‎を踏まぬよう}Kami berharap Anda\Nsebagai pengatur ibukota ...
-Dialogue: 0,0:12:27.76,0:12:36.27,Dialog,,0,0,0,,... agar tak terulang\Nkejadian yang sama.
-Dialogue: 0,0:12:39.30,0:12:40.50,Dialog,,0,0,0,,{‎美世様}Nona Miyo.
-Dialogue: 0,0:12:41.09,0:12:43.49,Dialog,,0,0,0,,{‎これからの帝都の安寧を守るため}Demi kedamain ke depan ...
-Dialogue: 0,0:12:43.61,0:12:48.28,Dialog,,0,0,0,,... kami ingin Anda melindungi kota\Nbersama Tuan Takaihito.
-Dialogue: 0,0:12:48.89,0:12:50.47,Dialog,,0,0,0,,{‎(美世)それは...}Itu ....
-Dialogue: 0,0:12:51.39,0:12:54.56,Dialog,,0,0,0,,{‎(鷹倉)もちろん\N‎悪いようにはいたしません}Tentu, kami tidak akan \Nberbuat jahat pada kalian.
-Dialogue: 0,0:12:55.00,0:12:57.17,Dialog,,0,0,0,,{‎御身をお預かりする以上}Selama di istana ...
-Dialogue: 0,0:12:57.17,0:13:01.21,Dialog,,0,0,0,,... dijamin tak ada yang\Nmengganggu kehidupan kalian.
-Dialogue: 0,0:13:02.65,0:13:06.61,Dialog,,0,0,0,,{‎突然の申し出\N‎戸惑われたことでしょう}Tiba-tiba meminta begini, \Nkalian pasti kebingungan.
-Dialogue: 0,0:13:06.61,0:13:09.62,Dialog,,0,0,0,,{‎今日のところは\N‎これにて失礼いたします}Hari ini cukup sekian. \NPermisi.
-Dialogue: 0,0:13:10.12,0:13:12.58,Dialog,,0,0,0,,{‎ゆっくりお考えください}Tolong pikirkan baik-baik.
-Dialogue: 0,0:13:39.44,0:13:41.94,Dialog,,0,0,0,,{‎本当に辞めちゃうんですか? 隊長}Beneran pensiun, Komandan?
-Dialogue: 0,0:13:41.94,0:13:44.44,Dialog,,0,0,0,,{‎ああ 辞める}Ya, pensiun.
-Dialogue: 0,0:13:45.74,0:13:48.20,Dialog,,0,0,0,,{‎隊長は無責任ですよ}Komandan tuh tak bertanggung jawab.
-Dialogue: 0,0:13:50.12,0:13:54.93,Dialog,,0,0,0,,{‎隊長がいなくなったら}Jika Anda pensiun, \Nsiapa yang harus kukejar.
-Dialogue: 0,0:13:56.75,0:14:00.21,Dialog,,0,0,0,,{‎お前は 案外\N‎自分のことを分かっていないんだな}Kamu tak sadar hebatnya dirimu, ya.
-Dialogue: 0,0:14:00.73,0:14:06.07,Dialog,,0,0,0,,{‎そもそも私がいなくとも\N‎大丈夫だと証明したのは}Lagipula yang membuktikan \Nkalau aman tanpaku itu kamu, loh.
-Dialogue: 0,0:14:06.05,0:14:06.97,Dialog,,0,0,0,,{‎(五道)え?}Eh?
-Dialogue: 0,0:14:07.24,0:14:09.32,Dialog,,0,0,0,,{‎よくあの状況の中\N‎隊を率いて帝を救い出した}Ketika aku tak ada ...
-Dialogue: 0,0:14:09.32,0:14:11.91,Dialog,,0,0,0,,... kamu memimpin pasukan\Ndan mengamankan Baginda.
-Dialogue: 0,0:14:12.18,0:14:15.72,Dialog,,0,0,0,,{‎あれは間違いなく\N‎お前自身の功績だ}Tak salah lagi itu prestasimu.
-Dialogue: 0,0:14:16.81,0:14:18.31,Dialog,,0,0,0,,{‎自信を持て!}Percaya dirilah!
-Dialogue: 0,0:14:21.81,0:14:22.90,Dialog,,0,0,0,,{‎五道}Godou!
-Dialogue: 0,0:14:22.90,0:14:26.73,Dialog,,0,0,0,,{‎私が隊長を務められたのは\N‎お前のおかげだ}Aku jadi komandan ini tuh berkat ayahmu.
-Dialogue: 0,0:14:26.74,0:14:31.49,Dialog,,0,0,0,,{‎そして 今度は お前が\N‎その役目を引き継ぐ番だ}Kini, kamu yang meneruskan tekat kami.
-Dialogue: 0,0:14:35.29,0:14:38.00,Dialog,,0,0,0,,{‎できますかね? 俺に}Aku sanggup melakukannya?
-Dialogue: 0,0:14:38.58,0:14:40.87,Dialog,,0,0,0,,{‎ああ できる}Ya, sanggup.
-Dialogue: 0,0:14:43.52,0:14:44.75,Dialog,,0,0,0,,{‎(五道)フッ... ったく}Haduh.
-Dialogue: 0,0:15:01.15,0:15:03.27,Dialog,,0,0,0,,{‎(美世)お隣よろしいですか?}Boleh duduk di samping Anda?
-Dialogue: 0,0:15:04.94,0:15:06.07,Dialog,,0,0,0,,{‎(清霞)ああ}Ya, boleh.
-Dialogue: 0,0:15:10.28,0:15:12.32,Dialog,,0,0,0,,{‎今夜は暖かいな}Malam ini terasa hangat, ya.
-Dialogue: 0,0:15:12.32,0:15:16.39,Dialog,,0,0,0,,{‎本当...}Benar, sebentar lagi musim semi, ya.
-Dialogue: 0,0:15:18.37,0:15:21.79,Dialog,,0,0,0,,{‎実は... 軍を辞めることにした}Sejujurnya, aku pensiun dari militer.
-Dialogue: 0,0:15:22.42,0:15:23.29,Dialog,,0,0,0,,{‎えっ...}Eh ....
-Dialogue: 0,0:15:24.46,0:15:25.75,Dialog,,0,0,0,,{‎どうして...}Kenapa?
-Dialogue: 0,0:15:25.75,0:15:27.80,Dialog,,0,0,0,,{‎驚かせてすまない}Maaf bikin kaget.
-Dialogue: 0,0:15:29.38,0:15:33.80,Dialog,,0,0,0,,{‎初めから私は\N‎軍人には向いていなかったのだろう}Dari awal mungkin aku tak cocok jadi militer.
-Dialogue: 0,0:15:33.80,0:15:38.81,Dialog,,0,0,0,,{‎でも せっかく ずっと軍で\N‎働いていらっしゃったのに}Namun Anda tekun bekerja selama ini.
-Dialogue: 0,0:15:39.29,0:15:44.06,Dialog,,0,0,0,,{‎もともと最初は 軍に入ろうとは\N‎考えていなかったからな}Awalnya aku tak kepikiran masuk militer, sih.
-Dialogue: 0,0:15:46.94,0:15:47.94,Dialog,,0,0,0,,{‎美世}Miyo.
-Dialogue: 0,0:15:49.65,0:15:53.64,Dialog,,0,0,0,,{‎私の望みは\N‎お前と共に生きることだ}Keinginanku hidup damai bersamamu.
-Dialogue: 0,0:15:54.16,0:16:00.89,Dialog,,0,0,0,,{‎できることなら}Sebisa mungkin mulai kini aku\Ningin lindungi kebahagiaan bersamamu.
-Dialogue: 0,0:16:02.25,0:16:06.08,Dialog,,0,0,0,,{‎(美世)大事なお役目なのに\N‎本当によいのですか?}Padahal peran penting.\NYakin ditinggalkan?
-Dialogue: 0,0:16:06.44,0:16:09.44,Dialog,,0,0,0,,{‎私が お前といたいんだ}Aku ingin selalu bersamamu.
-Dialogue: 0,0:16:14.30,0:16:17.97,Dialog,,0,0,0,,{‎(美世)旦那様が\N‎そうしたいと思われるのでしたら}Jika segitunya Anda kepada saya.
-Dialogue: 0,0:16:18.47,0:16:20.97,Dialog,,0,0,0,,{‎私は旦那様を応援いたします}Saya akan mendukung Anda.
-Dialogue: 0,0:16:21.75,0:16:22.98,Dialog,,0,0,0,,{‎フッ... 応援か}Mendukung, ya?
-Dialogue: 0,0:16:22.98,0:16:26.21,Dialog,,0,0,0,,{‎はい}Ya, mendukung Anda.
-Dialogue: 0,0:16:29.82,0:16:31.23,Dialog,,0,0,0,,{‎旦那様?}Suamiku?
-Dialogue: 0,0:16:32.78,0:16:35.66,Dialog,,0,0,0,,{‎いや ありがたく受け取っておく}Tidak, aku terima niatmu.
-Dialogue: 0,0:16:35.66,0:16:38.31,Dialog,,0,0,0,,{‎それで 美世}Lalu kamu sendiri?
-Dialogue: 0,0:16:38.33,0:16:39.24,Dialog,,0,0,0,,{‎(美世)え?}Apa?
-Dialogue: 0,0:16:39.47,0:16:41.02,Dialog,,0,0,0,,{‎鷹倉様の件\N‎何か思うことがあるのならば}Tentang kerja di istana ...
-Dialogue: 0,0:16:41.31,0:16:43.56,Dialog,,0,0,0,,... jika ada yang kamu risaukan,
-Dialogue: 0,0:16:43.56,0:16:45.35,Dialog,,0,0,0,,katakan saja.
-Dialogue: 0,0:16:48.48,0:16:51.69,Dialog,,0,0,0,,{‎(美世)‎私は 気が付いたんです}Saya menyadari ...
-Dialogue: 0,0:16:52.24,0:16:57.41,Dialog,,0,0,0,,... banyak kebahagiaan\Nyang Anda berikan di rumah ini.
-Dialogue: 0,0:16:58.47,0:17:03.89,Dialog,,0,0,0,,{‎大切な人と笑い合える日々が\N‎こんなに幸せだということ}Tertawa bersama\Norang tersayang membuat bahagia.
-Dialogue: 0,0:17:05.48,0:17:09.42,Dialog,,0,0,0,,{‎私...}Saya tak ingin pindah.
-Dialogue: 0,0:17:11.44,0:17:12.40,Dialog,,0,0,0,,{‎そうか}Begitu, ya.
-Dialogue: 0,0:17:12.88,0:17:16.41,Dialog,,0,0,0,,{‎分かった\N‎ならば そうしよう}Baiklah.\NBerarti begitu saja.
-Dialogue: 0,0:17:28.75,0:17:29.75,Dialog,,0,0,0,,{‎美世}Miyo.
-Dialogue: 0,0:17:31.71,0:17:33.92,Dialog,,0,0,0,,{‎だ... 旦那様...}Su-Suamiku ....
-Dialogue: 0,0:17:34.72,0:17:36.93,Dialog,,0,0,0,,{‎私も同じ気持ちだ}Perasaanku juga sama.
-Dialogue: 0,0:17:37.99,0:17:41.49,Dialog,,0,0,0,,{‎ずっと ここにいよう\N‎共に暮らそう}Mari hidup di sini selamanya ...
-Dialogue: 0,0:17:42.12,0:17:43.79,Dialog,,0,0,0,,... bersama anak kita nanti.
-Dialogue: 0,0:17:46.48,0:17:47.60,Dialog,,0,0,0,,{‎(美世)はい}Baik.
-Dialogue: 0,0:17:58.99,0:18:00.95,Dialog,,0,0,0,,{‎(堯人)よくぞ参った}Terima kasih sudah datang.
-Dialogue: 0,0:18:01.10,0:18:05.95,Dialog,,0,0,0,,{‎この度は 謁見をお許しくださり\N‎ありがとうございます}Tempo lalu terima kasih melindungi kami.
-Dialogue: 0,0:18:05.95,0:18:08.87,Dialog,,0,0,0,,{‎(堯人)そう堅苦しくせずともよい}Tak perlu kaku begitu.
-Dialogue: 0,0:18:08.87,0:18:13.09,Dialog,,0,0,0,,{‎2人とも\N‎甘水 直の件では苦労をかけた}Kalian berdua kerepotan dengan kasus Usui.
-Dialogue: 0,0:18:13.80,0:18:16.09,Dialog,,0,0,0,,{‎見事な活躍であったぞ}Itu pencapaian yang luar biasa.
-Dialogue: 0,0:18:16.09,0:18:18.22,Dialog,,0,0,0,,{‎私は何も...}Saya tak melakukan apa pun.
-Dialogue: 0,0:18:18.22,0:18:23.10,Dialog,,0,0,0,,{‎全て堯人様と\N‎彼女の力あってこそです}Semua berkat Anda dan kekuatan dia.
-Dialogue: 0,0:18:23.10,0:18:30.17,Dialog,,0,0,0,,{そのような中で}Selama kami mengajukan saran, \Npasti kalian kebingungan.
-Dialogue: 0,0:18:31.44,0:18:35.36,Dialog,,0,0,0,,{‎清霞 少し外してはくれぬか}Kiyoka, bisa beranjak sebentar?
-Dialogue: 0,0:18:36.03,0:18:37.49,Dialog,,0,0,0,,{‎承知いたしました}Dimengerti.
-Dialogue: 0,0:18:42.07,0:18:43.20,Dialog,,0,0,0,,{‎頑張れ}Semangat.
-Dialogue: 0,0:18:50.79,0:18:54.00,Dialog,,0,0,0,,{‎(堯人)清霞の前では\N‎言いづらいこともあろう}Pasti ada kalimat yang sulit\Ndikatakan di depan Kiyoka, 'kan?
-Dialogue: 0,0:18:54.80,0:18:58.28,Dialog,,0,0,0,,{‎さて 美世}Nah, Miyo, jawabanmu?
-Dialogue: 0,0:18:59.13,0:19:07.75,Dialog,,0,0,0,,{‎その件についてなのですが...}Tentang kekuatan ini, \Nmemang susuatu yang harus dipikul.
-Dialogue: 0,0:19:07.77,0:19:15.50,Dialog,,0,0,0,,{‎新たな異能者の体制を作るために}Demi mengatasi kekuatan ke depan,\Nsaya harus tinggal di istana.
-Dialogue: 0,0:19:16.57,0:19:23.01,Dialog,,0,0,0,,{‎せっかく覚醒させた力を}Kekuatan yang bangkit ini, \Nsaya paham ini tidak boleh digunakan.
-Dialogue: 0,0:19:23.03,0:19:32.02,Dialog,,0,0,0,,{‎けれど 異能を使うということは}Namun menggunakan kekuatan berarti \Ntak kenal takut tanpa tutup mata.
-Dialogue: 0,0:19:32.04,0:19:37.75,Dialog,,0,0,0,,{‎実際に刃(やいば)を突きつけられて\N‎銃口を突きつけられて...}Berhadapan dengan pedang dan senjata api ...
-Dialogue: 0,0:19:38.51,0:19:41.05,Dialog,,0,0,0,,{‎身も凍るような思いでした}... membuat saya punya kenangan buruk.
-Dialogue: 0,0:19:41.28,0:19:45.80,Dialog,,0,0,0,,{‎私はもう\N‎異能に振り回されたくない}Saya tak ingin dihantui kekuatan.
-Dialogue: 0,0:19:45.80,0:19:48.35,Dialog,,0,0,0,,{戦いたくないのです}Tak ingin bertarung.
-Dialogue: 0,0:19:48.35,0:19:52.56,Dialog,,0,0,0,,{できれば異能自体\Nもう使いたくありません}Sebisa mungkin tak ada kekuatan.
-Dialogue: 0,0:19:53.56,0:19:59.32,Dialog,,0,0,0,,{‎今回ご提案いただいたお役目は\N‎私には分不相応です}Saya merasa tak pantas \Nmengemban saran Anda.
-Dialogue: 0,0:20:01.40,0:20:07.35,Dialog,,0,0,0,,{‎それに何より}Lagipula saya tak ingin melepas\Nsesuatu yang berharga.
-Dialogue: 0,0:20:11.50,0:20:13.83,Dialog,,0,0,0,,{‎そなたの大事なものとは?}Sesuatu yang berharga bagi engkau itu apa?
-Dialogue: 0,0:20:14.88,0:20:16.29,Dialog,,0,0,0,,{‎それは...}Itu ....
-Dialogue: 0,0:20:17.50,0:20:23.95,Dialog,,0,0,0,,{‎大好きな人たちと 旦那様と}Keseharian bersama orang\Nyang saya cintai.
-Dialogue: 0,0:20:26.43,0:20:28.97,Dialog,,0,0,0,,{‎それで 本当によいのだな?}Itu keputusanmu, ya?
-Dialogue: 0,0:20:30.22,0:20:31.22,Dialog,,0,0,0,,{‎はい}Ya.
-Dialogue: 0,0:20:37.23,0:20:38.98,Dialog,,0,0,0,,{‎聞き入れた}Aku menyerah.
-Dialogue: 0,0:20:45.57,0:20:52.89,Dialog,,0,0,0,,{‎(堯人)美世}Miyo, melalui cobaan sebelumnya ...
-Dialogue: 0,0:20:52.89,0:20:55.52,Dialog,,0,0,0,,... kamu menemukan susuatu, 'kan?
-Dialogue: 0,0:20:56.25,0:21:00.00,Dialog,,0,0,0,,{‎見つけたのだな そなたの幸せを}Kamu menemukan kebahagianmu, ya.
-Dialogue: 0,0:21:00.88,0:21:02.01,Dialog,,0,0,0,,{‎はい}Ya.
-Dialogue: 0,0:21:03.01,0:21:08.51,Dialog,,0,0,0,,{‎ならば それに水を差す道理など\N‎誰にもなかろう}Berarti tak ada satu pun melarangmu.
-Dialogue: 0,0:21:14.06,0:21:16.08,Dialog,,0,0,0,,{‎(堯人)‎美世 清霞}Miyo, Kiyoka ...
-Dialogue: 0,0:21:16.08,0:21:20.38,Dialog,,0,0,0,,... tangan itu, jangan dilepaskan.
-Dialogue: 0,0:21:32.54,0:21:33.79,Dialog,,0,0,0,,{‎(美世)旦那様}Suamiku.
-Dialogue: 0,0:21:35.75,0:21:39.50,Dialog,,0,0,0,,{‎帝都って\N‎こんなにも広かったんですね}Ibukota ternyata sangat luas, ya.
-Dialogue: 0,0:21:39.50,0:21:40.54,Dialog,,0,0,0,,{‎ああ}Ya.
-Dialogue: 0,0:21:45.72,0:21:46.72,Dialog,,0,0,0,,{‎美世}Miyo.
-Dialogue: 0,0:21:47.34,0:21:48.47,Dialog,,0,0,0,,{‎(美世)はい}Ya.
-Dialogue: 0,0:21:55.06,0:21:56.56,Dialog,,0,0,0,,{‎ステキ...}Indah sekali.
-Dialogue: 0,0:21:58.06,0:22:00.19,Dialog,,0,0,0,,{‎お前に似合うと思ってな}Kupikir kamu akan cocok memakainya.
-Dialogue: 0,0:22:00.94,0:22:02.61,Dialog,,0,0,0,,{‎これを私に?}Anda memberikan ini untuk saya?
-Dialogue: 0,0:22:02.61,0:22:05.40,Dialog,,0,0,0,,{‎ああ 受け取ってくれるか?}Ya, mau kau terima?
-Dialogue: 0,0:22:06.90,0:22:08.70,Dialog,,0,0,0,,{‎ありがとうございます}Terima kasih.
-Dialogue: 0,0:22:11.07,0:22:13.95,Dialog,,0,0,0,,{‎挿して... くださいますか?}Bisa pasangkan?
-Dialogue: 0,0:22:15.45,0:22:16.46,Dialog,,0,0,0,,{‎ああ}Ya.
-Dialogue: 0,0:22:22.92,0:22:24.46,Dialog,,0,0,0,,{‎(美世)どうでしょうか?}Bagaimana?
-Dialogue: 0,0:22:25.88,0:22:27.72,Dialog,,0,0,0,,{‎似合いますか?}Terlihat cocok?
-Dialogue: 0,0:22:28.30,0:22:31.30,Dialog,,0,0,0,,{‎ああ かわいらしい}Ya, terlihat menawan.
-Dialogue: 0,0:22:37.14,0:22:38.23,Dialog,,0,0,0,,{‎あ!}Ah.
-Dialogue: 0,0:22:38.23,0:22:40.94,Dialog,,0,0,0,,{‎旦那様 私も...}Suamiku.\NAku juga ....
-Dialogue: 0,0:22:46.63,0:22:48.51,Dialog,,0,0,0,,{‎(清霞)ん?}Ikat rambut yang baru, ya.
-Dialogue: 0,0:22:48.53,0:22:49.49,Dialog,,0,0,0,,{‎(美世)はい}Ya.
-Dialogue: 0,0:22:50.36,0:22:54.12,Dialog,,0,0,0,,{‎旦那様\N‎後ろを向いてくださいますか?}Suamiku bisa berbalik?
-Dialogue: 0,0:22:54.70,0:22:55.70,Dialog,,0,0,0,,{‎ああ}Ya.
-Dialogue: 0,0:23:01.71,0:23:03.38,Dialog,,0,0,0,,{‎とってもステキです}Sungguh terlihat gagah.
-Dialogue: 0,0:23:05.38,0:23:06.71,Dialog,,0,0,0,,{‎ありがとう}Terima kasih.
-Dialogue: 0,0:23:09.55,0:23:10.72,Dialog,,0,0,0,,{‎(美世)あ...}
-Dialogue: 0,0:23:10.72,0:23:11.89,Dialog,,0,0,0,,{‎美世}Miyo.
-Dialogue: 0,0:23:12.47,0:23:14.24,Dialog,,0,0,0,,{‎牢(ろう)‎にいた時}Saat di penjara ...
-Dialogue: 0,0:23:14.24,0:23:19.87,Dialog,,0,0,0,,... hari-hari yang kuhabiskan \Ndenganmu tiada gantinya.
-Dialogue: 0,0:23:20.48,0:23:25.40,Dialog,,0,0,0,,{‎僅かな時間 離れるくらい\N‎何ともないと考えていた}Sudah kucoba lupakan sedikit ...
-Dialogue: 0,0:23:26.15,0:23:30.95,Dialog,,0,0,0,,{‎だが 私は もうとっくに\N‎お前がいないとダメらしい}... tapi dasarnya aku tak bisa tanpamu.
-Dialogue: 0,0:23:31.86,0:23:33.41,Dialog,,0,0,0,,{‎旦那様...}Suamiku.
-Dialogue: 0,0:23:37.49,0:23:41.41,Dialog,,0,0,0,,{‎(清霞)美世\N‎お前は 私の命だ}Miyo, kamu tuh nyawaku.
-Dialogue: 0,0:23:43.17,0:23:46.92,Dialog,,0,0,0,,{‎私と 結婚してほしい}Menikahlah denganku.
-Dialogue: 0,0:23:57.51,0:23:58.64,Dialog,,0,0,0,,{‎はい}Ya.
-Dialogue: 0,0:24:02.02,0:24:03.60,Dialog,,0,0,0,,{‎喜んで}Dengan senang hati.
-Dialogue: 0,0:24:09.53,0:24:12.61,Dialog,,0,0,0,,{‎愛しています 清霞さん}Aku mencintaimu, Kiyoka.
-Dialogue: 0,0:24:20.04,0:24:22.75,Dialog,,0,0,0,,{‎ああ 私もだ}Ya, aku juga.
-Dialogue: 0,0:24:36.76,0:24:39.22,Dialog,,0,0,0,,{‎あっ 旦那様}Ah, suamiku.
-Dialogue: 0,0:24:39.74,0:24:40.83,Dialog,,0,0,0,,{‎おはようございます}Selamat pagi.
-Dialogue: 0,0:24:41.33,0:24:42.96,Dialog,,0,0,0,,{‎おはようございます}Selamat pagi.
-Dialogue: 0,0:24:46.86,0:24:47.81,Dialog,,0,0,0,,{‎(清霞)美世}Miyo.
-Dialogue: 0,0:24:47.81,0:24:48.73,Dialog,,0,0,0,,{‎はい}Ya.
-Dialogue: 0,0:24:49.77,0:24:51.78,Dialog,,0,0,0,,{‎もしよければだが...}Jika tak keberatan sih.
-Dialogue: 0,0:24:52.36,0:24:54.99,Dialog,,0,0,0,,{‎この庭に桜を植えないか?}Mau nanam pohon sakura di taman ini?
-Dialogue: 0,0:24:54.99,0:24:58.74,Dialog,,0,0,0,,{‎私たちの 結婚の記念に}Sebagai pengingat pernikahan kita.
-Dialogue: 0,0:25:01.58,0:25:02.95,Dialog,,0,0,0,,{‎はい}Baik.
-Dialogue: 0,0:25:02.95,0:25:07.00,Dialog,,0,0,0,,{‎すごく すごくステキだと思います}Menurutku sangat indah.
-Dialogue: 0,0:25:08.04,0:25:09.17,Dialog,,0,0,0,,{‎そうか}Begitu, ya.
-Dialogue: 0,0:25:10.21,0:25:12.55,Dialog,,0,0,0,,{‎では そうしよう}Nah, nanti kita tanam.
+Dialogue: 0,0:00:03.80,0:00:06.78,Dialog,,0,0,0,,{‎(美世(みよ))‎お母様の‎想(おも)‎いを伝えるべく}Saya mencoba menyampaikan\Nperasaan Ibunda ...
+Dialogue: 0,0:00:06.78,0:00:11.33,Dialog,,0,0,0,,... dan membujuk Usui Naoshi ...
+Dialogue: 0,0:00:11.37,0:00:14.43,Dialog,,0,0,0,,{‎それは そう簡単なものではなく...}... namun tak mudah dilakukan.
+Dialogue: 0,0:00:14.44,0:00:18.81,Dialog,,0,0,0,,{‎結局 届けたかった想いは\N‎届かぬまま}Pada akhirnya perasaanku tak didengarkan.
+Dialogue: 0,0:00:18.82,0:00:26.97,Dialog,,0,0,0,,{‎甘水 直は\N‎新(あらた)‎さんが放った銃弾によって}Usui Naoshi kehilangan nyawa \Nsetelah ditembak Tuan Arata.
+Dialogue: 0,0:00:28.41,0:00:31.95,Dialog,,0,0,0,,{‎五道(ごどう)‎さん率いる対異特殊部隊も}Pasukan yang dipimpin Tuan Godou ...
+Dialogue: 0,0:00:31.95,0:00:36.21,Dialog,,0,0,0,,{‎異能‎心教(しんきょう)‎に制圧されていた\N‎陸軍本部を取り戻し}...  telah menangkap Sekte Semahan ...
+Dialogue: 0,0:00:36.21,0:00:37.96,Dialog,,0,0,0,,{‎帝(みかど)‎を救出したことで}... dan Baginda telah diamankan.
+Dialogue: 0,0:00:38.79,0:00:43.13,Dialog,,0,0,0,,{‎一連の事件は\N‎ようやく幕引きとなったのでした}Dengan ini, \Nkasus resmi ditutup.
+Dialogue: 0,0:00:45.76,0:00:50.95,Dialog,,0,0,0,,{‎そうして\N‎何事もなかったかのように戻る⸺}Keesokannya kembali damai\Nseakan tak ada kejadian.
+Dialogue: 0,0:00:51.29,0:00:57.88,Dialog,,0,0,0,,{‎旦那様との穏やかな時間を}Kedamaian di sisi Suami berasa sebelah pihak.
+Dialogue: 0,0:00:57.90,0:01:05.88,Dialog,,0,0,0,,{‎私の胸の内では}Di dalam hati aku merasa ada kegelapan.
+Dialogue: 0,0:02:43.42,0:02:45.34,Dialog,,0,0,0,,{‎(大海渡(おおかいと))どういうことだ?}Apa maksudnya ini?
+Dialogue: 0,0:02:45.34,0:02:47.75,Dialog,,0,0,0,,{‎(清霞(きよか))書いてあるとおりです}Sesuai yang tertulis di situ.
+Dialogue: 0,0:02:47.76,0:02:49.59,Dialog,,0,0,0,,{‎(大海渡)理由を聞かせてくれ}Kasih tahu alasannya.
+Dialogue: 0,0:02:50.03,0:02:55.12,Dialog,,0,0,0,,{‎(清霞)私の\N‎対異特殊部隊隊長としての務めは}Saya merasa tak pantas\Nsebagai Komandan Anti Dedemit.
+Dialogue: 0,0:02:55.49,0:02:57.12,Dialog,,0,0,0,,{‎(大海渡)後任はどうなる?\N‎お前以外に隊長が務まるとは思えん}Penggantinya siapa?
+Dialogue: 0,0:02:57.37,0:03:00.23,Dialog,,0,0,0,,Tak ada yang terlintas di pikiranku.
+Dialogue: 0,0:03:00.50,0:03:03.10,Dialog,,0,0,0,,{‎後任ならば すでにおります}Kalau pengganti, \Nsudah saya siapkan.
+Dialogue: 0,0:03:04.40,0:03:05.61,Dialog,,0,0,0,,{‎五道です}Godou.
+Dialogue: 0,0:03:07.40,0:03:10.99,Dialog,,0,0,0,,{‎彼は 私がおらずとも\N‎隊の士気を保ち}Dia bergerak tanpa instruksiku ...
+Dialogue: 0,0:03:10.99,0:03:12.65,Dialog,,0,0,0,,{‎部隊を率いて}... dan memimpin pasukan.
+Dialogue: 0,0:03:12.66,0:03:15.99,Dialog,,0,0,0,,{‎見事 異能心教の手から\N‎帝を助け出した}Sampai menyelamatkan Baginda.
+Dialogue: 0,0:03:16.26,0:03:19.50,Dialog,,0,0,0,,{‎五道にならば あとを任せられます}Kalau itu Godou ...\Nsaya siap melepas jabatan.
+Dialogue: 0,0:03:22.79,0:03:24.62,Dialog,,0,0,0,,{‎お前の気持ちは分かった}Aku paham perasaanmu.
+Dialogue: 0,0:03:25.06,0:03:27.59,Dialog,,0,0,0,,{‎しかし 簡単に受理はできん}Tapi tak langsung kujawab.
+Dialogue: 0,0:03:28.71,0:03:30.13,Dialog,,0,0,0,,{‎時間をくれ}Beri aku waktu.
+Dialogue: 0,0:03:31.59,0:03:33.18,Dialog,,0,0,0,,{‎(美世)どうぞ}Silakan.
+Dialogue: 0,0:03:33.84,0:03:36.14,Dialog,,0,0,0,,{‎(新)ありがとうございます}Terima kasih.
+Dialogue: 0,0:03:36.14,0:03:37.60,Dialog,,0,0,0,,{新さん}Tuan Arata!
+Dialogue: 0,0:03:37.60,0:03:40.27,Dialog,,0,0,0,,{昨日より\N調子がよさそうですね}Kondisimu terlihat lebih baik.
+Dialogue: 0,0:03:40.54,0:03:41.64,Dialog,,0,0,0,,{ええ}Ya.
+Dialogue: 0,0:03:41.64,0:03:46.75,Dialog,,0,0,0,,{しかし 美世が\Nこうして見舞いに来て}Tapi, Miyo datang menjenguk \Ndan mengupas jeruk.
+Dialogue: 0,0:03:47.04,0:03:50.21,Dialog,,0,0,0,,Dirawat di rumah sakit boleh juga.
+Dialogue: 0,0:03:57.62,0:03:58.83,Dialog,,0,0,0,,{‎あの...}Anu ....
+Dialogue: 0,0:03:59.41,0:04:01.77,Dialog,,0,0,0,,{‎1つ聞いてもいいでしょうか}Boleh bertanya?
+Dialogue: 0,0:04:02.71,0:04:10.15,Dialog,,0,0,0,,{‎新さんは\N‎最初から甘水 直を撃つつもりで}Tuan Arata sejak awal masuk\NSekte Semahan ingin membunuh Usui?
+Dialogue: 0,0:04:12.51,0:04:16.68,Dialog,,0,0,0,,{‎美世には\N‎話しておかなければいけないですね}Miyo perlu mengetahui ini.
+Dialogue: 0,0:04:17.30,0:04:22.71,Dialog,,0,0,0,,{‎事の始まりは}Pemicunya dari ucapan Tuan Takaihito.
+Dialogue: 0,0:04:23.54,0:04:25.69,Dialog,,0,0,0,,{‎“厄災が来る”と}Katanya bencana akan datang.
+Dialogue: 0,0:04:26.90,0:04:30.23,Dialog,,0,0,0,,{‎甘水 直の名を聞いた時は\N‎驚きましたよ}Saya terkejut setelah\Ndengar nama Usui Naoshi.
+Dialogue: 0,0:04:30.23,0:04:34.19,Dialog,,0,0,0,,{‎ヤツは まさに\N‎“厄災”そのものだった}Dia bagaikan bencana itu sendiri.
+Dialogue: 0,0:04:34.20,0:04:39.43,Dialog,,0,0,0,,{‎甘水は 帝を倒して}Usui ingin mengalahkan Baginda\Nagar bisa berdiri di puncak.
+Dialogue: 0,0:04:39.45,0:04:43.08,Dialog,,0,0,0,,{‎薄刃の異能者が\N‎帝国で一番強いと信じ}Dia percaya kekuatan Usuba yang paling kuat.
+Dialogue: 0,0:04:43.66,0:04:47.48,Dialog,,0,0,0,,{‎薄刃を離れても}Tapi dia tak kesampaian memisah\Nkeluarga Usuba dari Baginda.
+Dialogue: 0,0:04:49.04,0:04:53.46,Dialog,,0,0,0,,{‎甘水は俺に\N‎自分自身を重ねていました}Usui menyamakan kehidupannya dengan diriku.
+Dialogue: 0,0:04:53.46,0:04:56.47,Dialog,,0,0,0,,{‎そして ある日 勧誘されたんです}Lalu aku direkrut.
+Dialogue: 0,0:04:57.14,0:05:02.70,Dialog,,0,0,0,,{‎薄刃の孤独も}Seharusnya kebenaran kekuata\Nasli Usuba hanya diketahui Usuba.
+Dialogue: 0,0:05:03.56,0:05:09.09,Dialog,,0,0,0,,{‎薄刃に連なる者ならば}Tapi ilusinya memperlihatkan kebeneran Usuba.
+Dialogue: 0,0:05:09.38,0:05:12.57,Dialog,,0,0,0,,{‎俺を誘えば\N‎ついてくると思ったんでしょう}Dia mencoba mengajakku\Nmelalui hasutannya.
+Dialogue: 0,0:05:13.57,0:05:20.47,Dialog,,0,0,0,,{‎まさか味方になったと見せかけて}Tak disangka dia tak sadar\Naku berpura-pura ikut rencananya.
+Dialogue: 0,0:05:21.28,0:05:25.12,Dialog,,0,0,0,,{‎気付かれたら その時はその時と\N‎覚悟はしていました}Jika ketahuan aku sudah siapkan tekat ...
+Dialogue: 0,0:05:25.96,0:05:28.25,Dialog,,0,0,0,,{‎薄刃として甘水を討つ}... sebagai Usuba untuk menembak Usui.
+Dialogue: 0,0:05:28.25,0:05:29.96,Dialog,,0,0,0,,{‎ただそのために...}Hanya demi itu.
+Dialogue: 0,0:05:29.96,0:05:31.13,Dialog,,0,0,0,,{‎(美世)新さん...}Tuan Arata ....
+Dialogue: 0,0:05:32.67,0:05:38.49,Dialog,,0,0,0,,{‎(新)美世}Miyo, perihal Tuan Kudou terluka.\NAku minta maaf.
+Dialogue: 0,0:05:38.51,0:05:43.33,Dialog,,0,0,0,,{‎そんなことをすれば}Padahal aku tahu jika lakuin itu, \NMiyo pasti sedih.
+Dialogue: 0,0:05:44.31,0:05:45.77,Dialog,,0,0,0,,{‎(美世)はい...}Ya.
+Dialogue: 0,0:05:46.48,0:05:50.31,Dialog,,0,0,0,,{‎つらかったです\N‎悲しかったです}Rasanya berat dan sedih.
+Dialogue: 0,0:05:50.98,0:05:55.36,Dialog,,0,0,0,,{‎もう二度と\N‎あんな思いはしたくありません...}Aku tak ingin mengalami perasan itu lagi.
+Dialogue: 0,0:06:00.70,0:06:03.16,Dialog,,0,0,0,,{‎どうしても考えてしまうんです}Saya terus terpikirkan.
+Dialogue: 0,0:06:03.99,0:06:08.85,Dialog,,0,0,0,,{‎あの人が生きて}Jika ia selamat\Napa akan menebus dosa?
+Dialogue: 0,0:06:10.00,0:06:13.54,Dialog,,0,0,0,,{‎せっかく夢見の異能が\N‎覚醒したというのに}Padahal mumpung kekuatan bangkit.
+Dialogue: 0,0:06:14.50,0:06:19.70,Dialog,,0,0,0,,{‎私は結局 甘水 直の心を}Tapi aku tetap tak bisa mengubah perasaannya.
+Dialogue: 0,0:06:21.09,0:06:24.80,Dialog,,0,0,0,,{‎すみません 取りとめのないことを}Maaf sudah banyak bicara.
+Dialogue: 0,0:06:27.52,0:06:28.68,Dialog,,0,0,0,,{‎(清霞)美世}Miyo!
+Dialogue: 0,0:06:29.25,0:06:30.44,Dialog,,0,0,0,,{‎(美世)旦那様}Suamiku.
+Dialogue: 0,0:06:30.44,0:06:32.44,Dialog,,0,0,0,,{‎これはこれは 久堂さん}Wah, ada Tuan Kudou.
+Dialogue: 0,0:06:32.44,0:06:34.81,Dialog,,0,0,0,,{‎もしかして 俺の見舞いに?}Jangan-jangan menjengukku?
+Dialogue: 0,0:06:34.82,0:06:38.82,Dialog,,0,0,0,,{‎勘違いするな\N‎美世を迎えに来ただけだ}Jangan salah paham.\NAku hanya menjemput Miyo.
+Dialogue: 0,0:06:40.36,0:06:44.35,Dialog,,0,0,0,,{‎ごめんなさい 新さん}Maaf, Tuan Arata.\NSaya izin pamit.
+Dialogue: 0,0:06:45.79,0:06:48.54,Dialog,,0,0,0,,{‎お二人は これからデヱトですか?}Kalian mau pergi kencan?
+Dialogue: 0,0:06:49.71,0:06:50.71,Dialog,,0,0,0,,{‎はい}Ya.
+Dialogue: 0,0:06:52.83,0:06:54.67,Dialog,,0,0,0,,{‎(清霞)では 失礼する}Dah, kami permisi.
+Dialogue: 0,0:06:54.67,0:06:57.21,Dialog,,0,0,0,,{‎(美世)新さん また来ますね}Tuan Arata,\Nsaya akan datang lagi.
+Dialogue: 0,0:06:59.01,0:07:01.22,Dialog,,0,0,0,,{‎ええ また}Ya, sampai ketemu lagi.
+Dialogue: 0,0:07:02.59,0:07:05.91,Dialog,,0,0,0,,{‎(葉月(はづき))だから}Dibilang kuning motif mawar ....
+Dialogue: 0,0:07:05.93,0:07:07.72,Dialog,,0,0,0,,{‎これで何がいけないの?}Kurang apanya?
+Dialogue: 0,0:07:07.72,0:07:10.93,Dialog,,0,0,0,,{‎(芙由(ふゆ))色打掛なんて古くさくてよ}Kuning tuh ketinggalan jaman.
+Dialogue: 0,0:07:10.94,0:07:12.54,Dialog,,0,0,0,,{‎式は白無垢\N‎あとはドレスでいいじゃない}Putih polos lebih cocok.
+Dialogue: 0,0:07:12.54,0:07:14.48,Dialog,,0,0,0,,Sisanya menyesuaikan gaun.
+Dialogue: 0,0:07:14.48,0:07:19.72,Dialog,,0,0,0,,{‎久堂家の結婚式として}Sebagai calon keluarga Kudou,\Njangan sampai terlihat memalukan.
+Dialogue: 0,0:07:19.88,0:07:23.32,Dialog,,0,0,0,,{‎(葉月)あのねえ\N‎これは美世ちゃんの結婚式なのよ?}Aduhai.\NIni tuh resepsi pernikahan Neng Miyo.
+Dialogue: 0,0:07:23.32,0:07:26.68,Dialog,,0,0,0,,{‎(芙由)いいえ\N‎これは久堂家当主の結婚式よ!}Bukan.\NIni tuh resepsi pernikahan keluarga Kudou.
+Dialogue: 0,0:07:27.10,0:07:31.19,Dialog,,0,0,0,,{‎(芙由・葉月)ゆり江は黙ってて!}Kalian berdua\Ntolong jangan terlalu berisik.
+Dialogue: 0,0:07:31.23,0:07:32.81,Dialog,,0,0,0,,Yurie diam saja.
+Dialogue: 0,0:07:31.23,0:07:32.81,Dialog,,0,0,0,,{\an8}Mbok Yurie diam saja.
+Dialogue: 0,0:07:35.02,0:07:38.34,Dialog,,0,0,0,,{‎(葉月)ハァ... お母様ったら\N‎本当に分からず屋なんだから}Mama nih memang susah diajak diskusi.
+Dialogue: 0,0:07:38.34,0:07:40.55,Dialog,,0,0,0,,{‎ごめんなさいねえ 美世ちゃん}Maaf, ya, Neng Miyo.
+Dialogue: 0,0:07:40.55,0:07:43.88,Dialog,,0,0,0,,{‎せっかく今日は\N‎衣装の確認がしたくて呼んだのに...}Padahal hari ini bahannya sudah jadi.
+Dialogue: 0,0:07:43.88,0:07:45.14,Dialog,,0,0,0,,{‎いえ}Tidak masalah.
+Dialogue: 0,0:07:45.14,0:07:48.89,Dialog,,0,0,0,,{‎わざわざお時間を作っていただいて\N‎ありがとうございます}Terima kasih meluangkan waktu hari ini.
+Dialogue: 0,0:07:49.37,0:07:54.63,Dialog,,0,0,0,,{‎色打掛とかドレスとか}Soal riasan atau model gaun, \Nmasih banyak yang perlu dipersiapkan.
+Dialogue: 0,0:07:54.65,0:07:57.44,Dialog,,0,0,0,,{‎まず 今日\N‎見てもらいたいものがあってね}Aku ingin kamu melihat barangnya.
+Dialogue: 0,0:07:57.44,0:07:58.98,Dialog,,0,0,0,,{‎桂子(けいこ)‎さん?}Mbok Keiko!
+Dialogue: 0,0:07:58.98,0:08:01.40,Dialog,,0,0,0,,{‎(桂子)は~い ただ今}Baik, segera datang.
+Dialogue: 0,0:08:02.95,0:08:07.41,Dialog,,0,0,0,,{‎お待たせいたしました\N‎ご準備 整いましたよ}Maaf menunggu.\NPesanan Anda telah siap.
+Dialogue: 0,0:08:17.92,0:08:19.42,Dialog,,0,0,0,,{‎キレイ...}Indah ....
+Dialogue: 0,0:08:19.53,0:08:26.37,Dialog,,0,0,0,,Itu model ketika Mama dipinang oleh Papa.
+Dialogue: 0,0:08:26.89,0:08:29.68,Dialog,,0,0,0,,{‎そんな大切なものを私に?}Sesuatu yang berharga ini untukku?
+Dialogue: 0,0:08:29.83,0:08:31.31,Dialog,,0,0,0,,{‎そうよ}Tentu.
+Dialogue: 0,0:08:31.31,0:08:34.85,Dialog,,0,0,0,,{‎美世ちゃん\N‎あなたに受け継いでもらいたいの}Neng Miyo, kami ingin kamu mewarisinya.
+Dialogue: 0,0:08:34.85,0:08:36.44,Dialog,,0,0,0,,{‎イヤじゃないかしら?}Tak keberatan?
+Dialogue: 0,0:08:38.73,0:08:41.94,Dialog,,0,0,0,,{‎イヤなわけ... ありません}Mana mungkin keberatan.
+Dialogue: 0,0:08:52.04,0:08:53.25,Dialog,,0,0,0,,{‎美世?}Miyo?
+Dialogue: 0,0:08:53.79,0:08:56.85,Dialog,,0,0,0,,{‎(美世)ごめんなさい}Maaf, saking senangnya ....
+Dialogue: 0,0:08:57.96,0:08:59.86,Dialog,,0,0,0,,{‎私のお母様が\N‎斎森(さいもり)‎家に嫁ぐ時に着た衣装は}Kenangan gaun Ibunda ...
+Dialogue: 0,0:08:59.86,0:09:05.49,Dialog,,0,0,0,,... saat menjadi keluarga Saimori sudah tak ada.
+Dialogue: 0,0:09:05.91,0:09:12.66,Dialog,,0,0,0,,{‎だから 私が\N‎誰かから何かを受け継ぐことなんて}Jadi saya merasa tak mungkin \Ndapat warisan dari seseorang.
+Dialogue: 0,0:09:12.68,0:09:14.48,Dialog,,0,0,0,,{‎美世ちゃん...}Miyo ....
+Dialogue: 0,0:09:16.44,0:09:22.34,Dialog,,0,0,0,,{‎(芙由)まったく}Duh, gaun doang.\NJangan merengek gitu.
+Dialogue: 0,0:09:24.84,0:09:26.44,Dialog,,0,0,0,,{‎あ... ありがとうございます}Terima kasih.
+Dialogue: 0,0:09:26.45,0:09:27.49,Dialog,,0,0,0,,{‎(芙由)フン...}Hmph ....
+Dialogue: 0,0:09:27.49,0:09:29.32,Dialog,,0,0,0,,{‎あらあら~}Ara, ara ....
+Dialogue: 0,0:09:29.32,0:09:36.81,Dialog,,0,0,0,,{‎お母様だって\N‎この白無垢を頂いた時}Mama sendiri ketika melihat gaun ini\Nmenangis bahagia kata Papa.
+Dialogue: 0,0:09:37.33,0:09:38.92,Dialog,,0,0,0,,{‎(芙由)お黙り!}Diam kamu!
+Dialogue: 0,0:09:41.50,0:09:42.50,Dialog,,0,0,0,,{‎(清霞)フゥ...}Hadeh.
+Dialogue: 0,0:09:42.50,0:09:45.00,Dialog,,0,0,0,,{‎騒がしくてすまなかったな}Maaf berisik, ya.
+Dialogue: 0,0:09:45.44,0:09:48.26,Dialog,,0,0,0,,{‎(美世)いいえ\N‎とても楽しかったです}Tidak masalah.\NMengasikkan, kok.
+Dialogue: 0,0:09:49.43,0:09:51.05,Dialog,,0,0,0,,{‎懐かしいな}Nostalgia, ya.
+Dialogue: 0,0:09:51.85,0:09:56.54,Dialog,,0,0,0,,{‎前も お前が あんみつ}Sebelumnya kamu pesan \Ncamilan dan aku pesan teh.
+Dialogue: 0,0:09:58.08,0:09:59.85,Dialog,,0,0,0,,{‎あ... あの時は...}Saat itu ....
+Dialogue: 0,0:10:00.35,0:10:04.90,Dialog,,0,0,0,,{‎実は 緊張で\N‎味が よく分からなくて}Jujur, saking gugup tak tahu rasanya.
+Dialogue: 0,0:10:10.61,0:10:12.28,Dialog,,0,0,0,,{‎うまいか?}Enak?
+Dialogue: 0,0:10:12.28,0:10:16.31,Dialog,,0,0,0,,{‎はい}Ya, sangat lezat.
+Dialogue: 0,0:10:16.29,0:10:19.29,Dialog,,0,0,0,,{‎そうか よかった}Begitu, ya.\NSyukurlah.
+Dialogue: 0,0:10:20.17,0:10:24.54,Dialog,,0,0,0,,{‎思い返せば\N‎あの頃から私たちも随分変わったな}Diingat-ingat kalau dibandingkan dulu,\Nkita banyak berubah, ya.
+Dialogue: 0,0:10:24.55,0:10:26.21,Dialog,,0,0,0,,{‎(美世)え?}Eh?
+Dialogue: 0,0:10:26.21,0:10:29.05,Dialog,,0,0,0,,{‎(清霞)お前は\N‎よく笑うようになった}Kamu kini banyak tersenyum.
+Dialogue: 0,0:10:35.14,0:10:37.06,Dialog,,0,0,0,,{‎どうかしたか?}Ada apa?
+Dialogue: 0,0:10:38.41,0:10:40.14,Dialog,,0,0,0,,{‎フフ... なんでもありません}Nggak ada, kok.
+Dialogue: 0,0:11:04.96,0:11:05.96,Dialog,,0,0,0,,{‎あれは...}Itu ....
+Dialogue: 0,0:11:08.84,0:11:10.34,Dialog,,0,0,0,,{‎(清霞)鷹倉(たかくら)様?}Tuan Takakura?
+Dialogue: 0,0:11:16.10,0:11:18.89,Dialog,,0,0,0,,{‎\N‎突然の訪問 申し訳ありません}Maaf mendadak bertamu.
+Dialogue: 0,0:11:18.89,0:11:23.65,Dialog,,0,0,0,,{‎いや あなたが来るということは\N‎よほどのことなのだろう}Tidak masalah.\NAnda datang mendadak pasti sangat penting.
+Dialogue: 0,0:11:23.65,0:11:24.61,Dialog,,0,0,0,,{‎それで?}Terus?
+Dialogue: 0,0:11:26.44,0:11:30.84,Dialog,,0,0,0,,{‎今日は}Saya datang mengajukan saran \Nkepada Nona Miyo untuk ke depannya.
+Dialogue: 0,0:11:30.86,0:11:33.61,Dialog,,0,0,0,,{‎わ... 私ですか?}Untuk saya?
+Dialogue: 0,0:11:33.61,0:11:36.08,Dialog,,0,0,0,,{‎(鷹倉)単刀直入に申し上げます}Maaf, langsung ke topik.
+Dialogue: 0,0:11:36.66,0:11:40.25,Dialog,,0,0,0,,{‎宮内省として\N‎あなたを宮城にお迎えしたい}Dapertemen ingin Anda tinggal di Istana.
+Dialogue: 0,0:11:41.04,0:11:42.75,Dialog,,0,0,0,,{‎宮城...}Istana.
+Dialogue: 0,0:11:42.75,0:11:48.50,Dialog,,0,0,0,,{‎もちろん美世様の婚約者である\N‎久堂少佐もご一緒に です}Tentu tunangan Anda juga ikut.
+Dialogue: 0,0:11:49.38,0:12:00.54,Dialog,,0,0,0,,{‎これまで薄刃家は\N‎異能者の抑止力として}Selama ini keluarga Usuba dikenal\Nsebagai terkuat di negeri ini.
+Dialogue: 0,0:12:01.10,0:12:06.09,Dialog,,0,0,0,,{‎しかしながら\N‎こたびの事件によって}Namun yang awal damai ...
+Dialogue: 0,0:12:06.09,0:12:13.30,Dialog,,0,0,0,,... kemunculan Usui membuat semuanya kacau.
+Dialogue: 0,0:12:13.72,0:12:17.76,Dialog,,0,0,0,,{‎これからの帝都は\N‎二度と同じ‎轍(てつ)‎を踏まぬよう}Kami berharap Anda\Nsebagai pengatur ibukota ...
+Dialogue: 0,0:12:17.76,0:12:26.27,Dialog,,0,0,0,,... agar tak terulang\Nkejadian yang sama.
+Dialogue: 0,0:12:29.30,0:12:30.50,Dialog,,0,0,0,,{‎美世様}Nona Miyo.
+Dialogue: 0,0:12:31.09,0:12:33.49,Dialog,,0,0,0,,{‎これからの帝都の安寧を守るため}Demi kedamain ke depan ...
+Dialogue: 0,0:12:33.61,0:12:38.28,Dialog,,0,0,0,,... kami ingin Anda melindungi kota\Nbersama Tuan Takaihito.
+Dialogue: 0,0:12:38.89,0:12:40.47,Dialog,,0,0,0,,{‎(美世)それは...}Itu ....
+Dialogue: 0,0:12:41.39,0:12:44.56,Dialog,,0,0,0,,{‎(鷹倉)もちろん\N‎悪いようにはいたしません}Tentu, kami tidak akan \Nberbuat jahat pada kalian.
+Dialogue: 0,0:12:45.00,0:12:47.17,Dialog,,0,0,0,,{‎御身をお預かりする以上}Selama di istana ...
+Dialogue: 0,0:12:47.17,0:12:51.21,Dialog,,0,0,0,,... dijamin tak ada yang\Nmengganggu kehidupan kalian.
+Dialogue: 0,0:12:52.65,0:12:56.61,Dialog,,0,0,0,,{‎突然の申し出\N‎戸惑われたことでしょう}Tiba-tiba meminta begini, \Nkalian pasti kebingungan.
+Dialogue: 0,0:12:56.61,0:12:59.62,Dialog,,0,0,0,,{‎今日のところは\N‎これにて失礼いたします}Hari ini cukup sekian. \NPermisi.
+Dialogue: 0,0:13:00.12,0:13:02.58,Dialog,,0,0,0,,{‎ゆっくりお考えください}Tolong pikirkan baik-baik.
+Dialogue: 0,0:13:29.44,0:13:31.94,Dialog,,0,0,0,,{‎本当に辞めちゃうんですか? 隊長}Beneran pensiun, Komandan?
+Dialogue: 0,0:13:31.94,0:13:34.44,Dialog,,0,0,0,,{‎ああ 辞める}Ya, pensiun.
+Dialogue: 0,0:13:35.74,0:13:38.20,Dialog,,0,0,0,,{‎隊長は無責任ですよ}Komandan tuh tak bertanggung jawab.
+Dialogue: 0,0:13:40.12,0:13:44.93,Dialog,,0,0,0,,{‎隊長がいなくなったら}Jika Anda pensiun, \Nsiapa yang harus kukejar.
+Dialogue: 0,0:13:46.75,0:13:50.21,Dialog,,0,0,0,,{‎お前は 案外\N‎自分のことを分かっていないんだな}Kamu tak sadar hebatnya dirimu, ya.
+Dialogue: 0,0:13:50.73,0:13:56.07,Dialog,,0,0,0,,{‎そもそも私がいなくとも\N‎大丈夫だと証明したのは}Lagipula yang membuktikan \Nkalau aman tanpaku itu kamu, loh.
+Dialogue: 0,0:13:56.05,0:13:56.97,Dialog,,0,0,0,,{‎(五道)え?}Eh?
+Dialogue: 0,0:13:57.24,0:13:59.32,Dialog,,0,0,0,,{‎よくあの状況の中\N‎隊を率いて帝を救い出した}Ketika aku tak ada ...
+Dialogue: 0,0:13:59.32,0:14:01.91,Dialog,,0,0,0,,... kamu memimpin pasukan\Ndan mengamankan Baginda.
+Dialogue: 0,0:14:02.18,0:14:05.72,Dialog,,0,0,0,,{‎あれは間違いなく\N‎お前自身の功績だ}Tak salah lagi itu prestasimu.
+Dialogue: 0,0:14:06.81,0:14:08.31,Dialog,,0,0,0,,{‎自信を持て!}Percaya dirilah!
+Dialogue: 0,0:14:11.81,0:14:12.90,Dialog,,0,0,0,,{‎五道}Godou!
+Dialogue: 0,0:14:12.90,0:14:16.73,Dialog,,0,0,0,,{‎私が隊長を務められたのは\N‎お前のおかげだ}Aku jadi komandan ini tuh berkat ayahmu.
+Dialogue: 0,0:14:16.74,0:14:21.49,Dialog,,0,0,0,,{‎そして 今度は お前が\N‎その役目を引き継ぐ番だ}Kini, kamu yang meneruskan tekat kami.
+Dialogue: 0,0:14:25.29,0:14:28.00,Dialog,,0,0,0,,{‎できますかね? 俺に}Aku sanggup melakukannya?
+Dialogue: 0,0:14:28.58,0:14:30.87,Dialog,,0,0,0,,{‎ああ できる}Ya, sanggup.
+Dialogue: 0,0:14:33.52,0:14:34.75,Dialog,,0,0,0,,{‎(五道)フッ... ったく}Haduh.
+Dialogue: 0,0:14:51.15,0:14:53.27,Dialog,,0,0,0,,{‎(美世)お隣よろしいですか?}Boleh duduk di samping Anda?
+Dialogue: 0,0:14:54.94,0:14:56.07,Dialog,,0,0,0,,{‎(清霞)ああ}Ya, boleh.
+Dialogue: 0,0:15:00.28,0:15:02.32,Dialog,,0,0,0,,{‎今夜は暖かいな}Malam ini terasa hangat, ya.
+Dialogue: 0,0:15:02.32,0:15:06.39,Dialog,,0,0,0,,{‎本当...}Benar, sebentar lagi musim semi, ya.
+Dialogue: 0,0:15:08.37,0:15:11.79,Dialog,,0,0,0,,{‎実は... 軍を辞めることにした}Sejujurnya, aku pensiun dari militer.
+Dialogue: 0,0:15:12.42,0:15:13.29,Dialog,,0,0,0,,{‎えっ...}Eh ....
+Dialogue: 0,0:15:14.46,0:15:15.75,Dialog,,0,0,0,,{‎どうして...}Kenapa?
+Dialogue: 0,0:15:15.75,0:15:17.80,Dialog,,0,0,0,,{‎驚かせてすまない}Maaf bikin kaget.
+Dialogue: 0,0:15:19.38,0:15:23.80,Dialog,,0,0,0,,{‎初めから私は\N‎軍人には向いていなかったのだろう}Dari awal mungkin aku tak cocok jadi militer.
+Dialogue: 0,0:15:23.80,0:15:28.81,Dialog,,0,0,0,,{‎でも せっかく ずっと軍で\N‎働いていらっしゃったのに}Namun Anda tekun bekerja selama ini.
+Dialogue: 0,0:15:29.29,0:15:34.06,Dialog,,0,0,0,,{‎もともと最初は 軍に入ろうとは\N‎考えていなかったからな}Awalnya aku tak kepikiran masuk militer, sih.
+Dialogue: 0,0:15:36.94,0:15:37.94,Dialog,,0,0,0,,{‎美世}Miyo.
+Dialogue: 0,0:15:39.65,0:15:43.64,Dialog,,0,0,0,,{‎私の望みは\N‎お前と共に生きることだ}Keinginanku hidup damai bersamamu.
+Dialogue: 0,0:15:44.16,0:15:50.89,Dialog,,0,0,0,,{‎できることなら}Sebisa mungkin mulai kini aku\Ningin lindungi kebahagiaan bersamamu.
+Dialogue: 0,0:15:52.25,0:15:56.08,Dialog,,0,0,0,,{‎(美世)大事なお役目なのに\N‎本当によいのですか?}Padahal peran penting.\NYakin ditinggalkan?
+Dialogue: 0,0:15:56.44,0:15:59.44,Dialog,,0,0,0,,{‎私が お前といたいんだ}Aku ingin selalu bersamamu.
+Dialogue: 0,0:16:04.30,0:16:07.97,Dialog,,0,0,0,,{‎(美世)旦那様が\N‎そうしたいと思われるのでしたら}Jika segitunya Anda kepada saya.
+Dialogue: 0,0:16:08.47,0:16:10.97,Dialog,,0,0,0,,{‎私は旦那様を応援いたします}Saya akan mendukung Anda.
+Dialogue: 0,0:16:11.75,0:16:12.98,Dialog,,0,0,0,,{‎フッ... 応援か}Mendukung, ya?
+Dialogue: 0,0:16:12.98,0:16:16.21,Dialog,,0,0,0,,{‎はい}Ya, mendukung Anda.
+Dialogue: 0,0:16:19.82,0:16:21.23,Dialog,,0,0,0,,{‎旦那様?}Suamiku?
+Dialogue: 0,0:16:22.78,0:16:25.66,Dialog,,0,0,0,,{‎いや ありがたく受け取っておく}Tidak, aku terima niatmu.
+Dialogue: 0,0:16:25.66,0:16:28.31,Dialog,,0,0,0,,{‎それで 美世}Lalu kamu sendiri?
+Dialogue: 0,0:16:28.33,0:16:29.24,Dialog,,0,0,0,,{‎(美世)え?}Apa?
+Dialogue: 0,0:16:29.47,0:16:31.02,Dialog,,0,0,0,,{‎鷹倉様の件\N‎何か思うことがあるのならば}Tentang kerja di istana ...
+Dialogue: 0,0:16:31.31,0:16:33.56,Dialog,,0,0,0,,... jika ada yang kamu risaukan,
+Dialogue: 0,0:16:33.56,0:16:35.35,Dialog,,0,0,0,,katakan saja.
+Dialogue: 0,0:16:38.48,0:16:41.69,Dialog,,0,0,0,,{‎(美世)‎私は 気が付いたんです}Saya menyadari ...
+Dialogue: 0,0:16:42.24,0:16:47.41,Dialog,,0,0,0,,... banyak kebahagiaan\Nyang Anda berikan di rumah ini.
+Dialogue: 0,0:16:48.47,0:16:53.89,Dialog,,0,0,0,,{‎大切な人と笑い合える日々が\N‎こんなに幸せだということ}Tertawa bersama\Norang tersayang membuat bahagia.
+Dialogue: 0,0:16:55.48,0:16:59.42,Dialog,,0,0,0,,{‎私...}Saya tak ingin pindah.
+Dialogue: 0,0:17:01.44,0:17:02.40,Dialog,,0,0,0,,{‎そうか}Begitu, ya.
+Dialogue: 0,0:17:02.88,0:17:06.41,Dialog,,0,0,0,,{‎分かった\N‎ならば そうしよう}Baiklah.\NBerarti begitu saja.
+Dialogue: 0,0:17:18.75,0:17:19.75,Dialog,,0,0,0,,{‎美世}Miyo.
+Dialogue: 0,0:17:21.71,0:17:23.92,Dialog,,0,0,0,,{‎だ... 旦那様...}Su-Suamiku ....
+Dialogue: 0,0:17:24.72,0:17:26.93,Dialog,,0,0,0,,{‎私も同じ気持ちだ}Perasaanku juga sama.
+Dialogue: 0,0:17:27.99,0:17:31.49,Dialog,,0,0,0,,{‎ずっと ここにいよう\N‎共に暮らそう}Mari hidup di sini selamanya ...
+Dialogue: 0,0:17:32.12,0:17:33.79,Dialog,,0,0,0,,... bersama anak kita nanti.
+Dialogue: 0,0:17:36.48,0:17:37.60,Dialog,,0,0,0,,{‎(美世)はい}Baik.
+Dialogue: 0,0:17:48.99,0:17:50.95,Dialog,,0,0,0,,{‎(堯人)よくぞ参った}Terima kasih sudah datang.
+Dialogue: 0,0:17:51.10,0:17:55.95,Dialog,,0,0,0,,{‎この度は 謁見をお許しくださり\N‎ありがとうございます}Tempo lalu terima kasih melindungi kami.
+Dialogue: 0,0:17:55.95,0:17:58.87,Dialog,,0,0,0,,{‎(堯人)そう堅苦しくせずともよい}Tak perlu kaku begitu.
+Dialogue: 0,0:17:58.87,0:18:03.09,Dialog,,0,0,0,,{‎2人とも\N‎甘水 直の件では苦労をかけた}Kalian berdua kerepotan dengan kasus Usui.
+Dialogue: 0,0:18:03.80,0:18:06.09,Dialog,,0,0,0,,{‎見事な活躍であったぞ}Itu pencapaian yang luar biasa.
+Dialogue: 0,0:18:06.09,0:18:08.22,Dialog,,0,0,0,,{‎私は何も...}Saya tak melakukan apa pun.
+Dialogue: 0,0:18:08.22,0:18:13.10,Dialog,,0,0,0,,{‎全て堯人様と\N‎彼女の力あってこそです}Semua berkat Anda dan kekuatan dia.
+Dialogue: 0,0:18:13.10,0:18:20.17,Dialog,,0,0,0,,{そのような中で}Selama kami mengajukan saran, \Npasti kalian kebingungan.
+Dialogue: 0,0:18:21.44,0:18:25.36,Dialog,,0,0,0,,{‎清霞 少し外してはくれぬか}Kiyoka, bisa beranjak sebentar?
+Dialogue: 0,0:18:26.03,0:18:27.49,Dialog,,0,0,0,,{‎承知いたしました}Dimengerti.
+Dialogue: 0,0:18:32.07,0:18:33.20,Dialog,,0,0,0,,{‎頑張れ}Semangat.
+Dialogue: 0,0:18:40.79,0:18:44.00,Dialog,,0,0,0,,{‎(堯人)清霞の前では\N‎言いづらいこともあろう}Pasti ada kalimat yang sulit\Ndikatakan di depan Kiyoka, 'kan?
+Dialogue: 0,0:18:44.80,0:18:48.28,Dialog,,0,0,0,,{‎さて 美世}Nah, Miyo, jawabanmu?
+Dialogue: 0,0:18:49.13,0:18:57.75,Dialog,,0,0,0,,{‎その件についてなのですが...}Tentang kekuatan ini, \Nmemang susuatu yang harus dipikul.
+Dialogue: 0,0:18:57.77,0:19:05.50,Dialog,,0,0,0,,{‎新たな異能者の体制を作るために}Demi mengatasi kekuatan ke depan,\Nsaya harus tinggal di istana.
+Dialogue: 0,0:19:06.57,0:19:13.01,Dialog,,0,0,0,,{‎せっかく覚醒させた力を}Kekuatan yang bangkit ini, \Nsaya paham ini tidak boleh digunakan.
+Dialogue: 0,0:19:13.03,0:19:22.02,Dialog,,0,0,0,,{‎けれど 異能を使うということは}Namun menggunakan kekuatan berarti \Ntak kenal takut tanpa tutup mata.
+Dialogue: 0,0:19:22.04,0:19:27.75,Dialog,,0,0,0,,{‎実際に刃(やいば)を突きつけられて\N‎銃口を突きつけられて...}Berhadapan dengan pedang dan senjata api ...
+Dialogue: 0,0:19:28.51,0:19:31.05,Dialog,,0,0,0,,{‎身も凍るような思いでした}... membuat saya punya kenangan buruk.
+Dialogue: 0,0:19:31.28,0:19:35.80,Dialog,,0,0,0,,{‎私はもう\N‎異能に振り回されたくない}Saya tak ingin dihantui kekuatan.
+Dialogue: 0,0:19:35.80,0:19:38.35,Dialog,,0,0,0,,{戦いたくないのです}Tak ingin bertarung.
+Dialogue: 0,0:19:38.35,0:19:42.56,Dialog,,0,0,0,,{できれば異能自体\Nもう使いたくありません}Sebisa mungkin tak ada kekuatan.
+Dialogue: 0,0:19:43.56,0:19:49.32,Dialog,,0,0,0,,{‎今回ご提案いただいたお役目は\N‎私には分不相応です}Saya merasa tak pantas \Nmengemban saran Anda.
+Dialogue: 0,0:19:51.40,0:19:57.35,Dialog,,0,0,0,,{‎それに何より}Lagipula saya tak ingin melepas\Nsesuatu yang berharga.
+Dialogue: 0,0:20:01.50,0:20:03.83,Dialog,,0,0,0,,{‎そなたの大事なものとは?}Sesuatu yang berharga bagi engkau itu apa?
+Dialogue: 0,0:20:04.88,0:20:06.29,Dialog,,0,0,0,,{‎それは...}Itu ....
+Dialogue: 0,0:20:07.50,0:20:13.95,Dialog,,0,0,0,,{‎大好きな人たちと 旦那様と}Keseharian bersama orang\Nyang saya cintai.
+Dialogue: 0,0:20:16.43,0:20:18.97,Dialog,,0,0,0,,{‎それで 本当によいのだな?}Itu keputusanmu, ya?
+Dialogue: 0,0:20:20.22,0:20:21.22,Dialog,,0,0,0,,{‎はい}Ya.
+Dialogue: 0,0:20:27.23,0:20:28.98,Dialog,,0,0,0,,{‎聞き入れた}Aku menyerah.
+Dialogue: 0,0:20:35.57,0:20:42.89,Dialog,,0,0,0,,{‎(堯人)美世}Miyo, melalui cobaan sebelumnya ...
+Dialogue: 0,0:20:42.89,0:20:45.52,Dialog,,0,0,0,,... kamu menemukan susuatu, 'kan?
+Dialogue: 0,0:20:46.25,0:20:50.00,Dialog,,0,0,0,,{‎見つけたのだな そなたの幸せを}Kamu menemukan kebahagianmu, ya.
+Dialogue: 0,0:20:50.88,0:20:52.01,Dialog,,0,0,0,,{‎はい}Ya.
+Dialogue: 0,0:20:53.01,0:20:58.51,Dialog,,0,0,0,,{‎ならば それに水を差す道理など\N‎誰にもなかろう}Berarti tak ada satu pun melarangmu.
+Dialogue: 0,0:21:04.06,0:21:06.08,Dialog,,0,0,0,,{‎(堯人)‎美世 清霞}Miyo, Kiyoka ...
+Dialogue: 0,0:21:06.08,0:21:10.38,Dialog,,0,0,0,,... tangan itu, jangan dilepaskan.
+Dialogue: 0,0:21:22.54,0:21:23.79,Dialog,,0,0,0,,{‎(美世)旦那様}Suamiku.
+Dialogue: 0,0:21:25.75,0:21:29.50,Dialog,,0,0,0,,{‎帝都って\N‎こんなにも広かったんですね}Ibukota ternyata sangat luas, ya.
+Dialogue: 0,0:21:29.50,0:21:30.54,Dialog,,0,0,0,,{‎ああ}Ya.
+Dialogue: 0,0:21:35.72,0:21:36.72,Dialog,,0,0,0,,{‎美世}Miyo.
+Dialogue: 0,0:21:37.34,0:21:38.47,Dialog,,0,0,0,,{‎(美世)はい}Ya.
+Dialogue: 0,0:21:45.06,0:21:46.56,Dialog,,0,0,0,,{‎ステキ...}Indah sekali.
+Dialogue: 0,0:21:48.06,0:21:50.19,Dialog,,0,0,0,,{‎お前に似合うと思ってな}Kupikir kamu akan cocok memakainya.
+Dialogue: 0,0:21:50.94,0:21:52.61,Dialog,,0,0,0,,{‎これを私に?}Anda memberikan ini untuk saya?
+Dialogue: 0,0:21:52.61,0:21:55.40,Dialog,,0,0,0,,{‎ああ 受け取ってくれるか?}Ya, mau kau terima?
+Dialogue: 0,0:21:56.90,0:21:58.70,Dialog,,0,0,0,,{‎ありがとうございます}Terima kasih.
+Dialogue: 0,0:22:01.07,0:22:03.95,Dialog,,0,0,0,,{‎挿して... くださいますか?}Bisa pasangkan?
+Dialogue: 0,0:22:05.45,0:22:06.46,Dialog,,0,0,0,,{‎ああ}Ya.
+Dialogue: 0,0:22:12.92,0:22:14.46,Dialog,,0,0,0,,{‎(美世)どうでしょうか?}Bagaimana?
+Dialogue: 0,0:22:15.88,0:22:17.72,Dialog,,0,0,0,,{‎似合いますか?}Terlihat cocok?
+Dialogue: 0,0:22:18.30,0:22:21.30,Dialog,,0,0,0,,{‎ああ かわいらしい}Ya, terlihat menawan.
+Dialogue: 0,0:22:27.14,0:22:28.23,Dialog,,0,0,0,,{‎あ!}Ah.
+Dialogue: 0,0:22:28.23,0:22:30.94,Dialog,,0,0,0,,{‎旦那様 私も...}Suamiku.\NAku juga ....
+Dialogue: 0,0:22:36.63,0:22:38.51,Dialog,,0,0,0,,{‎(清霞)ん?}Ikat rambut yang baru, ya.
+Dialogue: 0,0:22:38.53,0:22:39.49,Dialog,,0,0,0,,{‎(美世)はい}Ya.
+Dialogue: 0,0:22:40.36,0:22:44.12,Dialog,,0,0,0,,{‎旦那様\N‎後ろを向いてくださいますか?}Suamiku bisa berbalik?
+Dialogue: 0,0:22:44.70,0:22:45.70,Dialog,,0,0,0,,{‎ああ}Ya.
+Dialogue: 0,0:22:51.71,0:22:53.38,Dialog,,0,0,0,,{‎とってもステキです}Sungguh terlihat gagah.
+Dialogue: 0,0:22:55.38,0:22:56.71,Dialog,,0,0,0,,{‎ありがとう}Terima kasih.
+Dialogue: 0,0:22:59.55,0:23:00.72,Dialog,,0,0,0,,{‎(美世)あ...}
+Dialogue: 0,0:23:00.72,0:23:01.89,Dialog,,0,0,0,,{‎美世}Miyo.
+Dialogue: 0,0:23:02.47,0:23:04.24,Dialog,,0,0,0,,{‎牢(ろう)‎にいた時}Saat di penjara ...
+Dialogue: 0,0:23:04.24,0:23:09.87,Dialog,,0,0,0,,... hari-hari yang kuhabiskan \Ndenganmu tiada gantinya.
+Dialogue: 0,0:23:10.48,0:23:15.40,Dialog,,0,0,0,,{‎僅かな時間 離れるくらい\N‎何ともないと考えていた}Sudah kucoba lupakan sedikit ...
+Dialogue: 0,0:23:16.15,0:23:20.95,Dialog,,0,0,0,,{‎だが 私は もうとっくに\N‎お前がいないとダメらしい}... tapi dasarnya aku tak bisa tanpamu.
+Dialogue: 0,0:23:21.86,0:23:23.41,Dialog,,0,0,0,,{‎旦那様...}Suamiku.
+Dialogue: 0,0:23:27.49,0:23:31.41,Dialog,,0,0,0,,{‎(清霞)美世\N‎お前は 私の命だ}Miyo, kamu tuh nyawaku.
+Dialogue: 0,0:23:33.17,0:23:36.92,Dialog,,0,0,0,,{‎私と 結婚してほしい}Menikahlah denganku.
+Dialogue: 0,0:23:47.51,0:23:48.64,Dialog,,0,0,0,,{‎はい}Ya.
+Dialogue: 0,0:23:52.02,0:23:53.60,Dialog,,0,0,0,,{‎喜んで}Dengan senang hati.
+Dialogue: 0,0:23:59.53,0:24:02.61,Dialog,,0,0,0,,{‎愛しています 清霞さん}Aku mencintaimu, Kiyoka.
+Dialogue: 0,0:24:10.04,0:24:12.75,Dialog,,0,0,0,,{‎ああ 私もだ}Ya, aku juga.
+Dialogue: 0,0:24:26.76,0:24:29.22,Dialog,,0,0,0,,{‎あっ 旦那様}Ah, suamiku.
+Dialogue: 0,0:24:29.74,0:24:30.83,Dialog,,0,0,0,,{‎おはようございます}Selamat pagi.
+Dialogue: 0,0:24:31.33,0:24:32.96,Dialog,,0,0,0,,{‎おはようございます}Selamat pagi.
+Dialogue: 0,0:24:36.86,0:24:37.81,Dialog,,0,0,0,,{‎(清霞)美世}Miyo.
+Dialogue: 0,0:24:37.81,0:24:38.73,Dialog,,0,0,0,,{‎はい}Ya.
+Dialogue: 0,0:24:39.77,0:24:41.78,Dialog,,0,0,0,,{‎もしよければだが...}Jika tak keberatan sih.
+Dialogue: 0,0:24:42.36,0:24:44.99,Dialog,,0,0,0,,{‎この庭に桜を植えないか?}Mau nanam pohon sakura di taman ini?
+Dialogue: 0,0:24:44.99,0:24:48.74,Dialog,,0,0,0,,{‎私たちの 結婚の記念に}Sebagai pengingat pernikahan kita.
+Dialogue: 0,0:24:51.58,0:24:52.95,Dialog,,0,0,0,,{‎はい}Baik.
+Dialogue: 0,0:24:52.95,0:24:57.00,Dialog,,0,0,0,,{‎すごく すごくステキだと思います}Menurutku sangat indah.
+Dialogue: 0,0:24:58.04,0:24:59.17,Dialog,,0,0,0,,{‎そうか}Begitu, ya.
+Dialogue: 0,0:25:00.21,0:25:02.55,Dialog,,0,0,0,,{‎では そうしよう}Nah, nanti kita tanam.
