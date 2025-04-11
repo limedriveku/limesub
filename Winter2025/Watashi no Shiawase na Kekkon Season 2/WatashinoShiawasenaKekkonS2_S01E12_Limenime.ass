@@ -12,7 +12,6 @@ PlayResY: 1080
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.250000
-Active Line: 10
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,236 +29,236 @@ Style: Dialog,Basic Comical NC,70,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.72,0:00:17.05,Dialog,,0,0,0,,{Let me welcome you to my castle,}Selamat datang di istanaku,
-Dialogue: 0,0:00:17.64,0:00:19.39,Dialog,,0,0,0,,{maiden of Dream-Sight.}wahai Gadis Mata Mimpi.
-Dialogue: 0,0:00:22.43,0:00:24.94,Dialog,,0,0,0,,{I didn't think\Nyour ability would awaken so soon.}Tak kusangka bangkit lebih awal.
-Dialogue: 0,0:00:25.02,0:00:27.69,Dialog,,0,0,0,,{It seems I have misjudged you.}Aku sudah salah menilaimu.
-Dialogue: 0,0:00:27.77,0:00:32.32,Dialog,,0,0,0,,{Your ability got you here.\NThat's quite impressive.}Bisa ke sini pakai kekuatan,\Nsungguh mengesankan.
-Dialogue: 0,0:00:32.40,0:00:37.32,Dialog,,0,0,0,,{I didn't come here\Nso you can make your ideal world.}Saya ke sini bukan untuk\Nmewujudkan dunia ideal Anda.
-Dialogue: 0,0:00:38.91,0:00:41.08,Dialog,,0,0,0,,{You haven't reflected on yourself, I see.}Masih membangkang, ya.
-Dialogue: 0,0:00:41.16,0:00:43.83,Dialog,,0,0,0,,{You need to be punished.}Kamu perlu diajari, nih.
-Dialogue: 0,0:00:49.92,0:00:53.09,Dialog,,0,0,0,,{Then this is the perfect chance}Kuperlihatkan saja di depan matamu ...
-Dialogue: 0,0:00:53.59,0:00:57.43,Dialog,,0,0,0,,{to torture your precious Kiyoka Kudo\Nuntil he dies.}... menyiksa Kudou Kiyoka tercintamu.
-Dialogue: 0,0:02:28.14,0:02:32.13,Episode Title,,0,0,0,,{\fs65\c&H8E6EDC&\pos(964,538)}Perasaan Melampaui Mimpi
-Dialogue: 0,0:02:34.40,0:02:35.90,Dialog,,0,0,0,,{Miyo, stay back.}Miyo, menjauhlah.
-Dialogue: 0,0:02:40.78,0:02:43.45,Dialog,,0,0,0,,{Now, shall we begin?}Nah, kita mulai?
-Dialogue: 0,0:02:50.50,0:02:51.46,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>An illusion?</i>}Ilusi?
-Dialogue: 0,0:02:57.09,0:02:59.17,Dialog,,0,0,0,,{Good reaction speed.}Reflek yang cukup bagus.
-Dialogue: 0,0:02:59.67,0:03:02.59,Dialog,,0,0,0,,{I can tell you've been training hard.}Pasti sudah berlatih keras.
-Dialogue: 0,0:03:03.93,0:03:05.05,Dialog,,0,0,0,,{Shut up!}Diam!
-Dialogue: 0,0:03:12.06,0:03:13.35,Dialog,,0,0,0,,{Now we're talking.}Harus serius begitu.
-Dialogue: 0,0:03:46.60,0:03:48.77,Dialog,,0,0,0,,{Why are you in pain?}Kesakitan apa, sih?
-Dialogue: 0,0:03:52.81,0:03:54.27,Dialog,,0,0,0,,{You understand, don't you?}Sudah tahu, 'kan?
-Dialogue: 0,0:03:54.35,0:03:58.73,Dialog,,0,0,0,,{My ability can control all your senses.}Kekuatanku bisa\Nmengendalikan semua indera.
-Dialogue: 0,0:03:58.82,0:03:59.78,Dialog,,0,0,0,,{Damn you…}Bangsat ....
-Dialogue: 0,0:04:00.36,0:04:03.03,Dialog,,0,0,0,,{You can even control\Nother people's senses?}Bahkan bisa mengendalikan indra orang?
-Dialogue: 0,0:04:03.11,0:04:07.10,Dialog,,0,0,0,,{The wound\Nconjured from your distorted senses}Luka yang hilang tiba-tiba muncul ...
-Dialogue: 0,0:04:07.10,0:04:10.06,Dialog,,0,0,0,,... akan melemahkan jantung.
-Dialogue: 0,0:04:10.12,0:04:13.04,Dialog,,0,0,0,,{Now, I wonder how long you'll last.}Nah, sampai kapan bertahan?
-Dialogue: 0,0:04:13.12,0:04:14.29,Dialog,,0,0,0,,{Sir!}Suamiku!
-Dialogue: 0,0:04:14.37,0:04:15.79,Dialog,,0,0,0,,{Please don't move.}Tolong jangan beranjak!
-Dialogue: 0,0:04:18.96,0:04:20.30,Dialog,,0,0,0,,{Arata…}Tuan Arata ...
-Dialogue: 0,0:04:21.05,0:04:22.22,Dialog,,0,0,0,,{Why are you…}... kenapa?
-Dialogue: 0,0:04:27.80,0:04:30.22,Dialog,,0,0,0,,{Oh my, that took longer than I thought.}Hedeh, sedikit makan waktu?
-Dialogue: 0,0:04:31.64,0:04:34.64,Dialog,,0,0,0,,{I doubt anyone\Nwould think that it did.}Ini emang patut dicontoh, ya.
-Dialogue: 0,0:04:41.07,0:04:43.28,Dialog,,0,0,0,,{You're brutal as ever.}Kau nih.\NBrutal seperti biasa.
-Dialogue: 0,0:04:43.36,0:04:46.41,Dialog,,0,0,0,,{You're supposed to say\NI get my job done fast.}Harusnya kau memujiku cekatan.
-Dialogue: 0,0:04:46.49,0:04:47.64,Dialog,,0,0,0,,{Mr. Godo, one of the followers we captured\Ntold us where Mikado is confined.}Tuan Godou!
-Dialogue: 0,0:04:47.64,0:04:51.33,Dialog,,0,0,0,,Sekte Semahan yang kami tangkap\Nmemberitahu lokasi Baginda.
-Dialogue: 0,0:04:51.41,0:04:52.79,Dialog,,0,0,0,,{Good job.}Kerja bagus.
-Dialogue: 0,0:04:52.87,0:04:56.87,Dialog,,0,0,0,,{He's on the top floor of the abandoned\Nformer official residence.}Katanya di lantai atas bekas aula.
-Dialogue: 0,0:04:57.75,0:04:58.71,Dialog,,0,0,0,,{I see.}Baiklah.
-Dialogue: 0,0:04:58.79,0:05:01.25,Dialog,,0,0,0,,{We'll take care of this place.}Kami urus yang itu.
-Dialogue: 0,0:05:01.75,0:05:04.72,Dialog,,0,0,0,,{You should go and carry out your duty.}Kamu tuntaskan peranmu saja.
-Dialogue: 0,0:05:05.47,0:05:06.30,Dialog,,0,0,0,,{Yes, sir!}Siap!
-Dialogue: 0,0:05:08.89,0:05:12.47,Dialog,,0,0,0,,{An illusion is only an illusion!}Ilusi tuh sekedar ilusi!
-Dialogue: 0,0:05:16.81,0:05:19.98,Dialog,,0,0,0,,{I like it. This is getting interesting!}Bagus juga.\NMulai menarik, nih!
-Dialogue: 0,0:05:43.59,0:05:49.01,Dialog,,0,0,0,,{It's delightful how the invincible\NKiyoka Kudo is getting slashed helplessly.}Menebas Kudou Kiyoka perlahan-lahan\Nrasanya menyenangkan.
-Dialogue: 0,0:05:58.02,0:05:59.65,Dialog,,0,0,0,,{It's no use.}Percuma saja.
-Dialogue: 0,0:06:26.63,0:06:28.34,Dialog,,0,0,0,,{You sure are frightening.}Ih, nakutin.
-Dialogue: 0,0:06:29.13,0:06:30.47,Dialog,,0,0,0,,{I see.}Begitu.
-Dialogue: 0,0:06:30.55,0:06:33.55,Dialog,,0,0,0,,{You were trying to lose the battle\Nto win the war, huh?}Sengaja diserang\Nagar dapat celah, ya?
-Dialogue: 0,0:06:33.64,0:06:36.39,Dialog,,0,0,0,,{Your plan ends here!}Rencanamu berakhir di sini!
-Dialogue: 0,0:06:36.47,0:06:38.81,Dialog,,0,0,0,,{I'll make sure to end it all!}Aku pasti akan mengakhirinya!
-Dialogue: 0,0:06:38.89,0:06:40.81,Dialog,,0,0,0,,{Pardon my manners.}Ada pahlawan, nih.
-Dialogue: 0,0:06:40.90,0:06:44.90,Dialog,,0,0,0,,{For the sake of your sincerity,\NI guess I should be sincere too.}Demi keadilanmu\Nperlu kuperlihatkan, ya.
-Dialogue: 0,0:06:45.40,0:06:46.73,Dialog,,0,0,0,,{Now…}Nah ....
-Dialogue: 0,0:06:55.16,0:06:58.08,Dialog,,0,0,0,,{Are you ready for hell?}Sudah siap menuju neraka?
-Dialogue: 0,0:07:08.17,0:07:09.38,Dialog,,0,0,0,,{This place…}Tempat ini ....
-Dialogue: 0,0:07:18.39,0:07:19.23,Dialog,,0,0,0,,{Miyo.}Miyo.
-Dialogue: 0,0:07:26.15,0:07:27.82,Dialog,,0,0,0,,{-Sir!\N-Miyo!}Suamiku!
-Dialogue: 0,0:07:27.90,0:07:30.07,Dialog,,0,0,0,,{Don't do anything stupid!}Jangan bertidak gegabah!
-Dialogue: 0,0:07:30.65,0:07:32.82,Dialog,,0,0,0,,{Please let me go! He's--}Lepaskan!\NSuamiku ....
-Dialogue: 0,0:07:32.91,0:07:36.20,Dialog,,0,0,0,,{Do you want him to suffer even more?}Anda ingin Tuan Kudou lebih tersiksa?
-Dialogue: 0,0:07:36.78,0:07:39.00,Dialog,,0,0,0,,{That's why I have to…}Itu sebabnya saya ingin ....
-Dialogue: 0,0:07:43.17,0:07:45.84,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Why…?</i>}Kenapa ...
-Dialogue: 0,0:07:48.67,0:07:52.57,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>-I must…</i>\N-Miyo?}... dia tak menolong Suamiku?
-Dialogue: 0,0:07:49.78,0:07:50.65,Dialog,,0,0,0,,{\an8}Miyo?
-Dialogue: 0,0:07:52.68,0:07:53.80,Dialog,,0,0,0,,{Miyo!\an8}Miyo?!
-Dialogue: 0,0:08:10.65,0:08:12.74,Dialog,,0,0,0,,{Miyo, are you all right?}Miyo, Anda baik-baik saja?
-Dialogue: 0,0:08:13.49,0:08:15.82,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Was that the future?</i>}Barusan masa depan?
-Dialogue: 0,0:08:16.74,0:08:17.74,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>If so…</i>}Jika iya.
-Dialogue: 0,0:08:18.66,0:08:20.08,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Arata will…</i>}Arata akan ....
-Dialogue: 0,0:08:20.58,0:08:22.00,Dialog,,0,0,0,,{Stop it.}Hentikan.
-Dialogue: 0,0:08:25.71,0:08:26.92,Dialog,,0,0,0,,{Stop!}Hentikan!
-Dialogue: 0,0:08:36.72,0:08:38.01,Dialog,,0,0,0,,{No!}Hentikan!
-Dialogue: 0,0:08:44.81,0:08:45.98,Dialog,,0,0,0,,{Sir!}Suamiku!
-Dialogue: 0,0:08:49.11,0:08:50.40,Dialog,,0,0,0,,{Miyo!}Miyo!
-Dialogue: 0,0:08:59.99,0:09:01.87,Dialog,,0,0,0,,{No!}Hentikan!
-Dialogue: 0,0:09:01.95,0:09:05.50,Dialog,,0,0,0,,{Your heart will die along with Miyo.}Miyo yang kau lihat\Nakan mati bersama jantungmu.
-Dialogue: 0,0:09:06.00,0:09:08.29,Dialog,,0,0,0,,{That's what you wish for, isn't it?}Itu yang kamu harapkan, 'kan?
-Dialogue: 0,0:09:10.29,0:09:14.13,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>I don't want to see</i>\N<i>anyone get hurt anymore.</i>}Aku tak mau melihat\Norang tersakiti lagi.
-Dialogue: 0,0:09:15.30,0:09:16.68,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>That future I saw</i>}Mirip di masa depan ...
-Dialogue: 0,0:09:17.89,0:09:19.18,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>is unacceptable!</i>}... aku tak mau!
-Dialogue: 0,0:09:33.78,0:09:36.36,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>I must change the future.</i>}Harus kurubah masa depan.
-Dialogue: 0,0:09:55.55,0:09:56.47,Dialog,,0,0,0,,{Miyo.}Miyo.
-Dialogue: 0,0:09:57.22,0:09:58.22,Dialog,,0,0,0,,{Sir.}Suamiku.
-Dialogue: 0,0:10:07.98,0:10:08.81,Dialog,,0,0,0,,{Miyo!}Miyo!
-Dialogue: 0,0:10:14.32,0:10:16.74,Dialog,,0,0,0,,{You're real, right?}Kamu beneran Miyo, 'kan?
-Dialogue: 0,0:10:16.82,0:10:18.20,Dialog,,0,0,0,,{Yes, I am.}Ya.
-Dialogue: 0,0:10:21.87,0:10:22.74,Dialog,,0,0,0,,{Arata.}Tuan Arata.
-Dialogue: 0,0:10:22.83,0:10:25.58,Dialog,,0,0,0,,{Miyo, what is this place?}Miyo, tempat apa ini?
-Dialogue: 0,0:10:26.12,0:10:27.66,Dialog,,0,0,0,,{Wonderful.}Luar biasa.
-Dialogue: 0,0:10:28.79,0:10:31.63,Dialog,,0,0,0,,{So this is what your dream looks like.}Ini di dalam mimpimu, ya.
-Dialogue: 0,0:10:33.46,0:10:37.13,Dialog,,0,0,0,,{I will fulfill my duty.}Saya akan tuntaskan peran.
-Dialogue: 0,0:10:37.21,0:10:44.66,Dialog,,0,0,0,,{As the only\Nmaiden of Dream-Sight in the world}Sebagai Gadis Mata Mimpi\Ndan putri Saimori.
-Dialogue: 0,0:10:45.77,0:10:50.48,Dialog,,0,0,0,,{I came here to stop you.}Saya datang untuk menghentikan Anda.
-Dialogue: 0,0:10:55.36,0:10:57.65,Dialog,,0,0,0,,{You and I are the same, Miyo.}Miyo, kita mirip.
-Dialogue: 0,0:10:57.74,0:11:01.82,Dialog,,0,0,0,,{Your power saved you. Isn't that right?}Kekuatan telah menyelamatkanmu, 'kan?
-Dialogue: 0,0:11:01.91,0:11:06.70,Dialog,,0,0,0,,{No. Mr. Kiyoka Kudo\Nis the one who saved me.}Bukan.\NYang menyelamatkan saya itu Tuan Kudou.
-Dialogue: 0,0:11:09.29,0:11:12.73,Dialog,,0,0,0,,{Miyo, you wished for\Nstronger power to save him.}Miyo, demi menolong pria itu ...
-Dialogue: 0,0:11:12.73,0:11:14.96,Dialog,,0,0,0,,... kamu berharap\Npada kekuatan besar, 'kan?
-Dialogue: 0,0:11:15.88,0:11:16.71,Dialog,,0,0,0,,{Right…}Apa?
-Dialogue: 0,0:11:16.80,0:11:19.55,Dialog,,0,0,0,,{How is that different from me?}Lantas apa yang membedakan kita?
-Dialogue: 0,0:11:21.80,0:11:26.47,Dialog,,0,0,0,,{I will never use my ability\Nto hurt others.}Saya takkan mengunakan\Nkekuatan ini untuk menyakiti orang.
-Dialogue: 0,0:11:27.06,0:11:30.48,Dialog,,0,0,0,,{You think you haven't harmed anyone?}Kamu pikir tak pernah menyakiti orang?
-Dialogue: 0,0:11:31.69,0:11:33.60,Dialog,,0,0,0,,{I can't say that I haven't.}Tak bisa bilang iya.
-Dialogue: 0,0:11:34.10,0:11:40.51,Dialog,,0,0,0,,{But I won't\Ninvolve anyone's life in this power}Namun saya takkan melibatkan kekuatan ini\Nuntuk mencuri kehidupan orang.
-Dialogue: 0,0:11:41.57,0:11:43.07,Dialog,,0,0,0,,{I'm not like you.}Saya berbeda dengan Anda.
-Dialogue: 0,0:11:44.91,0:11:46.24,Dialog,,0,0,0,,{You're so obstinate.}Keras kepala, ya.
-Dialogue: 0,0:11:46.95,0:11:52.04,Dialog,,0,0,0,,{Maybe your foolish opinion will change\Nif I hurt Kudo a little bit more.}Kalau Kudou lebih menderita\Nmungkin pola pikirmu akan berubah.
-Dialogue: 0,0:12:03.88,0:12:05.64,Dialog,,0,0,0,,{How splendid.}Sungguh menakjubkan.
-Dialogue: 0,0:12:06.18,0:12:07.56,Dialog,,0,0,0,,{Are you watching, Sumi?}Kamu lihat, Sumi?
-Dialogue: 0,0:12:07.64,0:12:11.85,Dialog,,0,0,0,,{Your treasured daughter\Nhas become the real maiden of Dream-Sight!}Mataharimu telah\Njadi Gadis Mata Mimpi!
-Dialogue: 0,0:12:12.73,0:12:19.38,Dialog,,0,0,0,,{You've created a pit of ants\Ncalled the Gifted Communion}Anda membuat sekte sesat\Nsampai menyakiti banyak orang.
-Dialogue: 0,0:12:23.40,0:12:28.08,Dialog,,0,0,0,,{I could never think that harming\Nso many people is the right thing to do.}Membuat mereka menderita itu\Nperbuatan yang tak terpuji.
-Dialogue: 0,0:12:29.58,0:12:32.29,Dialog,,0,0,0,,{You think such lofty ideals\Ncan save people?}Kata-kata manismu mampu \Nmenyelamatkan orang?
-Dialogue: 0,0:12:46.64,0:12:48.97,Dialog,,0,0,0,,{That is enough.}Hentikan perbuatan Anda.
-Dialogue: 0,0:12:49.97,0:12:53.06,Dialog,,0,0,0,,{I'm not rejecting you as a person.}Saya tak menolak keberadaan Anda ...
-Dialogue: 0,0:12:53.14,0:12:55.31,Dialog,,0,0,0,,{Nor do I want you to disappear.}... atau ingin Anda menghilang.
-Dialogue: 0,0:12:57.06,0:13:00.94,Dialog,,0,0,0,,{I don't think my mother\Nwould smile at the person you are now.}Ibunda takkan tersenyum\Njika kini melihat Anda.
-Dialogue: 0,0:13:01.44,0:13:05.49,Dialog,,0,0,0,,{But I'm sure\Nshe's still wishing for your happiness.}Namun ia pasti masih\Nberharap Anda bahagia.
-Dialogue: 0,0:13:06.24,0:13:07.74,Dialog,,0,0,0,,{Forever and ever.}Sampai kini masih berharap.
-Dialogue: 0,0:13:07.82,0:13:10.49,Dialog,,0,0,0,,{You know nothing about Sumi and I.}Kamu tahu apa di antara kami?
-Dialogue: 0,0:13:10.58,0:13:11.91,Dialog,,0,0,0,,{I saw everything!}Sudah melihat soalnya!
-Dialogue: 0,0:13:12.45,0:13:14.25,Dialog,,0,0,0,,{I saw your past together!}Saya melihat masa lalu kalian!
-Dialogue: 0,0:13:14.83,0:13:19.61,Dialog,,0,0,0,,{How you met my mother, fell in love,}Saat bertemu Ibunda lalu jatuh cinta\Nsampai hari-hari yang kalian habiskan.
-Dialogue: 0,0:13:21.09,0:13:25.13,Dialog,,0,0,0,,{<i>I learned</i>\N<i>how important my mother was to you.</i>}Saya melihat betapa\Npentinya Ibunda bagi Anda.
-Dialogue: 0,0:13:26.13,0:13:30.95,Dialog,,0,0,0,,{<i>My mother</i>}Ibunda yang melihat Anda di kegelapan\Ntelah menyeret ke jalan terang.
-Dialogue: 0,0:13:32.10,0:13:37.33,Dialog,,0,0,0,,{Everything I saw}Keseharian Anda mirip\Nketika saya bertemu Suamiku.
-Dialogue: 0,0:13:38.65,0:13:40.36,Dialog,,0,0,0,,Jika tak bertemu Suamiku ....
-Dialogue: 0,0:13:40.86,0:13:44.23,Dialog,,0,0,0,,Hidup saya tetap dibelenggu kegelapan.
-Dialogue: 0,0:13:45.24,0:13:49.16,Dialog,,0,0,0,,{Losing someone you love\Nmust be so painful and agonizing.}Saya tak tahu sakitnya Anda\Nkehilangan yang tercinta.
-Dialogue: 0,0:13:50.07,0:13:52.49,Dialog,,0,0,0,,{I can only imagine how hard it is.}Saya hanya bisa membayangkan.
-Dialogue: 0,0:13:54.08,0:13:55.16,Dialog,,0,0,0,,{Still,}Meski begitu ....
-Dialogue: 0,0:13:55.95,0:13:59.12,Dialog,,0,0,0,,{what you did can't be forgiven.}Yang telah Anda lakukan\Ntak bisa dimaafkan.
-Dialogue: 0,0:14:00.04,0:14:04.25,Dialog,,0,0,0,,{I wonder what my mother\Nwould say to you right now.}Jika Ibunda di sini,\Nentah apa yang beliau ucapkan.
-Dialogue: 0,0:14:05.42,0:14:07.09,Dialog,,0,0,0,,{I won't sympathize with you.}Saya takkan bersimpati.
-Dialogue: 0,0:14:07.59,0:14:11.85,Dialog,,0,0,0,,{But I don't want\Nmy mother's wishes to be dismissed.}Namun saya tak mau\Nmenghentikan impian Ibunda.
-Dialogue: 0,0:14:12.68,0:14:14.89,Dialog,,0,0,0,,{That's why I came here.}Itu sebabnya saya datang ke sini.
-Dialogue: 0,0:14:15.39,0:14:21.96,Dialog,,0,0,0,,{My mother wanted you\Nto walk proudly with your head held high}Ibunda ingin Anda mendapatkan \Ntempat bernaung dan hidup bahagia.
-Dialogue: 0,0:14:22.02,0:14:25.94,Dialog,,0,0,0,,{I know she still wishes that.\NShe did since the day you two met.}Sejak kalian bertemu, \NIbunda masih mengharapkan itu.
-Dialogue: 0,0:14:26.57,0:14:29.99,Dialog,,0,0,0,,{I won't let you\Ntrample on her feelings anymore.}Takkan saya biarkan Anda \Nmenginjak-injak perasaan ibunda lagi.
-Dialogue: 0,0:14:30.61,0:14:33.70,Dialog,,0,0,0,,{Please put an end to this.}Tolong hentikan.
-Dialogue: 0,0:14:35.04,0:14:37.20,Dialog,,0,0,0,,{I know all that already.}Aku sudah tahu itu.
-Dialogue: 0,0:14:37.79,0:14:39.08,Dialog,,0,0,0,,{Please try to remember.}Mohon ingatlah.
-Dialogue: 0,0:14:39.87,0:14:42.21,Dialog,,0,0,0,,{Don't hurt anyone else!}Jangan nodai tangan Anda lagi!
-Dialogue: 0,0:14:42.88,0:14:43.71,Dialog,,0,0,0,,{Shut up.}Berisik.
-Dialogue: 0,0:14:43.79,0:14:46.51,Dialog,,0,0,0,,{My mother believed in you.}Ibunda mempercayai Anda.
-Dialogue: 0,0:14:47.01,0:14:48.97,Dialog,,0,0,0,,{Why won't you live up to that?}Kenapa tak menerimanya?
-Dialogue: 0,0:14:49.05,0:14:49.97,Dialog,,0,0,0,,{Shut up.}Berisik.
-Dialogue: 0,0:14:50.63,0:14:55.24,Dialog,,0,0,0,,{If you love her}Jika Anda mencintai Ibunda,\Nharusnya dituruti.
-Dialogue: 0,0:14:55.35,0:14:58.85,Dialog,,0,0,0,,{Shut up, shut up!}Berisik!
-Dialogue: 0,0:14:58.93,0:15:01.31,Dialog,,0,0,0,,{Shut up!}Berisik!
-Dialogue: 0,0:15:11.66,0:15:14.12,Dialog,,0,0,0,,{Stop humiliating me!}Berhenti menghinaku!
-Dialogue: 0,0:15:14.20,0:15:16.62,Dialog,,0,0,0,,{Do not underestimate me!}Jangan meremehkanku!
-Dialogue: 0,0:15:26.00,0:15:27.00,Dialog,,0,0,0,,{Wait!}Tunggu!
-Dialogue: 0,0:15:27.59,0:15:29.01,Dialog,,0,0,0,,{Please wait!}Tunggu dulu!
-Dialogue: 0,0:15:30.63,0:15:34.76,Dialog,,0,0,0,,{You will wander around in darkness\Nuntil you die!}Kalian akan berkelana\Ndalam kegelapan hingga mati!
-Dialogue: 0,0:15:35.39,0:15:37.35,Dialog,,0,0,0,,{S-Sir…}Sua ... miku.
-Dialogue: 0,0:15:38.85,0:15:39.89,Dialog,,0,0,0,,{Miyo!}Miyo!
-Dialogue: 0,0:15:51.49,0:15:52.74,Dialog,,0,0,0,,{Sumi.}Sumi.
-Dialogue: 0,0:16:00.00,0:16:00.91,Dialog,,0,0,0,,{Miyo.}Miyo.
-Dialogue: 0,0:16:03.62,0:16:04.79,Dialog,,0,0,0,,{Mother.}Ibunda.
-Dialogue: 0,0:16:08.84,0:16:10.05,Dialog,,0,0,0,,{Sumi.}Sumi.
-Dialogue: 0,0:16:10.13,0:16:13.30,Dialog,,0,0,0,,{Why did you die and leave me?}Kenapa mati meninggalkanku?
-Dialogue: 0,0:16:13.84,0:16:16.64,Dialog,,0,0,0,,{I won't accept a fate where you die.}Aku tak terima kamu mati.
-Dialogue: 0,0:16:17.72,0:16:19.35,Dialog,,0,0,0,,{It was all a mistake.}Itu sebuah kesalahan.
-Dialogue: 0,0:16:20.52,0:16:25.06,Dialog,,0,0,0,,{I will destroy such a world\Nand recreate it for you and Miyo.}Aku akan hancurkan dunia ini\Ndan membangun ulang bersama Miyo.
-Dialogue: 0,0:16:25.65,0:16:26.86,Dialog,,0,0,0,,{Just watch me.}Lihatlah nanti.
-Dialogue: 0,0:16:26.94,0:16:31.53,Dialog,,0,0,0,,{You will surely realize\Nthat this is true happiness.}Kamu pasti akan sadar\Nitu kebahagiaan sejati.
-Dialogue: 0,0:16:32.19,0:16:34.82,Dialog,,0,0,0,,{You hurt my family.}Kamu menyakiti keluargaku.
-Dialogue: 0,0:16:35.61,0:16:36.82,Dialog,,0,0,0,,{Mother.}Ibunda.
-Dialogue: 0,0:16:36.91,0:16:40.79,Dialog,,0,0,0,,{But still, you're also my precious family.}Tapi kamu tetap\Nkeluargaku yang berharga.
-Dialogue: 0,0:16:42.87,0:16:44.14,Dialog,,0,0,0,,{Family, huh?}Keluarga, ya?
-Dialogue: 0,0:16:44.29,0:16:47.96,Dialog,,0,0,0,,{To protect your smile\Nby your side forever.}Aku terus di sisimu\Nagar senyumanmu terlindungi.
-Dialogue: 0,0:16:48.46,0:16:51.21,Dialog,,0,0,0,,{That was my everything.}Itulah segalanya bagi hidupku.
-Dialogue: 0,0:16:51.84,0:16:54.47,Dialog,,0,0,0,,{But what you loved, was your family.}Tapi yang kamu sayangi itu keluarga.
-Dialogue: 0,0:16:55.63,0:16:58.49,Dialog,,0,0,0,,{You were special to me.}Bagiku kamu itu sepesial ...
-Dialogue: 0,0:16:58.49,0:17:02.16,Dialog,,0,0,0,,... tapi bagimu aku hanyalah keluarga.
-Dialogue: 0,0:17:05.27,0:17:09.36,Dialog,,0,0,0,,{Don't you think\Nyour precious family has misled you?}Tak pernah terlintas kalau\Nkeluargamu telah menyesatkanmu?
-Dialogue: 0,0:17:10.36,0:17:13.61,Dialog,,0,0,0,,Mana kebahagiaan setelah \Nmenikah dengan keluarga Saimori?
-Dialogue: 0,0:17:13.69,0:17:18.49,Dialog,,0,0,0,,{For the family?\NSuch nonsense didn't save you.}Demi keluarga tuh cuma omong kosong \Nyang tak bisa menyelamatkanmu.
-Dialogue: 0,0:17:18.57,0:17:20.62,Dialog,,0,0,0,,{You were wrong.}Kamu sudah salah.
-Dialogue: 0,0:17:21.20,0:17:24.20,Dialog,,0,0,0,,{I will make your true wish come true!}Aku akan buat impianmu terwujud!
-Dialogue: 0,0:17:24.29,0:17:28.56,Dialog,,0,0,0,,{Once I create a world where Miyo\Nwith her ability reigns at the top,}Setelah Miyo membuat dunia baru.
-Dialogue: 0,0:17:28.56,0:17:31.40,Dialog,,0,0,0,,Saat itulah kamu akan bahagia.
-Dialogue: 0,0:17:33.51,0:17:34.34,Dialog,,0,0,0,,{Naoshi,}Naoshi ...
-Dialogue: 0,0:17:35.30,0:17:37.63,Dialog,,0,0,0,,{I do not wish for that.}... aku tak berharap pada itu.
-Dialogue: 0,0:17:39.43,0:17:43.02,Dialog,,0,0,0,,{You are released\Nfrom your duty as my protective sword.}Kamu terbebas dari pedang pelindungku.
-Dialogue: 0,0:17:48.48,0:17:49.44,Dialog,,0,0,0,,{Let's go.}Ayo ...
-Dialogue: 0,0:17:50.27,0:17:51.52,Dialog,,0,0,0,,{Come with me.}... ikutlah denganku.
-Dialogue: 0,0:17:55.15,0:17:58.11,Dialog,,0,0,0,,{All right. I've had enough.}Sudahlah.\NAku sudah muak.
-Dialogue: 0,0:18:00.57,0:18:03.29,Dialog,,0,0,0,,{There's no point in me staying here.}Tak ada gunanya lama-lama di sini.
-Dialogue: 0,0:18:05.75,0:18:06.91,Dialog,,0,0,0,,{No!}Jangan!
-Dialogue: 0,0:18:10.33,0:18:12.67,Dialog,,0,0,0,,{He's trying to\Nget out of this dream by force.}Dia mau keluar dari mimpi secara paksa.
-Dialogue: 0,0:18:32.06,0:18:33.23,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Where is this?</i>}Ini di mana?
-Dialogue: 0,0:18:33.73,0:18:34.78,Dialog,,0,0,0,,{\i1}Miyo.
-Dialogue: 0,0:18:35.78,0:18:36.69,Dialog,,0,0,0,,{Mother?}Ibunda?
-Dialogue: 0,0:18:36.78,0:18:39.95,Dialog,,0,0,0,,{\i1}Roda gigi era baru mulai berputar.
-Dialogue: 0,0:18:40.70,0:18:41.95,Dialog,,0,0,0,,{\i1}Kini tenang saja.
-Dialogue: 0,0:18:42.03,0:18:44.70,Dialog,,0,0,0,,{\i1}Kamu sudah berusaha, Miyo.
-Dialogue: 0,0:18:46.54,0:18:47.79,Dialog,,0,0,0,,{Mother…}Ibunda ....
-Dialogue: 0,0:18:58.22,0:18:59.09,Dialog,,0,0,0,,{Sir!}Suamiku!
-Dialogue: 0,0:18:59.17,0:19:00.68,Dialog,,0,0,0,,{Miyo!}Miyo!
-Dialogue: 0,0:19:06.68,0:19:09.56,Dialog,,0,0,0,,{Come here.}Cepatlah ke sini.
-Dialogue: 0,0:19:09.64,0:19:11.85,Dialog,,0,0,0,,{Let's finish everything.}Mari akhiri semuanya.
-Dialogue: 0,0:19:17.23,0:19:18.61,Dialog,,0,0,0,,{Usui!}Usui!
-Dialogue: 0,0:19:25.49,0:19:26.49,Dialog,,0,0,0,,{What's happening?}Ada apa?
-Dialogue: 0,0:19:36.84,0:19:38.26,Dialog,,0,0,0,,{Arata Usuba!}Usuba Arata!
-Dialogue: 0,0:19:48.97,0:19:50.18,Dialog,,0,0,0,,{Arata!}Tuan Arata!
-Dialogue: 0,0:19:53.48,0:19:56.36,Dialog,,0,0,0,,{Arata… Why…}Tuan Arata kenapa melakuannya?
-Dialogue: 0,0:20:00.74,0:20:03.66,Dialog,,0,0,0,,{Please forgive me, Miyo…}Maafkan saya ... Nona Miyo .....
-Dialogue: 0,0:20:09.16,0:20:10.41,Dialog,,0,0,0,,{Is anybody here?}Apa ada orang di sini?
-Dialogue: 0,0:20:11.04,0:20:12.37,Dialog,,0,0,0,,{Medic!}Medis!
-Dialogue: 0,0:20:22.72,0:20:24.34,Dialog,,0,0,0,,{Sumi…}Sumi ....
-Dialogue: 0,0:20:29.51,0:20:30.93,Dialog,,0,0,0,,{Come on. Let's go.}Yuk kita pergi.
-Dialogue: 0,0:20:56.96,0:20:58.04,Dialog,,0,0,0,,{Um…}Anu ....
-Dialogue: 0,0:21:03.38,0:21:05.34,Dialog,,0,0,0,,{What are supernatural abilities?}Kekuatan tuh apa, ya?
-Dialogue: 0,0:21:06.64,0:21:08.35,Dialog,,0,0,0,,{I cannot understand.}Aku masih belum mengerti.
-Dialogue: 0,0:21:09.05,0:21:12.45,Dialog,,0,0,0,,{Fighting for power}Bertarung demi kekuatan \Nsampai orang tersakiti.
-Dialogue: 0,0:21:13.06,0:21:15.71,Dialog,,0,0,0,,{Even if my ability\Ncould change the future,}Meski aku bisa mengubah masa depan ...
-Dialogue: 0,0:21:15.71,0:21:17.83,Dialog,,0,0,0,,... keinginan Ibunda tetap tak terwujud.
-Dialogue: 0,0:21:19.06,0:21:21.19,Dialog,,0,0,0,,{Sir, I…}Suamiku ... \NUsui telah ....
-Dialogue: 0,0:21:21.27,0:21:23.28,Dialog,,0,0,0,,{You've done nothing wrong.}Kamu tidaklah salah.
-Dialogue: 0,0:21:23.78,0:21:25.57,Dialog,,0,0,0,,{You did everything you could.}Sudah mengerahkan semuanya.
-Dialogue: 0,0:21:30.20,0:21:32.74,Dialog,,0,0,0,,Baginda telah diselematkan!\NBeliau sehat!
-Dialogue: 0,0:21:34.70,0:21:36.54,Dialog,,0,0,0,,{Mr. Godo, how are your injuries?}Tuan Godou!\NKondisi luka Anda?
-Dialogue: 0,0:21:36.62,0:21:40.25,Dialog,,0,0,0,,{I'm fine.\NLooks like everything is settled here too.}Ah, aman.\NDi sini juga sudah beres, ya.
-Dialogue: 0,0:21:40.34,0:21:42.88,Dialog,,0,0,0,,{We've taken down their headquarters.}Markas sepenuhnya ditaklukkan.
-Dialogue: 0,0:21:43.46,0:21:45.26,Dialog,,0,0,0,,{The commander and Ms. Miyo are safe.}Komandan dan\NNona Miyo juga selamat.
-Dialogue: 0,0:21:47.68,0:21:49.09,Dialog,,0,0,0,,{Good work, everyone.}Teman-teman, \Nterima kasih.
-Dialogue: 0,0:21:49.59,0:21:52.01,Dialog,,0,0,0,,{Spoken like a true commander.}Ucapan komandan banget, nih.
-Dialogue: 0,0:21:53.43,0:21:55.10,Dialog,,0,0,0,,{That's enough from you!}Kau ini!
-Dialogue: 0,0:21:59.35,0:22:02.07,Dialog,,0,0,0,,{Look, there's the real Commander.}Oh, ada Komandan asli, tuh.
-Dialogue: 0,0:22:04.32,0:22:06.28,Dialog,,0,0,0,,{Commander! Ms. Miyo!}Komandan!\NNona Miyo!
+Dialogue: 0,0:00:02.72,0:00:07.05,Dialog,,0,0,0,,{Let me welcome you to my castle,}Selamat datang di istanaku,
+Dialogue: 0,0:00:07.64,0:00:09.39,Dialog,,0,0,0,,{maiden of Dream-Sight.}wahai Gadis Mata Mimpi.
+Dialogue: 0,0:00:12.43,0:00:14.94,Dialog,,0,0,0,,{I didn't think\Nyour ability would awaken so soon.}Tak kusangka bangkit lebih awal.
+Dialogue: 0,0:00:15.02,0:00:17.69,Dialog,,0,0,0,,{It seems I have misjudged you.}Aku sudah salah menilaimu.
+Dialogue: 0,0:00:17.77,0:00:22.32,Dialog,,0,0,0,,{Your ability got you here.\NThat's quite impressive.}Bisa ke sini pakai kekuatan,\Nsungguh mengesankan.
+Dialogue: 0,0:00:22.40,0:00:27.32,Dialog,,0,0,0,,{I didn't come here\Nso you can make your ideal world.}Saya ke sini bukan untuk\Nmewujudkan dunia ideal Anda.
+Dialogue: 0,0:00:28.91,0:00:31.08,Dialog,,0,0,0,,{You haven't reflected on yourself, I see.}Masih membangkang, ya.
+Dialogue: 0,0:00:31.16,0:00:33.83,Dialog,,0,0,0,,{You need to be punished.}Kamu perlu diajari, nih.
+Dialogue: 0,0:00:39.92,0:00:43.09,Dialog,,0,0,0,,{Then this is the perfect chance}Kuperlihatkan saja di depan matamu ...
+Dialogue: 0,0:00:43.59,0:00:47.43,Dialog,,0,0,0,,{to torture your precious Kiyoka Kudo\Nuntil he dies.}... menyiksa Kudou Kiyoka tercintamu.
+Dialogue: 0,0:02:18.14,0:02:22.13,Episode Title,,0,0,0,,{\fs65\c&H8E6EDC&\pos(964,538)}Perasaan Melampaui Mimpi
+Dialogue: 0,0:02:24.40,0:02:25.90,Dialog,,0,0,0,,{Miyo, stay back.}Miyo, menjauhlah.
+Dialogue: 0,0:02:30.78,0:02:33.45,Dialog,,0,0,0,,{Now, shall we begin?}Nah, kita mulai?
+Dialogue: 0,0:02:40.50,0:02:41.46,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>An illusion?</i>}Ilusi?
+Dialogue: 0,0:02:47.09,0:02:49.17,Dialog,,0,0,0,,{Good reaction speed.}Reflek yang cukup bagus.
+Dialogue: 0,0:02:49.67,0:02:52.59,Dialog,,0,0,0,,{I can tell you've been training hard.}Pasti sudah berlatih keras.
+Dialogue: 0,0:02:53.93,0:02:55.05,Dialog,,0,0,0,,{Shut up!}Diam!
+Dialogue: 0,0:03:02.06,0:03:03.35,Dialog,,0,0,0,,{Now we're talking.}Harus serius begitu.
+Dialogue: 0,0:03:36.60,0:03:38.77,Dialog,,0,0,0,,{Why are you in pain?}Kesakitan apa, sih?
+Dialogue: 0,0:03:42.81,0:03:44.27,Dialog,,0,0,0,,{You understand, don't you?}Sudah tahu, 'kan?
+Dialogue: 0,0:03:44.35,0:03:48.73,Dialog,,0,0,0,,{My ability can control all your senses.}Kekuatanku bisa\Nmengendalikan semua indera.
+Dialogue: 0,0:03:48.82,0:03:49.78,Dialog,,0,0,0,,{Damn you…}Bangsat ....
+Dialogue: 0,0:03:50.36,0:03:53.03,Dialog,,0,0,0,,{You can even control\Nother people's senses?}Bahkan bisa mengendalikan indra orang?
+Dialogue: 0,0:03:53.11,0:03:57.10,Dialog,,0,0,0,,{The wound\Nconjured from your distorted senses}Luka yang hilang tiba-tiba muncul ...
+Dialogue: 0,0:03:57.10,0:04:00.06,Dialog,,0,0,0,,... akan melemahkan jantung.
+Dialogue: 0,0:04:00.12,0:04:03.04,Dialog,,0,0,0,,{Now, I wonder how long you'll last.}Nah, sampai kapan bertahan?
+Dialogue: 0,0:04:03.12,0:04:04.29,Dialog,,0,0,0,,{Sir!}Suamiku!
+Dialogue: 0,0:04:04.37,0:04:05.79,Dialog,,0,0,0,,{Please don't move.}Tolong jangan beranjak!
+Dialogue: 0,0:04:08.96,0:04:10.30,Dialog,,0,0,0,,{Arata…}Tuan Arata ...
+Dialogue: 0,0:04:11.05,0:04:12.22,Dialog,,0,0,0,,{Why are you…}... kenapa?
+Dialogue: 0,0:04:17.80,0:04:20.22,Dialog,,0,0,0,,{Oh my, that took longer than I thought.}Hedeh, sedikit makan waktu?
+Dialogue: 0,0:04:21.64,0:04:24.64,Dialog,,0,0,0,,{I doubt anyone\Nwould think that it did.}Ini emang patut dicontoh, ya.
+Dialogue: 0,0:04:31.07,0:04:33.28,Dialog,,0,0,0,,{You're brutal as ever.}Kau nih.\NBrutal seperti biasa.
+Dialogue: 0,0:04:33.36,0:04:36.41,Dialog,,0,0,0,,{You're supposed to say\NI get my job done fast.}Harusnya kau memujiku cekatan.
+Dialogue: 0,0:04:36.49,0:04:37.64,Dialog,,0,0,0,,{Mr. Godo, one of the followers we captured\Ntold us where Mikado is confined.}Tuan Godou!
+Dialogue: 0,0:04:37.64,0:04:41.33,Dialog,,0,0,0,,Sekte Semahan yang kami tangkap\Nmemberitahu lokasi Baginda.
+Dialogue: 0,0:04:41.41,0:04:42.79,Dialog,,0,0,0,,{Good job.}Kerja bagus.
+Dialogue: 0,0:04:42.87,0:04:46.87,Dialog,,0,0,0,,{He's on the top floor of the abandoned\Nformer official residence.}Katanya di lantai atas bekas aula.
+Dialogue: 0,0:04:47.75,0:04:48.71,Dialog,,0,0,0,,{I see.}Baiklah.
+Dialogue: 0,0:04:48.79,0:04:51.25,Dialog,,0,0,0,,{We'll take care of this place.}Kami urus yang itu.
+Dialogue: 0,0:04:51.75,0:04:54.72,Dialog,,0,0,0,,{You should go and carry out your duty.}Kamu tuntaskan peranmu saja.
+Dialogue: 0,0:04:55.47,0:04:56.30,Dialog,,0,0,0,,{Yes, sir!}Siap!
+Dialogue: 0,0:04:58.89,0:05:02.47,Dialog,,0,0,0,,{An illusion is only an illusion!}Ilusi tuh sekedar ilusi!
+Dialogue: 0,0:05:06.81,0:05:09.98,Dialog,,0,0,0,,{I like it. This is getting interesting!}Bagus juga.\NMulai menarik, nih!
+Dialogue: 0,0:05:33.59,0:05:39.01,Dialog,,0,0,0,,{It's delightful how the invincible\NKiyoka Kudo is getting slashed helplessly.}Menebas Kudou Kiyoka perlahan-lahan\Nrasanya menyenangkan.
+Dialogue: 0,0:05:48.02,0:05:49.65,Dialog,,0,0,0,,{It's no use.}Percuma saja.
+Dialogue: 0,0:06:16.63,0:06:18.34,Dialog,,0,0,0,,{You sure are frightening.}Ih, nakutin.
+Dialogue: 0,0:06:19.13,0:06:20.47,Dialog,,0,0,0,,{I see.}Begitu.
+Dialogue: 0,0:06:20.55,0:06:23.55,Dialog,,0,0,0,,{You were trying to lose the battle\Nto win the war, huh?}Sengaja diserang\Nagar dapat celah, ya?
+Dialogue: 0,0:06:23.64,0:06:26.39,Dialog,,0,0,0,,{Your plan ends here!}Rencanamu berakhir di sini!
+Dialogue: 0,0:06:26.47,0:06:28.81,Dialog,,0,0,0,,{I'll make sure to end it all!}Aku pasti akan mengakhirinya!
+Dialogue: 0,0:06:28.89,0:06:30.81,Dialog,,0,0,0,,{Pardon my manners.}Ada pahlawan, nih.
+Dialogue: 0,0:06:30.90,0:06:34.90,Dialog,,0,0,0,,{For the sake of your sincerity,\NI guess I should be sincere too.}Demi keadilanmu\Nperlu kuperlihatkan, ya.
+Dialogue: 0,0:06:35.40,0:06:36.73,Dialog,,0,0,0,,{Now…}Nah ....
+Dialogue: 0,0:06:45.16,0:06:48.08,Dialog,,0,0,0,,{Are you ready for hell?}Sudah siap menuju neraka?
+Dialogue: 0,0:06:58.17,0:06:59.38,Dialog,,0,0,0,,{This place…}Tempat ini ....
+Dialogue: 0,0:07:08.39,0:07:09.23,Dialog,,0,0,0,,{Miyo.}Miyo.
+Dialogue: 0,0:07:16.15,0:07:17.82,Dialog,,0,0,0,,{-Sir!\N-Miyo!}Suamiku!
+Dialogue: 0,0:07:17.90,0:07:20.07,Dialog,,0,0,0,,{Don't do anything stupid!}Jangan bertidak gegabah!
+Dialogue: 0,0:07:20.65,0:07:22.82,Dialog,,0,0,0,,{Please let me go! He's--}Lepaskan!\NSuamiku ....
+Dialogue: 0,0:07:22.91,0:07:26.20,Dialog,,0,0,0,,{Do you want him to suffer even more?}Anda ingin Tuan Kudou lebih tersiksa?
+Dialogue: 0,0:07:26.78,0:07:29.00,Dialog,,0,0,0,,{That's why I have to…}Itu sebabnya saya ingin ....
+Dialogue: 0,0:07:33.17,0:07:35.84,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Why…?</i>}Kenapa ...
+Dialogue: 0,0:07:38.67,0:07:42.57,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>-I must…</i>\N-Miyo?}... dia tak menolong Suamiku?
+Dialogue: 0,0:07:39.78,0:07:40.65,Dialog,,0,0,0,,{\an8}Miyo?
+Dialogue: 0,0:07:42.68,0:07:43.80,Dialog,,0,0,0,,{Miyo!\an8}Miyo?!
+Dialogue: 0,0:08:00.65,0:08:02.74,Dialog,,0,0,0,,{Miyo, are you all right?}Miyo, Anda baik-baik saja?
+Dialogue: 0,0:08:03.49,0:08:05.82,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Was that the future?</i>}Barusan masa depan?
+Dialogue: 0,0:08:06.74,0:08:07.74,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>If so…</i>}Jika iya.
+Dialogue: 0,0:08:08.66,0:08:10.08,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Arata will…</i>}Arata akan ....
+Dialogue: 0,0:08:10.58,0:08:12.00,Dialog,,0,0,0,,{Stop it.}Hentikan.
+Dialogue: 0,0:08:15.71,0:08:16.92,Dialog,,0,0,0,,{Stop!}Hentikan!
+Dialogue: 0,0:08:26.72,0:08:28.01,Dialog,,0,0,0,,{No!}Hentikan!
+Dialogue: 0,0:08:34.81,0:08:35.98,Dialog,,0,0,0,,{Sir!}Suamiku!
+Dialogue: 0,0:08:39.11,0:08:40.40,Dialog,,0,0,0,,{Miyo!}Miyo!
+Dialogue: 0,0:08:49.99,0:08:51.87,Dialog,,0,0,0,,{No!}Hentikan!
+Dialogue: 0,0:08:51.95,0:08:55.50,Dialog,,0,0,0,,{Your heart will die along with Miyo.}Miyo yang kau lihat\Nakan mati bersama jantungmu.
+Dialogue: 0,0:08:56.00,0:08:58.29,Dialog,,0,0,0,,{That's what you wish for, isn't it?}Itu yang kamu harapkan, 'kan?
+Dialogue: 0,0:09:00.29,0:09:04.13,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>I don't want to see</i>\N<i>anyone get hurt anymore.</i>}Aku tak mau melihat\Norang tersakiti lagi.
+Dialogue: 0,0:09:05.30,0:09:06.68,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>That future I saw</i>}Mirip di masa depan ...
+Dialogue: 0,0:09:07.89,0:09:09.18,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>is unacceptable!</i>}... aku tak mau!
+Dialogue: 0,0:09:23.78,0:09:26.36,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>I must change the future.</i>}Harus kurubah masa depan.
+Dialogue: 0,0:09:45.55,0:09:46.47,Dialog,,0,0,0,,{Miyo.}Miyo.
+Dialogue: 0,0:09:47.22,0:09:48.22,Dialog,,0,0,0,,{Sir.}Suamiku.
+Dialogue: 0,0:09:57.98,0:09:58.81,Dialog,,0,0,0,,{Miyo!}Miyo!
+Dialogue: 0,0:10:04.32,0:10:06.74,Dialog,,0,0,0,,{You're real, right?}Kamu beneran Miyo, 'kan?
+Dialogue: 0,0:10:06.82,0:10:08.20,Dialog,,0,0,0,,{Yes, I am.}Ya.
+Dialogue: 0,0:10:11.87,0:10:12.74,Dialog,,0,0,0,,{Arata.}Tuan Arata.
+Dialogue: 0,0:10:12.83,0:10:15.58,Dialog,,0,0,0,,{Miyo, what is this place?}Miyo, tempat apa ini?
+Dialogue: 0,0:10:16.12,0:10:17.66,Dialog,,0,0,0,,{Wonderful.}Luar biasa.
+Dialogue: 0,0:10:18.79,0:10:21.63,Dialog,,0,0,0,,{So this is what your dream looks like.}Ini di dalam mimpimu, ya.
+Dialogue: 0,0:10:23.46,0:10:27.13,Dialog,,0,0,0,,{I will fulfill my duty.}Saya akan tuntaskan peran.
+Dialogue: 0,0:10:27.21,0:10:34.66,Dialog,,0,0,0,,{As the only\Nmaiden of Dream-Sight in the world}Sebagai Gadis Mata Mimpi\Ndan putri Saimori.
+Dialogue: 0,0:10:35.77,0:10:40.48,Dialog,,0,0,0,,{I came here to stop you.}Saya datang untuk menghentikan Anda.
+Dialogue: 0,0:10:45.36,0:10:47.65,Dialog,,0,0,0,,{You and I are the same, Miyo.}Miyo, kita mirip.
+Dialogue: 0,0:10:47.74,0:10:51.82,Dialog,,0,0,0,,{Your power saved you. Isn't that right?}Kekuatan telah menyelamatkanmu, 'kan?
+Dialogue: 0,0:10:51.91,0:10:56.70,Dialog,,0,0,0,,{No. Mr. Kiyoka Kudo\Nis the one who saved me.}Bukan.\NYang menyelamatkan saya itu Tuan Kudou.
+Dialogue: 0,0:10:59.29,0:11:02.73,Dialog,,0,0,0,,{Miyo, you wished for\Nstronger power to save him.}Miyo, demi menolong pria itu ...
+Dialogue: 0,0:11:02.73,0:11:04.96,Dialog,,0,0,0,,... kamu berharap\Npada kekuatan besar, 'kan?
+Dialogue: 0,0:11:05.88,0:11:06.71,Dialog,,0,0,0,,{Right…}Apa?
+Dialogue: 0,0:11:06.80,0:11:09.55,Dialog,,0,0,0,,{How is that different from me?}Lantas apa yang membedakan kita?
+Dialogue: 0,0:11:11.80,0:11:16.47,Dialog,,0,0,0,,{I will never use my ability\Nto hurt others.}Saya takkan mengunakan\Nkekuatan ini untuk menyakiti orang.
+Dialogue: 0,0:11:17.06,0:11:20.48,Dialog,,0,0,0,,{You think you haven't harmed anyone?}Kamu pikir tak pernah menyakiti orang?
+Dialogue: 0,0:11:21.69,0:11:23.60,Dialog,,0,0,0,,{I can't say that I haven't.}Tak bisa bilang iya.
+Dialogue: 0,0:11:24.10,0:11:30.51,Dialog,,0,0,0,,{But I won't\Ninvolve anyone's life in this power}Namun saya takkan melibatkan kekuatan ini\Nuntuk mencuri kehidupan orang.
+Dialogue: 0,0:11:31.57,0:11:33.07,Dialog,,0,0,0,,{I'm not like you.}Saya berbeda dengan Anda.
+Dialogue: 0,0:11:34.91,0:11:36.24,Dialog,,0,0,0,,{You're so obstinate.}Keras kepala, ya.
+Dialogue: 0,0:11:36.95,0:11:42.04,Dialog,,0,0,0,,{Maybe your foolish opinion will change\Nif I hurt Kudo a little bit more.}Kalau Kudou lebih menderita\Nmungkin pola pikirmu akan berubah.
+Dialogue: 0,0:11:53.88,0:11:55.64,Dialog,,0,0,0,,{How splendid.}Sungguh menakjubkan.
+Dialogue: 0,0:11:56.18,0:11:57.56,Dialog,,0,0,0,,{Are you watching, Sumi?}Kamu lihat, Sumi?
+Dialogue: 0,0:11:57.64,0:12:01.85,Dialog,,0,0,0,,{Your treasured daughter\Nhas become the real maiden of Dream-Sight!}Mataharimu telah\Njadi Gadis Mata Mimpi!
+Dialogue: 0,0:12:02.73,0:12:09.38,Dialog,,0,0,0,,{You've created a pit of ants\Ncalled the Gifted Communion}Anda membuat sekte sesat\Nsampai menyakiti banyak orang.
+Dialogue: 0,0:12:13.40,0:12:18.08,Dialog,,0,0,0,,{I could never think that harming\Nso many people is the right thing to do.}Membuat mereka menderita itu\Nperbuatan yang tak terpuji.
+Dialogue: 0,0:12:19.58,0:12:22.29,Dialog,,0,0,0,,{You think such lofty ideals\Ncan save people?}Kata-kata manismu mampu \Nmenyelamatkan orang?
+Dialogue: 0,0:12:36.64,0:12:38.97,Dialog,,0,0,0,,{That is enough.}Hentikan perbuatan Anda.
+Dialogue: 0,0:12:39.97,0:12:43.06,Dialog,,0,0,0,,{I'm not rejecting you as a person.}Saya tak menolak keberadaan Anda ...
+Dialogue: 0,0:12:43.14,0:12:45.31,Dialog,,0,0,0,,{Nor do I want you to disappear.}... atau ingin Anda menghilang.
+Dialogue: 0,0:12:47.06,0:12:50.94,Dialog,,0,0,0,,{I don't think my mother\Nwould smile at the person you are now.}Ibunda takkan tersenyum\Njika kini melihat Anda.
+Dialogue: 0,0:12:51.44,0:12:55.49,Dialog,,0,0,0,,{But I'm sure\Nshe's still wishing for your happiness.}Namun ia pasti masih\Nberharap Anda bahagia.
+Dialogue: 0,0:12:56.24,0:12:57.74,Dialog,,0,0,0,,{Forever and ever.}Sampai kini masih berharap.
+Dialogue: 0,0:12:57.82,0:13:00.49,Dialog,,0,0,0,,{You know nothing about Sumi and I.}Kamu tahu apa di antara kami?
+Dialogue: 0,0:13:00.58,0:13:01.91,Dialog,,0,0,0,,{I saw everything!}Sudah melihat soalnya!
+Dialogue: 0,0:13:02.45,0:13:04.25,Dialog,,0,0,0,,{I saw your past together!}Saya melihat masa lalu kalian!
+Dialogue: 0,0:13:04.83,0:13:09.61,Dialog,,0,0,0,,{How you met my mother, fell in love,}Saat bertemu Ibunda lalu jatuh cinta\Nsampai hari-hari yang kalian habiskan.
+Dialogue: 0,0:13:11.09,0:13:15.13,Dialog,,0,0,0,,{<i>I learned</i>\N<i>how important my mother was to you.</i>}Saya melihat betapa\Npentinya Ibunda bagi Anda.
+Dialogue: 0,0:13:16.13,0:13:20.95,Dialog,,0,0,0,,{<i>My mother</i>}Ibunda yang melihat Anda di kegelapan\Ntelah menyeret ke jalan terang.
+Dialogue: 0,0:13:22.10,0:13:27.33,Dialog,,0,0,0,,{Everything I saw}Keseharian Anda mirip\Nketika saya bertemu Suamiku.
+Dialogue: 0,0:13:28.65,0:13:30.36,Dialog,,0,0,0,,Jika tak bertemu Suamiku ....
+Dialogue: 0,0:13:30.86,0:13:34.23,Dialog,,0,0,0,,Hidup saya tetap dibelenggu kegelapan.
+Dialogue: 0,0:13:35.24,0:13:39.16,Dialog,,0,0,0,,{Losing someone you love\Nmust be so painful and agonizing.}Saya tak tahu sakitnya Anda\Nkehilangan yang tercinta.
+Dialogue: 0,0:13:40.07,0:13:42.49,Dialog,,0,0,0,,{I can only imagine how hard it is.}Saya hanya bisa membayangkan.
+Dialogue: 0,0:13:44.08,0:13:45.16,Dialog,,0,0,0,,{Still,}Meski begitu ....
+Dialogue: 0,0:13:45.95,0:13:49.12,Dialog,,0,0,0,,{what you did can't be forgiven.}Yang telah Anda lakukan\Ntak bisa dimaafkan.
+Dialogue: 0,0:13:50.04,0:13:54.25,Dialog,,0,0,0,,{I wonder what my mother\Nwould say to you right now.}Jika Ibunda di sini,\Nentah apa yang beliau ucapkan.
+Dialogue: 0,0:13:55.42,0:13:57.09,Dialog,,0,0,0,,{I won't sympathize with you.}Saya takkan bersimpati.
+Dialogue: 0,0:13:57.59,0:14:01.85,Dialog,,0,0,0,,{But I don't want\Nmy mother's wishes to be dismissed.}Namun saya tak mau\Nmenghentikan impian Ibunda.
+Dialogue: 0,0:14:02.68,0:14:04.89,Dialog,,0,0,0,,{That's why I came here.}Itu sebabnya saya datang ke sini.
+Dialogue: 0,0:14:05.39,0:14:11.96,Dialog,,0,0,0,,{My mother wanted you\Nto walk proudly with your head held high}Ibunda ingin Anda mendapatkan \Ntempat bernaung dan hidup bahagia.
+Dialogue: 0,0:14:12.02,0:14:15.94,Dialog,,0,0,0,,{I know she still wishes that.\NShe did since the day you two met.}Sejak kalian bertemu, \NIbunda masih mengharapkan itu.
+Dialogue: 0,0:14:16.57,0:14:19.99,Dialog,,0,0,0,,{I won't let you\Ntrample on her feelings anymore.}Takkan saya biarkan Anda \Nmenginjak-injak perasaan ibunda lagi.
+Dialogue: 0,0:14:20.61,0:14:23.70,Dialog,,0,0,0,,{Please put an end to this.}Tolong hentikan.
+Dialogue: 0,0:14:25.04,0:14:27.20,Dialog,,0,0,0,,{I know all that already.}Aku sudah tahu itu.
+Dialogue: 0,0:14:27.79,0:14:29.08,Dialog,,0,0,0,,{Please try to remember.}Mohon ingatlah.
+Dialogue: 0,0:14:29.87,0:14:32.21,Dialog,,0,0,0,,{Don't hurt anyone else!}Jangan nodai tangan Anda lagi!
+Dialogue: 0,0:14:32.88,0:14:33.71,Dialog,,0,0,0,,{Shut up.}Berisik.
+Dialogue: 0,0:14:33.79,0:14:36.51,Dialog,,0,0,0,,{My mother believed in you.}Ibunda mempercayai Anda.
+Dialogue: 0,0:14:37.01,0:14:38.97,Dialog,,0,0,0,,{Why won't you live up to that?}Kenapa tak menerimanya?
+Dialogue: 0,0:14:39.05,0:14:39.97,Dialog,,0,0,0,,{Shut up.}Berisik.
+Dialogue: 0,0:14:40.63,0:14:45.24,Dialog,,0,0,0,,{If you love her}Jika Anda mencintai Ibunda,\Nharusnya dituruti.
+Dialogue: 0,0:14:45.35,0:14:48.85,Dialog,,0,0,0,,{Shut up, shut up!}Berisik!
+Dialogue: 0,0:14:48.93,0:14:51.31,Dialog,,0,0,0,,{Shut up!}Berisik!
+Dialogue: 0,0:15:01.66,0:15:04.12,Dialog,,0,0,0,,{Stop humiliating me!}Berhenti menghinaku!
+Dialogue: 0,0:15:04.20,0:15:06.62,Dialog,,0,0,0,,{Do not underestimate me!}Jangan meremehkanku!
+Dialogue: 0,0:15:16.00,0:15:17.00,Dialog,,0,0,0,,{Wait!}Tunggu!
+Dialogue: 0,0:15:17.59,0:15:19.01,Dialog,,0,0,0,,{Please wait!}Tunggu dulu!
+Dialogue: 0,0:15:20.63,0:15:24.76,Dialog,,0,0,0,,{You will wander around in darkness\Nuntil you die!}Kalian akan berkelana\Ndalam kegelapan hingga mati!
+Dialogue: 0,0:15:25.39,0:15:27.35,Dialog,,0,0,0,,{S-Sir…}Sua ... miku.
+Dialogue: 0,0:15:28.85,0:15:29.89,Dialog,,0,0,0,,{Miyo!}Miyo!
+Dialogue: 0,0:15:41.49,0:15:42.74,Dialog,,0,0,0,,{Sumi.}Sumi.
+Dialogue: 0,0:15:50.00,0:15:50.91,Dialog,,0,0,0,,{Miyo.}Miyo.
+Dialogue: 0,0:15:53.62,0:15:54.79,Dialog,,0,0,0,,{Mother.}Ibunda.
+Dialogue: 0,0:15:58.84,0:16:00.05,Dialog,,0,0,0,,{Sumi.}Sumi.
+Dialogue: 0,0:16:00.13,0:16:03.30,Dialog,,0,0,0,,{Why did you die and leave me?}Kenapa mati meninggalkanku?
+Dialogue: 0,0:16:03.84,0:16:06.64,Dialog,,0,0,0,,{I won't accept a fate where you die.}Aku tak terima kamu mati.
+Dialogue: 0,0:16:07.72,0:16:09.35,Dialog,,0,0,0,,{It was all a mistake.}Itu sebuah kesalahan.
+Dialogue: 0,0:16:10.52,0:16:15.06,Dialog,,0,0,0,,{I will destroy such a world\Nand recreate it for you and Miyo.}Aku akan hancurkan dunia ini\Ndan membangun ulang bersama Miyo.
+Dialogue: 0,0:16:15.65,0:16:16.86,Dialog,,0,0,0,,{Just watch me.}Lihatlah nanti.
+Dialogue: 0,0:16:16.94,0:16:21.53,Dialog,,0,0,0,,{You will surely realize\Nthat this is true happiness.}Kamu pasti akan sadar\Nitu kebahagiaan sejati.
+Dialogue: 0,0:16:22.19,0:16:24.82,Dialog,,0,0,0,,{You hurt my family.}Kamu menyakiti keluargaku.
+Dialogue: 0,0:16:25.61,0:16:26.82,Dialog,,0,0,0,,{Mother.}Ibunda.
+Dialogue: 0,0:16:26.91,0:16:30.79,Dialog,,0,0,0,,{But still, you're also my precious family.}Tapi kamu tetap\Nkeluargaku yang berharga.
+Dialogue: 0,0:16:32.87,0:16:34.14,Dialog,,0,0,0,,{Family, huh?}Keluarga, ya?
+Dialogue: 0,0:16:34.29,0:16:37.96,Dialog,,0,0,0,,{To protect your smile\Nby your side forever.}Aku terus di sisimu\Nagar senyumanmu terlindungi.
+Dialogue: 0,0:16:38.46,0:16:41.21,Dialog,,0,0,0,,{That was my everything.}Itulah segalanya bagi hidupku.
+Dialogue: 0,0:16:41.84,0:16:44.47,Dialog,,0,0,0,,{But what you loved, was your family.}Tapi yang kamu sayangi itu keluarga.
+Dialogue: 0,0:16:45.63,0:16:48.49,Dialog,,0,0,0,,{You were special to me.}Bagiku kamu itu sepesial ...
+Dialogue: 0,0:16:48.49,0:16:52.16,Dialog,,0,0,0,,... tapi bagimu aku hanyalah keluarga.
+Dialogue: 0,0:16:55.27,0:16:59.36,Dialog,,0,0,0,,{Don't you think\Nyour precious family has misled you?}Tak pernah terlintas kalau\Nkeluargamu telah menyesatkanmu?
+Dialogue: 0,0:17:00.36,0:17:03.61,Dialog,,0,0,0,,Mana kebahagiaan setelah \Nmenikah dengan keluarga Saimori?
+Dialogue: 0,0:17:03.69,0:17:08.49,Dialog,,0,0,0,,{For the family?\NSuch nonsense didn't save you.}Demi keluarga tuh cuma omong kosong \Nyang tak bisa menyelamatkanmu.
+Dialogue: 0,0:17:08.57,0:17:10.62,Dialog,,0,0,0,,{You were wrong.}Kamu sudah salah.
+Dialogue: 0,0:17:11.20,0:17:14.20,Dialog,,0,0,0,,{I will make your true wish come true!}Aku akan buat impianmu terwujud!
+Dialogue: 0,0:17:14.29,0:17:18.56,Dialog,,0,0,0,,{Once I create a world where Miyo\Nwith her ability reigns at the top,}Setelah Miyo membuat dunia baru.
+Dialogue: 0,0:17:18.56,0:17:21.40,Dialog,,0,0,0,,Saat itulah kamu akan bahagia.
+Dialogue: 0,0:17:23.51,0:17:24.34,Dialog,,0,0,0,,{Naoshi,}Naoshi ...
+Dialogue: 0,0:17:25.30,0:17:27.63,Dialog,,0,0,0,,{I do not wish for that.}... aku tak berharap pada itu.
+Dialogue: 0,0:17:29.43,0:17:33.02,Dialog,,0,0,0,,{You are released\Nfrom your duty as my protective sword.}Kamu terbebas dari pedang pelindungku.
+Dialogue: 0,0:17:38.48,0:17:39.44,Dialog,,0,0,0,,{Let's go.}Ayo ...
+Dialogue: 0,0:17:40.27,0:17:41.52,Dialog,,0,0,0,,{Come with me.}... ikutlah denganku.
+Dialogue: 0,0:17:45.15,0:17:48.11,Dialog,,0,0,0,,{All right. I've had enough.}Sudahlah.\NAku sudah muak.
+Dialogue: 0,0:17:50.57,0:17:53.29,Dialog,,0,0,0,,{There's no point in me staying here.}Tak ada gunanya lama-lama di sini.
+Dialogue: 0,0:17:55.75,0:17:56.91,Dialog,,0,0,0,,{No!}Jangan!
+Dialogue: 0,0:18:00.33,0:18:02.67,Dialog,,0,0,0,,{He's trying to\Nget out of this dream by force.}Dia mau keluar dari mimpi secara paksa.
+Dialogue: 0,0:18:22.06,0:18:23.23,Dialog,,0,0,0,,{\b1\i1\3c&H3F712A&\4c&H2E521F&}{<i>Where is this?</i>}Ini di mana?
+Dialogue: 0,0:18:23.73,0:18:24.78,Dialog,,0,0,0,,{\i1}Miyo.
+Dialogue: 0,0:18:25.78,0:18:26.69,Dialog,,0,0,0,,{Mother?}Ibunda?
+Dialogue: 0,0:18:26.78,0:18:29.95,Dialog,,0,0,0,,{\i1}Roda gigi era baru mulai berputar.
+Dialogue: 0,0:18:30.70,0:18:31.95,Dialog,,0,0,0,,{\i1}Kini tenang saja.
+Dialogue: 0,0:18:32.03,0:18:34.70,Dialog,,0,0,0,,{\i1}Kamu sudah berusaha, Miyo.
+Dialogue: 0,0:18:36.54,0:18:37.79,Dialog,,0,0,0,,{Mother…}Ibunda ....
+Dialogue: 0,0:18:48.22,0:18:49.09,Dialog,,0,0,0,,{Sir!}Suamiku!
+Dialogue: 0,0:18:49.17,0:18:50.68,Dialog,,0,0,0,,{Miyo!}Miyo!
+Dialogue: 0,0:18:56.68,0:18:59.56,Dialog,,0,0,0,,{Come here.}Cepatlah ke sini.
+Dialogue: 0,0:18:59.64,0:19:01.85,Dialog,,0,0,0,,{Let's finish everything.}Mari akhiri semuanya.
+Dialogue: 0,0:19:07.23,0:19:08.61,Dialog,,0,0,0,,{Usui!}Usui!
+Dialogue: 0,0:19:15.49,0:19:16.49,Dialog,,0,0,0,,{What's happening?}Ada apa?
+Dialogue: 0,0:19:26.84,0:19:28.26,Dialog,,0,0,0,,{Arata Usuba!}Usuba Arata!
+Dialogue: 0,0:19:38.97,0:19:40.18,Dialog,,0,0,0,,{Arata!}Tuan Arata!
+Dialogue: 0,0:19:43.48,0:19:46.36,Dialog,,0,0,0,,{Arata… Why…}Tuan Arata kenapa melakuannya?
+Dialogue: 0,0:19:50.74,0:19:53.66,Dialog,,0,0,0,,{Please forgive me, Miyo…}Maafkan saya ... Nona Miyo .....
+Dialogue: 0,0:19:59.16,0:20:00.41,Dialog,,0,0,0,,{Is anybody here?}Apa ada orang di sini?
+Dialogue: 0,0:20:01.04,0:20:02.37,Dialog,,0,0,0,,{Medic!}Medis!
+Dialogue: 0,0:20:12.72,0:20:14.34,Dialog,,0,0,0,,{Sumi…}Sumi ....
+Dialogue: 0,0:20:19.51,0:20:20.93,Dialog,,0,0,0,,{Come on. Let's go.}Yuk kita pergi.
+Dialogue: 0,0:20:46.96,0:20:48.04,Dialog,,0,0,0,,{Um…}Anu ....
+Dialogue: 0,0:20:53.38,0:20:55.34,Dialog,,0,0,0,,{What are supernatural abilities?}Kekuatan tuh apa, ya?
+Dialogue: 0,0:20:56.64,0:20:58.35,Dialog,,0,0,0,,{I cannot understand.}Aku masih belum mengerti.
+Dialogue: 0,0:20:59.05,0:21:02.45,Dialog,,0,0,0,,{Fighting for power}Bertarung demi kekuatan \Nsampai orang tersakiti.
+Dialogue: 0,0:21:03.06,0:21:05.71,Dialog,,0,0,0,,{Even if my ability\Ncould change the future,}Meski aku bisa mengubah masa depan ...
+Dialogue: 0,0:21:05.71,0:21:07.83,Dialog,,0,0,0,,... keinginan Ibunda tetap tak terwujud.
+Dialogue: 0,0:21:09.06,0:21:11.19,Dialog,,0,0,0,,{Sir, I…}Suamiku ... \NUsui telah ....
+Dialogue: 0,0:21:11.27,0:21:13.28,Dialog,,0,0,0,,{You've done nothing wrong.}Kamu tidaklah salah.
+Dialogue: 0,0:21:13.78,0:21:15.57,Dialog,,0,0,0,,{You did everything you could.}Sudah mengerahkan semuanya.
+Dialogue: 0,0:21:20.20,0:21:22.74,Dialog,,0,0,0,,Baginda telah diselematkan!\NBeliau sehat!
+Dialogue: 0,0:21:24.70,0:21:26.54,Dialog,,0,0,0,,{Mr. Godo, how are your injuries?}Tuan Godou!\NKondisi luka Anda?
+Dialogue: 0,0:21:26.62,0:21:30.25,Dialog,,0,0,0,,{I'm fine.\NLooks like everything is settled here too.}Ah, aman.\NDi sini juga sudah beres, ya.
+Dialogue: 0,0:21:30.34,0:21:32.88,Dialog,,0,0,0,,{We've taken down their headquarters.}Markas sepenuhnya ditaklukkan.
+Dialogue: 0,0:21:33.46,0:21:35.26,Dialog,,0,0,0,,{The commander and Ms. Miyo are safe.}Komandan dan\NNona Miyo juga selamat.
+Dialogue: 0,0:21:37.68,0:21:39.09,Dialog,,0,0,0,,{Good work, everyone.}Teman-teman, \Nterima kasih.
+Dialogue: 0,0:21:39.59,0:21:42.01,Dialog,,0,0,0,,{Spoken like a true commander.}Ucapan komandan banget, nih.
+Dialogue: 0,0:21:43.43,0:21:45.10,Dialog,,0,0,0,,{That's enough from you!}Kau ini!
+Dialogue: 0,0:21:49.35,0:21:52.07,Dialog,,0,0,0,,{Look, there's the real Commander.}Oh, ada Komandan asli, tuh.
+Dialogue: 0,0:21:54.32,0:21:56.28,Dialog,,0,0,0,,{Commander! Ms. Miyo!}Komandan!\NNona Miyo!
