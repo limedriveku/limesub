@@ -11,6 +11,7 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 1.000000
+Active Line: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,7 +23,7 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:14.22,0:00:15.68,Default,,0,0,0,,Kau tahu…
 Dialogue: 0,0:00:16.60,0:00:20.98,Default,,0,0,0,,aku pun seharusnya\Nsudah punya cucu sebesar itu sekarang.
-Dialogue: 0,0:00:21.56,0:00:23.10,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Lagi-lagi soal itu.
+Dialogue: 0,0:00:21.56,0:00:23.10,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Lagi-lagi soal itu.
 Dialogue: 0,0:00:23.44,0:00:25.73,Default,,0,0,0,,Kukira kau mengamati keahlianku!
 Dialogue: 0,0:00:25.81,0:00:29.02,Default,,0,0,0,,Keahlian berpedangmu bagus.
 Dialogue: 0,0:00:29.11,0:00:31.65,Default,,0,0,0,,Sudah 20 tahun sejak kau menggantikanku.
@@ -38,33 +39,33 @@ Dialogue: 0,0:00:53.13,0:00:54.93,Default,,0,0,0,,Pembicaraan ini belum selesai.
 Dialogue: 0,0:00:55.01,0:00:57.89,Default,,0,0,0,,Setidaknya ada satu gadis baik\Ndi antara muridmu.
 Dialogue: 0,0:00:58.22,0:00:59.72,Default,,0,0,0,,Hei, Ayah.
 Dialogue: 0,0:00:59.97,0:01:02.56,Default,,0,0,0,,Dojo bukan tempat mencari cinta.
-Dialogue: 0,0:01:04.10,0:01:07.27,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Dojo ilmu pedang terpencil{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}dari generasi ke generasi.{\c}{\fn}
-Dialogue: 0,0:01:07.81,0:01:11.82,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku dilahirkan di sini{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}dan bermain pedang kayu sejak kecil.{\c}{\fn}
-Dialogue: 0,0:01:12.69,0:01:14.74,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Tak ada yang berubah sejak itu.
-Dialogue: 0,0:01:15.53,0:01:17.99,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku bekerja sekeras mungkin.
-Dialogue: 0,0:01:18.24,0:01:22.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Semasa muda, aku bermimpi{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}menjadi pendekar pedang besar.{\c}{\fn}
-Dialogue: 0,0:01:22.50,0:01:26.29,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Akhirnya keahlianku sedikit lebih baik{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}daripada kebanyakan orang,{\c}{\fn}
-Dialogue: 0,0:01:26.54,0:01:28.42,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}dan cukup gesit mengingat usiaku.
-Dialogue: 0,0:01:28.50,0:01:29.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Itu saja.
-Dialogue: 0,0:01:30.13,0:01:31.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku tak bisa mengeluh.
-Dialogue: 0,0:01:31.46,0:01:35.63,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku merasa inilah tempat{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}yang layak untukku.{\c}{\fn}
-Dialogue: 0,0:01:36.47,0:01:38.84,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Keterampilan berpedangku mungkin biasa,
-Dialogue: 0,0:01:39.35,0:01:41.85,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}tapi aku piawai dalam mengajar.
+Dialogue: 0,0:01:04.10,0:01:07.27,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Dojo ilmu pedang terpencil{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}dari generasi ke generasi.{\c}{\fn}
+Dialogue: 0,0:01:07.81,0:01:11.82,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku dilahirkan di sini{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}dan bermain pedang kayu sejak kecil.{\c}{\fn}
+Dialogue: 0,0:01:12.69,0:01:14.74,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Tak ada yang berubah sejak itu.
+Dialogue: 0,0:01:15.53,0:01:17.99,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku bekerja sekeras mungkin.
+Dialogue: 0,0:01:18.24,0:01:22.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Semasa muda, aku bermimpi{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}menjadi pendekar pedang besar.{\c}{\fn}
+Dialogue: 0,0:01:22.50,0:01:26.29,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Akhirnya keahlianku sedikit lebih baik{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}daripada kebanyakan orang,{\c}{\fn}
+Dialogue: 0,0:01:26.54,0:01:28.42,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}dan cukup gesit mengingat usiaku.
+Dialogue: 0,0:01:28.50,0:01:29.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Itu saja.
+Dialogue: 0,0:01:30.13,0:01:31.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku tak bisa mengeluh.
+Dialogue: 0,0:01:31.46,0:01:35.63,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku merasa inilah tempat{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}yang layak untukku.{\c}{\fn}
+Dialogue: 0,0:01:36.47,0:01:38.84,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Keterampilan berpedangku mungkin biasa,
+Dialogue: 0,0:01:39.35,0:01:41.85,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}tapi aku piawai dalam mengajar.
 Dialogue: 0,0:01:42.10,0:01:44.10,Default,,0,0,0,,Terima kasih!
 Dialogue: 0,0:01:44.18,0:01:45.73,Default,,0,0,0,,Kalian bekerja keras.
-Dialogue: 0,0:01:46.35,0:01:50.31,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Sejumlah lulusan dari sini{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}sudah menjadi cukup sukses.{\c}{\fn}
+Dialogue: 0,0:01:46.35,0:01:50.31,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Sejumlah lulusan dari sini{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}sudah menjadi cukup sukses.{\c}{\fn}
 Dialogue: 0,0:01:54.74,0:01:58.95,Default,,0,0,0,,Apakah ingin memiliki cucu\Nmerupakan permintaan yang terlalu berat?
-Dialogue: 0,0:01:59.57,0:02:02.20,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Dia terus bahas cucu hari ini.
+Dialogue: 0,0:01:59.57,0:02:02.20,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Dia terus bahas cucu hari ini.
 Dialogue: 0,0:02:02.45,0:02:05.58,Default,,0,0,0,,Kau juga ingin punya cucu\Nuntuk dipeluk, 'kan, Frenne?
 Dialogue: 0,0:02:05.66,0:02:08.25,Default,,0,0,0,,Kau mau Beryl mencari istri, bukan?
-Dialogue: 0,0:02:08.50,0:02:11.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Orang tua sialan,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}mencoba membuat Ibu memihaknya.{\c}{\fn}
+Dialogue: 0,0:02:08.50,0:02:11.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Orang tua sialan,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}mencoba membuat Ibu memihaknya.{\c}{\fn}
 Dialogue: 0,0:02:11.54,0:02:13.84,Default,,0,0,0,,Cepat atau lambat pasti dapat.
 Dialogue: 0,0:02:13.92,0:02:15.42,Default,,0,0,0,,Cepat atau lambat?
 Dialogue: 0,0:02:15.51,0:02:17.34,Default,,0,0,0,,Cepat. Atau lambat.
-Dialogue: 0,0:02:17.42,0:02:19.89,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Bagus, Bu. Bantahan yang bagus.
+Dialogue: 0,0:02:17.42,0:02:19.89,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Bagus, Bu. Bantahan yang bagus.
 Dialogue: 0,0:02:21.30,0:02:24.97,Default,,0,0,0,,Kelak, dia akan memberi kita\Nbayi-bayi manis untuk dipeluk.
 Dialogue: 0,0:02:25.06,0:02:26.68,Default,,0,0,0,,Benar, Beryl?
-Dialogue: 0,0:02:28.23,0:02:31.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Dia tidak memihak Ayah,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}tapi tidak memihak aku juga.{\c}{\fn}
+Dialogue: 0,0:02:28.23,0:02:31.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Dia tidak memihak Ayah,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}tapi tidak memihak aku juga.{\c}{\fn}
 Dialogue: 0,0:02:33.19,0:02:34.40,Default,,0,0,0,,Permisi.
 Dialogue: 0,0:02:37.28,0:02:38.95,Default,,0,0,0,,Ya, siapa?
 Dialogue: 0,0:02:39.61,0:02:42.07,Default,,0,0,0,,Lama tak jumpa, Guru.
@@ -72,7 +73,7 @@ Dialogue: 0,0:02:42.87,0:02:44.08,Default,,0,0,0,,Kau…
 Dialogue: 0,0:02:44.74,0:02:45.66,Default,,0,0,0,,Apa kau…
 Dialogue: 0,0:02:46.00,0:02:46.83,Default,,0,0,0,,Ya.
 Dialogue: 0,0:02:47.83,0:02:49.75,Default,,0,0,0,,Ini aku, Allucia Citrus.
-Dialogue: 0,0:04:23.38,0:04:26.30,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnsansSerif}Pria Tua Pedesaan Pergi ke Ibu Kota.
+Dialogue: 0,0:04:23.38,0:04:26.30,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Pria Tua Pedesaan Pergi ke Ibu Kota.
 Dialogue: 0,0:04:31.60,0:04:34.44,Default,,0,0,0,,Lama tidak jumpa. Aku tak mengenalimu.
 Dialogue: 0,0:04:35.73,0:04:37.82,Default,,0,0,0,,Guru tidak berubah sama sekali.
 Dialogue: 0,0:04:38.15,0:04:43.28,Default,,0,0,0,,Kau terus mengabari kami lewat suratmu,\Njadi kami tahu kau sudah naik pangkat.
@@ -111,19 +112,19 @@ Dialogue: 0,0:06:06.61,0:06:07.95,Default,,0,0,0,,Tidak.
 Dialogue: 0,0:06:08.16,0:06:11.58,Default,,0,0,0,,Frenne. Beryl tak akan ikut makan malam.
 Dialogue: 0,0:06:11.66,0:06:12.49,Default,,0,0,0,,Baiklah.
 Dialogue: 0,0:06:13.79,0:06:17.37,Default,,0,0,0,,Situasi terus menguntungkannya,\Ndan aku tak bisa membantah.
-Dialogue: 0,0:06:22.29,0:06:24.51,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Kenapa ini terjadi?
+Dialogue: 0,0:06:22.29,0:06:24.51,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Kenapa ini terjadi?
 Dialogue: 0,0:06:26.67,0:06:28.51,Default,,0,0,0,,Kau masih memakai pedang itu.
 Dialogue: 0,0:06:28.59,0:06:29.43,Default,,0,0,0,,Ya.
-Dialogue: 0,0:06:30.22,0:06:34.52,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Pedang yang kuhadiahkan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}untuk murid yang lulus dari dojo.{\c}{\fn}
+Dialogue: 0,0:06:30.22,0:06:34.52,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Pedang yang kuhadiahkan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}untuk murid yang lulus dari dojo.{\c}{\fn}
 Dialogue: 0,0:06:35.60,0:06:38.23,Default,,0,0,0,,Aku senang kau menyukainya,
 Dialogue: 0,0:06:38.31,0:06:43.07,Default,,0,0,0,,tapi pedang dari pandai besi desa\Ntidak cocok untuk seorang komandan, 'kan?
 Dialogue: 0,0:06:43.73,0:06:44.57,Default,,0,0,0,,Salah.
 Dialogue: 0,0:06:44.78,0:06:46.74,Default,,0,0,0,,Pedang ini untukku.
-Dialogue: 0,0:06:47.36,0:06:48.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku mengerti.
-Dialogue: 0,0:06:48.86,0:06:52.70,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Perasaan yang dimiliki seorang anak,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}bahwa gurumu lebih unggul.{\c}{\fn}
-Dialogue: 0,0:06:53.53,0:06:56.37,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Allucia masih terpaku pada ide itu.
-Dialogue: 0,0:06:57.16,0:06:58.75,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Itu ada baiknya,
-Dialogue: 0,0:06:58.83,0:07:02.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}tapi aku terlalu tua{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}untuk jadi guru elite.{\c}{\fn}
+Dialogue: 0,0:06:47.36,0:06:48.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku mengerti.
+Dialogue: 0,0:06:48.86,0:06:52.70,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Perasaan yang dimiliki seorang anak,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}bahwa gurumu lebih unggul.{\c}{\fn}
+Dialogue: 0,0:06:53.53,0:06:56.37,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Allucia masih terpaku pada ide itu.
+Dialogue: 0,0:06:57.16,0:06:58.75,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Itu ada baiknya,
+Dialogue: 0,0:06:58.83,0:07:02.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}tapi aku terlalu tua{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}untuk jadi guru elite.{\c}{\fn}
 Dialogue: 0,0:07:02.75,0:07:04.13,Default,,0,0,0,,Aku senang sekali.
 Dialogue: 0,0:07:04.67,0:07:07.76,Default,,0,0,0,,Memikirkan orang kampung… Maafkan aku.
 Dialogue: 0,0:07:08.26,0:07:12.14,Default,,0,0,0,,Memikirkan guru pedang desa\Nakhirnya bekerja di ibu kota…
@@ -133,7 +134,7 @@ Dialogue: 0,0:07:18.10,0:07:20.85,Default,,0,0,0,,Si "pendekar pedang desa" yang
 Dialogue: 0,0:07:20.94,0:07:24.44,Default,,0,0,0,,banyak kesatria dan pengelana\Ndikenal banyak pemain pedang.
 Dialogue: 0,0:07:24.52,0:07:26.86,Default,,0,0,0,,Namun, aku tak bisa menerima julukan itu.
 Dialogue: 0,0:07:27.28,0:07:28.49,Default,,0,0,0,,Begitu rupanya.
-Dialogue: 0,0:07:29.74,0:07:32.61,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Mungkin hanya dia yang berpikir begitu.
+Dialogue: 0,0:07:29.74,0:07:32.61,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Mungkin hanya dia yang berpikir begitu.
 Dialogue: 0,0:07:32.70,0:07:36.41,Default,,0,0,0,,Aku yakin posisi yang kusiapkan\Npaling cocok untukmu, Guru.
 Dialogue: 0,0:07:36.70,0:07:41.29,Default,,0,0,0,,Aku pun akan mengembangkan diriku\Nagar layak untukmu.
 Dialogue: 0,0:07:41.37,0:07:43.63,Default,,0,0,0,,Kau bilang sesuatu?
@@ -144,14 +145,14 @@ Dialogue: 0,0:07:50.05,0:07:52.01,Default,,0,0,0,,Aku harus beli oleh-oleh.
 Dialogue: 0,0:07:59.43,0:08:01.73,Default,,0,0,0,,Beristirahatlah di sini malam ini.
 Dialogue: 0,0:08:01.81,0:08:03.85,Default,,0,0,0,,Aku akan menjemputmu besok pagi.
 Dialogue: 0,0:08:03.94,0:08:05.15,Default,,0,0,0,,Baik, terima kasih.
-Dialogue: 0,0:08:06.15,0:08:09.48,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Ada begitu banyak toko dan orang,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}dan malam pun terang.{\c}{\fn}
-Dialogue: 0,0:08:09.74,0:08:11.28,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Begitulah kota besar.
+Dialogue: 0,0:08:06.15,0:08:09.48,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Ada begitu banyak toko dan orang,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}dan malam pun terang.{\c}{\fn}
+Dialogue: 0,0:08:09.74,0:08:11.28,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Begitulah kota besar.
 Dialogue: 0,0:08:13.82,0:08:14.91,Default,,0,0,0,,Agak berlebihan.
 Dialogue: 0,0:08:16.70,0:08:19.79,Default,,0,0,0,,Seperti yang kujelaskan,\Naku meminta Beryl Gardenant
 Dialogue: 0,0:08:20.16,0:08:23.42,Default,,0,0,0,,untuk menjadi guru elite Ordo Liberion.
 Dialogue: 0,0:08:24.00,0:08:28.46,Default,,0,0,0,,Tuan Gardenant sangat kuat,\Naku pun bukan tandingannya.
 Dialogue: 0,0:08:28.75,0:08:31.13,Default,,0,0,0,,Sampaikan kata sambutanmu, Guru.
-Dialogue: 0,0:08:32.72,0:08:35.18,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Ini terlalu berlebihan untukku.
+Dialogue: 0,0:08:32.72,0:08:35.18,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Ini terlalu berlebihan untukku.
 Dialogue: 0,0:08:37.05,0:08:41.56,Default,,0,0,0,,Seperti kata komandan kalian,\Nnamaku Beryl Gardenant.
 Dialogue: 0,0:08:41.64,0:08:46.02,Default,,0,0,0,,Entah seberapa besar keterampilanku\Nakan berguna bagi kalian,
 Dialogue: 0,0:08:46.10,0:08:50.94,Default,,0,0,0,,tapi aku akan berusaha maksimal,\Ndan aku menantikan kerja sama kalian.
@@ -168,14 +169,14 @@ Dialogue: 0,0:09:25.94,0:09:27.15,Default,,0,0,0,,Siap!
 Dialogue: 0,0:09:27.23,0:09:28.15,Default,,0,0,0,,Curuni…
 Dialogue: 0,0:09:28.56,0:09:31.28,Default,,0,0,0,,Curuni! Kau menjadi kesatria yang baik.
 Dialogue: 0,0:09:31.36,0:09:34.28,Default,,0,0,0,,Tidak, aku masih harus banyak belajar.
-Dialogue: 0,0:09:34.36,0:09:36.82,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Dia berlatih di dojo dua tahun lalu.
-Dialogue: 0,0:09:37.36,0:09:40.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Dia bekerja keras,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}berlatih untuk jadi kesatria.{\c}{\fn}
+Dialogue: 0,0:09:34.36,0:09:36.82,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Dia berlatih di dojo dua tahun lalu.
+Dialogue: 0,0:09:37.36,0:09:40.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Dia bekerja keras,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}berlatih untuk jadi kesatria.{\c}{\fn}
 Dialogue: 0,0:09:41.58,0:09:43.45,Default,,0,0,0,,Senang melihat mimpimu terwujud.
 Dialogue: 0,0:09:43.66,0:09:46.96,Default,,0,0,0,,Aku senang kau akan mengajariku lagi!
 Dialogue: 0,0:09:47.04,0:09:50.96,Default,,0,0,0,,Aku di sini untuk mendukungmu.\NMohon bimbingannya.
-Dialogue: 0,0:09:53.46,0:09:56.30,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Curuni pergi setelah dua tahun.
-Dialogue: 0,0:09:56.38,0:09:58.80,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku beruntung bisa lanjut melatihnya.
-Dialogue: 0,0:09:59.39,0:10:02.60,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku tak percaya dua muridku{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}akhirnya masuk Ordo…{\c}{\fn}
+Dialogue: 0,0:09:53.46,0:09:56.30,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Curuni pergi setelah dua tahun.
+Dialogue: 0,0:09:56.38,0:09:58.80,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku beruntung bisa lanjut melatihnya.
+Dialogue: 0,0:09:59.39,0:10:02.60,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku tak percaya dua muridku{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}akhirnya masuk Ordo…{\c}{\fn}
 Dialogue: 0,0:10:03.81,0:10:05.02,Default,,0,0,0,,Aku pulang.
 Dialogue: 0,0:10:06.94,0:10:08.48,Default,,0,0,0,,Aku bawa oleh-oleh.
 Dialogue: 0,0:10:08.56,0:10:10.61,Default,,0,0,0,,Ayah suka penganan manis, 'kan?
@@ -201,7 +202,7 @@ Dialogue: 0,0:11:04.87,0:11:06.50,Default,,0,0,0,,Aku merasa bersalah, tapi…
 Dialogue: 0,0:11:06.58,0:11:09.75,Default,,0,0,0,,Sudah lebih dari sepuluh tahun\Nsejak kau jadi muridku.
 Dialogue: 0,0:11:09.83,0:11:12.21,Default,,0,0,0,,Usahamu sendiri yang membantumu.
 Dialogue: 0,0:11:12.29,0:11:13.50,Default,,0,0,0,,Terima kasih.
-Dialogue: 0,0:11:13.71,0:11:18.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Pengelana bisa mendapat banyak uang,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}tapi itu pekerjaan berisiko.{\c}{\fn}
+Dialogue: 0,0:11:13.71,0:11:18.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Pengelana bisa mendapat banyak uang,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}tapi itu pekerjaan berisiko.{\c}{\fn}
 Dialogue: 0,0:11:19.05,0:11:22.14,Default,,0,0,0,,Tidak masalah,\Nasal istrimu tak berkeberatan.
 Dialogue: 0,0:11:23.47,0:11:26.77,Default,,0,0,0,,Kurasa inilah yang disebut suratan takdir.
 Dialogue: 0,0:11:27.06,0:11:29.60,Default,,0,0,0,,Randrid tahu gaya pelatihan kita.
@@ -209,7 +210,7 @@ Dialogue: 0,0:11:29.81,0:11:34.56,Default,,0,0,0,,Jika dia menjadi kepala dojo,\
 Dialogue: 0,0:11:34.65,0:11:36.32,Default,,0,0,0,,Aku tahu situasinya.
 Dialogue: 0,0:11:36.40,0:11:40.28,Default,,0,0,0,,Aku, Randrid Pattlerock,\Nakan mengabdi dengan sebaik-baiknya.
 Dialogue: 0,0:11:40.49,0:11:42.99,Default,,0,0,0,,Ya, baik…
-Dialogue: 0,0:11:43.32,0:11:47.45,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Jadi, pak tua ini bicara dengan Randrid{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}selama aku tak ada, ya.{\c}{\fn}
+Dialogue: 0,0:11:43.32,0:11:47.45,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Jadi, pak tua ini bicara dengan Randrid{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}selama aku tak ada, ya.{\c}{\fn}
 Dialogue: 0,0:11:47.54,0:11:49.25,Default,,0,0,0,,Hei, kau boleh bermalam.
 Dialogue: 0,0:11:49.54,0:11:51.54,Default,,0,0,0,,Ini rumahku, tahu!
 Dialogue: 0,0:11:54.71,0:11:57.38,Default,,0,0,0,,Jadi, begitu ceritanya. Kacau sekali.
@@ -223,8 +224,8 @@ Dialogue: 0,0:12:16.44,0:12:20.03,Default,,0,0,0,,Aku kurang mengenal ibu kota,\
 Dialogue: 0,0:12:20.32,0:12:23.32,Default,,0,0,0,,Bagaimana kalau kau tinggal di rumahku?
 Dialogue: 0,0:12:23.82,0:12:25.24,Default,,0,0,0,,Tidak boleh sama sekali!
 Dialogue: 0,0:12:27.62,0:12:29.29,Default,,0,0,0,,Tidak boleh?
-Dialogue: 0,0:12:30.54,0:12:33.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Dia hampir membuat jantungku copot…
-Dialogue: 0,0:12:33.12,0:12:36.42,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Mungkin orang di kota{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}punya selera humor yang berbeda…{\c}{\fn}
+Dialogue: 0,0:12:30.54,0:12:33.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Dia hampir membuat jantungku copot…
+Dialogue: 0,0:12:33.12,0:12:36.42,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Mungkin orang di kota{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}punya selera humor yang berbeda…{\c}{\fn}
 Dialogue: 0,0:12:36.50,0:12:39.67,Default,,0,0,0,,Bagaimana kalau kita makan dulu, Guru?
 Dialogue: 0,0:12:39.75,0:12:41.59,Default,,0,0,0,,Ini jam makan siang, ya?
 Dialogue: 0,0:12:42.30,0:12:46.14,Default,,0,0,0,,Berjalan-jalan di kota dan makan siang.\NItu baru kencan romantis.
@@ -232,9 +233,9 @@ Dialogue: 0,0:12:46.39,0:12:47.97,Default,,0,0,0,,Kau bilang sesuatu?
 Dialogue: 0,0:12:48.05,0:12:50.02,Default,,0,0,0,,Tidak, tidak ada.
 Dialogue: 0,0:12:51.77,0:12:55.27,Default,,0,0,0,,Komandan Ordo berjalan-jalan dengan pria.
 Dialogue: 0,0:12:55.35,0:12:56.90,Default,,0,0,0,,Dia seperti pengecut.
-Dialogue: 0,0:12:57.52,0:12:59.48,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Mati aku.
-Dialogue: 0,0:12:59.57,0:13:01.57,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Komandan menarik perhatian.
-Dialogue: 0,0:13:01.65,0:13:06.16,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Bepergian dengan pria tua seperti aku{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}membuatnya tampak buruk.{\c}{\fn}
+Dialogue: 0,0:12:57.52,0:12:59.48,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Mati aku.
+Dialogue: 0,0:12:59.57,0:13:01.57,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Komandan menarik perhatian.
+Dialogue: 0,0:13:01.65,0:13:06.16,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Bepergian dengan pria tua seperti aku{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}membuatnya tampak buruk.{\c}{\fn}
 Dialogue: 0,0:13:06.53,0:13:08.12,Default,,0,0,0,,Kaukah itu, Lysandra?
 Dialogue: 0,0:13:08.53,0:13:10.87,Default,,0,0,0,,Berhentilah menghina, ya?
 Dialogue: 0,0:13:11.12,0:13:13.08,Default,,0,0,0,,Aku bertugas dengan baik.
@@ -247,8 +248,8 @@ Dialogue: 0,0:13:25.51,0:13:26.76,Default,,0,0,0,,Begitu, ya?
 Dialogue: 0,0:13:28.01,0:13:32.60,Default,,0,0,0,,Pergi di tengah percakapan seperti itu.\NKau sungguh tidak sopan.
 Dialogue: 0,0:13:33.64,0:13:35.27,Default,,0,0,0,,Aku tak mau bicara denganmu.
 Dialogue: 0,0:13:36.73,0:13:40.57,Default,,0,0,0,,Beraninya kau asal-asalan\Nmemanggil pria "guru"?
-Dialogue: 0,0:13:41.57,0:13:44.36,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Emblem itu…{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}Jadi, dia pengelana peringkat hitam?{\c}{\fn}
-Dialogue: 0,0:13:44.44,0:13:46.07,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku belum pernah bertemu.
+Dialogue: 0,0:13:41.57,0:13:44.36,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Emblem itu…{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Jadi, dia pengelana peringkat hitam?{\c}{\fn}
+Dialogue: 0,0:13:44.44,0:13:46.07,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku belum pernah bertemu.
 Dialogue: 0,0:13:46.95,0:13:48.70,Default,,0,0,0,,Pak Beryl?
 Dialogue: 0,0:13:50.87,0:13:52.74,Default,,0,0,0,,Aku tidak mungkin salah.
 Dialogue: 0,0:13:53.54,0:13:55.46,Default,,0,0,0,,Kau tak mengingatku?
@@ -258,7 +259,7 @@ Dialogue: 0,0:13:59.29,0:14:02.25,Default,,0,0,0,,Guru, ini aku. Surena Lysandra
 Dialogue: 0,0:14:02.34,0:14:06.59,Default,,0,0,0,,Kau tak ingat menampungku waktu kecil\Ndan mengajariku cara berpedang?
 Dialogue: 0,0:14:07.59,0:14:10.22,Default,,0,0,0,,Tunggu, Surena yang itu?
 Dialogue: 0,0:14:10.85,0:14:12.81,Default,,0,0,0,,Jadi, kau ingat?
-Dialogue: 0,0:14:13.93,0:14:16.02,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Rupanya dia.
+Dialogue: 0,0:14:13.93,0:14:16.02,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Rupanya dia.
 Dialogue: 0,0:14:26.15,0:14:29.57,Default,,0,0,0,,Aku sudah lama sekali\Ningin memberitahumu keberhasilanku.
 Dialogue: 0,0:14:30.03,0:14:33.16,Default,,0,0,0,,Namun, tak ada kesempatan.
 Dialogue: 0,0:14:33.24,0:14:34.62,Default,,0,0,0,,Maafkan aku.
@@ -273,16 +274,16 @@ Dialogue: 0,0:14:55.97,0:14:59.02,Default,,0,0,0,,Aku tahu Guru jadi guru elite\
 Dialogue: 0,0:14:59.10,0:15:01.61,Default,,0,0,0,,Urusan penginapan,\Naku lebih tahu dari kau.
 Dialogue: 0,0:15:01.69,0:15:04.69,Default,,0,0,0,,Aku makelar untuk pengelana\Ndari tempat jauh.
 Dialogue: 0,0:15:04.77,0:15:07.32,Default,,0,0,0,,Kau tak pernah tinggal\Ndi penginapan, bukan?
-Dialogue: 0,0:15:10.11,0:15:12.20,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Ada apa dengan mereka berdua?
+Dialogue: 0,0:15:10.11,0:15:12.20,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Ada apa dengan mereka berdua?
 Dialogue: 0,0:15:13.37,0:15:17.25,Default,,0,0,0,,Kurasa tempat ini sesuai\Ndengan keinginanmu, Guru.
 Dialogue: 0,0:15:18.12,0:15:19.75,Default,,0,0,0,,Terima kasih, Surena.
 Dialogue: 0,0:15:19.83,0:15:21.37,Default,,0,0,0,,Kau juga, Allucia.
 Dialogue: 0,0:15:22.38,0:15:24.84,Default,,0,0,0,,Kalian harus akur satu sama lain, ya?
 Dialogue: 0,0:15:26.30,0:15:27.76,Default,,0,0,0,,Sampai nanti, Guru.
 Dialogue: 0,0:15:27.84,0:15:29.17,Default,,0,0,0,,Aku permisi.
-Dialogue: 0,0:15:37.18,0:15:39.35,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku tidak cukup muda
-Dialogue: 0,0:15:39.43,0:15:41.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}untuk mendadak hidup di kota…
-Dialogue: 0,0:15:42.15,0:15:46.27,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Senangnya diperhatikan murid-murid lamaku.
+Dialogue: 0,0:15:37.18,0:15:39.35,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku tidak cukup muda
+Dialogue: 0,0:15:39.43,0:15:41.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}untuk mendadak hidup di kota…
+Dialogue: 0,0:15:42.15,0:15:46.27,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Senangnya diperhatikan murid-murid lamaku.
 Dialogue: 0,0:15:55.24,0:15:56.91,Default,,0,0,0,,Aku kalah.
 Dialogue: 0,0:15:56.99,0:15:58.16,Default,,0,0,0,,Semuanya, dengar.
 Dialogue: 0,0:15:58.58,0:16:02.67,Default,,0,0,0,,Jadwal sudah diubah.\NPak Gardenant mengajar mulai hari ini.
@@ -299,45 +300,45 @@ Dialogue: 0,0:16:29.69,0:16:31.90,Default,,0,0,0,,Aku tidak bermaksud lancang.
 Dialogue: 0,0:16:31.99,0:16:33.91,Default,,0,0,0,,Aku ingin berduel denganmu.
 Dialogue: 0,0:16:33.99,0:16:34.91,Default,,0,0,0,,Baiklah.
 Dialogue: 0,0:16:36.83,0:16:39.41,Default,,0,0,0,,Ini kesempatan menunjukkan\Nkehebatanmu, Guru.
-Dialogue: 0,0:16:40.20,0:16:43.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku berharap dia tak memutuskan sepihak.
+Dialogue: 0,0:16:40.20,0:16:43.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku berharap dia tak memutuskan sepihak.
 Dialogue: 0,0:16:49.13,0:16:52.09,Default,,0,0,0,,Mungkin dia gurunya,\Ntapi itu waktu masih kecil.
 Dialogue: 0,0:16:52.67,0:16:54.09,Default,,0,0,0,,Pendekar pedang desa.
 Dialogue: 0,0:16:54.43,0:16:57.93,Default,,0,0,0,,Aku pernah dengar tentang dia,\Ntapi cuma rumor.
 Dialogue: 0,0:16:58.39,0:17:00.35,Default,,0,0,0,,Aku ragu dia bisa mengajar kita.
-Dialogue: 0,0:17:00.81,0:17:02.35,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Hei, aku setuju denganmu.
+Dialogue: 0,0:17:00.81,0:17:02.35,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Hei, aku setuju denganmu.
 Dialogue: 0,0:17:03.18,0:17:05.06,Default,,0,0,0,,Komandan terlalu baik.
 Dialogue: 0,0:17:06.86,0:17:11.86,Default,,0,0,0,,Keinginan dia akan pengakuan\Nterhadap guru lamanya tak mengherankan.
 Dialogue: 0,0:17:12.94,0:17:13.86,Default,,0,0,0,,Itu benar.
 Dialogue: 0,0:17:14.49,0:17:16.87,Default,,0,0,0,,Kebaikan kadang membawa kesalahan.
 Dialogue: 0,0:17:17.32,0:17:19.78,Default,,0,0,0,,Aku berhak mengoreksi itu.
 Dialogue: 0,0:17:20.74,0:17:22.70,Default,,0,0,0,,Ya, kau tidak salah.
-Dialogue: 0,0:17:23.12,0:17:24.50,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Itu benar.
-Dialogue: 0,0:17:24.58,0:17:27.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku cuma pria tua dari kampung.
-Dialogue: 0,0:17:27.13,0:17:30.84,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Namun, aku akan berusaha{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}tidak terlihat buruk saat kalah.{\c}{\fn}
+Dialogue: 0,0:17:23.12,0:17:24.50,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Itu benar.
+Dialogue: 0,0:17:24.58,0:17:27.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku cuma pria tua dari kampung.
+Dialogue: 0,0:17:27.13,0:17:30.84,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Namun, aku akan berusaha{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}tidak terlihat buruk saat kalah.{\c}{\fn}
 Dialogue: 0,0:17:30.92,0:17:32.34,Default,,0,0,0,,Baiklah, silakan mulai.
-Dialogue: 0,0:17:32.92,0:17:36.26,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku tak boleh membiarkan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}Allucia kehilangan muka.{\c}{\fn}
-Dialogue: 0,0:17:36.63,0:17:38.64,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Selain itu, melihat kegiatanku
-Dialogue: 0,0:17:39.22,0:17:42.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}selama ini, tidak lagi bekerja{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}akan sangat mengesalkan.{\c}{\fn}
+Dialogue: 0,0:17:32.92,0:17:36.26,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku tak boleh membiarkan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Allucia kehilangan muka.{\c}{\fn}
+Dialogue: 0,0:17:36.63,0:17:38.64,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Selain itu, melihat kegiatanku
+Dialogue: 0,0:17:39.22,0:17:42.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}selama ini, tidak lagi bekerja{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}akan sangat mengesalkan.{\c}{\fn}
 Dialogue: 0,0:17:47.31,0:17:49.98,Default,,0,0,0,,Aku akan menjaga kehormatan Ordo!
-Dialogue: 0,0:17:54.74,0:17:56.53,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Orang ini luar biasa.
-Dialogue: 0,0:17:56.61,0:17:58.95,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Jika kena, tulangku pasti patah.
+Dialogue: 0,0:17:54.74,0:17:56.53,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Orang ini luar biasa.
+Dialogue: 0,0:17:56.61,0:17:58.95,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Jika kena, tulangku pasti patah.
 Dialogue: 0,0:17:59.03,0:18:01.87,Default,,0,0,0,,-Bicara soal sepihak.\N-Tunggu waktu saja.
-Dialogue: 0,0:18:04.62,0:18:07.17,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Jika aku bisa mengalihkan tenaganya…
+Dialogue: 0,0:18:04.62,0:18:07.17,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Jika aku bisa mengalihkan tenaganya…
 Dialogue: 0,0:18:10.84,0:18:12.25,Default,,0,0,0,,Maaf. Kau tak apa-apa?
 Dialogue: 0,0:18:13.55,0:18:15.13,Default,,0,0,0,,Aku tak butuh perhatianmu.
 Dialogue: 0,0:18:15.92,0:18:17.97,Default,,0,0,0,,Yang barusan itu cuma kebetulan?
 Dialogue: 0,0:18:18.05,0:18:19.59,Default,,0,0,0,,Gerakannya tak pernah…
-Dialogue: 0,0:18:20.35,0:18:23.14,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Aku berniat berhenti,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}tapi malah mengenainya.{\c}{\fn}
-Dialogue: 0,0:18:23.43,0:18:26.18,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Sebagai guru, itu tak dapat diterima.
+Dialogue: 0,0:18:20.35,0:18:23.14,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku berniat berhenti,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}tapi malah mengenainya.{\c}{\fn}
+Dialogue: 0,0:18:23.43,0:18:26.18,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Sebagai guru, itu tak dapat diterima.
 Dialogue: 0,0:18:27.39,0:18:29.48,Default,,0,0,0,,Jika kau memakai trik murahan,
 Dialogue: 0,0:18:29.56,0:18:32.19,Default,,0,0,0,,aku akan langsung menghancurkannya.
-Dialogue: 0,0:18:38.86,0:18:41.83,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Kecepatan dan tenaganya melampauiku.
-Dialogue: 0,0:18:42.08,0:18:44.70,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Namun, semua gerakannya linear.
-Dialogue: 0,0:18:45.95,0:18:47.66,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Itu sebabnya bisa kubaca.
+Dialogue: 0,0:18:38.86,0:18:41.83,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Kecepatan dan tenaganya melampauiku.
+Dialogue: 0,0:18:42.08,0:18:44.70,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Namun, semua gerakannya linear.
+Dialogue: 0,0:18:45.95,0:18:47.66,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Itu sebabnya bisa kubaca.
 Dialogue: 0,0:18:55.76,0:18:57.26,Default,,0,0,0,,Gerakan khasnya!
 Dialogue: 0,0:18:57.34,0:18:59.97,Default,,0,0,0,,Tangkis atau hindari,\Npedangnya akan menghabisimu.
 Dialogue: 0,0:19:24.87,0:19:27.25,Default,,0,0,0,,Henblitz, kau puas sekarang?
-Dialogue: 0,0:19:28.04,0:19:30.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Kurasa kami sudah selesai?
+Dialogue: 0,0:19:28.04,0:19:30.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Kurasa kami sudah selesai?
 Dialogue: 0,0:19:33.75,0:19:35.46,Default,,0,0,0,,Aku kalah!
 Dialogue: 0,0:19:36.09,0:19:38.46,Default,,0,0,0,,Bukan main, itu teknik luar biasa!
 Dialogue: 0,0:19:38.55,0:19:41.76,Default,,0,0,0,,Bagaimana kau melakukannya?\NTolong ajari aku!
@@ -379,9 +380,9 @@ Dialogue: 0,0:21:28.07,0:21:31.45,Default,,0,0,0,,Ya. Aku pernah ke berbagai neg
 Dialogue: 0,0:21:31.54,0:21:34.46,Default,,0,0,0,,tapi belum pernah bertemu\Nyang melebihi Pak Beryl.
 Dialogue: 0,0:21:35.21,0:21:38.58,Default,,0,0,0,,Sudah waktunya, Beryl.
 Dialogue: 0,0:21:38.67,0:21:40.67,Default,,0,0,0,,Inilah yang kunantikan.
-Dialogue: 0,0:21:44.84,0:21:48.22,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Selebihnya tergantung padamu.
-Dialogue: 0,0:23:22.23,0:23:25.32,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Minum-minum sepulang kerja{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}sungguh menyenangkan.{\c}{\fn}
-Dialogue: 0,0:23:25.40,0:23:29.99,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Namun, setelah tua,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}kau memikirkan hari esok dan menahan diri.{\c}{\fn}
-Dialogue: 0,0:23:30.24,0:23:31.24,Default,,0,0,0,,{\i1\c&Hffffff&\fnsansSerif}Menyedihkan…
-Dialogue: 0,0:23:31.99,0:23:35.54,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnsansSerif}Episode berikutnya:{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnsansSerif}Pria Tua Pedesaan Dicengangkan Penyihir.{\c}{\fn}
+Dialogue: 0,0:21:44.84,0:21:48.22,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Selebihnya tergantung padamu.
+Dialogue: 0,0:23:22.23,0:23:25.32,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Minum-minum sepulang kerja{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}sungguh menyenangkan.{\c}{\fn}
+Dialogue: 0,0:23:25.40,0:23:29.99,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Namun, setelah tua,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}kau memikirkan hari esok dan menahan diri.{\c}{\fn}
+Dialogue: 0,0:23:30.24,0:23:31.24,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Menyedihkan…
+Dialogue: 0,0:23:31.99,0:23:35.54,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Episode berikutnya:{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Pria Tua Pedesaan Dicengangkan Penyihir.{\c}{\fn}
 Dialogue: 0,0:23:35.62,0:23:36.83,Default,,0,0,0,,{\an8}Terjemahan subtitle oleh C. Sugiarto
