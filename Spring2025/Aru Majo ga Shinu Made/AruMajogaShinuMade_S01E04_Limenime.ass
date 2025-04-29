@@ -13,8 +13,8 @@ WrapStyle: 0
 [Aegisub Project Garbage]
 Last Style Storage: aru_majo_doronime
 Video Zoom Percent: 0.500000
-Scroll Position: 356
-Active Line: 363
+Scroll Position: 132
+Active Line: 154
 Video Position: 3582
 
 [V4+ Styles]
@@ -52,8 +52,8 @@ Dialogue: 0,0:00:47.07,0:00:51.57,Default,MEG,0,0,0,,Namaku tuh Meg Raspberry. \
 Dialogue: 0,0:00:55.86,0:00:57.58,Default,SOPHIE,0,0,0,,Salam kenal, Spberry.
 Dialogue: 0,0:00:57.58,0:00:59.40,Default,MEG,0,0,0,,Potong namanya kok agak lain?
 Dialogue: 0,0:01:08.59,0:01:17.93,Drops,SIGN,0,0,0,,{\bord0\shad0\blur0.9\fs108\an8\pos(960,90)\c&HC98210&\alpha&HFF&\t(800,2200,\alphaa&H00&)}Hingga {\c&H8B3D33&\alpha&HFF&\t(1650,2800,\alphaa&H00&)}Ajal {\c&HB9942A&\alpha&HFF&\t(0,1100,\alphaa&H00&)}Sang {\c&H934269&\alpha&HFF&\t(2850,4300,\alphaa&H00&)}Wisaya{\c&H5E1A5A&\alpha&HFF&\t(1850,3000,\alphaa&H00&)}wati
-Dialogue: 0,0:02:30.17,0:02:35.18,Default,SIGN,0,0,0,,{\fad(500,500)\fnGoudy Old Style Bold\fs54\bord4.201\blur11.999\shad0\c&HFFFFFF&\3c&HFFFFFF&\pos(412.709,889.711)}Berkah Turun \NBersama Dibukanya Gerbang
-Dialogue: 1,0:02:30.17,0:02:35.18,Default,SIGN,0,0,0,,{\fad(500,500)\fnGoudy Old Style Bold\fs54\bord0\shad0\c&HA86B2A&\pos(412.709,889.711)}Berkah Turun \NBersama Dibukanya Gerbang
+Dialogue: 0,0:02:30.17,0:02:35.18,Default,SIGN,0,0,0,,{\fad(500,500)\fnBasic Comical NC\fs54\bord4.201\blur11.999\shad0\c&HFFFFFF&\3c&HFFFFFF&\pos(412.709,889.711)}Berkah Turun \NBersama Dibukanya Gerbang
+Dialogue: 1,0:02:30.17,0:02:35.18,Default,SIGN,0,0,0,,{\fad(500,500)\fnBasic Comical NC\fs54\bord0\shad0\c&HA86B2A&\pos(412.709,889.711)}Berkah Turun \NBersama Dibukanya Gerbang
 Dialogue: 0,0:02:32.88,0:02:36.20,Default,MEG,0,0,0,,{\pos(1324.001,1005.75)}Betewe, hari ini dingin banget, ya.
 Dialogue: 0,0:02:36.20,0:02:39.72,Default,MEG,0,0,0,,Tuh lihat sungainya\Nsampai setengah beku gitu.
 Dialogue: 0,0:02:42.23,0:02:47.89,Default,MEG,0,0,0,,Benar juga, dulu aku pernah pinjam sapunya\NNyai Guru, terus waktu main Gelincir Batu malah...
@@ -186,9 +186,9 @@ Dialogue: 0,0:09:13.47,0:09:16.62,Default,SOPHIE,0,0,0,,Dengan buang itu semua,\
 Dialogue: 0,0:09:16.62,0:09:19.57,Default,SOPHIE,0,0,0,,Merupakan jalan teroptimal\Ntuk kuasai sihir.
 Dialogue: 0,0:09:19.57,0:09:23.92,Default,MEG,0,0,0,,A-Aduh-aduh,\Ncandaannya jangan sekelewatan itu, dong.
 Dialogue: 0,0:09:24.16,0:09:25.88,Default,SOPHIE,0,0,0,,Can-da.
-Dialogue: 0,0:09:24.94,0:09:29.38,Default,SIGN,0,0,0,,{\fnComic Sans MS\fscx90\bord11.999\fs119.999\b1\shad0\frz344.6\pos(1635.419,447.451)\c&HFAF9C7&\3c&HACA259&}Can{\alpha&HFF&\t(375,376,\alpha&H00&)}da
+Dialogue: 0,0:09:24.94,0:09:29.38,Default,SIGN,0,0,0,,{\fnBasic Comical NC\fscx90\bord11.999\fs119.999\b1\shad0\frz344.6\pos(1635.419,447.451)\c&HFAF9C7&\3c&HACA259&}Can{\alpha&HFF&\t(375,376,\alpha&H00&)}da
 Dialogue: 0,0:09:25.88,0:09:27.72,Default,SOPHIE,0,0,0,,Ber-can-da.
-Dialogue: 0,0:09:26.19,0:09:29.38,Default,SIGN,0,0,0,,{\fnComic Sans MS\fscx90\bord11.999\fs119.999\b1\shad0\c&HFAF9C7&\3c&HACA259&\pos(1572,740.581)\frz339.1}Bercan{\alpha&HFF&\t(375,376,\alpha&H00&)}da
+Dialogue: 0,0:09:26.19,0:09:29.38,Default,SIGN,0,0,0,,{\fnBasic Comical NC\fscx90\bord11.999\fs119.999\b1\shad0\c&HFAF9C7&\3c&HACA259&\pos(1572,740.581)\frz339.1}Bercan{\alpha&HFF&\t(375,376,\alpha&H00&)}da
 Dialogue: 0,0:09:27.72,0:09:29.38,Default,MEG,0,0,0,,Gak gitu, bukan itu maksudku.
 Dialogue: 0,0:09:29.84,0:09:33.93,Italics,MEG/ID,0,0,0,,Memusnahkan sihir?\NWisayawati Pemberkatan yang dengan...
 Dialogue: 0,0:09:33.93,0:09:36.49,Italics,MEG/ID,0,0,0,,sihir indahnya dapat\Nmenyentuh hati banyak orang...
@@ -396,5 +396,5 @@ Dialogue: 0,0:21:54.21,0:21:56.69,Default,MEG,0,0,0,,Imut sekali wajahmu, Dinda!
 Dialogue: 0,0:21:56.69,0:21:58.27,Default,SOPHIE,0,0,0,,Spberry kayak Om-om Gula.
 Dialogue: 0,0:21:58.27,0:22:00.17,Default,MEG,0,0,0,,Siapa yang Om-om Gula?!
 Dialogue: 0,0:22:05.58,0:22:07.15,Default,MEG,0,0,0,,Hayuk, Sophie!
-Dialogue: 0,0:23:35.23,0:23:39.94,Default,SIGN,0,0,0,,{\fad(1000,0)\fnGoudy Old Style Bold\fs78.001\bord4.5\shad0\blur9\c&HC3C9BD&\pos(960,450)\3c&HC3C9BD&}Bunga Mekar di Langit Malam Festival
-Dialogue: 1,0:23:35.23,0:23:39.94,Default,SIGN,0,0,0,,{\fad(1000,0)\fnGoudy Old Style Bold\fs78.001\bord1.501\shad0\blur2.401\c&HA86B2A&\pos(960,450)\3c&HF9E1B5&}Bunga Mekar di Langit Malam Festival
+Dialogue: 0,0:23:35.23,0:23:39.94,Default,SIGN,0,0,0,,{\fad(1000,0)\fnBasic Comical NC\fs78.001\bord4.5\shad0\blur9\c&HC3C9BD&\pos(960,450)\3c&HC3C9BD&}Bunga Mekar di Langit Malam Festival
+Dialogue: 1,0:23:35.23,0:23:39.94,Default,SIGN,0,0,0,,{\fad(1000,0)\fnBasic Comical NC\fs78.001\bord1.501\shad0\blur2.401\c&HA86B2A&\pos(960,450)\3c&HF9E1B5&}Bunga Mekar di Langit Malam Festival
