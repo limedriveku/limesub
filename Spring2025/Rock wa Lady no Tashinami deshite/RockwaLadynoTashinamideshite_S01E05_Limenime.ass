@@ -21,392 +21,392 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.17,0:00:24.44,tanda,,0,0,0,,(Rock is a Lady's Modesty)
-Dialogue: 0,0:01:37.01,0:01:38.87,Default,,0,0,0,,Lambat sekali.
-Dialogue: 0,0:01:39.41,0:01:41.12,Default,,0,0,0,,Apakah mereka sedang\Nmemainkan lagu pemakaman?
-Dialogue: 0,0:01:41.12,0:01:43.59,Default,,0,0,0,,Semuanya sangat berhati-hati\Nkarena takut gagal.
-Dialogue: 0,0:01:43.59,0:01:47.30,Default,,0,0,0,,Jangankan teknik rubato, ini hampir\Ntidak bisa bermain sesuai skor musik.
-Dialogue: 0,0:01:47.72,0:01:50.47,Default,,0,0,0,,Bahkan ada orang yang berhenti.
-Dialogue: 0,0:01:52.69,0:01:54.38,Default,,0,0,0,,Temponya terlalu cepat.
-Dialogue: 0,0:01:54.38,0:01:56.39,Default,,0,0,0,,Bisakah agak lambat?
-Dialogue: 0,0:01:56.95,0:01:57.95,Default,,0,0,0,,Baik.
-Dialogue: 0,0:01:58.44,0:01:59.57,Default,,0,0,0,,Er...
-Dialogue: 0,0:01:59.57,0:02:00.93,Default,,0,0,0,,Ini adalah allegro.
-Dialogue: 0,0:02:00.94,0:02:02.71,Default,,0,0,0,,Jadi, sebaiknya agak cepat.
-Dialogue: 0,0:02:02.71,0:02:03.78,Default,,0,0,0,,Agak intens?
-Dialogue: 0,0:02:03.79,0:02:04.86,Default,,0,0,0,,Lumayan bagus.
-Dialogue: 0,0:02:04.86,0:02:06.52,Default,,0,0,0,,Seperti ini memang sangat mendebarkan.
-Dialogue: 0,0:02:06.53,0:02:09.84,Default,,0,0,0,,Namun, kalau dipercepat,\Nakan menjadi sulit dimainkan.
-Dialogue: 0,0:02:09.84,0:02:12.62,Default,,0,0,0,,Karena tujuan kita adalah membuat\Nsemua orang bermain musik dengan gembira.
-Dialogue: 0,0:02:13.60,0:02:14.93,Default,,0,0,0,,Er,
-Dialogue: 0,0:02:15.16,0:02:18.38,Default,,0,0,0,,lagu ini terlalu sulit bagi kami.
-Dialogue: 0,0:02:18.38,0:02:20.04,Default,,0,0,0,,Aku agak tidak bisa mengikuti.
-Dialogue: 0,0:02:20.60,0:02:21.98,Default,,0,0,0,,Kami juga sama.
-Dialogue: 0,0:02:21.98,0:02:23.63,Default,,0,0,0,,Bisakah pikirkan solusinya?
-Dialogue: 0,0:02:23.63,0:02:24.42,Default,,0,0,0,,Apa?
-Dialogue: 0,0:02:25.18,0:02:26.63,Default,,0,0,0,,Begitu, ya?
-Dialogue: 0,0:02:26.63,0:02:29.13,Default,,0,0,0,,Kalau begitu, perlambat satu ketukan lagi.
-Dialogue: 0,0:02:30.15,0:02:31.63,Default,,0,0,0,,Baguslah.
-Dialogue: 0,0:02:31.63,0:02:33.96,Default,,0,0,0,,Sebenarnya aku juga merasa kesulitan.
-Dialogue: 0,0:02:33.96,0:02:35.43,Default,,0,0,0,,Benaran sangat membantu.
-Dialogue: 0,0:02:35.93,0:02:39.48,Default,,0,0,0,,Kalau begitu, bukankah tidak bisa\Nmenunjukkan kehebatanku?
-Dialogue: 0,0:02:44.68,0:02:45.68,Default,,0,0,0,,Uekusa.
-Dialogue: 0,0:02:45.68,0:02:46.86,Default,,0,0,0,,Lama tidak berjumpa.
-Dialogue: 0,0:02:51.93,0:02:52.93,Default,,0,0,0,,Ishitani.
-Dialogue: 0,0:02:53.22,0:02:54.86,Default,,0,0,0,,Kupikir aku
-Dialogue: 0,0:02:54.86,0:02:57.44,Default,,0,0,0,,yang tampil terakhir\Ndalam kegiatan hari ini.
-Dialogue: 0,0:02:57.44,0:02:59.16,Default,,0,0,0,,Alhasil ternyata bukan.\NBenaran sangat tidak kuduga.
-Dialogue: 0,0:02:59.72,0:03:03.08,Default,,0,0,0,,Jadi, aku penasaran sebenarnya\Nsiapa yang tampil terakhir.
-Dialogue: 0,0:03:03.08,0:03:05.23,Default,,0,0,0,,Ternyata orkes tiup dari kecamatan.
-Dialogue: 0,0:03:05.24,0:03:08.51,Default,,0,0,0,,Selain itu, ternyata orkesmu.
-Dialogue: 0,0:03:09.43,0:03:10.67,Default,,0,0,0,,Siapa dia?
-Dialogue: 0,0:03:10.67,0:03:12.03,Default,,0,0,0,,Dia adalah grup ketiga
-Dialogue: 0,0:03:12.03,0:03:13.48,Default,,0,0,0,,yang akan tampil dalam konser ini.
-Dialogue: 0,0:03:13.48,0:03:14.98,Default,,0,0,0,,Tuan Jun Ishitani.
-Dialogue: 0,0:03:14.98,0:03:17.39,Default,,0,0,0,,Sepertinya dulunya dia adalah\Ntemannya Tuan Uekusa.
-Dialogue: 0,0:03:17.90,0:03:19.27,Default,,0,0,0,,Sekarang dia adalah penyanyi profesional.
-Dialogue: 0,0:03:20.94,0:03:21.94,Default,,0,0,0,,Biarpun begitu,
-Dialogue: 0,0:03:21.94,0:03:24.06,Default,,0,0,0,,tapi dia hanyalah penyanyi kelas bawah\Nyang hanya merilis dua CD.
-Dialogue: 0,0:03:24.79,0:03:28.72,Default,,0,0,0,,Ternyata kau juga membentuk\Norkes tiup yang buruk seperti ini?
-Dialogue: 0,0:03:28.72,0:03:30.81,Default,,0,0,0,,Sebenarnya kau juga\Nsangat ingin bernyanyi,
-Dialogue: 0,0:03:30.81,0:03:33.16,Default,,0,0,0,,tapi kau terpaksa berada di sini karena\Nnyanyianmu terlalu buruk, 'kan?
-Dialogue: 0,0:03:39.05,0:03:40.89,Default,,0,0,0,,Alat musik memang bagus.
-Dialogue: 0,0:03:40.89,0:03:42.35,Default,,0,0,0,,Cukup ditiup sebiasanya saja,
-Dialogue: 0,0:03:42.35,0:03:43.75,Default,,0,0,0,,kelihatan sudah sangat bergaya.
-Dialogue: 0,0:03:43.75,0:03:46.21,Default,,0,0,0,,Bagaimanapun, penonton biasa\Ntidak bisa membedakan baik buruknya.
-Dialogue: 0,0:03:46.72,0:03:49.13,Default,,0,0,0,,Bahkan tidak ada orang\Nyang mendengarnya dengan serius.
-Dialogue: 0,0:03:50.24,0:03:52.16,Default,,0,0,0,,Musik tanpa suara manusia seperti ini,
-Dialogue: 0,0:03:52.16,0:03:54.67,Default,,0,0,0,,lebih tepatnya disebut musik latar.
-Dialogue: 0,0:03:54.67,0:03:58.26,Default,,0,0,0,,Paling-paling hanyalah peran pendukung\Nuntuk menonjolkan penyanyi seperti kami.
-Dialogue: 0,0:03:58.78,0:04:00.75,Default,,0,0,0,,Bisa-bisanya membiarkan\Nband seperti ini tampil terakhir.
-Dialogue: 0,0:04:00.76,0:04:02.64,Default,,0,0,0,,Penonton pasti tertidur, 'kan?
-Dialogue: 0,0:04:05.41,0:04:06.98,Default,,0,0,0,,Ini adalah situasi kami.
-Dialogue: 0,0:04:07.58,0:04:10.12,Default,,0,0,0,,Kami yang ingin membentuk\Nband rock instrumental,
-Dialogue: 0,0:04:10.12,0:04:12.65,Default,,0,0,0,,ke depannya pasti harus\Nterus melawan orang seperti ini.
-Dialogue: 0,0:04:14.44,0:04:15.80,Default,,0,0,0,,Tuan Ishitani.
-Dialogue: 0,0:04:15.80,0:04:17.92,Default,,0,0,0,,Sudah kehabisan waktu.\NJangan menambah masalah lagi di sini.
-Dialogue: 0,0:04:17.92,0:04:19.37,Default,,0,0,0,,Maaf.
-Dialogue: 0,0:04:19.37,0:04:20.74,Default,,0,0,0,,Mohon bantuannya.
-Dialogue: 0,0:04:23.67,0:04:26.37,Default,,0,0,0,,Jangan merusak suasana di lokasi.
-Dialogue: 0,0:04:26.37,0:04:27.96,Default,,0,0,0,,Korps alat musik.
-Dialogue: 0,0:04:35.62,0:04:36.62,Default,,0,0,0,,Oto.
-Dialogue: 0,0:04:36.62,0:04:37.97,Default,,0,0,0,,Ada apa, Lily?
-Dialogue: 0,0:04:40.09,0:04:42.34,Default,,0,0,0,,Aku ingin membunuh bocah itu.
-Dialogue: 0,0:04:42.34,0:04:43.34,Default,,0,0,0,,Tidak masalah.
-Dialogue: 0,0:04:45.03,0:04:46.65,Default,,0,0,0,,DAFTAR PERTUNJUKAN MUSIK
-Dialogue: 0,0:04:48.97,0:04:50.39,Default,,0,0,0,,Kenapa aku harus datang
-Dialogue: 0,0:04:50.39,0:04:52.34,Default,,0,0,0,,ke tempat yang dipenuhi\Nbau busuk orang biasa?
-Dialogue: 0,0:04:52.34,0:04:53.86,Default,,0,0,0,,Guru Yamamoto.
-Dialogue: 0,0:04:55.12,0:04:58.23,Default,,0,0,0,,Hiyori, kau benaran datang?
-Dialogue: 0,0:04:58.23,0:05:00.62,Default,,0,0,0,,Hai, aku datang bermain.
-Dialogue: 0,0:05:01.58,0:05:03.21,Default,,0,0,0,,Siapa dia?
-Dialogue: 0,0:05:03.21,0:05:05.25,Default,,0,0,0,,Namanya Arisu Suzunomiya.
-Dialogue: 0,0:05:05.25,0:05:07.04,Default,,0,0,0,,Dia teman baikku.
-Dialogue: 0,0:05:08.41,0:05:09.54,Default,,0,0,0,,Salam kenal.
-Dialogue: 0,0:05:10.10,0:05:11.10,Default,,0,0,0,,Er,
-Dialogue: 0,0:05:11.11,0:05:13.05,Default,,0,0,0,,aku ingin meminta bantuanmu.
-Dialogue: 0,0:05:13.46,0:05:14.46,Default,,0,0,0,,Eh?
-Dialogue: 0,0:05:14.78,0:05:16.43,Default,,0,0,0,,Hari Minggu ini,
-Dialogue: 0,0:05:16.43,0:05:19.20,Default,,0,0,0,,ada festival kecil di kecamatan.
-Dialogue: 0,0:05:19.20,0:05:21.03,Default,,0,0,0,,Juga akan diadakan acara musik.
-Dialogue: 0,0:05:21.03,0:05:23.51,Default,,0,0,0,,Kakak kembar guruku
-Dialogue: 0,0:05:23.51,0:05:26.62,Default,,0,0,0,,sepertinya akan tampil di acara itu.
-Dialogue: 0,0:05:26.62,0:05:29.10,Default,,0,0,0,,Wajah mereka sama persis.\NTidakkah kau merasa sangat keren?
-Dialogue: 0,0:05:29.10,0:05:31.19,Default,,0,0,0,,Ayo kita pergi bersama.
-Dialogue: 0,0:05:31.65,0:05:33.18,Default,,0,0,0,,Hiyori Himejima.
-Dialogue: 0,0:05:33.18,0:05:34.63,Default,,0,0,0,,Kenapa kau mengundangku?
-Dialogue: 0,0:05:34.63,0:05:38.49,Default,,0,0,0,,Karena kau adalah teman terbaikku.
-Dialogue: 0,0:05:42.64,0:05:44.04,Default,,0,0,0,,Dasar.
-Dialogue: 0,0:05:44.04,0:05:45.50,Default,,0,0,0,,Teman baik apaan?
-Dialogue: 0,0:05:45.50,0:05:47.89,Default,,0,0,0,,Untung barisan depan tidak ada orang.
-Dialogue: 0,0:05:47.89,0:05:49.39,Default,,0,0,0,,Tempat duduk khusus.
-Dialogue: 0,0:05:49.39,0:05:52.82,Default,,0,0,0,,Aku sangat menantikan\Norkes dari kakaknya Guru.
-Dialogue: 0,0:05:52.82,0:05:54.92,Default,,0,0,0,,Dia bilang mereka tampil terakhir.
-Dialogue: 0,0:05:55.33,0:05:56.98,Default,,0,0,0,,Kulihat dulu. Selanjutnya...
-Dialogue: 0,0:05:56.98,0:05:59.35,Default,,0,0,0,,Kalau begitu, maaf lama.
-Dialogue: 0,0:05:59.35,0:06:01.15,Default,,0,0,0,,Grup ketiga adalah penyanyi profesional,
-Dialogue: 0,0:06:01.15,0:06:02.69,Default,,0,0,0,,Tuan Jun Ishitani.
-Dialogue: 0,0:06:02.69,0:06:03.69,Default,,0,0,0,,Silakan dimulai pertunjukannya.
-Dialogue: 0,0:06:07.69,0:06:13.43,Default,,0,0,0,,"Di dalam cahaya harapan"
-Dialogue: 0,0:06:13.43,0:06:16.65,Default,,0,0,0,,"Hidup bersamamu"
-Dialogue: 0,0:06:16.65,0:06:18.27,Default,,0,0,0,,"Pada saat ini"
-Dialogue: 0,0:06:18.27,0:06:21.97,Default,,0,0,0,,"Saatnya mengucapkan selamat"
-Dialogue: 0,0:06:21.98,0:06:24.31,Default,,0,0,0,,- Suaranya sangat bagus.\N- "Tidak peduli kapan pun"
-Dialogue: 0,0:06:24.31,0:06:26.40,Default,,0,0,0,,- Hebat, meski tidak terlalu terkenal.\N- "Tidak peduli kapan pun"
-Dialogue: 0,0:06:26.41,0:06:28.22,Default,,0,0,0,,- Namun, dia tetap penyanyi profesional.\N- "Hingga selamanya"
-Dialogue: 0,0:06:28.22,0:06:29.61,Default,,0,0,0,,"Hingga selamanya"
-Dialogue: 0,0:06:29.61,0:06:33.02,Default,,0,0,0,,"Aku akan merindukanmu"
-Dialogue: 0,0:06:33.02,0:06:35.50,Default,,0,0,0,,- Wah, suaranya sangat bagus.\N- "Aku akan merindukanmu"
-Dialogue: 0,0:06:35.83,0:06:38.21,Default,,0,0,0,,Lagu ini judulnya Eden.
-Dialogue: 0,0:06:38.21,0:06:40.18,Default,,0,0,0,,Nanti kuunduh dan coba dengar.
-Dialogue: 0,0:06:40.18,0:06:43.64,Default,,0,0,0,,"Membawaku ke surga"
-Dialogue: 0,0:06:43.65,0:06:45.78,Default,,0,0,0,,Sangat vulgar.
-Dialogue: 0,0:06:45.78,0:06:47.61,Default,,0,0,0,,Narsis lagi.
-Dialogue: 0,0:06:47.61,0:06:50.04,Default,,0,0,0,,Musik seperti ini\Nsama sekali tidak berkualitas.
-Dialogue: 0,0:06:50.04,0:06:51.63,Default,,0,0,0,,Musik warga biasa
-Dialogue: 0,0:06:51.63,0:06:53.76,Default,,0,0,0,,ternyata memang hanya seperti ini saja?
-Dialogue: 0,0:06:53.76,0:06:54.96,Default,,0,0,0,,Berhenti, tunggu aku.
-Dialogue: 0,0:06:54.96,0:06:55.96,Default,,0,0,0,,Jangan begini.
-Dialogue: 0,0:06:55.96,0:06:57.33,Default,,0,0,0,,Kenapa kau begitu hebat?
-Dialogue: 0,0:06:57.65,0:06:58.78,Default,,0,0,0,,Terima kasih.
-Dialogue: 0,0:06:58.78,0:07:00.55,Default,,0,0,0,,Tadi itu adalah pertunjukan\Ndari Tuan Jun Ishitani.
-Dialogue: 0,0:07:00.55,0:07:02.32,Default,,0,0,0,,Mari kita berikan tepuk tangan padanya.
-Dialogue: 0,0:07:02.72,0:07:03.95,Default,,0,0,0,,Kalau begitu, pertunjukan terakhir
-Dialogue: 0,0:07:03.96,0:07:06.31,Default,,0,0,0,,adalah orkes tiup Red Familiar.
-Dialogue: 0,0:07:06.31,0:07:07.89,Default,,0,0,0,,Silakan semuanya bersiap\Nuntuk naik panggung.
-Dialogue: 0,0:07:07.89,0:07:10.54,Default,,0,0,0,,Dasar. Kenapa mereka tampil terakhir?
-Dialogue: 0,0:07:10.54,0:07:12.42,Default,,0,0,0,,Kau sudah mengeluh dari tadi.
-Dialogue: 0,0:07:12.42,0:07:14.91,Default,,0,0,0,,Itu karena mereka perlu\Nmengatur alat musik mereka.
-Dialogue: 0,0:07:14.91,0:07:17.05,Default,,0,0,0,,Anggotanya banyak, memang\Nlebih memakan waktu.
-Dialogue: 0,0:07:20.12,0:07:21.30,Default,,0,0,0,,Tuan Uekusa.
-Dialogue: 0,0:07:25.29,0:07:26.60,Default,,0,0,0,,Semuanya, ayo kita naik ke panggung.
-Dialogue: 0,0:07:31.09,0:07:32.23,Default,,0,0,0,,Itu kakakku.
-Dialogue: 0,0:07:32.23,0:07:33.61,Default,,0,0,0,,Lihat, di sana.
-Dialogue: 0,0:07:33.61,0:07:36.25,Default,,0,0,0,,Astaga, wajah kalian benaran sama persis.
-Dialogue: 0,0:07:36.25,0:07:38.19,Default,,0,0,0,,Arisu, apakah kau tidak merasa\Nsangat hebat?
-Dialogue: 0,0:07:48.55,0:07:51.10,Default,,0,0,0,,Ternyata aku tidak salah melihat.
-Dialogue: 0,0:07:51.10,0:07:52.60,Default,,0,0,0,,Itu dia.
-Dialogue: 0,0:07:52.60,0:07:54.90,Default,,0,0,0,,Kenapa orang Keluarga Suzunomiya
-Dialogue: 0,0:07:54.90,0:07:57.38,Default,,0,0,0,,bisa mengikuti kegiatan\Nwarga biasa seperti ini?
-Dialogue: 0,0:08:06.69,0:08:08.14,Default,,0,0,0,,Alat musik itu...
-Dialogue: 0,0:08:08.71,0:08:10.84,Default,,0,0,0,,Jadi, waktu itu
-Dialogue: 0,0:08:10.84,0:08:13.48,Default,,0,0,0,,dia bilang sedang latihan biola,\Nternyata memang berbohong.
-Dialogue: 0,0:08:13.48,0:08:16.81,Default,,0,0,0,,Sebenarnya dia diam-diam memainkan\Nalat musik warga biasa seperti ini.
-Dialogue: 0,0:08:17.58,0:08:19.68,Default,,0,0,0,,Dia bahkan melibatkan Nona Kurogane
-Dialogue: 0,0:08:19.68,0:08:21.99,Default,,0,0,0,,untuk membohongiku bersama.
-Dialogue: 0,0:08:22.70,0:08:24.66,Default,,0,0,0,,Dasar gadis tidak tahu malu\Nyang suka berbohong.
-Dialogue: 0,0:08:24.66,0:08:27.38,Default,,0,0,0,,Setelah pulang, aku akan segera\Nmemberi tahu Ayah.
-Dialogue: 0,0:08:27.38,0:08:28.64,Default,,0,0,0,,Agar dia dan ibunya
-Dialogue: 0,0:08:28.64,0:08:31.12,Default,,0,0,0,,tidak bisa tinggal di rumah kami lagi.
-Dialogue: 0,0:08:31.45,0:08:33.09,Default,,0,0,0,,Maaf lama.
-Dialogue: 0,0:08:33.10,0:08:36.83,Default,,0,0,0,,Lagu yang akan dimainkan\Noleh Red Familiar adalah Pulau Harta.
-Dialogue: 0,0:08:51.40,0:08:53.60,Default,,0,0,0,,Tung... Tunggu sebentar.
-Dialogue: 0,0:08:53.60,0:08:55.44,Default,,0,0,0,,Aku bahkan belum mulai\Nmengayunkan tongkatku.
-Dialogue: 0,0:08:55.97,0:08:58.43,Default,,0,0,0,,Lagi pula, tempo ini sama sekali\Nberbeda dengan yang tadi.
-Dialogue: 0,0:08:58.43,0:09:00.37,Default,,0,0,0,,Cepat dan sangat bertenaga.
-Dialogue: 0,0:09:00.37,0:09:03.74,Default,,0,0,0,,Kalau dari awal seperti ini,\Nyang lain tidak bisa mengikuti, 'kan?
-Dialogue: 0,0:09:03.96,0:09:05.23,Default,,0,0,0,,Apa yang terjadi?
-Dialogue: 0,0:09:05.23,0:09:06.65,Default,,0,0,0,,Alat musik lain tidak tampil?
-Dialogue: 0,0:09:07.28,0:09:08.99,Default,,0,0,0,,Tidak peduli lagi. Majulah.
-Dialogue: 0,0:09:13.77,0:09:15.18,Default,,0,0,0,,Sudah dimulai.
-Dialogue: 0,0:09:15.18,0:09:16.69,Default,,0,0,0,,Semangat, Kakak!
-Dialogue: 0,0:09:16.69,0:09:19.08,Default,,0,0,0,,Aku pernah mendengar lagu ini.
-Dialogue: 0,0:09:24.43,0:09:26.28,Default,,0,0,0,,Semuanya kelihatan sangat sengsara.
-Dialogue: 0,0:09:26.28,0:09:28.80,Default,,0,0,0,,Sebaiknya perlambat temponya.
-Dialogue: 0,0:09:35.41,0:09:37.17,Default,,0,0,0,,Tidak peduli bagaimana aku mengarahkannya,
-Dialogue: 0,0:09:37.17,0:09:40.06,Default,,0,0,0,,irama dan temponya\Nsama sekali tidak berubah.
-Dialogue: 0,0:09:41.93,0:09:44.54,Default,,0,0,0,,Semuanya terbawa oleh drum dan bass.
-Dialogue: 0,0:09:44.54,0:09:47.14,Default,,0,0,0,,Red Familiar telah dikendalikan
-Dialogue: 0,0:09:47.14,0:09:49.31,Default,,0,0,0,,oleh dua tim tempo itu.
-Dialogue: 0,0:09:47.14,0:09:49.31,tanda,,0,0,0,,RED FAMILIAR
-Dialogue: 0,0:09:51.97,0:09:52.97,Default,,0,0,0,,Salah meniup.
-Dialogue: 0,0:09:54.92,0:09:56.65,Default,,0,0,0,,Klarinet dan seruling juga sama.
-Dialogue: 0,0:09:56.65,0:09:58.21,Default,,0,0,0,,Tempo semua orang menjadi kacau.
-Dialogue: 0,0:09:59.04,0:10:01.21,Default,,0,0,0,,Gawat. Jika diteruskan,
-Dialogue: 0,0:10:01.21,0:10:03.67,Default,,0,0,0,,orkes kami akan hancur.
-Dialogue: 0,0:10:18.20,0:10:20.10,Default,,0,0,0,,Hampir saja. Akhirnya bisa mengikuti.
-Dialogue: 0,0:10:20.11,0:10:21.81,Default,,0,0,0,,Sangat mengagetkanku.
-Dialogue: 0,0:10:26.67,0:10:28.01,Default,,0,0,0,,Mereka menciptakan irama\Nyang kuat dan menarik
-Dialogue: 0,0:10:28.02,0:10:30.86,Default,,0,0,0,,melalui drum dan bass jazz.
-Dialogue: 0,0:10:32.61,0:10:34.64,Default,,0,0,0,,Memimpin semua orang maju
-Dialogue: 0,0:10:34.64,0:10:36.62,Default,,0,0,0,,seperti tornado yang kuat.
-Dialogue: 0,0:10:40.26,0:10:42.13,Default,,0,0,0,,Meski menjadi seperti ini karena mereka,
-Dialogue: 0,0:10:42.93,0:10:44.94,Default,,0,0,0,,tapi juga berkat mereka.
-Dialogue: 0,0:10:44.94,0:10:47.21,Default,,0,0,0,,Jangan takut gagal.
-Dialogue: 0,0:10:47.68,0:10:50.68,Default,,0,0,0,,Menyeranglah dengan sepenuh kekuatan.
-Dialogue: 0,0:10:51.12,0:10:52.39,Default,,0,0,0,,Benar-benar
-Dialogue: 0,0:10:52.39,0:10:54.30,Default,,0,0,0,,seperti sedang berteriak.
-Dialogue: 0,0:11:00.84,0:11:01.84,Default,,0,0,0,,Eh?
-Dialogue: 0,0:11:04.71,0:11:05.74,Default,,0,0,0,,KAFE\NSebelah sana sepertinya sangat menarik.
-Dialogue: 0,0:11:05.75,0:11:06.77,Default,,0,0,0,,Mau pergi lihat?
-Dialogue: 0,0:11:06.77,0:11:07.86,Default,,0,0,0,,Ide yang bagus.
-Dialogue: 0,0:11:10.24,0:11:11.82,Default,,0,0,0,,Apa ini?
-Dialogue: 0,0:11:11.83,0:11:13.22,Default,,0,0,0,,Intervalnya berantakan.
-Dialogue: 0,0:11:13.23,0:11:14.76,Default,,0,0,0,,Setiap orang memainkannya\Ndengan tidak teratur.
-Dialogue: 0,0:11:14.76,0:11:16.48,Default,,0,0,0,,Karena meniup dengan sepenuh kekuatan,
-Dialogue: 0,0:11:16.48,0:11:18.57,Default,,0,0,0,,pada dasarnya hanya\Nmerasa sangat menderita.
-Dialogue: 0,0:11:18.57,0:11:19.57,Default,,0,0,0,,Namun,
-Dialogue: 0,0:11:19.57,0:11:20.57,Default,,0,0,0,,perasaan seperti ini...
-Dialogue: 0,0:11:22.69,0:11:23.78,Default,,0,0,0,,Perasaan seperti ini
-Dialogue: 0,0:11:23.79,0:11:25.21,Default,,0,0,0,,benaran sangat memuaskan!
-Dialogue: 0,0:11:25.70,0:11:26.97,Default,,0,0,0,,Tidak tahu sejak kapan,
-Dialogue: 0,0:11:26.97,0:11:28.26,Default,,0,0,0,,kita bisa-bisanya lupa
-Dialogue: 0,0:11:28.27,0:11:30.80,Default,,0,0,0,,sesenang ini jika memainkan musik\Ndengan sepenuh kekuatan.
-Dialogue: 0,0:11:32.65,0:11:33.80,Default,,0,0,0,,Yang benar saja?
-Dialogue: 0,0:11:34.49,0:11:35.83,Default,,0,0,0,,Tidak mungkin.
-Dialogue: 0,0:11:35.83,0:11:37.35,Default,,0,0,0,,Apa ini?
-Dialogue: 0,0:11:37.35,0:11:39.29,Default,,0,0,0,,Inilah musik warga biasa?
-Dialogue: 0,0:11:39.29,0:11:41.39,Default,,0,0,0,,Inilah musik Kakak?
-Dialogue: 0,0:11:42.10,0:11:43.54,Default,,0,0,0,,Tidak peduli pemain musik,
-Dialogue: 0,0:11:43.55,0:11:45.09,Default,,0,0,0,,atau pendengar,
-Dialogue: 0,0:11:45.09,0:11:47.62,Default,,0,0,0,,kalian tidak mungkin hanya bisa\Nikut sampai di sini saja, 'kan?
-Dialogue: 0,0:11:47.62,0:11:49.12,Default,,0,0,0,,Silakan
-Dialogue: 0,0:11:49.12,0:11:51.99,Default,,0,0,0,,bebaskan diri sendiri lagi\Ntanpa memikirkan apa pun!
-Dialogue: 0,0:11:56.63,0:11:58.08,Default,,0,0,0,,Sangat sembarangan.
-Dialogue: 0,0:12:04.18,0:12:06.42,Default,,0,0,0,,Akan ditelan oleh gitar.
-Dialogue: 0,0:12:07.25,0:12:09.80,Default,,0,0,0,,- Hebat sekali!\N- Keren!
-Dialogue: 0,0:12:12.70,0:12:14.97,Default,,0,0,0,,Ini sudah termasuk musik rock, 'kan?
-Dialogue: 0,0:12:28.40,0:12:29.77,Default,,0,0,0,,Juga ada drum jazz solo?
-Dialogue: 0,0:12:30.56,0:12:32.21,Default,,0,0,0,,Kalau begini terus,
-Dialogue: 0,0:12:32.21,0:12:33.78,Default,,0,0,0,,akan kalah dari mereka berdua.
-Dialogue: 0,0:12:35.42,0:12:37.87,Default,,0,0,0,,Semuanya, tiuplah dengan sepenuh kekuatan!
-Dialogue: 0,0:12:44.34,0:12:45.67,Default,,0,0,0,,Apakah dia benaran
-Dialogue: 0,0:12:46.21,0:12:48.61,Default,,0,0,0,,adalah kakakku yang selalu
-Dialogue: 0,0:12:48.61,0:12:50.17,Default,,0,0,0,,tunduk pada orang tua?
-Dialogue: 0,0:13:35.67,0:13:37.74,Default,,0,0,0,,Benaran sangat seru.
-Dialogue: 0,0:13:37.74,0:13:39.34,Default,,0,0,0,,Benar.
-Dialogue: 0,0:13:41.34,0:13:42.51,Default,,0,0,0,,Arisu?
-Dialogue: 0,0:13:42.83,0:13:44.10,Default,,0,0,0,,Kakak.
-Dialogue: 0,0:13:47.84,0:13:49.48,Default,,0,0,0,,Sangat mengagetkanku.
-Dialogue: 0,0:13:49.48,0:13:51.90,Default,,0,0,0,,Rasanya seperti naik roller coaster.
-Dialogue: 0,0:13:52.31,0:13:53.99,Default,,0,0,0,,Benaran sangat gila.
-Dialogue: 0,0:13:53.99,0:13:57.14,Default,,0,0,0,,Namun, tidak kusangka bisa begitu.
-Dialogue: 0,0:13:57.14,0:13:57.95,Default,,0,0,0,,Benar.
-Dialogue: 0,0:13:57.96,0:14:00.74,Default,,0,0,0,,Namun, aku tidak ingin\Nmengalaminya untuk kedua kalinya.
-Dialogue: 0,0:14:01.66,0:14:03.41,Default,,0,0,0,,Hei, Uekusa.
-Dialogue: 0,0:14:07.80,0:14:08.80,Default,,0,0,0,,Ishitani.
-Dialogue: 0,0:14:14.92,0:14:16.17,Default,,0,0,0,,Pertunjukan kalian sangat bagus.
-Dialogue: 0,0:14:43.73,0:14:44.84,Default,,0,0,0,,Terima kasih.
-Dialogue: 0,0:15:05.28,0:15:07.34,Default,,0,0,0,,Tokoh utamanya datang.
-Dialogue: 0,0:15:07.34,0:15:08.65,Default,,0,0,0,,Aku sudah melihatnya.
-Dialogue: 0,0:15:08.65,0:15:10.39,Default,,0,0,0,,Sungguh pertunjukan yang sangat seru.
-Dialogue: 0,0:15:12.49,0:15:13.90,Default,,0,0,0,,Kalian keringatan.
-Dialogue: 0,0:15:15.03,0:15:16.21,Default,,0,0,0,,Ugh.
-Dialogue: 0,0:15:16.21,0:15:19.24,Default,,0,0,0,,Tadi aku mengkritik musik tanpa vokal\Nhingga tidak berharga,
-Dialogue: 0,0:15:19.58,0:15:21.53,Default,,0,0,0,,tapi permainan musik kalian\Ntak kusangka lumayan layak didengar.
-Dialogue: 0,0:15:21.53,0:15:22.90,Default,,0,0,0,,Sepenuhnya mengubah pandanganku.
-Dialogue: 0,0:15:22.90,0:15:24.56,Default,,0,0,0,,Padahal kalian hanya orang biasa.
-Dialogue: 0,0:15:24.56,0:15:25.99,Default,,0,0,0,,Sangat hebat.
-Dialogue: 0,0:15:26.51,0:15:28.20,Default,,0,0,0,,Ini kartu namaku.
-Dialogue: 0,0:15:28.53,0:15:32.17,Default,,0,0,0,,Maukah kalian menjadi band latarku?
-Dialogue: 0,0:15:35.25,0:15:36.37,tanda,,0,0,0,,JUN ISHITANI
-Dialogue: 0,0:15:38.33,0:15:39.33,Default,,0,0,0,,Apa?
-Dialogue: 0,0:15:39.73,0:15:41.84,Default,,0,0,0,,Beraninya mencari kami\Nuntuk menjadi band latar?
-Dialogue: 0,0:15:42.68,0:15:45.64,Default,,0,0,0,,Suaramu bisa lenyap dalam sekejap, loh.
-Dialogue: 0,0:15:46.27,0:15:47.27,Default,,0,0,0,,Eh?
-Dialogue: 0,0:15:47.91,0:15:50.49,Default,,0,0,0,,Suara nyanyianmu yang abal-abal itu
-Dialogue: 0,0:15:50.49,0:15:52.77,Default,,0,0,0,,sama sekali tidak layak didengar!
-Dialogue: 0,0:15:52.77,0:15:54.98,Default,,0,0,0,,Dasar sampah yang tidak bisa dibakar!
-Dialogue: 0,0:15:59.85,0:16:01.62,Default,,0,0,0,,Sangat menjijikkan!
-Dialogue: 0,0:16:01.63,0:16:02.53,Default,,0,0,0,,Dasar bajingan,
-Dialogue: 0,0:16:02.53,0:16:05.70,Default,,0,0,0,,menyanyikan lagu abal-abal\Ndengan sikap acuh tak acuh.
-Dialogue: 0,0:16:05.70,0:16:08.10,Default,,0,0,0,,Jangan kira hanya perlu bernyanyi saja.
-Dialogue: 0,0:16:08.11,0:16:10.60,Default,,0,0,0,,Beraninya kau bilang kami adalah BGM?\NBilang kami bisa buat pendengar tertidur?
-Dialogue: 0,0:16:10.60,0:16:12.94,Default,,0,0,0,,Cobalah kau tidur, dasar berengsek!
-Dialogue: 0,0:16:12.94,0:16:14.16,Default,,0,0,0,,Tidak peduli bernyanyi,
-Dialogue: 0,0:16:14.17,0:16:16.44,Default,,0,0,0,,bermain gitar atau seruling,
-Dialogue: 0,0:16:16.44,0:16:19.92,Default,,0,0,0,,selama menunjukkan diri sendiri dengan\Nsepenuh kekuatan, itu yang paling hebat.
-Dialogue: 0,0:16:20.91,0:16:22.19,Default,,0,0,0,,Dasar kau ini...
-Dialogue: 0,0:16:22.19,0:16:24.48,Default,,0,0,0,,Dari segi mana aku abal-abal?
-Dialogue: 0,0:16:24.48,0:16:26.46,Default,,0,0,0,,Aku ini penyanyi profesional.
-Dialogue: 0,0:16:26.46,0:16:28.18,Default,,0,0,0,,Aku bahkan sudah meriliskan dua CD.
-Dialogue: 0,0:16:28.18,0:16:29.90,Default,,0,0,0,,Memangnya kenapa?
-Dialogue: 0,0:16:29.90,0:16:31.75,Default,,0,0,0,,Aku sudah menunjukkan andalanku.
-Dialogue: 0,0:16:31.76,0:16:33.12,Default,,0,0,0,,Kau keluarkan juga andalanmu!
-Dialogue: 0,0:16:33.12,0:16:34.49,Default,,0,0,0,,Dasar bajingan disfungsi ereksi!
-Dialogue: 0,0:16:34.49,0:16:35.69,Default,,0,0,0,,Disfungsi ereksi...
-Dialogue: 0,0:16:36.81,0:16:38.86,Default,,0,0,0,,Sudahlah, Lili.
-Dialogue: 0,0:16:39.33,0:16:40.52,Default,,0,0,0,,Kendalikan dirimu.
-Dialogue: 0,0:16:40.93,0:16:42.06,Default,,0,0,0,,Tuan Ishitani.
-Dialogue: 0,0:16:42.06,0:16:44.51,Default,,0,0,0,,Maaf sekali.
-Dialogue: 0,0:16:44.51,0:16:47.02,Default,,0,0,0,,Intinya, yang ingin dikatakan Lili adalah
-Dialogue: 0,0:16:47.03,0:16:51.28,Default,,0,0,0,,suara nyanyianmu lebih buruk dari BGM.
-Dialogue: 0,0:16:51.28,0:16:52.28,Default,,0,0,0,,- Apa?\N- Eh?
-Dialogue: 0,0:16:54.37,0:16:56.46,Default,,0,0,0,,Apakah seperti ini Anda sudah mengerti?
-Dialogue: 0,0:16:56.89,0:16:58.83,Default,,0,0,0,,Bajingan tidak berguna.
-Dialogue: 0,0:17:00.01,0:17:01.01,Default,,0,0,0,,Er...
-Dialogue: 0,0:17:01.53,0:17:03.83,Default,,0,0,0,,Ayo kita pergi, Lili.
-Dialogue: 0,0:17:03.84,0:17:05.88,Default,,0,0,0,,Benar juga, Oto.
-Dialogue: 0,0:17:08.88,0:17:10.51,Default,,0,0,0,,Semoga hari kalian menyenangkan.
-Dialogue: 0,0:17:22.80,0:17:23.96,Default,,0,0,0,,Arisu?
-Dialogue: 0,0:17:23.97,0:17:25.59,Default,,0,0,0,,Kenapa kau ada di sini?
-Dialogue: 0,0:17:25.59,0:17:27.03,Default,,0,0,0,,Er...
-Dialogue: 0,0:17:28.15,0:17:30.74,Default,,0,0,0,,Barusan aku melihat pertunjukanmu.
-Dialogue: 0,0:17:31.37,0:17:35.96,Default,,0,0,0,,Benarkah kau kakakku?
-Dialogue: 0,0:17:40.64,0:17:43.34,Default,,0,0,0,,Bagaimana? Sangat menyenangkan, 'kan?
-Dialogue: 0,0:17:49.34,0:17:52.35,Default,,0,0,0,,Kau jangan mengadu pada Ibu, ya.
-Dialogue: 0,0:17:58.38,0:17:59.38,Default,,0,0,0,,Sampai jumpa.
-Dialogue: 0,0:18:04.11,0:18:07.14,Default,,0,0,0,,Menunjukkan diri sendiri\Ntanpa peduli pada citra diri.
-Dialogue: 0,0:18:07.14,0:18:08.70,Default,,0,0,0,,Terakhir mengubah orang di sisinya.
-Dialogue: 0,0:18:09.33,0:18:13.03,Default,,0,0,0,,Inilah penampilan Kakak\Nyang paling nyata dan tanpa ditahan.
-Dialogue: 0,0:18:13.88,0:18:15.76,Default,,0,0,0,,Di keluarga ini,
-Dialogue: 0,0:18:15.76,0:18:17.83,Default,,0,0,0,,pasti hanya aku yang mengetahui\Nsisinya seperti ini.
-Dialogue: 0,0:18:18.93,0:18:20.06,Default,,0,0,0,,Kenapa
-Dialogue: 0,0:18:20.06,0:18:22.34,Default,,0,0,0,,jantungku berdetak secepat ini?
-Dialogue: 0,0:18:23.39,0:18:25.51,Default,,0,0,0,,Arisu, akhirnya aku menemukanmu.
-Dialogue: 0,0:18:26.17,0:18:27.17,Default,,0,0,0,,Dasar.
-Dialogue: 0,0:18:27.17,0:18:29.11,Default,,0,0,0,,Aku mencarimu sangat lama.
-Dialogue: 0,0:18:29.12,0:18:30.93,Default,,0,0,0,,Maaf.
-Dialogue: 0,0:18:31.29,0:18:32.29,Default,,0,0,0,,Eh!
-Dialogue: 0,0:18:32.30,0:18:35.42,Default,,0,0,0,,Ayo kita pergi menyapa\Nkakaknya Guru Yamamoto.
-Dialogue: 0,0:18:35.42,0:18:37.98,Default,,0,0,0,,Er, Hiyori.
-Dialogue: 0,0:18:38.49,0:18:39.69,Default,,0,0,0,,Ada apa?
-Dialogue: 0,0:18:40.62,0:18:41.56,Default,,0,0,0,,Aku sangat senang
-Dialogue: 0,0:18:42.70,0:18:44.90,Default,,0,0,0,,bisa datang ke sini hari ini.
-Dialogue: 0,0:18:44.90,0:18:47.49,Default,,0,0,0,,Terima kasih sudah\Nmengajakku datang bersama.
-Dialogue: 0,0:18:48.40,0:18:51.71,Default,,0,0,0,,Dasar, jangan begitu sungkan.
-Dialogue: 0,0:18:51.71,0:18:54.49,Default,,0,0,0,,Bukankah kita teman baik?
-Dialogue: 0,0:18:56.14,0:18:57.14,Default,,0,0,0,,Ya.
-Dialogue: 0,0:18:58.33,0:19:00.25,Default,,0,0,0,,Aku pulang.
-Dialogue: 0,0:19:00.25,0:19:01.79,Default,,0,0,0,,Selamat pulang.
-Dialogue: 0,0:19:04.45,0:19:07.26,Default,,0,0,0,,Kepalaku masih linglung.
-Dialogue: 0,0:19:10.07,0:19:12.41,Default,,0,0,0,,Maaf, Nona Arisu.
-Dialogue: 0,0:19:12.41,0:19:14.40,Default,,0,0,0,,Aku tidak menyampaikannya dengan baik.
-Dialogue: 0,0:19:14.40,0:19:16.46,Default,,0,0,0,,Aku akan membuang bunga ini sekarang.
-Dialogue: 0,0:19:16.46,0:19:18.02,Default,,0,0,0,,Er...
-Dialogue: 0,0:19:19.80,0:19:21.21,Default,,0,0,0,,Bolehkah taruh
-Dialogue: 0,0:19:21.21,0:19:24.31,Default,,0,0,0,,bunga lili itu di kamarku?
-Dialogue: 0,0:19:24.32,0:19:25.32,Default,,0,0,0,,Eh?
-Dialogue: 0,0:19:25.78,0:19:27.32,Default,,0,0,0,,Baik.
-Dialogue: 0,0:19:30.53,0:19:32.41,Default,,0,0,0,,Aku ingin mendengar sekali lagi
-Dialogue: 0,0:19:33.58,0:19:35.45,Default,,0,0,0,,musik yang dimainkan oleh Kakak.
-Dialogue: 0,0:19:36.83,0:19:38.68,Default,,0,0,0,,Sejak kapan Kakak mencintai
-Dialogue: 0,0:19:38.68,0:19:42.12,Default,,0,0,0,,musik intens seperti itu?
-Dialogue: 0,0:19:43.59,0:19:44.75,Default,,0,0,0,,Arisu.
-Dialogue: 0,0:19:46.22,0:19:49.71,Default,,0,0,0,,Tahukah kau Lilisa pergi ke mana?
-Dialogue: 0,0:19:51.93,0:19:54.47,Default,,0,0,0,,Kau jangan mengadu pada Ibu, ya.
-Dialogue: 0,0:19:57.04,0:19:59.22,Default,,0,0,0,,Tidak, aku tidak tahu.
-Dialogue: 0,0:19:59.74,0:20:00.93,Default,,0,0,0,,Begitu, ya?
-Dialogue: 0,0:20:01.63,0:20:02.93,Default,,0,0,0,,Bagaimana ini?
-Dialogue: 0,0:20:02.94,0:20:05.52,Default,,0,0,0,,Sudah hampir waktunya les.
-Dialogue: 0,0:20:06.25,0:20:09.41,Default,,0,0,0,,Ibu.
-Dialogue: 0,0:20:09.41,0:20:11.36,Default,,0,0,0,,Bolehkah aku bertanya?
-Dialogue: 0,0:20:12.76,0:20:13.80,Default,,0,0,0,,Astaga.
-Dialogue: 0,0:20:13.80,0:20:16.28,Default,,0,0,0,,Ini pertama kalinya\Nkau memanggilku seperti ini.
-Dialogue: 0,0:20:16.28,0:20:18.12,Default,,0,0,0,,Ada apa, Arisu?
-Dialogue: 0,0:20:18.97,0:20:20.33,Default,,0,0,0,,Sebelum datang ke sini,
-Dialogue: 0,0:20:21.10,0:20:23.00,Default,,0,0,0,,Kakak
-Dialogue: 0,0:20:23.00,0:20:25.17,Default,,0,0,0,,orang seperti apa?
-Dialogue: 0,0:20:25.72,0:20:26.57,Default,,0,0,0,,Er,
-Dialogue: 0,0:20:26.57,0:20:29.55,Default,,0,0,0,,aku tiba-tiba agak penasaran.
-Dialogue: 0,0:20:29.84,0:20:31.54,Default,,0,0,0,,Apa yang sedang kau katakan?
-Dialogue: 0,0:20:31.54,0:20:35.26,Default,,0,0,0,,Selama ini, dia adalah\Nanak Keluarga Suzunomiya.
-Dialogue: 0,0:20:36.50,0:20:39.01,Default,,0,0,0,,Tidak ada masa lalu.
-Dialogue: 0,0:20:41.36,0:20:43.56,Default,,0,0,0,,Maaf, aku masih ada urusan mendesak.
-Dialogue: 0,0:20:44.00,0:20:45.48,Default,,0,0,0,,Lilisa.
-Dialogue: 0,0:20:52.76,0:20:55.27,Default,,0,0,0,,Kita dimarahi habis-habisan.
-Dialogue: 0,0:20:55.27,0:20:58.00,Default,,0,0,0,,Aku tidak mengatakan apa pun\Nkarena tidak terjadi masalah hari ini.
-Dialogue: 0,0:20:58.00,0:21:00.97,Default,,0,0,0,,Namun, seharusnya kalian tahu\Ntidak boleh sembarang mengubah, 'kan?
-Dialogue: 0,0:21:00.97,0:21:02.62,Default,,0,0,0,,- Maaf.\N- Maaf.
-Dialogue: 0,0:21:03.45,0:21:06.83,Default,,0,0,0,,Aku baru pertama kalinya\Ndimarahi seperti itu.
-Dialogue: 0,0:21:08.25,0:21:09.45,Default,,0,0,0,,Gawat.
-Dialogue: 0,0:21:09.45,0:21:11.28,Default,,0,0,0,,Bisa-bisanya diketahui oleh Arisu.
-Dialogue: 0,0:21:11.28,0:21:12.28,Default,,0,0,0,,Apakah aku seharusnya memperingatkan dia
-Dialogue: 0,0:21:12.29,0:21:13.65,Default,,0,0,0,,dengan lebih tegas agar jangan disebarkan?
-Dialogue: 0,0:21:11.28,0:21:13.65,tanda,,0,0,0,,KEMBALI TENANG
-Dialogue: 0,0:21:13.65,0:21:14.65,Default,,0,0,0,,Kondisi terburuknya,
-Dialogue: 0,0:21:14.65,0:21:16.57,Default,,0,0,0,,mungkin aku akan dikeluarkan\Ndari Keluarga Suzunomiya!
-Dialogue: 0,0:21:16.57,0:21:19.09,Default,,0,0,0,,Gawat, kondisi seperti ini...
-Dialogue: 0,0:21:20.20,0:21:22.33,Default,,0,0,0,,Dua minggu yang lalu,
-Dialogue: 0,0:21:22.33,0:21:24.89,Default,,0,0,0,,aku masih bermain drum sendirian.
-Dialogue: 0,0:21:25.49,0:21:26.90,Default,,0,0,0,,Tidak kusangka sekarang aku bisa
-Dialogue: 0,0:21:26.90,0:21:29.15,Default,,0,0,0,,berkolaborasi dengan Lili setiap hari.
-Dialogue: 0,0:21:29.54,0:21:32.80,Default,,0,0,0,,Hari ini kami bahkan pertama kali\Ntampil di depan publik.
-Dialogue: 0,0:21:32.80,0:21:34.82,Default,,0,0,0,,Aku benaran sangat senang.
-Dialogue: 0,0:21:38.24,0:21:39.41,Default,,0,0,0,,Kurasa ke depannya
-Dialogue: 0,0:21:40.39,0:21:41.62,Default,,0,0,0,,pasti juga bisa...
-Dialogue: 0,0:22:01.14,0:22:02.18,Default,,0,0,0,,Eh, Lili.
-Dialogue: 0,0:22:04.12,0:22:06.69,Default,,0,0,0,,Aku sangat ingin segera\Nmenemukan anggota baru.
-Dialogue: 0,0:22:06.69,0:22:07.81,Default,,0,0,0,,Kau terlalu santai!
-Dialogue: 0,0:22:07.81,0:22:10.02,Default,,0,0,0,,Sekarang aku tidak berminat\Nuntuk memikirkan semua itu!
-Dialogue: 0,0:22:10.84,0:22:12.82,Default,,0,0,0,,Benaran jahat.
+Dialogue: 0,0:00:20.17,0:00:25.44,tanda,,0,0,0,,(Rock is a Lady's Modesty)
+Dialogue: 0,0:01:38.01,0:01:39.87,Default,,0,0,0,,Lambat sekali.
+Dialogue: 0,0:01:40.41,0:01:42.12,Default,,0,0,0,,Apakah mereka sedang\Nmemainkan lagu pemakaman?
+Dialogue: 0,0:01:42.12,0:01:44.59,Default,,0,0,0,,Semuanya sangat berhati-hati\Nkarena takut gagal.
+Dialogue: 0,0:01:44.59,0:01:48.30,Default,,0,0,0,,Jangankan teknik rubato, ini hampir\Ntidak bisa bermain sesuai skor musik.
+Dialogue: 0,0:01:48.72,0:01:51.47,Default,,0,0,0,,Bahkan ada orang yang berhenti.
+Dialogue: 0,0:01:53.69,0:01:55.38,Default,,0,0,0,,Temponya terlalu cepat.
+Dialogue: 0,0:01:55.38,0:01:57.39,Default,,0,0,0,,Bisakah agak lambat?
+Dialogue: 0,0:01:57.95,0:01:58.95,Default,,0,0,0,,Baik.
+Dialogue: 0,0:01:59.44,0:02:00.57,Default,,0,0,0,,Er...
+Dialogue: 0,0:02:00.57,0:02:01.93,Default,,0,0,0,,Ini adalah allegro.
+Dialogue: 0,0:02:01.94,0:02:03.71,Default,,0,0,0,,Jadi, sebaiknya agak cepat.
+Dialogue: 0,0:02:03.71,0:02:04.78,Default,,0,0,0,,Agak intens?
+Dialogue: 0,0:02:04.79,0:02:05.86,Default,,0,0,0,,Lumayan bagus.
+Dialogue: 0,0:02:05.86,0:02:07.52,Default,,0,0,0,,Seperti ini memang sangat mendebarkan.
+Dialogue: 0,0:02:07.53,0:02:10.84,Default,,0,0,0,,Namun, kalau dipercepat,\Nakan menjadi sulit dimainkan.
+Dialogue: 0,0:02:10.84,0:02:13.62,Default,,0,0,0,,Karena tujuan kita adalah membuat\Nsemua orang bermain musik dengan gembira.
+Dialogue: 0,0:02:14.60,0:02:15.93,Default,,0,0,0,,Er,
+Dialogue: 0,0:02:16.16,0:02:19.38,Default,,0,0,0,,lagu ini terlalu sulit bagi kami.
+Dialogue: 0,0:02:19.38,0:02:21.04,Default,,0,0,0,,Aku agak tidak bisa mengikuti.
+Dialogue: 0,0:02:21.60,0:02:22.98,Default,,0,0,0,,Kami juga sama.
+Dialogue: 0,0:02:22.98,0:02:24.63,Default,,0,0,0,,Bisakah pikirkan solusinya?
+Dialogue: 0,0:02:24.63,0:02:25.42,Default,,0,0,0,,Apa?
+Dialogue: 0,0:02:26.18,0:02:27.63,Default,,0,0,0,,Begitu, ya?
+Dialogue: 0,0:02:27.63,0:02:30.13,Default,,0,0,0,,Kalau begitu, perlambat satu ketukan lagi.
+Dialogue: 0,0:02:31.15,0:02:32.63,Default,,0,0,0,,Baguslah.
+Dialogue: 0,0:02:32.63,0:02:34.96,Default,,0,0,0,,Sebenarnya aku juga merasa kesulitan.
+Dialogue: 0,0:02:34.96,0:02:36.43,Default,,0,0,0,,Benaran sangat membantu.
+Dialogue: 0,0:02:36.93,0:02:40.48,Default,,0,0,0,,Kalau begitu, bukankah tidak bisa\Nmenunjukkan kehebatanku?
+Dialogue: 0,0:02:45.68,0:02:46.68,Default,,0,0,0,,Uekusa.
+Dialogue: 0,0:02:46.68,0:02:47.86,Default,,0,0,0,,Lama tidak berjumpa.
+Dialogue: 0,0:02:52.93,0:02:53.93,Default,,0,0,0,,Ishitani.
+Dialogue: 0,0:02:54.22,0:02:55.86,Default,,0,0,0,,Kupikir aku
+Dialogue: 0,0:02:55.86,0:02:58.44,Default,,0,0,0,,yang tampil terakhir\Ndalam kegiatan hari ini.
+Dialogue: 0,0:02:58.44,0:03:00.16,Default,,0,0,0,,Alhasil ternyata bukan.\NBenaran sangat tidak kuduga.
+Dialogue: 0,0:03:00.72,0:03:04.08,Default,,0,0,0,,Jadi, aku penasaran sebenarnya\Nsiapa yang tampil terakhir.
+Dialogue: 0,0:03:04.08,0:03:06.23,Default,,0,0,0,,Ternyata orkes tiup dari kecamatan.
+Dialogue: 0,0:03:06.24,0:03:09.51,Default,,0,0,0,,Selain itu, ternyata orkesmu.
+Dialogue: 0,0:03:10.43,0:03:11.67,Default,,0,0,0,,Siapa dia?
+Dialogue: 0,0:03:11.67,0:03:13.03,Default,,0,0,0,,Dia adalah grup ketiga
+Dialogue: 0,0:03:13.03,0:03:14.48,Default,,0,0,0,,yang akan tampil dalam konser ini.
+Dialogue: 0,0:03:14.48,0:03:15.98,Default,,0,0,0,,Tuan Jun Ishitani.
+Dialogue: 0,0:03:15.98,0:03:18.39,Default,,0,0,0,,Sepertinya dulunya dia adalah\Ntemannya Tuan Uekusa.
+Dialogue: 0,0:03:18.90,0:03:20.27,Default,,0,0,0,,Sekarang dia adalah penyanyi profesional.
+Dialogue: 0,0:03:21.94,0:03:22.94,Default,,0,0,0,,Biarpun begitu,
+Dialogue: 0,0:03:22.94,0:03:25.06,Default,,0,0,0,,tapi dia hanyalah penyanyi kelas bawah\Nyang hanya merilis dua CD.
+Dialogue: 0,0:03:25.79,0:03:29.72,Default,,0,0,0,,Ternyata kau juga membentuk\Norkes tiup yang buruk seperti ini?
+Dialogue: 0,0:03:29.72,0:03:31.81,Default,,0,0,0,,Sebenarnya kau juga\Nsangat ingin bernyanyi,
+Dialogue: 0,0:03:31.81,0:03:34.16,Default,,0,0,0,,tapi kau terpaksa berada di sini karena\Nnyanyianmu terlalu buruk, 'kan?
+Dialogue: 0,0:03:40.05,0:03:41.89,Default,,0,0,0,,Alat musik memang bagus.
+Dialogue: 0,0:03:41.89,0:03:43.35,Default,,0,0,0,,Cukup ditiup sebiasanya saja,
+Dialogue: 0,0:03:43.35,0:03:44.75,Default,,0,0,0,,kelihatan sudah sangat bergaya.
+Dialogue: 0,0:03:44.75,0:03:47.21,Default,,0,0,0,,Bagaimanapun, penonton biasa\Ntidak bisa membedakan baik buruknya.
+Dialogue: 0,0:03:47.72,0:03:50.13,Default,,0,0,0,,Bahkan tidak ada orang\Nyang mendengarnya dengan serius.
+Dialogue: 0,0:03:51.24,0:03:53.16,Default,,0,0,0,,Musik tanpa suara manusia seperti ini,
+Dialogue: 0,0:03:53.16,0:03:55.67,Default,,0,0,0,,lebih tepatnya disebut musik latar.
+Dialogue: 0,0:03:55.67,0:03:59.26,Default,,0,0,0,,Paling-paling hanyalah peran pendukung\Nuntuk menonjolkan penyanyi seperti kami.
+Dialogue: 0,0:03:59.78,0:04:01.75,Default,,0,0,0,,Bisa-bisanya membiarkan\Nband seperti ini tampil terakhir.
+Dialogue: 0,0:04:01.76,0:04:03.64,Default,,0,0,0,,Penonton pasti tertidur, 'kan?
+Dialogue: 0,0:04:06.41,0:04:07.98,Default,,0,0,0,,Ini adalah situasi kami.
+Dialogue: 0,0:04:08.58,0:04:11.12,Default,,0,0,0,,Kami yang ingin membentuk\Nband rock instrumental,
+Dialogue: 0,0:04:11.12,0:04:13.65,Default,,0,0,0,,ke depannya pasti harus\Nterus melawan orang seperti ini.
+Dialogue: 0,0:04:15.44,0:04:16.80,Default,,0,0,0,,Tuan Ishitani.
+Dialogue: 0,0:04:16.80,0:04:18.92,Default,,0,0,0,,Sudah kehabisan waktu.\NJangan menambah masalah lagi di sini.
+Dialogue: 0,0:04:18.92,0:04:20.37,Default,,0,0,0,,Maaf.
+Dialogue: 0,0:04:20.37,0:04:21.74,Default,,0,0,0,,Mohon bantuannya.
+Dialogue: 0,0:04:24.67,0:04:27.37,Default,,0,0,0,,Jangan merusak suasana di lokasi.
+Dialogue: 0,0:04:27.37,0:04:28.96,Default,,0,0,0,,Korps alat musik.
+Dialogue: 0,0:04:36.62,0:04:37.62,Default,,0,0,0,,Oto.
+Dialogue: 0,0:04:37.62,0:04:38.97,Default,,0,0,0,,Ada apa, Lily?
+Dialogue: 0,0:04:41.09,0:04:43.34,Default,,0,0,0,,Aku ingin membunuh bocah itu.
+Dialogue: 0,0:04:43.34,0:04:44.34,Default,,0,0,0,,Tidak masalah.
+Dialogue: 0,0:04:46.03,0:04:47.65,Default,,0,0,0,,DAFTAR PERTUNJUKAN MUSIK
+Dialogue: 0,0:04:49.97,0:04:51.39,Default,,0,0,0,,Kenapa aku harus datang
+Dialogue: 0,0:04:51.39,0:04:53.34,Default,,0,0,0,,ke tempat yang dipenuhi\Nbau busuk orang biasa?
+Dialogue: 0,0:04:53.34,0:04:54.86,Default,,0,0,0,,Guru Yamamoto.
+Dialogue: 0,0:04:56.12,0:04:59.23,Default,,0,0,0,,Hiyori, kau benaran datang?
+Dialogue: 0,0:04:59.23,0:05:01.62,Default,,0,0,0,,Hai, aku datang bermain.
+Dialogue: 0,0:05:02.58,0:05:04.21,Default,,0,0,0,,Siapa dia?
+Dialogue: 0,0:05:04.21,0:05:06.25,Default,,0,0,0,,Namanya Arisu Suzunomiya.
+Dialogue: 0,0:05:06.25,0:05:08.04,Default,,0,0,0,,Dia teman baikku.
+Dialogue: 0,0:05:09.41,0:05:10.54,Default,,0,0,0,,Salam kenal.
+Dialogue: 0,0:05:11.10,0:05:12.10,Default,,0,0,0,,Er,
+Dialogue: 0,0:05:12.11,0:05:14.05,Default,,0,0,0,,aku ingin meminta bantuanmu.
+Dialogue: 0,0:05:14.46,0:05:15.46,Default,,0,0,0,,Eh?
+Dialogue: 0,0:05:15.78,0:05:17.43,Default,,0,0,0,,Hari Minggu ini,
+Dialogue: 0,0:05:17.43,0:05:20.20,Default,,0,0,0,,ada festival kecil di kecamatan.
+Dialogue: 0,0:05:20.20,0:05:22.03,Default,,0,0,0,,Juga akan diadakan acara musik.
+Dialogue: 0,0:05:22.03,0:05:24.51,Default,,0,0,0,,Kakak kembar guruku
+Dialogue: 0,0:05:24.51,0:05:27.62,Default,,0,0,0,,sepertinya akan tampil di acara itu.
+Dialogue: 0,0:05:27.62,0:05:30.10,Default,,0,0,0,,Wajah mereka sama persis.\NTidakkah kau merasa sangat keren?
+Dialogue: 0,0:05:30.10,0:05:32.19,Default,,0,0,0,,Ayo kita pergi bersama.
+Dialogue: 0,0:05:32.65,0:05:34.18,Default,,0,0,0,,Hiyori Himejima.
+Dialogue: 0,0:05:34.18,0:05:35.63,Default,,0,0,0,,Kenapa kau mengundangku?
+Dialogue: 0,0:05:35.63,0:05:39.49,Default,,0,0,0,,Karena kau adalah teman terbaikku.
+Dialogue: 0,0:05:43.64,0:05:45.04,Default,,0,0,0,,Dasar.
+Dialogue: 0,0:05:45.04,0:05:46.50,Default,,0,0,0,,Teman baik apaan?
+Dialogue: 0,0:05:46.50,0:05:48.89,Default,,0,0,0,,Untung barisan depan tidak ada orang.
+Dialogue: 0,0:05:48.89,0:05:50.39,Default,,0,0,0,,Tempat duduk khusus.
+Dialogue: 0,0:05:50.39,0:05:53.82,Default,,0,0,0,,Aku sangat menantikan\Norkes dari kakaknya Guru.
+Dialogue: 0,0:05:53.82,0:05:55.92,Default,,0,0,0,,Dia bilang mereka tampil terakhir.
+Dialogue: 0,0:05:56.33,0:05:57.98,Default,,0,0,0,,Kulihat dulu. Selanjutnya...
+Dialogue: 0,0:05:57.98,0:06:00.35,Default,,0,0,0,,Kalau begitu, maaf lama.
+Dialogue: 0,0:06:00.35,0:06:02.15,Default,,0,0,0,,Grup ketiga adalah penyanyi profesional,
+Dialogue: 0,0:06:02.15,0:06:03.69,Default,,0,0,0,,Tuan Jun Ishitani.
+Dialogue: 0,0:06:03.69,0:06:04.69,Default,,0,0,0,,Silakan dimulai pertunjukannya.
+Dialogue: 0,0:06:08.69,0:06:14.43,Default,,0,0,0,,"Di dalam cahaya harapan"
+Dialogue: 0,0:06:14.43,0:06:17.65,Default,,0,0,0,,"Hidup bersamamu"
+Dialogue: 0,0:06:17.65,0:06:19.27,Default,,0,0,0,,"Pada saat ini"
+Dialogue: 0,0:06:19.27,0:06:22.97,Default,,0,0,0,,"Saatnya mengucapkan selamat"
+Dialogue: 0,0:06:22.98,0:06:25.31,Default,,0,0,0,,- Suaranya sangat bagus.\N- "Tidak peduli kapan pun"
+Dialogue: 0,0:06:25.31,0:06:27.40,Default,,0,0,0,,- Hebat, meski tidak terlalu terkenal.\N- "Tidak peduli kapan pun"
+Dialogue: 0,0:06:27.41,0:06:29.22,Default,,0,0,0,,- Namun, dia tetap penyanyi profesional.\N- "Hingga selamanya"
+Dialogue: 0,0:06:29.22,0:06:30.61,Default,,0,0,0,,"Hingga selamanya"
+Dialogue: 0,0:06:30.61,0:06:34.02,Default,,0,0,0,,"Aku akan merindukanmu"
+Dialogue: 0,0:06:34.02,0:06:36.50,Default,,0,0,0,,- Wah, suaranya sangat bagus.\N- "Aku akan merindukanmu"
+Dialogue: 0,0:06:36.83,0:06:39.21,Default,,0,0,0,,Lagu ini judulnya Eden.
+Dialogue: 0,0:06:39.21,0:06:41.18,Default,,0,0,0,,Nanti kuunduh dan coba dengar.
+Dialogue: 0,0:06:41.18,0:06:44.64,Default,,0,0,0,,"Membawaku ke surga"
+Dialogue: 0,0:06:44.65,0:06:46.78,Default,,0,0,0,,Sangat vulgar.
+Dialogue: 0,0:06:46.78,0:06:48.61,Default,,0,0,0,,Narsis lagi.
+Dialogue: 0,0:06:48.61,0:06:51.04,Default,,0,0,0,,Musik seperti ini\Nsama sekali tidak berkualitas.
+Dialogue: 0,0:06:51.04,0:06:52.63,Default,,0,0,0,,Musik warga biasa
+Dialogue: 0,0:06:52.63,0:06:54.76,Default,,0,0,0,,ternyata memang hanya seperti ini saja?
+Dialogue: 0,0:06:54.76,0:06:55.96,Default,,0,0,0,,Berhenti, tunggu aku.
+Dialogue: 0,0:06:55.96,0:06:56.96,Default,,0,0,0,,Jangan begini.
+Dialogue: 0,0:06:56.96,0:06:58.33,Default,,0,0,0,,Kenapa kau begitu hebat?
+Dialogue: 0,0:06:58.65,0:06:59.78,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:06:59.78,0:07:01.55,Default,,0,0,0,,Tadi itu adalah pertunjukan\Ndari Tuan Jun Ishitani.
+Dialogue: 0,0:07:01.55,0:07:03.32,Default,,0,0,0,,Mari kita berikan tepuk tangan padanya.
+Dialogue: 0,0:07:03.72,0:07:04.95,Default,,0,0,0,,Kalau begitu, pertunjukan terakhir
+Dialogue: 0,0:07:04.96,0:07:07.31,Default,,0,0,0,,adalah orkes tiup Red Familiar.
+Dialogue: 0,0:07:07.31,0:07:08.89,Default,,0,0,0,,Silakan semuanya bersiap\Nuntuk naik panggung.
+Dialogue: 0,0:07:08.89,0:07:11.54,Default,,0,0,0,,Dasar. Kenapa mereka tampil terakhir?
+Dialogue: 0,0:07:11.54,0:07:13.42,Default,,0,0,0,,Kau sudah mengeluh dari tadi.
+Dialogue: 0,0:07:13.42,0:07:15.91,Default,,0,0,0,,Itu karena mereka perlu\Nmengatur alat musik mereka.
+Dialogue: 0,0:07:15.91,0:07:18.05,Default,,0,0,0,,Anggotanya banyak, memang\Nlebih memakan waktu.
+Dialogue: 0,0:07:21.12,0:07:22.30,Default,,0,0,0,,Tuan Uekusa.
+Dialogue: 0,0:07:26.29,0:07:27.60,Default,,0,0,0,,Semuanya, ayo kita naik ke panggung.
+Dialogue: 0,0:07:32.09,0:07:33.23,Default,,0,0,0,,Itu kakakku.
+Dialogue: 0,0:07:33.23,0:07:34.61,Default,,0,0,0,,Lihat, di sana.
+Dialogue: 0,0:07:34.61,0:07:37.25,Default,,0,0,0,,Astaga, wajah kalian benaran sama persis.
+Dialogue: 0,0:07:37.25,0:07:39.19,Default,,0,0,0,,Arisu, apakah kau tidak merasa\Nsangat hebat?
+Dialogue: 0,0:07:49.55,0:07:52.10,Default,,0,0,0,,Ternyata aku tidak salah melihat.
+Dialogue: 0,0:07:52.10,0:07:53.60,Default,,0,0,0,,Itu dia.
+Dialogue: 0,0:07:53.60,0:07:55.90,Default,,0,0,0,,Kenapa orang Keluarga Suzunomiya
+Dialogue: 0,0:07:55.90,0:07:58.38,Default,,0,0,0,,bisa mengikuti kegiatan\Nwarga biasa seperti ini?
+Dialogue: 0,0:08:07.69,0:08:09.14,Default,,0,0,0,,Alat musik itu...
+Dialogue: 0,0:08:09.71,0:08:11.84,Default,,0,0,0,,Jadi, waktu itu
+Dialogue: 0,0:08:11.84,0:08:14.48,Default,,0,0,0,,dia bilang sedang latihan biola,\Nternyata memang berbohong.
+Dialogue: 0,0:08:14.48,0:08:17.81,Default,,0,0,0,,Sebenarnya dia diam-diam memainkan\Nalat musik warga biasa seperti ini.
+Dialogue: 0,0:08:18.58,0:08:20.68,Default,,0,0,0,,Dia bahkan melibatkan Nona Kurogane
+Dialogue: 0,0:08:20.68,0:08:22.99,Default,,0,0,0,,untuk membohongiku bersama.
+Dialogue: 0,0:08:23.70,0:08:25.66,Default,,0,0,0,,Dasar gadis tidak tahu malu\Nyang suka berbohong.
+Dialogue: 0,0:08:25.66,0:08:28.38,Default,,0,0,0,,Setelah pulang, aku akan segera\Nmemberi tahu Ayah.
+Dialogue: 0,0:08:28.38,0:08:29.64,Default,,0,0,0,,Agar dia dan ibunya
+Dialogue: 0,0:08:29.64,0:08:32.12,Default,,0,0,0,,tidak bisa tinggal di rumah kami lagi.
+Dialogue: 0,0:08:32.45,0:08:34.09,Default,,0,0,0,,Maaf lama.
+Dialogue: 0,0:08:34.10,0:08:37.83,Default,,0,0,0,,Lagu yang akan dimainkan\Noleh Red Familiar adalah Pulau Harta.
+Dialogue: 0,0:08:52.40,0:08:54.60,Default,,0,0,0,,Tung... Tunggu sebentar.
+Dialogue: 0,0:08:54.60,0:08:56.44,Default,,0,0,0,,Aku bahkan belum mulai\Nmengayunkan tongkatku.
+Dialogue: 0,0:08:56.97,0:08:59.43,Default,,0,0,0,,Lagi pula, tempo ini sama sekali\Nberbeda dengan yang tadi.
+Dialogue: 0,0:08:59.43,0:09:01.37,Default,,0,0,0,,Cepat dan sangat bertenaga.
+Dialogue: 0,0:09:01.37,0:09:04.74,Default,,0,0,0,,Kalau dari awal seperti ini,\Nyang lain tidak bisa mengikuti, 'kan?
+Dialogue: 0,0:09:04.96,0:09:06.23,Default,,0,0,0,,Apa yang terjadi?
+Dialogue: 0,0:09:06.23,0:09:07.65,Default,,0,0,0,,Alat musik lain tidak tampil?
+Dialogue: 0,0:09:08.28,0:09:09.99,Default,,0,0,0,,Tidak peduli lagi. Majulah.
+Dialogue: 0,0:09:14.77,0:09:16.18,Default,,0,0,0,,Sudah dimulai.
+Dialogue: 0,0:09:16.18,0:09:17.69,Default,,0,0,0,,Semangat, Kakak!
+Dialogue: 0,0:09:17.69,0:09:20.08,Default,,0,0,0,,Aku pernah mendengar lagu ini.
+Dialogue: 0,0:09:25.43,0:09:27.28,Default,,0,0,0,,Semuanya kelihatan sangat sengsara.
+Dialogue: 0,0:09:27.28,0:09:29.80,Default,,0,0,0,,Sebaiknya perlambat temponya.
+Dialogue: 0,0:09:36.41,0:09:38.17,Default,,0,0,0,,Tidak peduli bagaimana aku mengarahkannya,
+Dialogue: 0,0:09:38.17,0:09:41.06,Default,,0,0,0,,irama dan temponya\Nsama sekali tidak berubah.
+Dialogue: 0,0:09:42.93,0:09:45.54,Default,,0,0,0,,Semuanya terbawa oleh drum dan bass.
+Dialogue: 0,0:09:45.54,0:09:48.14,Default,,0,0,0,,Red Familiar telah dikendalikan
+Dialogue: 0,0:09:48.14,0:09:50.31,Default,,0,0,0,,oleh dua tim tempo itu.
+Dialogue: 0,0:09:48.14,0:09:50.31,tanda,,0,0,0,,RED FAMILIAR
+Dialogue: 0,0:09:52.97,0:09:53.97,Default,,0,0,0,,Salah meniup.
+Dialogue: 0,0:09:55.92,0:09:57.65,Default,,0,0,0,,Klarinet dan seruling juga sama.
+Dialogue: 0,0:09:57.65,0:09:59.21,Default,,0,0,0,,Tempo semua orang menjadi kacau.
+Dialogue: 0,0:10:00.04,0:10:02.21,Default,,0,0,0,,Gawat. Jika diteruskan,
+Dialogue: 0,0:10:02.21,0:10:04.67,Default,,0,0,0,,orkes kami akan hancur.
+Dialogue: 0,0:10:19.20,0:10:21.10,Default,,0,0,0,,Hampir saja. Akhirnya bisa mengikuti.
+Dialogue: 0,0:10:21.11,0:10:22.81,Default,,0,0,0,,Sangat mengagetkanku.
+Dialogue: 0,0:10:27.67,0:10:29.01,Default,,0,0,0,,Mereka menciptakan irama\Nyang kuat dan menarik
+Dialogue: 0,0:10:29.02,0:10:31.86,Default,,0,0,0,,melalui drum dan bass jazz.
+Dialogue: 0,0:10:33.61,0:10:35.64,Default,,0,0,0,,Memimpin semua orang maju
+Dialogue: 0,0:10:35.64,0:10:37.62,Default,,0,0,0,,seperti tornado yang kuat.
+Dialogue: 0,0:10:41.26,0:10:43.13,Default,,0,0,0,,Meski menjadi seperti ini karena mereka,
+Dialogue: 0,0:10:43.93,0:10:45.94,Default,,0,0,0,,tapi juga berkat mereka.
+Dialogue: 0,0:10:45.94,0:10:48.21,Default,,0,0,0,,Jangan takut gagal.
+Dialogue: 0,0:10:48.68,0:10:51.68,Default,,0,0,0,,Menyeranglah dengan sepenuh kekuatan.
+Dialogue: 0,0:10:52.12,0:10:53.39,Default,,0,0,0,,Benar-benar
+Dialogue: 0,0:10:53.39,0:10:55.30,Default,,0,0,0,,seperti sedang berteriak.
+Dialogue: 0,0:11:01.84,0:11:02.84,Default,,0,0,0,,Eh?
+Dialogue: 0,0:11:05.71,0:11:06.74,Default,,0,0,0,,KAFE\NSebelah sana sepertinya sangat menarik.
+Dialogue: 0,0:11:06.75,0:11:07.77,Default,,0,0,0,,Mau pergi lihat?
+Dialogue: 0,0:11:07.77,0:11:08.86,Default,,0,0,0,,Ide yang bagus.
+Dialogue: 0,0:11:11.24,0:11:12.82,Default,,0,0,0,,Apa ini?
+Dialogue: 0,0:11:12.83,0:11:14.22,Default,,0,0,0,,Intervalnya berantakan.
+Dialogue: 0,0:11:14.23,0:11:15.76,Default,,0,0,0,,Setiap orang memainkannya\Ndengan tidak teratur.
+Dialogue: 0,0:11:15.76,0:11:17.48,Default,,0,0,0,,Karena meniup dengan sepenuh kekuatan,
+Dialogue: 0,0:11:17.48,0:11:19.57,Default,,0,0,0,,pada dasarnya hanya\Nmerasa sangat menderita.
+Dialogue: 0,0:11:19.57,0:11:20.57,Default,,0,0,0,,Namun,
+Dialogue: 0,0:11:20.57,0:11:21.57,Default,,0,0,0,,perasaan seperti ini...
+Dialogue: 0,0:11:23.69,0:11:24.78,Default,,0,0,0,,Perasaan seperti ini
+Dialogue: 0,0:11:24.79,0:11:26.21,Default,,0,0,0,,benaran sangat memuaskan!
+Dialogue: 0,0:11:26.70,0:11:27.97,Default,,0,0,0,,Tidak tahu sejak kapan,
+Dialogue: 0,0:11:27.97,0:11:29.26,Default,,0,0,0,,kita bisa-bisanya lupa
+Dialogue: 0,0:11:29.27,0:11:31.80,Default,,0,0,0,,sesenang ini jika memainkan musik\Ndengan sepenuh kekuatan.
+Dialogue: 0,0:11:33.65,0:11:34.80,Default,,0,0,0,,Yang benar saja?
+Dialogue: 0,0:11:35.49,0:11:36.83,Default,,0,0,0,,Tidak mungkin.
+Dialogue: 0,0:11:36.83,0:11:38.35,Default,,0,0,0,,Apa ini?
+Dialogue: 0,0:11:38.35,0:11:40.29,Default,,0,0,0,,Inilah musik warga biasa?
+Dialogue: 0,0:11:40.29,0:11:42.39,Default,,0,0,0,,Inilah musik Kakak?
+Dialogue: 0,0:11:43.10,0:11:44.54,Default,,0,0,0,,Tidak peduli pemain musik,
+Dialogue: 0,0:11:44.55,0:11:46.09,Default,,0,0,0,,atau pendengar,
+Dialogue: 0,0:11:46.09,0:11:48.62,Default,,0,0,0,,kalian tidak mungkin hanya bisa\Nikut sampai di sini saja, 'kan?
+Dialogue: 0,0:11:48.62,0:11:50.12,Default,,0,0,0,,Silakan
+Dialogue: 0,0:11:50.12,0:11:52.99,Default,,0,0,0,,bebaskan diri sendiri lagi\Ntanpa memikirkan apa pun!
+Dialogue: 0,0:11:57.63,0:11:59.08,Default,,0,0,0,,Sangat sembarangan.
+Dialogue: 0,0:12:05.18,0:12:07.42,Default,,0,0,0,,Akan ditelan oleh gitar.
+Dialogue: 0,0:12:08.25,0:12:10.80,Default,,0,0,0,,- Hebat sekali!\N- Keren!
+Dialogue: 0,0:12:13.70,0:12:15.97,Default,,0,0,0,,Ini sudah termasuk musik rock, 'kan?
+Dialogue: 0,0:12:29.40,0:12:30.77,Default,,0,0,0,,Juga ada drum jazz solo?
+Dialogue: 0,0:12:31.56,0:12:33.21,Default,,0,0,0,,Kalau begini terus,
+Dialogue: 0,0:12:33.21,0:12:34.78,Default,,0,0,0,,akan kalah dari mereka berdua.
+Dialogue: 0,0:12:36.42,0:12:38.87,Default,,0,0,0,,Semuanya, tiuplah dengan sepenuh kekuatan!
+Dialogue: 0,0:12:45.34,0:12:46.67,Default,,0,0,0,,Apakah dia benaran
+Dialogue: 0,0:12:47.21,0:12:49.61,Default,,0,0,0,,adalah kakakku yang selalu
+Dialogue: 0,0:12:49.61,0:12:51.17,Default,,0,0,0,,tunduk pada orang tua?
+Dialogue: 0,0:13:36.67,0:13:38.74,Default,,0,0,0,,Benaran sangat seru.
+Dialogue: 0,0:13:38.74,0:13:40.34,Default,,0,0,0,,Benar.
+Dialogue: 0,0:13:42.34,0:13:43.51,Default,,0,0,0,,Arisu?
+Dialogue: 0,0:13:43.83,0:13:45.10,Default,,0,0,0,,Kakak.
+Dialogue: 0,0:13:48.84,0:13:50.48,Default,,0,0,0,,Sangat mengagetkanku.
+Dialogue: 0,0:13:50.48,0:13:52.90,Default,,0,0,0,,Rasanya seperti naik roller coaster.
+Dialogue: 0,0:13:53.31,0:13:54.99,Default,,0,0,0,,Benaran sangat gila.
+Dialogue: 0,0:13:54.99,0:13:58.14,Default,,0,0,0,,Namun, tidak kusangka bisa begitu.
+Dialogue: 0,0:13:58.14,0:13:58.95,Default,,0,0,0,,Benar.
+Dialogue: 0,0:13:58.96,0:14:01.74,Default,,0,0,0,,Namun, aku tidak ingin\Nmengalaminya untuk kedua kalinya.
+Dialogue: 0,0:14:02.66,0:14:04.41,Default,,0,0,0,,Hei, Uekusa.
+Dialogue: 0,0:14:08.80,0:14:09.80,Default,,0,0,0,,Ishitani.
+Dialogue: 0,0:14:15.92,0:14:17.17,Default,,0,0,0,,Pertunjukan kalian sangat bagus.
+Dialogue: 0,0:14:44.73,0:14:45.84,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:15:06.28,0:15:08.34,Default,,0,0,0,,Tokoh utamanya datang.
+Dialogue: 0,0:15:08.34,0:15:09.65,Default,,0,0,0,,Aku sudah melihatnya.
+Dialogue: 0,0:15:09.65,0:15:11.39,Default,,0,0,0,,Sungguh pertunjukan yang sangat seru.
+Dialogue: 0,0:15:13.49,0:15:14.90,Default,,0,0,0,,Kalian keringatan.
+Dialogue: 0,0:15:16.03,0:15:17.21,Default,,0,0,0,,Ugh.
+Dialogue: 0,0:15:17.21,0:15:20.24,Default,,0,0,0,,Tadi aku mengkritik musik tanpa vokal\Nhingga tidak berharga,
+Dialogue: 0,0:15:20.58,0:15:22.53,Default,,0,0,0,,tapi permainan musik kalian\Ntak kusangka lumayan layak didengar.
+Dialogue: 0,0:15:22.53,0:15:23.90,Default,,0,0,0,,Sepenuhnya mengubah pandanganku.
+Dialogue: 0,0:15:23.90,0:15:25.56,Default,,0,0,0,,Padahal kalian hanya orang biasa.
+Dialogue: 0,0:15:25.56,0:15:26.99,Default,,0,0,0,,Sangat hebat.
+Dialogue: 0,0:15:27.51,0:15:29.20,Default,,0,0,0,,Ini kartu namaku.
+Dialogue: 0,0:15:29.53,0:15:33.17,Default,,0,0,0,,Maukah kalian menjadi band latarku?
+Dialogue: 0,0:15:36.25,0:15:37.37,tanda,,0,0,0,,JUN ISHITANI
+Dialogue: 0,0:15:39.33,0:15:40.33,Default,,0,0,0,,Apa?
+Dialogue: 0,0:15:40.73,0:15:42.84,Default,,0,0,0,,Beraninya mencari kami\Nuntuk menjadi band latar?
+Dialogue: 0,0:15:43.68,0:15:46.64,Default,,0,0,0,,Suaramu bisa lenyap dalam sekejap, loh.
+Dialogue: 0,0:15:47.27,0:15:48.27,Default,,0,0,0,,Eh?
+Dialogue: 0,0:15:48.91,0:15:51.49,Default,,0,0,0,,Suara nyanyianmu yang abal-abal itu
+Dialogue: 0,0:15:51.49,0:15:53.77,Default,,0,0,0,,sama sekali tidak layak didengar!
+Dialogue: 0,0:15:53.77,0:15:55.98,Default,,0,0,0,,Dasar sampah yang tidak bisa dibakar!
+Dialogue: 0,0:16:00.85,0:16:02.62,Default,,0,0,0,,Sangat menjijikkan!
+Dialogue: 0,0:16:02.63,0:16:03.53,Default,,0,0,0,,Dasar bajingan,
+Dialogue: 0,0:16:03.53,0:16:06.70,Default,,0,0,0,,menyanyikan lagu abal-abal\Ndengan sikap acuh tak acuh.
+Dialogue: 0,0:16:06.70,0:16:09.10,Default,,0,0,0,,Jangan kira hanya perlu bernyanyi saja.
+Dialogue: 0,0:16:09.11,0:16:11.60,Default,,0,0,0,,Beraninya kau bilang kami adalah BGM?\NBilang kami bisa buat pendengar tertidur?
+Dialogue: 0,0:16:11.60,0:16:13.94,Default,,0,0,0,,Cobalah kau tidur, dasar berengsek!
+Dialogue: 0,0:16:13.94,0:16:15.16,Default,,0,0,0,,Tidak peduli bernyanyi,
+Dialogue: 0,0:16:15.17,0:16:17.44,Default,,0,0,0,,bermain gitar atau seruling,
+Dialogue: 0,0:16:17.44,0:16:20.92,Default,,0,0,0,,selama menunjukkan diri sendiri dengan\Nsepenuh kekuatan, itu yang paling hebat.
+Dialogue: 0,0:16:21.91,0:16:23.19,Default,,0,0,0,,Dasar kau ini...
+Dialogue: 0,0:16:23.19,0:16:25.48,Default,,0,0,0,,Dari segi mana aku abal-abal?
+Dialogue: 0,0:16:25.48,0:16:27.46,Default,,0,0,0,,Aku ini penyanyi profesional.
+Dialogue: 0,0:16:27.46,0:16:29.18,Default,,0,0,0,,Aku bahkan sudah meriliskan dua CD.
+Dialogue: 0,0:16:29.18,0:16:30.90,Default,,0,0,0,,Memangnya kenapa?
+Dialogue: 0,0:16:30.90,0:16:32.75,Default,,0,0,0,,Aku sudah menunjukkan andalanku.
+Dialogue: 0,0:16:32.76,0:16:34.12,Default,,0,0,0,,Kau keluarkan juga andalanmu!
+Dialogue: 0,0:16:34.12,0:16:35.49,Default,,0,0,0,,Dasar bajingan disfungsi ereksi!
+Dialogue: 0,0:16:35.49,0:16:36.69,Default,,0,0,0,,Disfungsi ereksi...
+Dialogue: 0,0:16:37.81,0:16:39.86,Default,,0,0,0,,Sudahlah, Lili.
+Dialogue: 0,0:16:40.33,0:16:41.52,Default,,0,0,0,,Kendalikan dirimu.
+Dialogue: 0,0:16:41.93,0:16:43.06,Default,,0,0,0,,Tuan Ishitani.
+Dialogue: 0,0:16:43.06,0:16:45.51,Default,,0,0,0,,Maaf sekali.
+Dialogue: 0,0:16:45.51,0:16:48.02,Default,,0,0,0,,Intinya, yang ingin dikatakan Lili adalah
+Dialogue: 0,0:16:48.03,0:16:52.28,Default,,0,0,0,,suara nyanyianmu lebih buruk dari BGM.
+Dialogue: 0,0:16:52.28,0:16:53.28,Default,,0,0,0,,- Apa?\N- Eh?
+Dialogue: 0,0:16:55.37,0:16:57.46,Default,,0,0,0,,Apakah seperti ini Anda sudah mengerti?
+Dialogue: 0,0:16:57.89,0:16:59.83,Default,,0,0,0,,Bajingan tidak berguna.
+Dialogue: 0,0:17:01.01,0:17:02.01,Default,,0,0,0,,Er...
+Dialogue: 0,0:17:02.53,0:17:04.83,Default,,0,0,0,,Ayo kita pergi, Lili.
+Dialogue: 0,0:17:04.84,0:17:06.88,Default,,0,0,0,,Benar juga, Oto.
+Dialogue: 0,0:17:09.88,0:17:11.51,Default,,0,0,0,,Semoga hari kalian menyenangkan.
+Dialogue: 0,0:17:23.80,0:17:24.96,Default,,0,0,0,,Arisu?
+Dialogue: 0,0:17:24.97,0:17:26.59,Default,,0,0,0,,Kenapa kau ada di sini?
+Dialogue: 0,0:17:26.59,0:17:28.03,Default,,0,0,0,,Er...
+Dialogue: 0,0:17:29.15,0:17:31.74,Default,,0,0,0,,Barusan aku melihat pertunjukanmu.
+Dialogue: 0,0:17:32.37,0:17:36.96,Default,,0,0,0,,Benarkah kau kakakku?
+Dialogue: 0,0:17:41.64,0:17:44.34,Default,,0,0,0,,Bagaimana? Sangat menyenangkan, 'kan?
+Dialogue: 0,0:17:50.34,0:17:53.35,Default,,0,0,0,,Kau jangan mengadu pada Ibu, ya.
+Dialogue: 0,0:17:59.38,0:18:00.38,Default,,0,0,0,,Sampai jumpa.
+Dialogue: 0,0:18:05.11,0:18:08.14,Default,,0,0,0,,Menunjukkan diri sendiri\Ntanpa peduli pada citra diri.
+Dialogue: 0,0:18:08.14,0:18:09.70,Default,,0,0,0,,Terakhir mengubah orang di sisinya.
+Dialogue: 0,0:18:10.33,0:18:14.03,Default,,0,0,0,,Inilah penampilan Kakak\Nyang paling nyata dan tanpa ditahan.
+Dialogue: 0,0:18:14.88,0:18:16.76,Default,,0,0,0,,Di keluarga ini,
+Dialogue: 0,0:18:16.76,0:18:18.83,Default,,0,0,0,,pasti hanya aku yang mengetahui\Nsisinya seperti ini.
+Dialogue: 0,0:18:19.93,0:18:21.06,Default,,0,0,0,,Kenapa
+Dialogue: 0,0:18:21.06,0:18:23.34,Default,,0,0,0,,jantungku berdetak secepat ini?
+Dialogue: 0,0:18:24.39,0:18:26.51,Default,,0,0,0,,Arisu, akhirnya aku menemukanmu.
+Dialogue: 0,0:18:27.17,0:18:28.17,Default,,0,0,0,,Dasar.
+Dialogue: 0,0:18:28.17,0:18:30.11,Default,,0,0,0,,Aku mencarimu sangat lama.
+Dialogue: 0,0:18:30.12,0:18:31.93,Default,,0,0,0,,Maaf.
+Dialogue: 0,0:18:32.29,0:18:33.29,Default,,0,0,0,,Eh!
+Dialogue: 0,0:18:33.30,0:18:36.42,Default,,0,0,0,,Ayo kita pergi menyapa\Nkakaknya Guru Yamamoto.
+Dialogue: 0,0:18:36.42,0:18:38.98,Default,,0,0,0,,Er, Hiyori.
+Dialogue: 0,0:18:39.49,0:18:40.69,Default,,0,0,0,,Ada apa?
+Dialogue: 0,0:18:41.62,0:18:42.56,Default,,0,0,0,,Aku sangat senang
+Dialogue: 0,0:18:43.70,0:18:45.90,Default,,0,0,0,,bisa datang ke sini hari ini.
+Dialogue: 0,0:18:45.90,0:18:48.49,Default,,0,0,0,,Terima kasih sudah\Nmengajakku datang bersama.
+Dialogue: 0,0:18:49.40,0:18:52.71,Default,,0,0,0,,Dasar, jangan begitu sungkan.
+Dialogue: 0,0:18:52.71,0:18:55.49,Default,,0,0,0,,Bukankah kita teman baik?
+Dialogue: 0,0:18:57.14,0:18:58.14,Default,,0,0,0,,Ya.
+Dialogue: 0,0:18:59.33,0:19:01.25,Default,,0,0,0,,Aku pulang.
+Dialogue: 0,0:19:01.25,0:19:02.79,Default,,0,0,0,,Selamat pulang.
+Dialogue: 0,0:19:05.45,0:19:08.26,Default,,0,0,0,,Kepalaku masih linglung.
+Dialogue: 0,0:19:11.07,0:19:13.41,Default,,0,0,0,,Maaf, Nona Arisu.
+Dialogue: 0,0:19:13.41,0:19:15.40,Default,,0,0,0,,Aku tidak menyampaikannya dengan baik.
+Dialogue: 0,0:19:15.40,0:19:17.46,Default,,0,0,0,,Aku akan membuang bunga ini sekarang.
+Dialogue: 0,0:19:17.46,0:19:19.02,Default,,0,0,0,,Er...
+Dialogue: 0,0:19:20.80,0:19:22.21,Default,,0,0,0,,Bolehkah taruh
+Dialogue: 0,0:19:22.21,0:19:25.31,Default,,0,0,0,,bunga lili itu di kamarku?
+Dialogue: 0,0:19:25.32,0:19:26.32,Default,,0,0,0,,Eh?
+Dialogue: 0,0:19:26.78,0:19:28.32,Default,,0,0,0,,Baik.
+Dialogue: 0,0:19:31.53,0:19:33.41,Default,,0,0,0,,Aku ingin mendengar sekali lagi
+Dialogue: 0,0:19:34.58,0:19:36.45,Default,,0,0,0,,musik yang dimainkan oleh Kakak.
+Dialogue: 0,0:19:37.83,0:19:39.68,Default,,0,0,0,,Sejak kapan Kakak mencintai
+Dialogue: 0,0:19:39.68,0:19:43.12,Default,,0,0,0,,musik intens seperti itu?
+Dialogue: 0,0:19:44.59,0:19:45.75,Default,,0,0,0,,Arisu.
+Dialogue: 0,0:19:47.22,0:19:50.71,Default,,0,0,0,,Tahukah kau Lilisa pergi ke mana?
+Dialogue: 0,0:19:52.93,0:19:55.47,Default,,0,0,0,,Kau jangan mengadu pada Ibu, ya.
+Dialogue: 0,0:19:58.04,0:20:00.22,Default,,0,0,0,,Tidak, aku tidak tahu.
+Dialogue: 0,0:20:00.74,0:20:01.93,Default,,0,0,0,,Begitu, ya?
+Dialogue: 0,0:20:02.63,0:20:03.93,Default,,0,0,0,,Bagaimana ini?
+Dialogue: 0,0:20:03.94,0:20:06.52,Default,,0,0,0,,Sudah hampir waktunya les.
+Dialogue: 0,0:20:07.25,0:20:10.41,Default,,0,0,0,,Ibu.
+Dialogue: 0,0:20:10.41,0:20:12.36,Default,,0,0,0,,Bolehkah aku bertanya?
+Dialogue: 0,0:20:13.76,0:20:14.80,Default,,0,0,0,,Astaga.
+Dialogue: 0,0:20:14.80,0:20:17.28,Default,,0,0,0,,Ini pertama kalinya\Nkau memanggilku seperti ini.
+Dialogue: 0,0:20:17.28,0:20:19.12,Default,,0,0,0,,Ada apa, Arisu?
+Dialogue: 0,0:20:19.97,0:20:21.33,Default,,0,0,0,,Sebelum datang ke sini,
+Dialogue: 0,0:20:22.10,0:20:24.00,Default,,0,0,0,,Kakak
+Dialogue: 0,0:20:24.00,0:20:26.17,Default,,0,0,0,,orang seperti apa?
+Dialogue: 0,0:20:26.72,0:20:27.57,Default,,0,0,0,,Er,
+Dialogue: 0,0:20:27.57,0:20:30.55,Default,,0,0,0,,aku tiba-tiba agak penasaran.
+Dialogue: 0,0:20:30.84,0:20:32.54,Default,,0,0,0,,Apa yang sedang kau katakan?
+Dialogue: 0,0:20:32.54,0:20:36.26,Default,,0,0,0,,Selama ini, dia adalah\Nanak Keluarga Suzunomiya.
+Dialogue: 0,0:20:37.50,0:20:40.01,Default,,0,0,0,,Tidak ada masa lalu.
+Dialogue: 0,0:20:42.36,0:20:44.56,Default,,0,0,0,,Maaf, aku masih ada urusan mendesak.
+Dialogue: 0,0:20:45.00,0:20:46.48,Default,,0,0,0,,Lilisa.
+Dialogue: 0,0:20:53.76,0:20:56.27,Default,,0,0,0,,Kita dimarahi habis-habisan.
+Dialogue: 0,0:20:56.27,0:20:59.00,Default,,0,0,0,,Aku tidak mengatakan apa pun\Nkarena tidak terjadi masalah hari ini.
+Dialogue: 0,0:20:59.00,0:21:01.97,Default,,0,0,0,,Namun, seharusnya kalian tahu\Ntidak boleh sembarang mengubah, 'kan?
+Dialogue: 0,0:21:01.97,0:21:03.62,Default,,0,0,0,,- Maaf.\N- Maaf.
+Dialogue: 0,0:21:04.45,0:21:07.83,Default,,0,0,0,,Aku baru pertama kalinya\Ndimarahi seperti itu.
+Dialogue: 0,0:21:09.25,0:21:10.45,Default,,0,0,0,,Gawat.
+Dialogue: 0,0:21:10.45,0:21:12.28,Default,,0,0,0,,Bisa-bisanya diketahui oleh Arisu.
+Dialogue: 0,0:21:12.28,0:21:13.28,Default,,0,0,0,,Apakah aku seharusnya memperingatkan dia
+Dialogue: 0,0:21:13.29,0:21:14.65,Default,,0,0,0,,dengan lebih tegas agar jangan disebarkan?
+Dialogue: 0,0:21:12.28,0:21:14.65,tanda,,0,0,0,,KEMBALI TENANG
+Dialogue: 0,0:21:14.65,0:21:15.65,Default,,0,0,0,,Kondisi terburuknya,
+Dialogue: 0,0:21:15.65,0:21:17.57,Default,,0,0,0,,mungkin aku akan dikeluarkan\Ndari Keluarga Suzunomiya!
+Dialogue: 0,0:21:17.57,0:21:20.09,Default,,0,0,0,,Gawat, kondisi seperti ini...
+Dialogue: 0,0:21:21.20,0:21:23.33,Default,,0,0,0,,Dua minggu yang lalu,
+Dialogue: 0,0:21:23.33,0:21:25.89,Default,,0,0,0,,aku masih bermain drum sendirian.
+Dialogue: 0,0:21:26.49,0:21:27.90,Default,,0,0,0,,Tidak kusangka sekarang aku bisa
+Dialogue: 0,0:21:27.90,0:21:30.15,Default,,0,0,0,,berkolaborasi dengan Lili setiap hari.
+Dialogue: 0,0:21:30.54,0:21:33.80,Default,,0,0,0,,Hari ini kami bahkan pertama kali\Ntampil di depan publik.
+Dialogue: 0,0:21:33.80,0:21:35.82,Default,,0,0,0,,Aku benaran sangat senang.
+Dialogue: 0,0:21:39.24,0:21:40.41,Default,,0,0,0,,Kurasa ke depannya
+Dialogue: 0,0:21:41.39,0:21:42.62,Default,,0,0,0,,pasti juga bisa...
+Dialogue: 0,0:22:02.14,0:22:03.18,Default,,0,0,0,,Eh, Lili.
+Dialogue: 0,0:22:05.12,0:22:07.69,Default,,0,0,0,,Aku sangat ingin segera\Nmenemukan anggota baru.
+Dialogue: 0,0:22:07.69,0:22:08.81,Default,,0,0,0,,Kau terlalu santai!
+Dialogue: 0,0:22:08.81,0:22:11.02,Default,,0,0,0,,Sekarang aku tidak berminat\Nuntuk memikirkan semua itu!
+Dialogue: 0,0:22:11.84,0:22:13.82,Default,,0,0,0,,Benaran jahat.
