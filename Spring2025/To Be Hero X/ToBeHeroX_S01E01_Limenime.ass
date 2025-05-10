@@ -1,0 +1,540 @@
+﻿[Script Info]
+Title: Bilibili Subtitle
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: tobe_herox
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: dialog,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,96,96,65,1
+Style: dialog - atas,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,8,96,96,65,1
+Style: tanda-5,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,80,1
+Style: tanda-4,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,80,1
+Style: tanda-6,Basic Comical NC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,6,0,0,80,1
+Style: res,Basic Comical NC,1080,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,0,0,0,0,1,2,2,2,10,10,10,1
+Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:37.07,0:01:38.07,tanda-5,signs,0,0,0,,{\fs75\blur0\bord2.5\pos(960,832)\b0}Treeman Group, Bu Juan
+Dialogue: 0,0:02:10.23,0:02:13.73,tanda-5,signs,0,0,0,,{\fs75\blur0\bord2.5\pos(960,832)\b0}Episode 1: Nice
+Dialogue: 0,0:02:13.78,0:02:18.11,tanda-5,signs,0,0,0,,{\fad(400,450)\fs70\blur0\bord2.5\pos(960,837)\b0}41 Tahun Federasi
+Dialogue: 0,0:05:58.17,0:06:02.67,tanda-5,signs,0,0,0,,{\fad(400,0)\fs70\blur0\bord2.5\pos(960,832)\b0}Seminggu Kemudian
+Dialogue: 0,0:06:08.13,0:06:10.14,tanda-6,signs,0,0,0,,{\fad(210,0)\fs70\blur0\bord2.5\b0\pos(1753,193)}Karyawan perusahaan tewas setelah melompat dari gedung
+Dialogue: 0,0:09:22.79,0:09:23.45,tanda-5,signs,0,0,0,,{\fs70\blur0\bord2.5\pos(960,837)\b0}Enlightenment / Mata Kebenaran
+Dialogue: 0,0:19:49.37,0:19:52.37,tanda-6,signs,0,0,0,,{\fad(217,0)\fs70\blur0\bord2.5\b0\pos(1758,166)}Pahlawan Sempurna Mengalahkan Teroris
+Dialogue: 10,0:00:00.45,0:00:01.50,dialog,,0,0,0,,Apa itu pahlawan?
+Dialogue: 10,0:00:03.62,0:00:05.66,dialog,,0,0,0,,Ia secercah cahaya dalam kegelapan.
+Dialogue: 10,0:00:10.37,0:00:12.75,dialog,,0,0,0,,Ia penyelamat di saat krisis.
+Dialogue: 10,0:00:22.12,0:00:24.66,dialog,,0,0,0,,Sosok sempurna di hati kita.
+Dialogue: 10,0:00:25.00,0:00:25.79,dialog,,0,0,0,,Itulah Nice!
+Dialogue: 10,0:00:28.08,0:00:30.29,dialog,,0,0,0,,Dalam era kala kepercayaan\Nmenciptakan pahlawan.
+Dialogue: 10,0:00:31.87,0:00:33.33,dialog,,0,0,0,,Setiap orang mampu menciptakan pahlawan.
+Dialogue: 10,0:00:35.33,0:00:38.12,dialog,,0,0,0,,Setiap orang juga bisa menjadi pahlawan.
+Dialogue: 10,0:00:38.45,0:00:39.20,dialog,,0,0,0,,Hentikan!
+Dialogue: 10,0:00:39.62,0:00:40.41,dialog,,0,0,0,,Lin Ling,
+Dialogue: 10,0:00:40.62,0:00:43.12,dialog,,0,0,0,,apa kau sudah tahu\Nsiapa klien kita kali ini?
+Dialogue: 10,0:00:43.50,0:00:44.29,dialog,,0,0,0,,Pahlawan Sempurna,
+Dialogue: 10,0:00:44.29,0:00:45.00,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:00:45.08,0:00:47.25,dialog,,0,0,0,,Lalu, kenapa kau mengoceh tentang\Nsemua bisa menciptakan
+Dialogue: 10,0:00:47.25,0:00:48.62,dialog,,0,0,0,,dan bisa jadi pahlawan?
+Dialogue: 10,0:00:48.62,0:00:50.04,dialog,,0,0,0,,Yang perlu kita tekankan
+Dialogue: 10,0:00:50.04,0:00:50.62,dialog,,0,0,0,,adalah
+Dialogue: 10,0:00:50.62,0:00:51.45,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:00:51.62,0:00:53.91,dialog,,0,0,0,,Bukankah ini yang biasanya\NAnda ajarkan kepada kami?
+Dialogue: 10,0:00:54.08,0:00:55.29,dialog,,0,0,0,,Ikuti arus tren.
+Dialogue: 10,0:00:55.62,0:00:57.75,dialog,,0,0,0,,Kompetisi pahlawan nomor satu\Ndimulai kembali tahun ini.
+Dialogue: 10,0:00:57.87,0:00:59.70,dialog,,0,0,0,,Jadi, penutup video ini adalah...
+Dialogue: 10,0:01:00.29,0:01:02.33,dialog,,0,0,0,,To Be Hero X.
+Dialogue: 10,0:01:03.04,0:01:05.50,dialog,,0,0,0,,X di sini secara lahiriah adalah\Ngelar pahlawan nomor satu.
+Dialogue: 10,0:01:05.54,0:01:09.70,dialog,,0,0,0,,Sementara makna mendalamnya\Nmewakili tiap orang tak bernama sepertiku
+Dialogue: 10,0:01:09.83,0:01:11.08,dialog,,0,0,0,,juga bisa menjadi pahlawan.
+Dialogue: 10,0:01:11.08,0:01:11.79,dialog,,0,0,0,,Cukup!
+Dialogue: 10,0:01:11.79,0:01:13.04,dialog,,0,0,0,,Seperti bocah saja.
+Dialogue: 10,0:01:13.04,0:01:14.29,dialog,,0,0,0,,Masih bermimpi menjadi pahlawan?
+Dialogue: 10,0:01:14.29,0:01:14.96,dialog,,0,0,0,,Tapi...
+Dialogue: 10,0:01:15.29,0:01:15.95,dialog,,0,0,0,,Aku juga...
+Dialogue: 10,0:01:15.95,0:01:17.12,dialog,,0,0,0,,"Aku juga" apanya?
+Dialogue: 10,0:01:17.12,0:01:18.08,dialog,,0,0,0,,Coba lihat dirimu.
+Dialogue: 10,0:01:18.20,0:01:20.20,dialog,,0,0,0,,Apa yang bisa membuatmu\Ndiperhatikan semua orang?
+Dialogue: 10,0:01:20.20,0:01:21.04,dialog,,0,0,0,,Apa kemampuanmu?
+Dialogue: 10,0:01:21.04,0:01:22.12,dialog,,0,0,0,,Apa keunikanmu?
+Dialogue: 10,0:01:22.75,0:01:25.12,dialog,,0,0,0,,Kau hanyalah orang biasa\Nyang tidak menonjol.
+Dialogue: 10,0:01:25.16,0:01:26.29,dialog,,0,0,0,,Orang biasa!
+Dialogue: 10,0:01:26.58,0:01:27.50,dialog,,0,0,0,,Sadarlah,
+Dialogue: 10,0:01:27.54,0:01:30.41,dialog,,0,0,0,,bekerja keras adalah satu-satunya\Ncara bagimu untuk sukses.
+Dialogue: 10,0:01:30.62,0:01:31.54,dialog,,0,0,0,,Tapi...
+Dialogue: 10,0:01:31.75,0:01:33.12,dialog,,0,0,0,,Tidak ada tapi.
+Dialogue: 10,0:01:33.50,0:01:34.29,dialog,,0,0,0,,Ulangi!
+Dialogue: 10,0:01:34.83,0:01:35.62,dialog,,0,0,0,,Tapi...
+Dialogue: 10,0:01:35.79,0:01:36.83,dialog,,0,0,0,,Jangan banyak alasan!
+Dialogue: 10,0:01:38.29,0:01:39.33,dialog,,0,0,0,,Matikan musiknya!
+Dialogue: 10,0:01:40.15,0:01:40.94,dialog,,0,0,0,,Halo.
+Dialogue: 10,0:01:41.12,0:01:41.95,dialog,,0,0,0,,Bu Juan.
+Dialogue: 10,0:01:42.08,0:01:42.91,dialog,,0,0,0,,Ya, baik.
+Dialogue: 10,0:01:43.00,0:01:43.57,dialog,,0,0,0,,Jadi...
+Dialogue: 10,0:01:43.58,0:01:44.37,dialog,,0,0,0,,Apa?
+Dialogue: 10,0:01:45.16,0:01:46.33,dialog,,0,0,0,,Proposalnya sudah diterima?
+Dialogue: 10,0:01:46.83,0:01:47.70,dialog,,0,0,0,,Oh, itu...
+Dialogue: 10,0:01:47.75,0:01:49.08,dialog,,0,0,0,,Sepertinya ada kesalahan.
+Dialogue: 10,0:01:49.08,0:01:50.09,dialog,,0,0,0,,Internal kita belum...
+Dialogue: 10,0:01:50.09,0:01:51.58,dialog,,0,0,0,,Halo, Bu Juan?
+Dialogue: 10,0:01:51.58,0:01:52.55,dialog,,0,0,0,,Halo?
+Dialogue: 10,0:01:52.87,0:01:54.24,dialog,,0,0,0,,Na-Namun...
+Dialogue: 10,0:01:54.58,0:01:58.33,dialog,,0,0,0,,Bukankah tadi malam Anda menyuruhku\Nmengirim proposalnya?
+Dialogue: 10,0:01:59.00,0:01:59.79,dialog,,0,0,0,,Lin Ling.
+Dialogue: 10,0:02:00.66,0:02:01.50,dialog,,0,0,0,,Sekarang,
+Dialogue: 10,0:02:02.62,0:02:04.29,dialog,,0,0,0,,kemas barang-barangmu dan pergi.
+Dialogue: 10,0:02:08.83,0:02:10.11,dialog,,0,0,0,,Wajar saja.
+Dialogue: 10,0:02:10.67,0:02:13.70,dialog - atas,,0,0,0,,Dunia ini seolah memberi kesempatan\Nbagi orang untuk menjadi pahlawan.
+Dialogue: 10,0:02:14.29,0:02:15.91,dialog - atas,,0,0,0,,Tetapi bagi orang biasa,
+Dialogue: 10,0:02:16.26,0:02:18.84,dialog - atas,,0,0,0,,mendapatkan kepercayaan saja\Nsusahnya minta ampun.
+Dialogue: 10,0:02:19.58,0:02:22.08,dialog,,0,0,0,,Apalagi disukai oleh kebanyakan orang.
+Dialogue: 10,0:02:22.50,0:02:23.29,dialog,,0,0,0,,Hei.
+Dialogue: 10,0:02:23.41,0:02:24.41,dialog,,0,0,0,,Semangatlah!
+Dialogue: 10,0:02:24.66,0:02:26.08,dialog,,0,0,0,,Xiao Yueqing.
+Dialogue: 10,0:02:26.25,0:02:28.95,dialog,,0,0,0,,Namanya juga hidup,\Nsudah pasti penuh cobaan,
+Dialogue: 10,0:02:29.08,0:02:31.29,dialog,,0,0,0,,tapi jangan pernah lepaskan\Nkeberanian untuk melangkah.
+Dialogue: 10,0:02:31.95,0:02:33.54,dialog,,0,0,0,,Saksikan "True Love Recipe".
+Dialogue: 10,0:02:33.62,0:02:36.54,dialog,,0,0,0,,Ungkap rahasia cinta sempurna kita.
+Dialogue: 10,0:02:36.79,0:02:37.70,dialog,,0,0,0,,Sial!
+Dialogue: 10,0:02:38.20,0:02:40.87,dialog,,0,0,0,,Bukankah ini video yang baru saja\Nkuselesaikan bulan lalu?
+Dialogue: 10,0:02:41.41,0:02:44.53,dialog,,0,0,0,,Bisa-bisanya aku sakit hati karena dialog\Nyang aku tulis sendiri.
+Dialogue: 10,0:02:44.53,0:02:47.26,dialog,,0,0,0,,Mari tonton secara langsung\Nbersama orang terkasihmu.
+Dialogue: 10,0:02:47.55,0:02:49.08,dialog,,0,0,0,,Hei. Apa kau sudah punya rumah?
+Dialogue: 10,0:02:49.08,0:02:49.79,dialog,,0,0,0,,Belum.
+Dialogue: 10,0:02:50.12,0:02:52.70,dialog,,0,0,0,,Keluarga yang sempurna\Nbaru lengkap dengan partner seumur hidup
+Dialogue: 10,0:02:52.87,0:02:54.83,dialog,,0,0,0,,dan juga tempat tinggal yang tenang.
+Dialogue: 10,0:02:55.20,0:02:58.50,dialog,,0,0,0,,Treeman Group mewujudkan\Nimpian setiap lajang.
+Dialogue: 10,0:02:58.54,0:02:59.50,dialog,,0,0,0,,Kau yang lajang...
+Dialogue: 10,0:02:59.50,0:02:59.95,dialog,,0,0,0,,Lajang...
+Dialogue: 10,0:02:59.95,0:03:00.66,dialog,,0,0,0,,Kau yang lajang...
+Dialogue: 10,0:03:00.66,0:03:01.20,dialog,,0,0,0,,Lajang...
+Dialogue: 10,0:03:01.20,0:03:01.83,dialog,,0,0,0,,Kau yang lajang...
+Dialogue: 10,0:03:01.83,0:03:02.29,dialog,,0,0,0,,Kau yang la...
+Dialogue: 10,0:03:02.29,0:03:02.79,dialog,,0,0,0,,Kau yang la...
+Dialogue: 10,0:03:02.79,0:03:04.41,dialog,,0,0,0,,Lajang...
+Dialogue: 10,0:03:04.75,0:03:06.12,dialog,,0,0,0,,Diam kau, Nice!
+Dialogue: 10,0:03:06.41,0:03:08.03,dialog,,0,0,0,,Meski sekarang kau sosok yang sempurna,
+Dialogue: 10,0:03:08.03,0:03:09.78,dialog,,0,0,0,,suatu hari kau akan menjadi tua dan jelek.
+Dialogue: 10,0:03:09.78,0:03:11.29,dialog,,0,0,0,,Lalu digantikan oleh orang lain!
+Dialogue: 10,0:03:45.45,0:03:46.12,dialog,,0,0,0,,Tunggu!
+Dialogue: 10,0:03:47.82,0:03:51.94,dialog,,0,0,0,,Pahlawan utama Treeman Group,\NNice, perwakilan sempurna...
+Dialogue: 10,0:03:51.95,0:03:52.29,dialog,,0,0,0,,Generasi...
+Dialogue: 10,0:03:52.29,0:03:53.29,dialog,,0,0,0,,Nice... sss... sss...
+Dialogue: 10,0:03:53.29,0:03:54.91,dialog,,0,0,0,,Perwakilan generasi...
+Dialogue: 10,0:03:55.37,0:03:56.20,dialog,,0,0,0,,Bukankah Nice itu
+Dialogue: 10,0:03:56.45,0:03:57.66,dialog,,0,0,0,,bi-bisa terbang, ya?
+Dialogue: 10,0:03:57.83,0:03:58.79,dialog,,0,0,0,,Ba-Bagaimana bisa
+Dialogue: 10,0:03:58.79,0:03:59.58,dialog,,0,0,0,,dia mati semudah itu?
+Dialogue: 10,0:03:59.66,0:04:01.08,dialog,,0,0,0,,Bu Juan, sebelah sana.
+Dialogue: 10,0:04:01.58,0:04:02.37,dialog,,0,0,0,,Aku tidak...
+Dialogue: 10,0:04:02.92,0:04:04.08,dialog,,0,0,0,,Di mana Nice?
+Dialogue: 10,0:04:04.76,0:04:06.12,dialog,,0,0,0,,Di bawah.
+Dialogue: 10,0:04:07.00,0:04:08.08,dialog,,0,0,0,,Bu, dia tewas.
+Dialogue: 10,0:04:08.08,0:04:09.95,dialog,,0,0,0,,Dia melompat sendiri ke bawah.
+Dialogue: 10,0:04:10.13,0:04:10.72,dialog,,0,0,0,,Tangkap dia!
+Dialogue: 10,0:04:10.72,0:04:11.11,dialog,,0,0,0,,Baik!
+Dialogue: 10,0:04:11.12,0:04:11.81,dialog,,0,0,0,,Tidak, bukan!
+Dialogue: 10,0:04:11.81,0:04:12.70,dialog,,0,0,0,,Aku tidak...
+Dialogue: 10,0:04:12.70,0:04:13.90,dialog,,0,0,0,,Hentikan!
+Dialogue: 10,0:04:14.84,0:04:16.50,dialog,,0,0,0,,Batalkan semua acara minggu ini.
+Dialogue: 10,0:04:16.79,0:04:18.00,dialog,,0,0,0,,Bilang saja Nice sedang
+Dialogue: 10,0:04:18.12,0:04:19.54,dialog,,0,0,0,,mengembangkan teknik bertarung baru.
+Dialogue: 10,0:04:21.58,0:04:22.41,dialog,,0,0,0,,Bukan mimpi.
+Dialogue: 10,0:04:23.29,0:04:25.16,dialog,,0,0,0,,Nice melakukan bunuh diri.
+Dialogue: 10,0:04:25.62,0:04:26.62,dialog,,0,0,0,,Itu benar-benar terjadi.
+Dialogue: 10,0:04:27.00,0:04:27.79,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:04:28.35,0:04:30.00,dialog,,0,0,0,,Oh, kau sudah bangun?
+Dialogue: 10,0:04:30.50,0:04:31.29,dialog,,0,0,0,,Hei, kalian.
+Dialogue: 10,0:04:31.29,0:04:32.37,dialog,,0,0,0,,Buat dia berdiri.
+Dialogue: 10,0:04:32.37,0:04:33.00,dialog,,0,0,0,,Tunggu.
+Dialogue: 10,0:04:33.00,0:04:33.95,dialog,,0,0,0,,Aku bisa berdiri sendiri.
+Dialogue: 10,0:04:33.98,0:04:35.50,dialog,,0,0,0,,Tunggu, Bu Juan.
+Dialogue: 10,0:04:35.66,0:04:36.66,dialog,,0,0,0,,Aku Lin Ling.
+Dialogue: 10,0:04:36.77,0:04:38.54,dialog,,0,0,0,,Aku yang mengirimkan proposal iklan Nice.
+Dialogue: 10,0:04:38.54,0:04:39.62,dialog,,0,0,0,,Pahlawan Ling yang...
+Dialogue: 10,0:04:41.54,0:04:43.04,dialog,,0,0,0,,Aku tidak peduli.
+Dialogue: 10,0:04:43.33,0:04:44.63,dialog,,0,0,0,,Ceritakan padaku semua\Nyang kau lihat
+Dialogue: 10,0:04:44.63,0:04:45.95,dialog,,0,0,0,,dan dengar sejujur-jujurnya.
+Dialogue: 10,0:04:46.37,0:04:48.04,dialog,,0,0,0,,Di-Dia lewat di sampingku,
+Dialogue: 10,0:04:48.04,0:04:50.20,dialog,,0,0,0,,lalu melompat tanpa\Nmengucapkan sepatah kata pun.
+Dialogue: 10,0:04:50.75,0:04:51.46,dialog,,0,0,0,,Itu saja?
+Dialogue: 10,0:04:51.46,0:04:51.88,dialog,,0,0,0,,Ya.
+Dialogue: 10,0:04:52.33,0:04:52.76,dialog,,0,0,0,,Oh, ya!
+Dialogue: 10,0:04:52.76,0:04:53.41,dialog,,0,0,0,,Apa?
+Dialogue: 10,0:04:53.79,0:04:55.12,dialog,,0,0,0,,Dia sempat melakukan pose khasnya.
+Dialogue: 10,0:04:58.12,0:04:59.79,dialog,,0,0,0,,Halo, Tuan Shang?
+Dialogue: 10,0:04:59.79,0:05:00.58,dialog,,0,0,0,,Ya.
+Dialogue: 10,0:05:02.58,0:05:03.83,dialog,,0,0,0,,Beri dia sedikit waktu.
+Dialogue: 10,0:05:04.33,0:05:06.29,dialog,,0,0,0,,Siapa tahu ada kejutan baru.
+Dialogue: 10,0:05:07.12,0:05:08.09,dialog,,0,0,0,,Baik, baik.
+Dialogue: 10,0:05:08.09,0:05:09.83,dialog,,0,0,0,,Nice sudah mati!
+Dialogue: 10,0:05:09.83,0:05:11.10,dialog,,0,0,0,,Apa? Siapa yang mati?
+Dialogue: 10,0:05:11.10,0:05:12.27,dialog,,0,0,0,,Bukan!
+Dialogue: 10,0:05:12.28,0:05:13.62,dialog,,0,0,0,,Ada penggemar yang sangat kesepian
+Dialogue: 10,0:05:13.62,0:05:15.17,dialog,,0,0,0,,karena tidak bisa melihat Nice.
+Dialogue: 10,0:05:18.61,0:05:21.82,dialog,,0,0,0,,Sejak kejadian itu,\Nkondisi Nice memang tidak terlalu baik.
+Dialogue: 10,0:05:22.72,0:05:25.03,dialog,,0,0,0,,Ini kesempatan bagus\Nuntuk memberinya cuti.
+Dialogue: 10,0:05:25.46,0:05:26.45,dialog,,0,0,0,,Baik, Bos.
+Dialogue: 10,0:05:26.75,0:05:29.41,dialog,,0,0,0,,Kau tidak bisa menghidupkan\Norang yang sudah mati.
+Dialogue: 10,0:05:29.41,0:05:31.22,dialog,,0,0,0,,Percuma saja menahanku di sini.
+Dialogue: 10,0:05:31.24,0:05:32.43,dialog,,0,0,0,,Kalau orangnya sudah mati,
+Dialogue: 10,0:05:32.43,0:05:33.81,dialog,,0,0,0,,kita hanya perlu cari akal.
+Dialogue: 10,0:05:33.87,0:05:35.04,dialog,,0,0,0,,Selalu ada cara.
+Dialogue: 10,0:05:38.08,0:05:39.41,dialog,,0,0,0,,Apa kalian tidak merasa
+Dialogue: 10,0:05:40.29,0:05:42.79,dialog,,0,0,0,,kalau anak ini mirip dengan Nice?
+Dialogue: 10,0:05:43.50,0:05:44.29,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:05:44.87,0:05:45.91,dialog,,0,0,0,,Mulai hari ini,
+Dialogue: 10,0:05:45.95,0:05:47.12,dialog,,0,0,0,,kau adalah Nice.
+Dialogue: 10,0:05:47.16,0:05:48.54,dialog,,0,0,0,,Hafalkan kalimat ini baik-baik.
+Dialogue: 10,0:05:48.54,0:05:51.75,dialog,,0,0,0,,A-Aku akan berusaha...\Nmengejar kesempurnaan.
+Dialogue: 10,0:05:52.00,0:05:53.62,dialog,,0,0,0,,Ini tidak ada hubungannya\Ndengan peringkat...
+Dialogue: 10,0:05:53.62,0:05:54.91,dialog,,0,0,0,,Perhatikan ekspresimu.
+Dialogue: 10,0:05:54.91,0:05:56.02,dialog,,0,0,0,,Lebih percaya diri lagi.
+Dialogue: 10,0:05:56.12,0:05:56.66,dialog,,0,0,0,,Maaf.
+Dialogue: 10,0:05:56.83,0:05:57.94,dialog,,0,0,0,,Jangan minta maaf.
+Dialogue: 10,0:05:57.94,0:05:59.10,dialog - atas,,0,0,0,,Kau juga tidak boleh ragu-ragu.
+Dialogue: 10,0:05:59.43,0:06:00.16,dialog - atas,,0,0,0,,Sudah beberapa hari
+Dialogue: 10,0:06:00.37,0:06:01.83,dialog - atas,,0,0,0,,berlalu sejak hari itu, bukan?
+Dialogue: 10,0:06:02.04,0:06:04.00,dialog - atas,,0,0,0,,Apa kau sudah tahu alasan Nice\Nmelakukan bunuh diri?
+Dialogue: 10,0:06:04.00,0:06:05.50,dialog,,0,0,0,,Kau bicara apa, sih?
+Dialogue: 10,0:06:05.79,0:06:07.66,dialog,,0,0,0,,Orang yang bunuh diri\Nkarena ditekan oleh bosnya
+Dialogue: 10,0:06:07.87,0:06:08.66,dialog,,0,0,0,,adalah orang ini.
+Dialogue: 10,0:06:08.91,0:06:09.70,dialog,,0,0,0,,Tidak mungkin.
+Dialogue: 10,0:06:09.83,0:06:11.79,dialog,,0,0,0,,Itu aku, 'kan?
+Dialogue: 10,0:06:11.79,0:06:13.50,dialog,,0,0,0,,Kenapa aku diberitakan bunuh diri?
+Dialogue: 10,0:06:13.62,0:06:15.62,dialog,,0,0,0,,Berita ini hanya dibaca satu kali.
+Dialogue: 10,0:06:15.95,0:06:16.75,dialog,,0,0,0,,Jadi,
+Dialogue: 10,0:06:16.79,0:06:18.70,dialog,,0,0,0,,tidak ada yang peduli\Ndengan hidup matinya Lin Ling.
+Dialogue: 10,0:06:19.25,0:06:20.62,dialog,,0,0,0,,Mereka lebih peduli tentang...
+Dialogue: 10,0:06:22.63,0:06:23.72,dialog,,0,0,0,,Tu-Tunggu.
+Dialogue: 10,0:06:24.03,0:06:25.25,dialog,,0,0,0,,Aku belum siap mental.
+Dialogue: 10,0:06:26.87,0:06:28.17,dialog,,0,0,0,,Ingat baik-baik.
+Dialogue: 10,0:06:28.48,0:06:32.94,dialog,,0,0,0,,Segala sesuatu di dunia ini akan berubah\Nseiring dengan kepercayaan orang.
+Dialogue: 10,0:06:31.45,0:06:32.40,dialog - atas,,0,0,0,,Nice.
+Dialogue: 10,0:06:35.62,0:06:36.75,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:06:41.34,0:06:42.25,dialog,,0,0,0,,Se-Sebentar...
+Dialogue: 10,0:06:43.79,0:06:45.50,dialog,,0,0,0,,Kalau publik menyebut kau Nice...
+Dialogue: 10,0:06:45.50,0:06:46.75,dialog,,0,0,0,,Maka kau adalah Nice.
+Dialogue: 10,0:06:46.95,0:06:47.98,dialog,,0,0,0,,Di dunia ini,
+Dialogue: 10,0:06:47.98,0:06:49.82,dialog,,0,0,0,,kepercayaan orang-orang adalah segalanya.
+Dialogue: 10,0:06:52.21,0:06:53.91,dialog,,0,0,0,,Selama kita mengemasnya dengan sempurna,
+Dialogue: 10,0:06:53.91,0:06:56.25,dialog,,0,0,0,,maka publik akan percaya\Nbahwa kau adalah Nice.
+Dialogue: 10,0:06:56.35,0:06:58.87,dialog,,0,0,0,,Nilai Kepercayaan-mu akan terus meningkat.
+Dialogue: 10,0:07:00.00,0:07:03.26,dialog,,0,0,0,,Dengan begitu, tubuhmu akan berubah,
+Dialogue: 10,0:07:04.24,0:07:07.84,dialog,,0,0,0,,hingga akhirnya menjadi Nice\Nyang sesungguhnya.
+Dialogue: 10,0:07:08.88,0:07:10.02,dialog,,0,0,0,,Warna mataku berubah.
+Dialogue: 10,0:07:10.41,0:07:12.62,dialog,,0,0,0,,Rambut dan suaranya\Njuga persis dengan Nice.
+Dialogue: 10,0:07:13.05,0:07:14.70,dialog,,0,0,0,,Jangan terlalu senang dulu.
+Dialogue: 10,0:07:14.79,0:07:17.04,dialog,,0,0,0,,Membangun kepercayaan butuh\Nusaha yang besar,
+Dialogue: 10,0:07:17.20,0:07:20.00,dialog,,0,0,0,,tapi hancurnya kepercayaan\Nterjadi dalam sekejap.
+Dialogue: 10,0:07:20.33,0:07:21.87,dialog,,0,0,0,,Tak disangka, orang sepertiku
+Dialogue: 10,0:07:22.17,0:07:25.37,dialog,,0,0,0,,benar-benar menjadi pahlawan\Nyang diperhatikan semua orang.
+Dialogue: 10,0:07:25.37,0:07:26.70,dialog,,0,0,0,,Oh, sebentar lagi,
+Dialogue: 10,0:07:26.87,0:07:28.50,dialog,,0,0,0,,kau akan bertemu pacarmu.
+Dialogue: 10,0:07:29.08,0:07:31.75,dialog,,0,0,0,,Namanya juga hidup,\Nsudah pasti penuh cobaan,
+Dialogue: 10,0:07:32.16,0:07:34.33,dialog,,0,0,0,,tapi jangan pernah kehilangan\Nkeberanianmu yang pertama.
+Dialogue: 10,0:07:34.58,0:07:36.12,dialog,,0,0,0,,Saksikan "True Love Recipe".
+Dialogue: 10,0:07:36.50,0:07:39.33,dialog,,0,0,0,,Ungkap rahasia cinta sempurna kita.
+Dialogue: 10,0:07:39.62,0:07:40.45,dialog,,0,0,0,,Xiao Yueqing.
+Dialogue: 10,0:07:40.50,0:07:42.79,dialog,,0,0,0,,Apa kau sudah menemui Nice\Nyang sedang berlatih?
+Dialogue: 10,0:07:43.20,0:07:44.00,dialog,,0,0,0,,Tidak.
+Dialogue: 10,0:07:44.65,0:07:47.63,dialog,,0,0,0,,Hari ini juga pertama kalinya\Naku bertemu dengannya setelah sekian lama.
+Dialogue: 10,0:07:48.03,0:07:50.24,dialog,,0,0,0,,Xiao Yueqing adalah pacar Nice.
+Dialogue: 10,0:07:50.53,0:07:51.61,dialog,,0,0,0,,Aku tidak bisa!
+Dialogue: 10,0:07:51.61,0:07:52.87,dialog,,0,0,0,,Kebiasaan burukmu kambuh lagi.
+Dialogue: 10,0:07:52.87,0:07:54.04,dialog,,0,0,0,,Sekarang, kau adalah Nice,
+Dialogue: 10,0:07:54.04,0:07:56.10,dialog,,0,0,0,,dan pacar Nice adalah pacarmu!
+Dialogue: 10,0:07:56.10,0:07:57.20,dialog,,0,0,0,,Maksudku bukan itu.
+Dialogue: 10,0:07:57.29,0:08:00.01,dialog,,0,0,0,,Maksudku, Xiao Yueqing adalah\Norang yang sangat mengenal Nice.
+Dialogue: 10,0:08:00.20,0:08:02.25,dialog,,0,0,0,,Dia akan sadar perbedaan\Nsekecil apa pun itu.
+Dialogue: 10,0:08:02.75,0:08:04.38,dialog,,0,0,0,,Ini acara yang disiarkan langsung, 'kan?
+Dialogue: 10,0:08:04.96,0:08:06.13,dialog,,0,0,0,,Kenapa wajahmu merah?
+Dialogue: 10,0:08:06.34,0:08:07.88,dialog,,0,0,0,,Jangan-jangan, kau sudah tidak sabar?
+Dialogue: 10,0:08:09.01,0:08:11.08,dialog,,0,0,0,,Aku... memang menyukai Xiao Yueqing.
+Dialogue: 10,0:08:11.71,0:08:13.77,dialog,,0,0,0,,Tapi ini rasa suka kepada idola,
+Dialogue: 10,0:08:13.77,0:08:14.76,dialog,,0,0,0,,tidak kurang tidak lebih.
+Dialogue: 10,0:08:14.76,0:08:16.09,dialog,,0,0,0,,Jangan banyak beralasan
+Dialogue: 10,0:08:16.09,0:08:17.08,dialog,,0,0,0,,dan keluar dari mobil ini!
+Dialogue: 10,0:08:24.19,0:08:25.60,dialog,,0,0,0,,Lama tidak bertemu.
+Dialogue: 10,0:08:26.77,0:08:27.72,dialog,,0,0,0,,Bagaimana kabarmu?
+Dialogue: 10,0:08:30.24,0:08:33.93,dialog,,0,0,0,,Nice muncul dengan putaran\Nwaltz postmodern yang indah.
+Dialogue: 10,0:08:34.26,0:08:35.61,dialog,,0,0,0,,Dia benar-benar
+Dialogue: 10,0:08:35.61,0:08:36.82,dialog,,0,0,0,,pria yang terhormat.
+Dialogue: 10,0:08:36.82,0:08:38.30,dialog,,0,0,0,,Dia sangat sempurna.
+Dialogue: 10,0:08:38.83,0:08:40.93,dialog,,0,0,0,,Baru sekali ini aku melihatnya\Ndari jarak sedekat ini.
+Dialogue: 10,0:08:41.18,0:08:42.09,dialog,,0,0,0,,Cantiknya.
+Dialogue: 10,0:08:42.98,0:08:44.02,dialog,,0,0,0,,Kenapa dia tidak bereaksi?
+Dialogue: 10,0:08:44.39,0:08:46.04,dialog,,0,0,0,,Apa gerakanku tadi terlalu berlebihan?
+Dialogue: 10,0:08:47.87,0:08:49.09,dialog,,0,0,0,,Dia mengulurkan tangannya padaku.
+Dialogue: 10,0:08:49.22,0:08:50.00,dialog,,0,0,0,,Aku sedang
+Dialogue: 10,0:08:50.48,0:08:52.48,dialog,,0,0,0,,bergandengan tangan dengannya.
+Dialogue: 10,0:08:53.66,0:08:55.29,dialog,,0,0,0,,Oke. Jangan bergerak.
+Dialogue: 10,0:08:55.38,0:08:56.09,dialog,,0,0,0,,Tambah riasan.
+Dialogue: 10,0:08:56.09,0:08:56.50,dialog,,0,0,0,,Siap.
+Dialogue: 10,0:08:56.58,0:08:57.31,dialog,,0,0,0,,Latar belakang.
+Dialogue: 10,0:08:57.31,0:08:57.74,dialog,,0,0,0,,Siap.
+Dialogue: 10,0:08:57.95,0:08:58.62,dialog,,0,0,0,,Properti.
+Dialogue: 10,0:08:58.62,0:08:59.29,dialog,,0,0,0,,Siap.
+Dialogue: 10,0:08:59.29,0:09:00.04,dialog,,0,0,0,,Suara.
+Dialogue: 10,0:09:00.04,0:09:00.79,dialog,,0,0,0,,Siap.
+Dialogue: 10,0:09:01.00,0:09:01.66,dialog,,0,0,0,,Oke.
+Dialogue: 10,0:09:01.66,0:09:03.12,dialog,,0,0,0,,Lima detik sebelum siaran langsung.
+Dialogue: 10,0:09:03.58,0:09:04.37,dialog,,0,0,0,,Lima.
+Dialogue: 10,0:09:04.70,0:09:05.50,dialog,,0,0,0,,Empat.
+Dialogue: 10,0:09:05.91,0:09:06.70,dialog,,0,0,0,,Tiga.
+Dialogue: 10,0:09:07.12,0:09:07.95,dialog,,0,0,0,,Dua.
+Dialogue: 10,0:09:08.29,0:09:09.12,dialog,,0,0,0,,Satu.
+Dialogue: 10,0:09:12.29,0:09:15.12,dialog,,0,0,0,,Selamat datang semuanya\Ndi siaran langsung "True Love Recipe".
+Dialogue: 10,0:09:15.37,0:09:17.12,dialog,,0,0,0,,Aku pembawa acara pengganti hari ini
+Dialogue: 10,0:09:17.37,0:09:20.29,dialog,,0,0,0,,juga pahlawan peringkat 249 di Asosiasi.
+Dialogue: 10,0:09:20.33,0:09:23.20,dialog - atas,,0,0,0,,Mata Kebenaran, Enlightenment.
+Dialogue: 10,0:09:23.62,0:09:24.50,dialog,,0,0,0,,Apa maksudnya ini?
+Dialogue: 10,0:09:24.50,0:09:25.79,dialog,,0,0,0,,Kenapa pembaca acaranya diganti?
+Dialogue: 10,0:09:25.87,0:09:26.66,dialog,,0,0,0,,Bu Juan.
+Dialogue: 10,0:09:26.67,0:09:28.93,dialog,,0,0,0,,Pembawa acara sebelumnya dipecat\Nkarena ketahuan melakukan pemalsuan
+Dialogue: 10,0:09:28.93,0:09:29.48,dialog,,0,0,0,,oleh Enlightenment.
+Dialogue: 10,0:09:29.48,0:09:30.74,dialog,,0,0,0,,Kenapa kau tidak kabari aku dari tadi?!
+Dialogue: 10,0:09:30.74,0:09:32.22,dialog,,0,0,0,,Itu baru saja terjadi.
+Dialogue: 10,0:09:32.22,0:09:34.41,dialog,,0,0,0,,Jadi, Enlightenment menggantikan orang itu\Nsebagai pembawa acara.
+Dialogue: 10,0:09:35.12,0:09:38.29,dialog,,0,0,0,,Ini tidak sama dengan naskah\Nyang Bu Juan berikan sebelumnya.
+Dialogue: 10,0:09:38.83,0:09:40.04,dialog,,0,0,0,,Mata Kebenaran...?
+Dialogue: 10,0:09:40.89,0:09:42.35,dialog,,0,0,0,,Dia datang untuk mengungkap identitasku?
+Dialogue: 10,0:09:42.49,0:09:43.90,dialog,,0,0,0,,Jangan-jangan, sudah ketahuan?
+Dialogue: 10,0:09:44.33,0:09:45.12,dialog,,0,0,0,,Selamat datang.
+Dialogue: 10,0:09:45.12,0:09:46.45,dialog,,0,0,0,,Nice dan Xiao Yueqing.
+Dialogue: 10,0:09:47.13,0:09:49.30,dialog,,0,0,0,,Selamat datang di "True Love Recipe".
+Dialogue: 10,0:09:49.35,0:09:51.92,dialog,,0,0,0,,Dalam setiap hubungan romansa di dunia ini,
+Dialogue: 10,0:09:51.94,0:09:55.20,dialog,,0,0,0,,pasti ada kisah-kisah\Nyang tidak diketahui orang lain.
+Dialogue: 10,0:09:55.58,0:09:58.41,dialog,,0,0,0,,Hubungi tim produksi,\Ncepat matikan siaran langsungnya.
+Dialogue: 10,0:09:58.79,0:10:00.66,dialog,,0,0,0,,Pertama, mari kita uji terlebih dahulu
+Dialogue: 10,0:10:00.87,0:10:03.50,dialog,,0,0,0,,seberapa jauh kalian saling mengenal.
+Dialogue: 10,0:10:04.00,0:10:04.95,dialog,,0,0,0,,Nah, Nice.
+Dialogue: 10,0:10:05.20,0:10:07.50,dialog,,0,0,0,,Tolong beri tahu aku\Njumlah dan total durasi
+Dialogue: 10,0:10:07.79,0:10:09.50,dialog,,0,0,0,,iklan yang dibintangi Xiao Yueqing.
+Dialogue: 10,0:10:09.76,0:10:10.73,dialog,,0,0,0,,Pertanyaan macam apa itu?
+Dialogue: 10,0:10:10.73,0:10:12.63,dialog,,0,0,0,,Jangan ajukan\Npertanyaan konyol seperti itu.
+Dialogue: 10,0:10:12.63,0:10:13.79,dialog,,0,0,0,,Sengaja cari masalah, ya?!
+Dialogue: 10,0:10:14.04,0:10:16.66,dialog,,0,0,0,,Berdasarkan informasi dari internet,\NEnlightenment selalu
+Dialogue: 10,0:10:16.66,0:10:18.12,dialog,,0,0,0,,menyelidiki tentang Nice.
+Dialogue: 10,0:10:19.35,0:10:20.42,dialog,,0,0,0,,Pertanyaan ini...
+Dialogue: 10,0:10:20.76,0:10:22.52,dialog,,0,0,0,,Aku saja tidak tahu jawabannya.
+Dialogue: 10,0:10:23.12,0:10:25.55,dialog,,0,0,0,,Jika cinta kalian memang sempurna,
+Dialogue: 10,0:10:25.62,0:10:28.41,dialog,,0,0,0,,seharusnya kalian menyadari\Ndetail sekecil ini, bukan?
+Dialogue: 10,0:10:30.16,0:10:31.00,dialog,,0,0,0,,Jumlah totalnya...
+Dialogue: 10,0:10:31.80,0:10:33.51,dialog,,0,0,0,,ada 134.
+Dialogue: 10,0:10:35.50,0:10:39.20,dialog,,0,0,0,,Total durasi iklannya 285 menit, 48 detik.
+Dialogue: 10,0:10:41.39,0:10:44.44,dialog,,0,0,0,,Dia hanya aktor yang mengikuti perintah.
+Dialogue: 10,0:10:44.87,0:10:47.25,dialog,,0,0,0,,Bagaimana mungkin dia bisa\Nmenjawab pertanyaan ini?
+Dialogue: 10,0:10:47.77,0:10:49.34,dialog,,0,0,0,,Nice, kau mengingat semuanya?
+Dialogue: 10,0:10:49.54,0:10:50.41,dialog,,0,0,0,,Tentu saja.
+Dialogue: 10,0:10:51.62,0:10:54.20,dialog,,0,0,0,,Konsep iklan kali ini adalah\Nuntuk menunjukkan sisi mandiri
+Dialogue: 10,0:10:54.20,0:10:55.58,dialog,,0,0,0,,dan percaya diri dari Xiao Yueqing.
+Dialogue: 10,0:10:55.95,0:10:58.29,dialog,,0,0,0,,Pemilihan pakaian akan lebih dewasa.
+Dialogue: 10,0:10:58.45,0:10:59.25,dialog,,0,0,0,,Lin Ling.
+Dialogue: 10,0:10:59.54,0:11:01.08,dialog,,0,0,0,,Apa kau sedang berhalusinasi lagi?
+Dialogue: 10,0:11:01.12,0:11:02.45,dialog,,0,0,0,,Dia pacarnya Nice.
+Dialogue: 10,0:11:02.45,0:11:03.66,dialog,,0,0,0,,Bukan pacarmu.
+Dialogue: 10,0:11:04.00,0:11:05.79,dialog,,0,0,0,,Kau tidak perlu menciptakan citra untuknya.
+Dialogue: 10,0:11:06.16,0:11:09.04,dialog,,0,0,0,,Setiap iklanmu adalah hasil kerja kerasku.
+Dialogue: 10,0:11:11.75,0:11:14.95,dialog,,0,0,0,,Babak kedua, permainan.
+Dialogue: 10,0:11:15.75,0:11:17.66,dialog,,0,0,0,,Namanya, Truth or Dare.
+Dialogue: 10,0:11:17.87,0:11:18.91,dialog,,0,0,0,,Benda apa itu?
+Dialogue: 10,0:11:19.08,0:11:20.62,dialog,,0,0,0,,Mirip alat pendeteksi kebohongan.
+Dialogue: 10,0:11:21.12,0:11:24.75,dialog,,0,0,0,,Kejujuran adalah hal terpenting\Ndalam menjaga sebuah hubungan.
+Dialogue: 10,0:11:25.54,0:11:27.83,dialog,,0,0,0,,Baiklah, Nice.\NTolong jawab pertanyaanku.
+Dialogue: 10,0:11:28.00,0:11:30.75,dialog,,0,0,0,,Apakah Xiao Yueqing benar-benar pacarmu?
+Dialogue: 10,0:11:32.12,0:11:34.25,dialog,,0,0,0,,Kesempurnaanmu hanyalah hasil kemasan.
+Dialogue: 10,0:11:34.33,0:11:36.87,dialog,,0,0,0,,Jadi hubunganmu dengan Xiao Yueqing\Nitu palsu.
+Dialogue: 10,0:11:37.50,0:11:39.62,dialog,,0,0,0,,Kalau kau mengakuinya,\Nmaka kau berbohong.
+Dialogue: 10,0:11:40.62,0:11:41.41,dialog,,0,0,0,,Gawat!
+Dialogue: 10,0:11:41.79,0:11:43.95,dialog,,0,0,0,,Sepertinya Enlightenment sudah tahu aku ini palsu.
+Dialogue: 10,0:11:44.20,0:11:45.79,dialog,,0,0,0,,Makanya dia sengaja membuat jebakan ini.
+Dialogue: 10,0:11:46.33,0:11:49.33,dialog,,0,0,0,,Kalau aku bilang aku adalah\Npacar Xiao Yueqing,
+Dialogue: 10,0:11:49.66,0:11:51.41,dialog,,0,0,0,,alat pendeteksi kebohongan itu\Nakan bereaksi.
+Dialogue: 10,0:11:51.86,0:11:53.12,dialog,,0,0,0,,Tapi jika aku membantah,
+Dialogue: 10,0:11:53.12,0:11:54.45,dialog,,0,0,0,,ia akan bertanya
+Dialogue: 10,0:11:54.86,0:11:57.62,dialog,,0,0,0,,dan akhirnya,\Nidentitasku asliku akan terbongkar.
+Dialogue: 10,0:11:58.54,0:11:59.95,dialog,,0,0,0,,Apa yang harus kulakukan?
+Dialogue: 10,0:12:00.33,0:12:02.87,dialog,,0,0,0,,Untuk apa ragu-ragu\Npada pertanyaan sesederhana ini?
+Dialogue: 10,0:12:10.62,0:12:11.75,dialog,,0,0,0,,Xiao Yueqing, dia...
+Dialogue: 10,0:12:14.87,0:12:16.00,dialog,,0,0,0,,Bukan pacarku.
+Dialogue: 10,0:12:18.41,0:12:19.66,dialog,,0,0,0,,Omong kosong apa itu?
+Dialogue: 10,0:12:19.66,0:12:20.95,dialog,,0,0,0,,Ada apa dengan Nice?
+Dialogue: 10,0:12:22.25,0:12:23.50,dialog,,0,0,0,,Sudah kuduga.
+Dialogue: 10,0:12:23.72,0:12:26.40,dialog,,0,0,0,,Pahlawan sempurna ternyata tidak sempurna.
+Dialogue: 10,0:12:26.40,0:12:27.22,dialog,,0,0,0,,Nice, kau sebenarnya...
+Dialogue: 10,0:12:27.22,0:12:28.29,dialog,,0,0,0,,Sebenarnya, Xiao Yueqing...
+Dialogue: 10,0:12:32.16,0:12:33.62,dialog,,0,0,0,,adalah dewi bagiku.
+Dialogue: 10,0:12:37.79,0:12:39.00,dialog,,0,0,0,,Entah sejak kapan
+Dialogue: 10,0:12:39.40,0:12:42.37,dialog,,0,0,0,,Xiao Yueqing menjadi bagian\Ntak terpisahkan dari hidupku.
+Dialogue: 10,0:12:42.37,0:12:45.29,dialog,,0,0,0,,Orang yang punya mimpi itu bersinar.
+Dialogue: 10,0:12:45.62,0:12:46.83,dialog,,0,0,0,,Jadilah dirimu yang terbaik.
+Dialogue: 10,0:12:47.29,0:12:48.20,dialog,,0,0,0,,Percaya pada dirimu sendiri.
+Dialogue: 10,0:12:48.95,0:12:49.75,dialog,,0,0,0,,Semangat!
+Dialogue: 10,0:12:50.16,0:12:51.25,dialog,,0,0,0,,Dia memberikan semangat
+Dialogue: 10,0:12:54.00,0:12:55.33,dialog,,0,0,0,,dan juga harapan bagiku.
+Dialogue: 10,0:12:57.58,0:12:59.08,dialog,,0,0,0,,Membuatku ingin selalu berkembang,
+Dialogue: 10,0:12:59.78,0:13:00.91,dialog,,0,0,0,,menjadi seorang pahlawan
+Dialogue: 10,0:13:02.11,0:13:05.45,dialog,,0,0,0,,yang mampu melindunginya dalam diam.
+Dialogue: 10,0:13:09.65,0:13:12.08,dialog,,0,0,0,,Ternyata dia berkata jujur.
+Dialogue: 10,0:13:12.79,0:13:14.08,dialog,,0,0,0,,Romantis banget.
+Dialogue: 10,0:13:14.16,0:13:15.70,dialog,,0,0,0,,Pasangan yang saling mendukung, ya?
+Dialogue: 10,0:13:15.75,0:13:18.62,dialog,,0,0,0,,Ternyata Nice menjadi pahlawan\Nuntuk melindungi Xiao Yueqing.
+Dialogue: 10,0:13:18.29,0:13:22.66,dialog - atas,,0,0,0,,NiceXiao, NiceXiao, NiceXiao!
+Dialogue: 10,0:13:18.75,0:13:20.33,dialog,,0,0,0,,Mereka pasangan yang serasi!
+Dialogue: 10,0:13:23.62,0:13:24.75,dialog,,0,0,0,,Jangan senang dulu.
+Dialogue: 10,0:13:25.04,0:13:26.70,dialog,,0,0,0,,Masih ada babak ketiga.
+Dialogue: 10,0:13:37.79,0:13:39.08,dialog,,0,0,0,,Apa itu?
+Dialogue: 10,0:13:44.45,0:13:45.50,dialog,,0,0,0,,Bos?!
+Dialogue: 10,0:13:46.00,0:13:47.87,dialog,,0,0,0,,Dia dulunya seorang pengusaha.
+Dialogue: 10,0:13:48.33,0:13:52.00,dialog,,0,0,0,,Tapi kini dia sudah terpojok, seperti\Nhewan buas yang tak punya jalan lari.
+Dialogue: 10,0:13:52.50,0:13:54.91,dialog,,0,0,0,,Ini semua gara-gara kau.
+Dialogue: 10,0:13:55.79,0:13:56.79,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:13:57.79,0:13:59.79,dialog,,0,0,0,,Jangan sampai dia mengenaliku.
+Dialogue: 10,0:14:00.08,0:14:00.83,dialog,,0,0,0,,Siapa orang ini?
+Dialogue: 10,0:14:00.83,0:14:03.29,dialog,,0,0,0,,Sepertinya dia pemasok iklan\Nyang baru saja kita putus kontraknya.
+Dialogue: 10,0:14:03.45,0:14:04.25,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:14:04.79,0:14:06.83,dialog,,0,0,0,,Citra pahlawanmu itu ada karena
+Dialogue: 10,0:14:06.87,0:14:09.00,dialog,,0,0,0,,polesan iklan dari perusahaannya!
+Dialogue: 10,0:14:09.20,0:14:10.00,dialog,,0,0,0,,Meski begitu,
+Dialogue: 10,0:14:10.29,0:14:11.97,dialog,,0,0,0,,dia bangkrut karena ulahmu.
+Dialogue: 10,0:14:12.07,0:14:15.50,dialog,,0,0,0,,Sedangkan pegawai mudanya, Lin Ling,\Nbunuh diri karena itu.
+Dialogue: 10,0:14:16.62,0:14:19.62,dialog,,0,0,0,,Ternyata satu-satunya yang melihat\Nberita itu adalah kau sendiri.
+Dialogue: 10,0:14:24.52,0:14:26.66,dialog,,0,0,0,,Kapan pembayarannya?
+Dialogue: 10,0:14:28.58,0:14:31.95,dialog,,0,0,0,,Kapan Nice mau melunasi pembayaranku?
+Dialogue: 10,0:14:32.12,0:14:34.09,dialog,,0,0,0,,Kami sudah putus kontrak denganmu!
+Dialogue: 10,0:14:34.26,0:14:38.41,dialog,,0,0,0,,Bertahun-tahun ini kalian minta revisi\Nyang menyebabkan kerugian.
+Dialogue: 10,0:14:38.58,0:14:41.19,dialog,,0,0,0,,Kalian juga tidak pernah melunasi\Ntambahan pembayaran!
+Dialogue: 10,0:14:41.20,0:14:42.00,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:14:42.25,0:14:44.20,dialog,,0,0,0,,Kau dan timmu itu\Nmemanfaatkan tenaga kerja murah,
+Dialogue: 10,0:14:44.20,0:14:45.54,dialog,,0,0,0,,demi keuntungan dan ketenaran...
+Dialogue: 10,0:14:45.54,0:14:46.36,dialog,,0,0,0,,Minggir!
+Dialogue: 10,0:14:47.59,0:14:49.52,dialog,,0,0,0,,Orang ini sebenarnya mau apa, sih?
+Dialogue: 10,0:14:49.64,0:14:52.66,dialog,,0,0,0,,Apa boleh buat, dia peringkat 250.
+Dialogue: 10,0:14:52.84,0:14:54.28,dialog,,0,0,0,,Orang-orang idiot.
+Dialogue: 10,0:14:54.37,0:14:56.64,dialog,,0,0,0,,Aku ini peringkat 249.
+Dialogue: 10,0:14:56.64,0:14:58.99,dialog,,0,0,0,,249!
+Dialogue: 10,0:14:59.25,0:15:00.12,dialog,,0,0,0,,Nice.
+Dialogue: 10,0:15:00.95,0:15:02.54,dialog,,0,0,0,,Aku belum selesai denganmu.
+Dialogue: 10,0:15:04.70,0:15:07.54,dialog,,0,0,0,,Perusahaanku tidak boleh bangkrut!
+Dialogue: 10,0:15:08.18,0:15:10.83,dialog,,0,0,0,,Cepat bayar sisa pembayaranku!
+Dialogue: 10,0:15:10.83,0:15:11.75,dialog,,0,0,0,,Ada yang aneh.
+Dialogue: 10,0:15:19.00,0:15:19.87,dialog,,0,0,0,,Nilai Ketakutan.
+Dialogue: 10,0:15:21.12,0:15:21.91,dialog,,0,0,0,,Nilai Ketakutan?
+Dialogue: 10,0:15:22.87,0:15:25.50,dialog,,0,0,0,,Ketakutan dan Kepercayaan adalah\Ndua kekuatan yang berlawanan.
+Dialogue: 10,0:15:27.25,0:15:31.16,dialog,,0,0,0,,Dia sudah kehilangan kendali\Nkarena Nilai Ketakutan yang tinggi.
+Dialogue: 10,0:15:38.12,0:15:38.83,dialog,,0,0,0,,Bu Juan.
+Dialogue: 10,0:15:38.83,0:15:39.83,dialog,,0,0,0,,Lin... bukan.
+Dialogue: 10,0:15:39.83,0:15:42.75,dialog,,0,0,0,,Teknik bertarung baru Nice mendapat\Nrespons yang luar biasa dari penonton.
+Dialogue: 10,0:15:42.79,0:15:43.62,dialog,,0,0,0,,Bagus.
+Dialogue: 10,0:15:43.87,0:15:45.29,dialog,,0,0,0,,Kebangkitan yang sempurna.
+Dialogue: 10,0:15:47.29,0:15:50.29,dialog,,0,0,0,,Ternyata seperti ini\Nrasanya menjadi pahlawan.
+Dialogue: 10,0:15:50.46,0:15:55.03,dialog,,0,0,0,,Lembur, pemotongan gaji,\NPHK, semua boleh.
+Dialogue: 10,0:15:55.03,0:15:56.38,dialog,,0,0,0,,Tapi perusahaan tidak boleh bangkrut.
+Dialogue: 10,0:15:56.41,0:15:57.66,dialog,,0,0,0,,Ini bisnisku.
+Dialogue: 10,0:15:57.66,0:15:58.87,dialog,,0,0,0,,Tabunganku.
+Dialogue: 10,0:15:59.31,0:16:00.20,dialog,,0,0,0,,Ini milikku.
+Dialogue: 10,0:16:00.20,0:16:01.87,dialog,,0,0,0,,Semuanya milikku.
+Dialogue: 10,0:16:02.12,0:16:02.91,dialog,,0,0,0,,Cukup!
+Dialogue: 10,0:16:08.79,0:16:09.79,dialog,,0,0,0,,Tenangkan dirimu.
+Dialogue: 10,0:16:10.90,0:16:12.14,dialog,,0,0,0,,Tenang?
+Dialogue: 10,0:16:12.45,0:16:14.49,dialog,,0,0,0,,Kau belum pernah jadi bos.
+Dialogue: 10,0:16:14.49,0:16:15.62,dialog,,0,0,0,,Mana mungkin paham perasaanku?
+Dialogue: 10,0:16:16.01,0:16:17.26,dialog,,0,0,0,,Proyek tidak ada yang masuk.
+Dialogue: 10,0:16:17.29,0:16:19.02,dialog,,0,0,0,,Klien tidak mau bayar.
+Dialogue: 10,0:16:19.07,0:16:20.70,dialog,,0,0,0,,Pegawai malah malas-malasan.
+Dialogue: 10,0:16:20.70,0:16:22.06,dialog,,0,0,0,,Padahal kerja saja tidak becus,
+Dialogue: 10,0:16:22.06,0:16:23.91,dialog,,0,0,0,,tapi ada yang berani\Nmenggugat perusahaanku!
+Dialogue: 10,0:16:28.54,0:16:30.84,dialog,,0,0,0,,Pecat semua!
+Dialogue: 10,0:16:31.11,0:16:32.66,dialog,,0,0,0,,Mereka baru akan sadar\Npentingnya perusahaan
+Dialogue: 10,0:16:32.83,0:16:34.62,dialog,,0,0,0,,setelah kehilangan pekerjaan!
+Dialogue: 10,0:16:35.29,0:16:38.16,dialog,,0,0,0,,Ketakutan pegawai\Nyang tidak ingin dipecatlah
+Dialogue: 10,0:16:38.16,0:16:40.39,dialog,,0,0,0,,memberikan kekuatan baru untukku!
+Dialogue: 10,0:16:40.39,0:16:42.77,dialog,,0,0,0,,Kekuatan yang belum pernah\Nkurasakan sebelumnya.
+Dialogue: 10,0:16:43.00,0:16:43.95,dialog,,0,0,0,,Lalu,
+Dialogue: 10,0:16:44.65,0:16:47.51,dialog,,0,0,0,,lentera harapan bersinar untukku.
+Dialogue: 10,0:16:47.79,0:16:51.33,dialog,,0,0,0,,Membuatku bisa mengendalikan kekuatan\Ndestruktif yang dibawa oleh Ketakutan.
+Dialogue: 10,0:16:56.50,0:16:59.62,dialog,,0,0,0,,Teruslah menyebar.
+Dialogue: 10,0:17:00.08,0:17:01.12,dialog,,0,0,0,,Ketakutan!
+Dialogue: 10,0:17:05.54,0:17:06.33,dialog,,0,0,0,,Ini semua...
+Dialogue: 10,0:17:06.41,0:17:07.20,dialog,,0,0,0,,Surat PHK.
+Dialogue: 10,0:17:07.58,0:17:10.62,dialog,,0,0,0,,Dia ingin menyerap kekuatan\Nyang diciptakan oleh Ketakutan.
+Dialogue: 10,0:17:10.87,0:17:12.12,dialog,,0,0,0,,Kita harus cepat bertindak.
+Dialogue: 10,0:17:12.79,0:17:13.58,dialog,,0,0,0,,Tidak masalah.
+Dialogue: 10,0:17:13.66,0:17:14.79,dialog,,0,0,0,,Sekarang aku adalah Nice.
+Dialogue: 10,0:17:14.83,0:17:15.66,dialog,,0,0,0,,Aku bisa menang.
+Dialogue: 10,0:17:25.32,0:17:27.12,dialog,,0,0,0,,Dia sudah menyerap Ketakutan.
+Dialogue: 10,0:17:40.62,0:17:43.02,dialog,,0,0,0,,Aku sudah mengeluarkan\Nsemua jurus yang aku tahu.
+Dialogue: 10,0:17:43.67,0:17:44.75,dialog,,0,0,0,,Aku harus apa sekarang?
+Dialogue: 10,0:17:48.66,0:17:50.29,dialog,,0,0,0,,Waktumu habis.
+Dialogue: 10,0:17:51.08,0:17:52.12,dialog,,0,0,0,,Deadline!
+Dialogue: 10,0:17:55.00,0:17:55.79,dialog,,0,0,0,,Nice!
+Dialogue: 10,0:18:03.08,0:18:04.79,dialog,,0,0,0,,Kenapa aku tidak bisa menang?
+Dialogue: 10,0:18:06.29,0:18:09.12,dialog,,0,0,0,,Padahal aku sudah menjadi pahlawan\Ndi mata semua orang.
+Dialogue: 10,0:18:11.58,0:18:12.41,dialog,,0,0,0,,Sebentar.
+Dialogue: 10,0:18:13.66,0:18:15.08,dialog,,0,0,0,,Apa aku sudah menjadi pahlawan?
+Dialogue: 10,0:18:15.45,0:18:16.56,dialog,,0,0,0,,Tidak mungkin.
+Dialogue: 10,0:18:16.66,0:18:19.12,dialog,,0,0,0,,Coba lihat dirimu, apa yang bisa\Nmembuatmu diperhatikan semua orang?
+Dialogue: 10,0:18:19.16,0:18:20.20,dialog,,0,0,0,,Apa kemampuanmu?
+Dialogue: 10,0:18:20.20,0:18:21.50,dialog,,0,0,0,,Apa keunikanmu?
+Dialogue: 10,0:18:21.58,0:18:23.79,dialog,,0,0,0,,Kau hanyalah orang biasa\Nyang tidak menonjol.
+Dialogue: 10,0:18:23.79,0:18:24.95,dialog,,0,0,0,,Orang biasa!
+Dialogue: 10,0:18:25.29,0:18:29.91,dialog,,0,0,0,,Bekerja keras adalah satu-satunya\Ncara bagimu untuk sukses.
+Dialogue: 10,0:18:39.16,0:18:40.25,dialog,,0,0,0,,Lin Ling.
+Dialogue: 10,0:18:40.25,0:18:43.08,dialog,,0,0,0,,Orang yang punya mimpi itu bersinar.
+Dialogue: 10,0:18:43.75,0:18:44.87,dialog,,0,0,0,,Jadilah dirimu yang terbaik.
+Dialogue: 10,0:18:45.41,0:18:46.29,dialog,,0,0,0,,Percaya pada dirimu sendiri.
+Dialogue: 10,0:18:47.00,0:18:47.83,dialog,,0,0,0,,Semangat!
+Dialogue: 10,0:18:48.75,0:18:49.54,dialog,,0,0,0,,Ya!
+Dialogue: 10,0:18:50.45,0:18:52.29,dialog,,0,0,0,,Aku pasti bisa berubah.
+Dialogue: 10,0:18:53.16,0:18:54.00,dialog,,0,0,0,,Percayalah.
+Dialogue: 10,0:18:54.62,0:18:55.54,dialog,,0,0,0,,Suatu hari nanti,
+Dialogue: 10,0:18:56.37,0:18:58.62,dialog,,0,0,0,,aku pasti bisa melindungi\Norang yang ingin kulindungi.
+Dialogue: 10,0:19:04.00,0:19:04.87,dialog,,0,0,0,,Percayalah.
+Dialogue: 10,0:19:06.00,0:19:08.33,dialog,,0,0,0,,Dunia yang menciptakan pahlawan\Ndengan Nilai Kepercayaan.
+Dialogue: 10,0:19:09.41,0:19:11.08,dialog,,0,0,0,,Siapa pun itu...
+Dialogue: 10,0:19:11.66,0:19:15.62,dialog,,0,0,0,,Siapa pun itu punya kemungkinan\Nmenjadi seorang pahlawan!
+Dialogue: 10,0:19:48.58,0:19:49.90,dialog,,0,0,0,,Dilaporkan bahwa kerusuhan
+Dialogue: 10,0:19:49.90,0:19:51.74,dialog,,0,0,0,,di lokasi syuting "True Love Recipe"\Npekan lalu
+Dialogue: 10,0:19:51.81,0:19:53.54,dialog,,0,0,0,,adalah aksi terorisme terorganisasi.
+Dialogue: 10,0:19:53.97,0:19:58.31,dialog,,0,0,0,,Asosiasi menemukan alat penguat\NNilai Ketakutan pada tubuh penyerang.
+Dialogue: 10,0:19:58.89,0:20:02.94,dialog,,0,0,0,,Alat ini pernah muncul dalam serangan\Nyang direncanakan oleh Organisasi Spotlight.
+Dialogue: 10,0:20:04.13,0:20:07.51,dialog,,0,0,0,,Tak disangka, insiden kali ini\Nmembuat popularitasmu meroket.
+Dialogue: 10,0:20:07.51,0:20:09.24,dialog,,0,0,0,,Kamu mulai mendalami peran, ya?
+Dialogue: 10,0:20:09.79,0:20:13.39,dialog,,0,0,0,,Awalnya, aku merasa hanya perlu\Nmemerankan Nice dengan baik.
+Dialogue: 10,0:20:13.67,0:20:15.12,dialog,,0,0,0,,Namun, serangan itu menyadarkanku.
+Dialogue: 10,0:20:16.04,0:20:16.87,dialog,,0,0,0,,Bukan orang lain,
+Dialogue: 10,0:20:18.12,0:20:20.91,dialog,,0,0,0,,akulah Nice.
+Dialogue: 10,0:20:21.33,0:20:22.29,dialog,,0,0,0,,Kalau kau sudah paham,
+Dialogue: 10,0:20:22.87,0:20:24.54,dialog,,0,0,0,,berarti aku bisa mengantarmu pulang.
+Dialogue: 10,0:20:25.41,0:20:26.29,dialog,,0,0,0,,Maksudmu?
+Dialogue: 10,0:20:28.00,0:20:29.40,dialog,,0,0,0,,Menara Pahlawan.
+Dialogue: 10,0:20:38.37,0:20:41.04,dialog,,0,0,0,,Lantai tempat tinggal para pahlawan\Nditentukan oleh peringkat mereka.
+Dialogue: 10,0:20:41.37,0:20:43.50,dialog,,0,0,0,,Makin tinggi peringkatnya,\Nmakin tinggi pula tempat tinggalnya.
+Dialogue: 10,0:20:45.79,0:20:46.62,dialog,,0,0,0,,Bagaimana?
+Dialogue: 10,0:20:47.00,0:20:49.70,dialog,,0,0,0,,Pemandangan dari sini indah sekali, bukan?
+Dialogue: 10,0:20:50.29,0:20:51.08,dialog,,0,0,0,,Bu Juan.
+Dialogue: 10,0:20:52.04,0:20:53.70,dialog,,0,0,0,,Apa alasan dia melakukan bunuh diri?
+Dialogue: 10,0:20:54.68,0:20:56.66,dialog,,0,0,0,,Itu adalah pilihannya sendiri.
+Dialogue: 10,0:20:57.54,0:21:00.20,dialog,,0,0,0,,Suatu hari, kau juga akan dipaksa memilih
+Dialogue: 10,0:21:01.12,0:21:02.33,dialog,,0,0,0,,sama seperti dirinya.
+Dialogue: 10,0:21:05.95,0:21:06.75,dialog,,0,0,0,,Selamat malam.
+Dialogue: 10,0:21:07.41,0:21:09.45,dialog,,0,0,0,,Nikmatilah rumahmu.
+Dialogue: 10,0:21:09.95,0:21:10.93,dialog,,0,0,0,,Luar biasa.
+Dialogue: 10,0:21:11.12,0:21:12.45,dialog,,0,0,0,,Rumah ini besar sekali.
+Dialogue: 10,0:21:13.87,0:21:15.75,dialog,,0,0,0,,Meski patungnya punya kesan buruk.
+Dialogue: 10,0:21:16.12,0:21:17.10,dialog,,0,0,0,,Mana tempat tidurnya?
+Dialogue: 10,0:21:18.29,0:21:19.25,dialog,,0,0,0,,Ternyata di sini.
+Dialogue: 10,0:21:20.50,0:21:21.54,dialog,,0,0,0,,Aku mengantuk sekali.
+Dialogue: 10,0:21:24.62,0:21:26.33,dialog,,0,0,0,,Nyaman sekali.
+Dialogue: 10,0:21:29.54,0:21:32.20,dialog,,0,0,0,,Ke-Kenapa Xiao Yueqing ada di sini?
+Dialogue: 10,0:21:33.00,0:21:33.79,dialog,,0,0,0,,Oh, benar.
+Dialogue: 10,0:21:34.33,0:21:36.12,dialog,,0,0,0,,Dia dan Nice tinggal satu atap.
