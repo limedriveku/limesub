@@ -17,6 +17,8 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Last Style Storage: aru_majo_doronime
 Video Zoom Percent: 0.250000
+Scroll Position: 3
+Active Line: 4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,8 +43,8 @@ Dialogue: 0,0:00:20.75,0:00:24.68,Flashback,MEG'S MUM,0,0,0,,Oh, Tuhan!\NSetidak
 Dialogue: 0,0:00:24.68,0:00:28.13,Flashback,MEG'S MUM,0,0,0,,{\t(1950,3400,\c&H000000&\3c&H000000&\4c&H000000&)}Selamatkan Meg... anakku!
 Dialogue: 0,0:00:32.96,0:00:35.81,Default,MEG,0,0,0,,Yang barusan tadi apa?\NMimpi?
 Dialogue: 0,0:00:51.66,0:01:01.00,Drops,SIGN,0,0,0,,{\bord0\shad0\blur0.9\fs108\an8\pos(960,90)\c&HC98210&\alpha&HFF&\t(800,2200,\alphaa&H00&)}Hingga {\c&H8B3D33&\alpha&HFF&\t(1650,2800,\alphaa&H00&)}Ajal {\c&HB9942A&\alpha&HFF&\t(0,1100,\alphaa&H00&)}Sang {\c&H934269&\alpha&HFF&\t(2850,4300,\alphaa&H00&)}Wisaya{\c&H5E1A5A&\alpha&HFF&\t(1850,3000,\alphaa&H00&)}wati
-Dialogue: 0,0:02:13.24,0:02:18.24,Default,SIGN,0,0,0,,{\fad(500,500)\fnGoudy Old Style Bold\fs60.001\bord4.201\blur11.999\shad0\c&HFFFFFF&\3c&HFFFFFF&\pos(400.499,892.501)}Mereka yang Kukasihi
-Dialogue: 1,0:02:13.24,0:02:18.24,Default,SIGN,0,0,0,,{\fad(500,500)\fnGoudy Old Style Bold\fs60.001\bord0\shad0\c&HA86B2A&\pos(400.499,892.501)}Mereka yang Kukasihi
+Dialogue: 0,0:02:13.24,0:02:18.24,Default,SIGN,0,0,0,,{\fad(500,500)\fnBasic Comical NC\fs60.001\bord4.201\blur11.999\shad0\c&HFFFFFF&\3c&HFFFFFF&\pos(400.499,892.501)}Mereka yang Kukasihi
+Dialogue: 1,0:02:13.24,0:02:18.24,Default,SIGN,0,0,0,,{\fad(500,500)\fnBasic Comical NC\fs60.001\bord0\shad0\c&HA86B2A&\pos(400.499,892.501)}Mereka yang Kukasihi
 Dialogue: 0,0:02:14.09,0:02:18.12,Top,HENDY,0,0,0,,Meg-chan, kamu terlihat tak bersemangat...\Napa tak sedang sakit?
 Dialogue: 0,0:02:18.12,0:02:21.12,Default,MEG,0,0,0,,Tak apa, kok.\NTidur bentar pasti langsung pulih.
 Dialogue: 0,0:02:21.35,0:02:22.57,Default,MEG,0,0,0,,Kalau bisa tidur, sih.
@@ -250,8 +252,8 @@ Dialogue: 0,0:16:57.01,0:16:59.49,Default,MEG,0,0,0,,Lagi pula, Nyai Guru harusn
 Dialogue: 0,0:16:59.49,0:17:00.37,Default,FAUST,0,0,0,,Paham apa?
 Dialogue: 0,0:17:01.86,0:17:04.04,Default,MEG,0,0,0,,Saya ini rakus sekali, loh.
 Dialogue: 0,0:17:04.04,0:17:04.88,Default,FAUST,0,0,0,,Hah?
-Dialogue: 0,0:17:04.88,0:17:05.75,Default,SIGN,0,0,0,,{\fnArial Black\blur0.9\shad0\bord2.999\fs150.001\pos(1572,763.499)\c&HC89C78&\3c&H675647&}Masa \NLalu
-Dialogue: 0,0:17:04.88,0:17:07.76,Default,SIGN,0,0,0,,{\fnArial Black\blur0.9\shad0\bord2.999\fs150.001\c&H934CDC&\3c&H6C236B&\pos(274.499,722.999)\frz351.3}Masa\NDepan
+Dialogue: 0,0:17:04.88,0:17:05.75,Default,SIGN,0,0,0,,{\fnBasic Comical NC\blur0.9\shad0\bord2.999\fs150.001\pos(1572,763.499)\c&HC89C78&\3c&H675647&}Masa \NLalu
+Dialogue: 0,0:17:04.88,0:17:07.76,Default,SIGN,0,0,0,,{\fnBasic Comical NC\blur0.9\shad0\bord2.999\fs150.001\c&H934CDC&\3c&H6C236B&\pos(274.499,722.999)\frz351.3}Masa\NDepan
 Dialogue: 0,0:17:04.88,0:17:10.88,Default,MEG,0,0,0,,Masa lalu saat saya lahir, dan masa depan\Nyang kelak kujalani, semuanya akan kujadikan milikku.
 Dialogue: 0,0:17:11.15,0:17:15.10,Default,MEG,0,0,0,,Tau tidaknya, simpan atau buang,\Nitu semau-mauku.
 Dialogue: 0,0:17:15.37,0:17:19.01,Default,MEG,0,0,0,,Saya yang tentukan\Nmana yang butuh dan mana yang tidak.
@@ -326,4 +328,4 @@ Dialogue: 0,0:21:37.20,0:21:40.29,Default,MEG,0,0,0,,Sampai jumpa, ya!\NAku bera
 Dialogue: 0,0:21:57.13,0:22:00.00,Italics,MEG/ID,0,0,0,,Di sinilah perjalanku dimulai.
 Dialogue: 0,0:22:00.98,0:22:07.89,Italics,MEG/ID,0,0,0,,Perjalanan yang amat panjang untuk meraih\Nakar tempatku berasal dan mengumpulkan Air Mata Kebahagiaan.
 Dialogue: 0,0:22:07.89,0:22:09.89,Italics,,0,0,0,,{\pos(960,1012.5)}
-Dialogue: 0,0:22:07.56,0:22:10.69,Italics,,0,0,0,,{\b1\fnCataneo BT\fs67.5\pos(960,312.498)}{\fade(300,800)}Pesan yang dapat kita ambil :\N\N{\fs90}"Budi baik akan mendapat balasan yang baik pula"\N"Serta usaha tak kan khianati kita jua"
+Dialogue: 0,0:22:07.56,0:22:10.69,Italics,,0,0,0,,{\b1\fnBasic Comical NC\fs67.5\pos(960,312.498)}{\fade(300,800)}Pesan yang dapat kita ambil :\N\N{\fs90}"Budi baik akan mendapat balasan yang baik pula"\N"Serta usaha tak kan khianati kita jua"
