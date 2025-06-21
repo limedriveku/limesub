@@ -31,373 +31,373 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:50.86,0:00:55.12,5-normal,,0,0,0,,{\bord3\fax-0.1\fs75\frz6.7\c&H4C5C8A&\3c&HC8DAE7&\b1\move(887.428,120,970,120,29,4242)}\h\h\h\hKedai Hidaka\h\h\h\h
-Dialogue: 0,0:13:57.02,0:14:01.19,5-normal,,0,0,0,,{\move(615,190,595,161,25,4154)\fs65\b1\bord3\c&H1D2B4F&\3c&H3F6094&}Hari Ini Kami Tutup
-Dialogue: 0,0:18:36.63,0:18:38.38,4-normal,,0,0,0,,{\fs75\bord4\c&H050308&\3c&HFFFFFF&\b1\pos(276.636,70)}Nirei Menang\N10 Kali Berturut
-Dialogue: 0,0:18:36.63,0:18:38.38,6-normal,,0,0,0,,{\fs75\bord4\c&H050308&\3c&HFFFFFF&\b1\pos(1670.667,126.667)}Sakura Kalah\N10 Kali Berturut
-Dialogue: 0,0:21:57.00,0:22:00.00,5-normal,,0,0,0,,{\fs80\pos(960,695)\b1}Setelah Badai
-Dialogue: 0,0:23:29.97,0:23:44.98,5-normal,,0,0,0,,{\pos(960,240)\fs70\b1\bord3\c&H7AD3EF&\3c&H794C6C&}Distrik Keisei
-Dialogue: 0,0:00:15.25,0:00:17.83,Default,,0,0,0,,Wah! Semuanya terlihat enak!
-Dialogue: 0,0:00:17.83,0:00:19.40,Default,,0,0,0,,Oh, ini...
-Dialogue: 0,0:00:19.40,0:00:21.25,Default,,0,0,0,,Miyoshi, ada makanan yang kamu suka.
-Dialogue: 0,0:00:21.25,0:00:23.18,Default,,0,0,0,,Aku tahu, ayo, bantu bawakan itu.
-Dialogue: 0,0:00:23.18,0:00:25.68,Default,,0,0,0,,Oh, ini baru digoreng!
-Dialogue: 0,0:00:25.68,0:00:27.05,Default,,0,0,0,,Hidaka, aku minta satu.
-Dialogue: 0,0:00:27.05,0:00:29.33,Default,,0,0,0,,Bodoh! Belum juga ditata ke piring!
-Dialogue: 0,0:00:30.39,0:00:31.65,Default,,0,0,0,,Aduh, duh, panas!
-Dialogue: 0,0:00:31.65,0:00:33.53,Default,,0,0,0,,Suaranya terdengar enak, ya.
-Dialogue: 0,0:00:33.53,0:00:34.73,Default,,0,0,0,,Suara Fa yang tajam.
-Dialogue: 0,0:00:34.73,0:00:36.50,Default,,0,0,0,,Otowa hebat banget.
-Dialogue: 0,0:00:36.50,0:00:38.78,Default,,0,0,0,,Bisa tahu nada not dari suaranya.
-Dialogue: 0,0:00:38.78,0:00:40.18,Default,,0,0,0,,Oh, kamu baru tahu?
-Dialogue: 0,0:00:40.18,0:00:42.66,Default,,0,0,0,,Padahal dia sering membantumu latihan nyanyi.
-Dialogue: 0,0:00:43.25,0:00:45.33,Default,,0,0,0,,Apa semuanya sudah dapat minuman?
-Dialogue: 0,0:00:45.33,0:00:46.88,Default,,0,0,0,,- Sudah!\N- Iya!
-Dialogue: 0,0:00:47.62,0:00:48.99,Default,,0,0,0,,Ehem.
-Dialogue: 0,0:00:50.06,0:00:52.62,Default,,0,0,0,,Sebagai ucapan terima kasih\Nkarena menolong Shizuka,
-Dialogue: 0,0:00:53.09,0:00:55.87,Default,,0,0,0,,dan menyambut Suzuri\Nyang akan bersama kita ke depannya.
-Dialogue: 0,0:00:56.29,0:00:57.88,Default,,0,0,0,,Makan dan minumlah sepuasnya.
-Dialogue: 0,0:00:57.88,0:01:00.13,Default,,0,0,0,,Semuanya aku yang bayar.
-Dialogue: 0,0:01:00.68,0:01:01.88,Default,,0,0,0,,Baiklah.
-Dialogue: 0,0:01:01.88,0:01:03.53,Default,,0,0,0,,Bersulang!
-Dialogue: 0,0:01:03.53,0:01:05.89,Default,,0,0,0,,- Bersulang!\N- Bersulang!
-Dialogue: 0,0:01:07.15,0:01:08.93,Default,,0,0,0,,Ayo, dimakan!
-Dialogue: 0,0:01:08.93,0:01:11.58,Default,,0,0,0,,Jus ini enak, ya, Hidaka.
-Dialogue: 0,0:01:11.58,0:01:12.83,Default,,0,0,0,,Aku juga suka.
-Dialogue: 0,0:01:12.83,0:01:14.83,Default,,0,0,0,,Aku jadi ingin jual di tokoku.
-Dialogue: 0,0:01:14.83,0:01:16.60,Default,,0,0,0,,Ini jus orisinal kami!
-Dialogue: 0,0:01:16.60,0:01:17.88,Default,,0,0,0,,Baiklah.
-Dialogue: 0,0:01:17.88,0:01:21.03,Default,,0,0,0,,Bilang saja kalau mau makan sesuatu, ya,\Nnanti aku ambilkan.
-Dialogue: 0,0:01:29.66,0:01:32.45,Default,,0,0,0,,Duh, kalian ini.
-Dialogue: 0,0:01:32.45,0:01:36.33,Default,,0,0,0,,Tidak ada gunanya memikirkan\Nyang sudah lewat.
-Dialogue: 0,0:01:36.33,0:01:37.78,Default,,0,0,0,,Atau apa?
-Dialogue: 0,0:01:37.78,0:01:40.68,Default,,0,0,0,,Kalian tidak mau makan\Nmakanan yang aku ambilkan?
-Dialogue: 0,0:03:34.38,0:03:37.90,Default,,0,0,0,,Omong-omong, apa kalian aman?
-Dialogue: 0,0:03:37.90,0:03:40.79,Default,,0,0,0,,Ada orang yang meminta kalian\Nmenculik Shizuka, kan?
-Dialogue: 0,0:03:40.79,0:03:43.45,Default,,0,0,0,,- Benar juga.\N- Oh, iya.
-Dialogue: 0,0:03:43.45,0:03:45.30,Default,,0,0,0,,Kayaknya bakal gawat.
-Dialogue: 0,0:03:45.30,0:03:46.78,Default,,0,0,0,,Tenang saja.
-Dialogue: 0,0:03:46.78,0:03:49.18,Default,,0,0,0,,Aku akan mencoba bicara padanya.
-Dialogue: 0,0:03:49.62,0:03:51.05,Default,,0,0,0,,Bicara, ya?
-Dialogue: 0,0:03:53.48,0:03:56.43,Default,,0,0,0,,Siapa juga yang mau bicara\Ndengan orang yang kalah?
-Dialogue: 0,0:03:56.43,0:03:58.81,Default,,0,0,0,,Kerja saja cuma setengah-setengah.
-Dialogue: 0,0:03:59.45,0:04:02.27,Default,,0,0,0,,Aku benar-benar tidak pandai menilai orang.
-Dialogue: 0,0:04:02.90,0:04:03.95,Default,,0,0,0,,Tapi, yah...
-Dialogue: 0,0:04:03.95,0:04:07.28,Default,,0,0,0,,Aku dapat satu lagi kartu Furin.
-Dialogue: 0,0:04:11.73,0:04:13.28,Default,,0,0,0,,Kenapa...
-Dialogue: 0,0:04:13.28,0:04:15.79,Default,,0,0,0,,Kenapa kamu ada di sini?
-Dialogue: 0,0:04:15.79,0:04:17.58,Default,,0,0,0,,Cerewet.
-Dialogue: 0,0:04:17.58,0:04:20.03,Default,,0,0,0,,Aku akan pergi ke tempat yang kuinginkan.
-Dialogue: 0,0:04:20.63,0:04:23.19,Default,,0,0,0,,Sejak dulu juga begitu, kan?
-Dialogue: 0,0:04:23.19,0:04:26.17,Default,,0,0,0,,Hal yang menyenangkan dan enak,
-Dialogue: 0,0:04:27.02,0:04:29.36,Default,,0,0,0,,hanya itulah
-Dialogue: 0,0:04:29.36,0:04:32.26,Default,,0,0,0,,cara mengisi waktu sampai kita mati.
-Dialogue: 0,0:04:56.58,0:05:01.10,Default,,0,0,0,,Sakit!
-Dialogue: 0,0:05:01.10,0:05:04.65,Default,,0,0,0,,Hah? Lompat dari lantai dua\Nrasanya sesakit ini?
-Dialogue: 0,0:05:04.65,0:05:07.67,Default,,0,0,0,,Padahal di TV kelihatan keren banget.
-Dialogue: 0,0:05:17.26,0:05:21.02,Default,,0,0,0,,Sakura, jangan coba-coba sentuh dia.
-Dialogue: 0,0:05:21.02,0:05:24.39,Default,,0,0,0,,Beraninya kamu muncul dengan santai begitu.
-Dialogue: 0,0:05:29.38,0:05:30.95,Default,,0,0,0,,Hei, hei.
-Dialogue: 0,0:05:30.95,0:05:33.20,Default,,0,0,0,,Padahal sudah lama tidak bertemu.
-Dialogue: 0,0:05:33.20,0:05:36.19,Default,,0,0,0,,Kalau disambut\Ndengan aura penuh semangat begitu,
-Dialogue: 0,0:05:40.69,0:05:43.55,Default,,0,0,0,,aku jadi ikut senang, tahu.
-Dialogue: 0,0:05:51.83,0:05:53.96,Default,,0,0,0,,Oh, keren banget.
-Dialogue: 0,0:05:54.68,0:05:57.46,Default,,0,0,0,,Bocah-bocah ini sok jagoan banget.
-Dialogue: 0,0:05:58.46,0:06:00.72,Default,,0,0,0,,Akulah orang yang kamu cari.
-Dialogue: 0,0:06:03.00,0:06:04.66,Default,,0,0,0,,Mereka tidak ada hubungannya.
-Dialogue: 0,0:06:07.85,0:06:10.03,Default,,0,0,0,,Biarkan kami bicara berdua.
-Dialogue: 0,0:06:10.84,0:06:12.27,Default,,0,0,0,,Ayo pindah tempat.
-Dialogue: 0,0:06:15.52,0:06:16.38,Default,,0,0,0,,Oh.
-Dialogue: 0,0:06:17.43,0:06:19.48,Default,,0,0,0,,Jadi begitu.
-Dialogue: 0,0:06:20.35,0:06:22.24,Default,,0,0,0,,Rupanya kamulah...
-Dialogue: 0,0:06:23.26,0:06:25.50,Default,,0,0,0,,dalang di balik semua ini.
-Dialogue: 0,0:06:39.30,0:06:40.68,Default,,0,0,0,,Hei, Tsubaki.
-Dialogue: 0,0:06:40.68,0:06:43.18,Default,,0,0,0,,Seharusnya kamu kenalkan aku pada juniormu.
-Dialogue: 0,0:06:43.18,0:06:45.10,Default,,0,0,0,,Mereka jadi kebingungan, kan?
-Dialogue: 0,0:06:48.35,0:06:49.35,Default,,0,0,0,,Dia adalah...
-Dialogue: 0,0:06:50.76,0:06:53.71,Default,,0,0,0,,Mantan murid Furin yang seangkatan denganku,
-Dialogue: 0,0:06:54.67,0:06:56.43,Default,,0,0,0,,Endo Yamato.
-Dialogue: 0,0:07:17.90,0:07:19.78,Default,,0,0,0,,Aku jadi malu.
-Dialogue: 0,0:07:19.78,0:07:23.05,Default,,0,0,0,,Aku cuma setahun di sana, sih.
-Dialogue: 0,0:07:32.18,0:07:33.45,Default,,0,0,0,,Sakura, hentikan.
-Dialogue: 0,0:07:47.96,0:07:51.01,Default,,0,0,0,,Bajingan, ya.
-Dialogue: 0,0:07:52.13,0:07:54.32,Default,,0,0,0,,Jangan begitu, dong.
-Dialogue: 0,0:07:54.32,0:07:58.71,Default,,0,0,0,,Furin yang jadi pahlawan kota\Ntidak boleh bicara kasar.
-Dialogue: 0,0:07:59.63,0:08:01.47,Default,,0,0,0,,Terlepas dari itu...
-Dialogue: 0,0:08:01.47,0:08:05.88,Default,,0,0,0,,Oh, jadi kamu yang namanya Sakura.
-Dialogue: 0,0:08:07.12,0:08:10.60,Default,,0,0,0,,Warna rambut dan mata itu...
-Dialogue: 0,0:08:11.25,0:08:14.35,Default,,0,0,0,,Kamu salah satu orang yang menyerbu KEEL, ya?
-Dialogue: 0,0:08:15.86,0:08:18.48,Default,,0,0,0,,Aku melihat semuanya, lo.
-Dialogue: 0,0:08:19.23,0:08:21.86,Default,,0,0,0,,Saat kamu maju sendirian
-Dialogue: 0,0:08:21.86,0:08:25.91,Default,,0,0,0,,maupun saat tidak fokus\Nkarena memikirkan orang lain.
-Dialogue: 0,0:08:26.73,0:08:28.54,Default,,0,0,0,,Saat itu, aku terpikir...
-Dialogue: 0,0:08:28.91,0:08:30.03,Default,,0,0,0,,Sakura,
-Dialogue: 0,0:08:31.04,0:08:34.38,Default,,0,0,0,,orang sepertimu tidak pantas ada di Furin.
-Dialogue: 0,0:08:35.80,0:08:39.42,Default,,0,0,0,,Mending berhenti saja.
-Dialogue: 0,0:08:57.44,0:09:00.95,Default,,0,0,0,,Hei, hei, suaramu melengking banget, tuh.
-Dialogue: 0,0:09:07.33,0:09:08.91,Default,,0,0,0,,Kok tiba-tiba menyerang?
-Dialogue: 0,0:09:08.91,0:09:10.96,Default,,0,0,0,,Tarik kembali ucapanmu tadi.
-Dialogue: 0,0:09:10.96,0:09:13.13,Default,,0,0,0,,Hah? Aku cuma...
-Dialogue: 0,0:09:14.78,0:09:17.71,Default,,0,0,0,,Tidak ada orang yang lebih cocok darinya\Nuntuk berada di Furin!
-Dialogue: 0,0:09:17.71,0:09:20.51,Default,,0,0,0,,Yah, kamu sendiri bukan orang Furin, kan?
-Dialogue: 0,0:09:44.33,0:09:45.73,Default,,0,0,0,,Ya ampun.
-Dialogue: 0,0:09:45.73,0:09:47.74,Default,,0,0,0,,Dengarkan dulu sampai selesai.
-Dialogue: 0,0:09:47.74,0:09:50.58,Default,,0,0,0,,Aku tidak bermaksud meremehkannya.
-Dialogue: 0,0:09:50.58,0:09:52.61,Default,,0,0,0,,Justru sebaliknya.
-Dialogue: 0,0:09:52.61,0:09:54.33,Default,,0,0,0,,Aku memujinya.
-Dialogue: 0,0:09:54.98,0:09:57.04,Default,,0,0,0,,Sayang sekali kalau dibiarkan.
-Dialogue: 0,0:09:58.42,0:10:01.22,Default,,0,0,0,,Kamu terhalang oleh orang lain.
-Dialogue: 0,0:10:01.85,0:10:04.83,Default,,0,0,0,,Kemampuan aslimu seharusnya\Njauh lebih dari itu.
-Dialogue: 0,0:10:06.35,0:10:08.53,Default,,0,0,0,,Orang sepertimu
-Dialogue: 0,0:10:09.33,0:10:11.80,Default,,0,0,0,,lebih cocok sendirian.
-Dialogue: 0,0:10:34.75,0:10:36.99,Default,,0,0,0,,Boleh juga.
-Dialogue: 0,0:10:37.75,0:10:40.23,Default,,0,0,0,,Tadinya aku tidak ada niat ke situ,
-Dialogue: 0,0:10:45.33,0:10:48.01,Default,,0,0,0,,ayo kita main sebentar, deh.
-Dialogue: 0,0:10:55.75,0:10:56.75,Default,,0,0,0,,Hentikan.
-Dialogue: 0,0:10:58.00,0:10:59.11,Default,,0,0,0,,Suzuri!
-Dialogue: 0,0:10:59.11,0:11:01.44,Default,,0,0,0,,Hei! Kamu itu tidak ada hubungannya!
-Dialogue: 0,0:11:01.44,0:11:02.80,Default,,0,0,0,,Itu benar.
-Dialogue: 0,0:11:02.80,0:11:05.89,Default,,0,0,0,,Aku sudah tidak peduli padamu, enyahlah.
-Dialogue: 0,0:11:05.89,0:11:08.20,Default,,0,0,0,,Mustahil kamu tidak peduli.
-Dialogue: 0,0:11:08.20,0:11:10.89,Default,,0,0,0,,Dilihat dari semua yang terjadi sekarang,
-Dialogue: 0,0:11:10.89,0:11:12.32,Default,,0,0,0,,akarnya ada padaku.
-Dialogue: 0,0:11:12.98,0:11:14.69,Default,,0,0,0,,Kamu datang kemari
-Dialogue: 0,0:11:14.69,0:11:16.83,Default,,0,0,0,,untuk memeriksa pekerjaanku, kan?
-Dialogue: 0,0:11:17.74,0:11:19.72,Default,,0,0,0,,Seharusnya ini urusan kita.
-Dialogue: 0,0:11:20.56,0:11:21.59,Default,,0,0,0,,Aku tidak bisa
-Dialogue: 0,0:11:22.59,0:11:25.47,Default,,0,0,0,,melibatkan mereka lebih jauh lagi.
-Dialogue: 0,0:11:27.88,0:11:29.34,Default,,0,0,0,,Suzuri.
-Dialogue: 0,0:11:29.95,0:11:33.35,Default,,0,0,0,,Karena itu, kumohon...
-Dialogue: 0,0:11:35.63,0:11:36.69,Default,,0,0,0,,Mundurlah.
-Dialogue: 0,0:11:37.79,0:11:40.73,Default,,0,0,0,,Aku akan bertanggung jawab sepenuhnya.
-Dialogue: 0,0:11:44.23,0:11:47.02,Default,,0,0,0,,Su-Suzuri.
-Dialogue: 0,0:11:54.95,0:11:56.83,Default,,0,0,0,,Suzuri! Pergilah!
-Dialogue: 0,0:12:01.71,0:12:04.45,Default,,0,0,0,,Aku sering melihat orang bersujud,
-Dialogue: 0,0:12:04.45,0:12:07.42,Default,,0,0,0,,tapi tidak ada yang sesemangat ini.
-Dialogue: 0,0:12:08.76,0:12:10.35,Default,,0,0,0,,Selain itu,
-Dialogue: 0,0:12:10.35,0:12:14.18,Default,,0,0,0,,kok kamu semenyedihkan ini?
-Dialogue: 0,0:12:14.18,0:12:16.18,Default,,0,0,0,,Sampai sujud segala.
-Dialogue: 0,0:12:21.81,0:12:23.05,Default,,0,0,0,,Oke.
-Dialogue: 0,0:12:23.05,0:12:25.07,Default,,0,0,0,,Akan kuanggap impas.
-Dialogue: 0,0:12:27.53,0:12:31.30,Default,,0,0,0,,Pak tua yang memintaku juga\Nterlihat mencurigakan, sih.
-Dialogue: 0,0:12:32.53,0:12:34.67,Default,,0,0,0,,Kalau diancam sedikit saja,
-Dialogue: 0,0:12:36.51,0:12:40.17,Default,,0,0,0,,dia tidak akan berani \Nmenyentuh wanita itu lagi.
-Dialogue: 0,0:12:41.40,0:12:43.80,Default,,0,0,0,,Apa maksudmu?
-Dialogue: 0,0:12:43.80,0:12:45.67,Default,,0,0,0,,Apa yang kamu rencanakan?
-Dialogue: 0,0:12:45.67,0:12:47.77,Default,,0,0,0,,Hah? Tidak ada.
-Dialogue: 0,0:12:48.33,0:12:50.28,Default,,0,0,0,,Kalau harus disebut...
-Dialogue: 0,0:12:50.28,0:12:52.80,Default,,0,0,0,,Mungkin karena aku sedang senang?
-Dialogue: 0,0:12:54.08,0:12:55.30,Default,,0,0,0,,Benar juga.
-Dialogue: 0,0:12:56.28,0:12:59.31,Default,,0,0,0,,Dari dulu kamu memang seperti itu.
-Dialogue: 0,0:12:59.93,0:13:02.27,Default,,0,0,0,,Tidak ada yang tahu apa yang kamu pikirkan.
-Dialogue: 0,0:13:02.88,0:13:04.27,Default,,0,0,0,,Ah...
-Dialogue: 0,0:13:05.33,0:13:07.94,Default,,0,0,0,,Setelah tertawa aku jadi hilang semangat.
-Dialogue: 0,0:13:08.58,0:13:12.40,Default,,0,0,0,,Dalam waktu dekat,\Naku akan datang lagi ke Furin.
-Dialogue: 0,0:13:12.40,0:13:13.95,Default,,0,0,0,,Sampai nanti.
-Dialogue: 0,0:13:22.00,0:13:24.20,Default,,0,0,0,,Aku bilang, "Sampai nanti," kan?
-Dialogue: 0,0:13:27.75,0:13:28.92,Default,,0,0,0,,Dasar bocah.
-Dialogue: 0,0:13:30.92,0:13:33.05,Default,,0,0,0,,Sakura, jangan kejar dia!
-Dialogue: 0,0:13:33.54,0:13:34.71,Default,,0,0,0,,Kamu dengar itu?
-Dialogue: 0,0:13:35.18,0:13:37.89,Default,,0,0,0,,Dengarkan nasihat kakak kelasmu.
-Dialogue: 0,0:13:38.77,0:13:40.87,Default,,0,0,0,,Soalnya kamu masih kelas satu.
-Dialogue: 0,0:14:26.23,0:14:28.82,Default,,0,0,0,,Aku benar-benar minta maaf.
-Dialogue: 0,0:14:30.90,0:14:32.15,Default,,0,0,0,,Gara-gara aku,
-Dialogue: 0,0:14:32.93,0:14:35.39,Default,,0,0,0,,kalian jadi berhadapan dengan orang itu.
-Dialogue: 0,0:14:36.78,0:14:38.11,Default,,0,0,0,,Ditambah lagi,
-Dialogue: 0,0:14:38.82,0:14:42.74,Default,,0,0,0,,ternyata dia mantan Furin.
-Dialogue: 0,0:14:43.83,0:14:46.10,Default,,0,0,0,,Aku sampai kehabisan kata-kata...
-Dialogue: 0,0:14:50.00,0:14:51.12,Default,,0,0,0,,Soalnya aku...
-Dialogue: 0,0:15:19.90,0:15:22.41,Default,,0,0,0,,Tidak ada yang perlu\Nkamu khawatirkan, Suzuri.
-Dialogue: 0,0:15:22.85,0:15:25.57,Default,,0,0,0,,Toh, kamilah yang memilih turun tangan.
-Dialogue: 0,0:15:27.23,0:15:27.85,Default,,0,0,0,,Tapi...
-Dialogue: 0,0:15:27.85,0:15:29.41,Default,,0,0,0,,Halah!
-Dialogue: 0,0:15:29.41,0:15:31.66,Default,,0,0,0,,Makanannya nanti dingin.
-Dialogue: 0,0:15:31.66,0:15:33.01,Default,,0,0,0,,Cepat dimakan.
-Dialogue: 0,0:15:54.80,0:15:55.91,Default,,0,0,0,,Enak.
-Dialogue: 0,0:15:59.00,0:16:00.44,Default,,0,0,0,,Enak.
-Dialogue: 0,0:16:01.13,0:16:02.80,Default,,0,0,0,,Ini pertama kalinya
-Dialogue: 0,0:16:04.04,0:16:06.68,Default,,0,0,0,,aku makan makanan seenak ini dalam hidupku.
-Dialogue: 0,0:16:06.68,0:16:08.16,Default,,0,0,0,,Begitu, ya?
-Dialogue: 0,0:16:08.16,0:16:10.26,Default,,0,0,0,,Ayo makan lagi!\NOh, coba makan ini!
-Dialogue: 0,0:16:10.26,0:16:12.33,Default,,0,0,0,,- Makanlah semuanya!\N- Yang ini juga enak, lo.
-Dialogue: 0,0:16:12.33,0:16:14.17,Default,,0,0,0,,I-Iya.
-Dialogue: 0,0:16:14.65,0:16:16.94,Default,,0,0,0,,Orang yang kesulitan untuk makan hari ini,
-Dialogue: 0,0:16:16.94,0:16:19.89,Default,,0,0,0,,mana bisa melakukan hal yang disukainya?
-Dialogue: 0,0:16:19.89,0:16:21.30,Default,,0,0,0,,Hei, Suzuri.
-Dialogue: 0,0:16:21.30,0:16:24.30,Default,,0,0,0,,Apa yang sebenarnya ingin kamu lakukan?
-Dialogue: 0,0:16:24.85,0:16:25.47,Default,,0,0,0,,Eh?
-Dialogue: 0,0:16:25.93,0:16:28.14,Default,,0,0,0,,Dari yang kamu bilang tadi,
-Dialogue: 0,0:16:28.14,0:16:31.93,Default,,0,0,0,,bukankah ada hal yang ingin kamu lakukan,\Natau sesuatu yang kamu sukai?
-Dialogue: 0,0:16:31.93,0:16:33.08,Default,,0,0,0,,Apa itu?
-Dialogue: 0,0:16:41.38,0:16:41.99,Default,,0,0,0,,Gi...
-Dialogue: 0,0:16:43.60,0:16:45.20,Default,,0,0,0,,Gim.
-Dialogue: 0,0:16:45.20,0:16:47.07,Default,,0,0,0,,Gim?
-Dialogue: 0,0:16:47.51,0:16:49.81,Default,,0,0,0,,Gim othello atau kartu, begitu?
-Dialogue: 0,0:16:49.81,0:16:52.33,Default,,0,0,0,,Bukan, yang dicolok ke TV.
-Dialogue: 0,0:16:52.33,0:16:54.15,Default,,0,0,0,,Oh, aku mengerti.
-Dialogue: 0,0:16:54.15,0:16:57.62,Default,,0,0,0,,Harus ada TV, konsol,\Ndan software semacamnya itu, kan?
-Dialogue: 0,0:16:57.62,0:16:59.38,Default,,0,0,0,,Kayaknya tidak bisa sekarang, deh.
-Dialogue: 0,0:16:59.38,0:17:02.84,Default,,0,0,0,,Oh, kalau mau model lama,\Nkayaknya aku masih simpan di lemariku.
-Dialogue: 0,0:17:02.84,0:17:04.42,Default,,0,0,0,,Tidak apa-apa.
-Dialogue: 0,0:17:04.42,0:17:06.00,Default,,0,0,0,,Aku akan bekerja, dan uangnya...
-Dialogue: 0,0:17:06.00,0:17:07.08,Default,,0,0,0,,Ada, lo.
-Dialogue: 0,0:17:10.50,0:17:11.55,Default,,0,0,0,,Ayo main!
-Dialogue: 0,0:17:11.55,0:17:13.98,Default,,0,0,0,,Wah, Hidaka! Mantap juga kamu!
-Dialogue: 0,0:17:19.68,0:17:21.08,Default,,0,0,0,,Bukan, bukan!
-Dialogue: 0,0:17:21.08,0:17:22.82,Default,,0,0,0,,Bukan tombol yang itu.
-Dialogue: 0,0:17:22.82,0:17:24.23,Default,,0,0,0,,Sip, aku paling depan!
-Dialogue: 0,0:17:24.23,0:17:25.68,Default,,0,0,0,,Duh, aku jatuh.
-Dialogue: 0,0:17:25.68,0:17:27.68,Default,,0,0,0,,Hei, Suzuri, kamu salah jalan.
-Dialogue: 0,0:17:27.68,0:17:29.85,Default,,0,0,0,,Sialan! Tunggu dulu, Kanji!
-Dialogue: 0,0:17:29.85,0:17:31.37,Default,,0,0,0,,Semangat, Hidaka.
-Dialogue: 0,0:17:31.99,0:17:33.75,Default,,0,0,0,,Asyik, juara satu!
-Dialogue: 0,0:17:33.75,0:17:36.12,Default,,0,0,0,,Seperti biasa, Kanji memang jago, ya.
-Dialogue: 0,0:17:36.12,0:17:38.01,Default,,0,0,0,,Halah, kalah lagi!
-Dialogue: 0,0:17:39.18,0:17:41.25,Default,,0,0,0,,Suzuri juara terakhir lagi.
-Dialogue: 0,0:17:41.25,0:17:42.83,Default,,0,0,0,,Bagaimana, Suzuri?
-Dialogue: 0,0:17:42.83,0:17:45.00,Default,,0,0,0,,Apa kesan pertamamu setelah main gim ini?
-Dialogue: 0,0:17:47.90,0:17:50.51,Default,,0,0,0,,Me-Menyenangkan.
-Dialogue: 0,0:17:51.51,0:17:53.03,Default,,0,0,0,,Begitu katanya, Tsubaki.
-Dialogue: 0,0:17:53.03,0:17:54.27,Default,,0,0,0,,Syukurlah...
-Dialogue: 0,0:17:58.94,0:18:01.02,Default,,0,0,0,,Aku mau ke toilet dulu.
-Dialogue: 0,0:18:04.23,0:18:06.55,Default,,0,0,0,,Baiklah, Sakura!\NKita gantian!
-Dialogue: 0,0:18:06.55,0:18:07.88,Default,,0,0,0,,Sekarang giliranmu!
-Dialogue: 0,0:18:08.50,0:18:09.55,Default,,0,0,0,,Boleh, tuh.
-Dialogue: 0,0:18:09.55,0:18:11.12,Default,,0,0,0,,Ini controller-nya.
-Dialogue: 0,0:18:11.12,0:18:12.62,Default,,0,0,0,,Oh, ya sudah, aku juga.
-Dialogue: 0,0:18:12.62,0:18:14.62,Default,,0,0,0,,Bodoh, kamu harus tetap bermain.
-Dialogue: 0,0:18:38.39,0:18:40.80,Default,,0,0,0,,Suzuri makin jago, ya.
-Dialogue: 0,0:18:49.65,0:18:50.78,Default,,0,0,0,,Maaf.
-Dialogue: 0,0:19:09.45,0:19:12.26,Default,,0,0,0,,Kamu lebih cocok sendirian.
-Dialogue: 0,0:19:27.53,0:19:29.19,Default,,0,0,0,,Kamu tidak apa-apa?
-Dialogue: 0,0:19:29.83,0:19:30.86,Default,,0,0,0,,Iya, begitulah.
-Dialogue: 0,0:19:30.86,0:19:32.58,Default,,0,0,0,,Bukan itu.
-Dialogue: 0,0:19:33.49,0:19:35.29,Default,,0,0,0,,Soal Endo.
-Dialogue: 0,0:19:37.72,0:19:38.61,Default,,0,0,0,,Ya.
-Dialogue: 0,0:19:39.12,0:19:40.75,Default,,0,0,0,,Aku sudah beri tahu Ume.
-Dialogue: 0,0:19:40.75,0:19:44.40,Default,,0,0,0,,Aku mengerti kenapa Endo menyerang Furin.
-Dialogue: 0,0:19:44.40,0:19:46.00,Default,,0,0,0,,Tapi, tidak kusangka
-Dialogue: 0,0:19:46.64,0:19:49.46,Default,,0,0,0,,dia sangat tertarik dengan Sakura.
-Dialogue: 0,0:19:49.98,0:19:52.76,Default,,0,0,0,,Aku tidak bermaksud meremehkannya.
-Dialogue: 0,0:19:52.76,0:19:54.62,Default,,0,0,0,,Justru sebaliknya.
-Dialogue: 0,0:19:54.62,0:19:56.17,Default,,0,0,0,,Aku memujinya.
-Dialogue: 0,0:19:56.83,0:19:58.28,Default,,0,0,0,,Padahal,
-Dialogue: 0,0:19:58.28,0:20:02.53,Default,,0,0,0,,dia bukan tipe orang\Nyang mudah memuji seperti itu.
-Dialogue: 0,0:20:02.53,0:20:03.69,Default,,0,0,0,,Ya.
-Dialogue: 0,0:20:04.33,0:20:07.69,Default,,0,0,0,,Kecuali satu orang.
-Dialogue: 0,0:20:08.22,0:20:10.26,Default,,0,0,0,,Awasi dia baik-baik.
-Dialogue: 0,0:20:10.92,0:20:13.95,Default,,0,0,0,,Kita tidak tahu gangguan apa lagi\Nyang akan dia lakukan.
-Dialogue: 0,0:20:14.70,0:20:16.45,Default,,0,0,0,,Tentu saja.
-Dialogue: 0,0:20:25.16,0:20:27.55,Default,,0,0,0,,Sakura, Nirei, Suo.
-Dialogue: 0,0:20:27.55,0:20:28.35,Default,,0,0,0,,{\c&H1A1EB4&\3c&HFFFFFF&}- Iya?\N{\c&H54E7FD&\3c&H000000&}- Ya?
-Dialogue: 0,0:20:29.86,0:20:32.42,Default,,0,0,0,,Aku punya permintaan.
-Dialogue: 0,0:20:32.84,0:20:36.00,Default,,0,0,0,,Bisakah kalian bisa ke atap sekolah\Nbesok pagi?
-Dialogue: 0,0:20:40.80,0:20:42.62,Default,,0,0,0,,Jangan bilang begitu.
-Dialogue: 0,0:20:43.20,0:20:44.85,Default,,0,0,0,,Kali ini benar-benar salahku.
-Dialogue: 0,0:20:54.99,0:20:58.85,Default,,0,0,0,,Setelah aku menghubungi Ume, \Nkayaknya dia memanggil mereka semua.
-Dialogue: 0,0:20:58.85,0:21:00.49,Default,,0,0,0,,Yah, duduklah.
-Dialogue: 0,0:21:32.90,0:21:34.13,Default,,0,0,0,,Tumben sekali.
-Dialogue: 0,0:21:34.13,0:21:35.52,Default,,0,0,0,,Biasanya paling awal.
-Dialogue: 0,0:21:36.68,0:21:38.83,Default,,0,0,0,,Kadang memang suka begitu.
-Dialogue: 0,0:21:38.83,0:21:40.32,Default,,0,0,0,,Pagi, Ume.
-Dialogue: 0,0:21:40.32,0:21:41.88,Default,,0,0,0,,Tidak apa-apa, kok.
-Dialogue: 0,0:21:41.88,0:21:43.45,Default,,0,0,0,,Bangun kesiangan, ya?
-Dialogue: 0,0:20:38.63,0:20:40.43,柊登馬,,0,0,0,,Kamu lagi?
-Dialogue: 0,0:21:28.60,0:21:30.25,柊登馬,,0,0,0,,Dasar, kamu ini.
-Dialogue: 0,0:21:30.25,0:21:32.90,柊登馬,,0,0,0,,Kesadaranmu sebagai pemimpin masih kurang!
-Dialogue: 0,0:01:56.40,0:01:58.35,桜遥,,0,0,0,,Kurang ajar!
-Dialogue: 0,0:01:59.53,0:02:01.47,桜遥,,0,0,0,,Awas saja!
-Dialogue: 0,0:04:08.36,0:04:10.29,桜遥,,0,0,0,,Kenapa dia tahu kami Furin?
-Dialogue: 0,0:04:10.29,0:04:11.73,桜遥,,0,0,0,,Padahal kami tidak pakai seragam.
-Dialogue: 0,0:04:33.08,0:04:34.77,桜遥,,0,0,0,,Siapa dia?
-Dialogue: 0,0:04:36.31,0:04:38.68,桜遥,,0,0,0,,Tampaknya Tsubakino mengenalnya.
-Dialogue: 0,0:05:08.15,0:05:10.79,桜遥,,0,0,0,,Dih? Apa-apaan orang ini?
-Dialogue: 0,0:05:24.82,0:05:25.99,桜遥,,0,0,0,,Apa ini?
-Dialogue: 0,0:05:26.47,0:05:28.69,桜遥,,0,0,0,,Kenapa suasananya tegang begini?
-Dialogue: 0,0:06:32.43,0:06:34.10,桜遥,,0,0,0,,Lagi pula,
-Dialogue: 0,0:06:34.10,0:06:36.71,桜遥,,0,0,0,,tiba-tiba nongol begitu,\Nmemangnya kamu siapa?
-Dialogue: 0,0:07:03.78,0:07:06.37,桜遥,,0,0,0,,Hah? Apa sih?
-Dialogue: 0,0:07:24.55,0:07:25.81,桜遥,,0,0,0,,Apanya?
-Dialogue: 0,0:07:27.95,0:07:29.94,桜遥,,0,0,0,,Apanya yang legenda?
-Dialogue: 0,0:07:33.45,0:07:35.69,桜遥,,0,0,0,,Selegenda apa pun itu,
-Dialogue: 0,0:07:36.32,0:07:40.32,桜遥,,0,0,0,,kamu cuma dalang yang menyuruh orang lain\Nmelakukan penculikan,
-Dialogue: 0,0:07:40.32,0:07:42.20,桜遥,,0,0,0,,alias seorang bajingan!
-Dialogue: 0,0:09:35.10,0:09:36.52,桜遥,,0,0,0,,Dasar.
-Dialogue: 0,0:09:38.00,0:09:40.82,桜遥,,0,0,0,,Jangan tinggalkan aku sendirian!
-Dialogue: 0,0:10:16.62,0:10:18.52,桜遥,,0,0,0,,Jangan bicara seenaknya.
-Dialogue: 0,0:10:18.96,0:10:20.88,桜遥,,0,0,0,,Sejak tadi kamu banyak mengoceh.
-Dialogue: 0,0:10:20.88,0:10:23.27,桜遥,,0,0,0,,Berlagak sok tahu.
-Dialogue: 0,0:10:24.08,0:10:26.16,桜遥,,0,0,0,,Apa pun yang orang bilang,
-Dialogue: 0,0:10:26.62,0:10:30.15,桜遥,,0,0,0,,dirikulah yang berhak menentukan\Ntempatku berada.
-Dialogue: 0,0:13:13.95,0:13:15.88,桜遥,,0,0,0,,Hah? Yang benar saja!
-Dialogue: 0,0:13:15.88,0:13:16.98,桜遥,,0,0,0,,Tunggu dulu!
-Dialogue: 0,0:13:46.90,0:13:48.31,桜遥,,0,0,0,,Bajingan!
-Dialogue: 0,0:14:03.64,0:14:05.95,桜遥,,0,0,0,,Sialan! Dasar kurang ajar!
-Dialogue: 0,0:14:07.29,0:14:09.45,桜遥,,0,0,0,,Awas saja dia!
-Dialogue: 0,0:14:17.98,0:14:19.13,桜遥,,0,0,0,,Hah?
-Dialogue: 0,0:14:46.10,0:14:49.00,桜遥,,0,0,0,,Kenapa kamu harus meminta maaf?
-Dialogue: 0,0:14:51.12,0:14:54.71,桜遥,,0,0,0,,Dia datang karena ada kamu, kan?
-Dialogue: 0,0:14:54.71,0:14:56.25,桜遥,,0,0,0,,Terus kenapa?
-Dialogue: 0,0:14:57.95,0:14:59.38,桜遥,,0,0,0,,Aku sendiri...
-Dialogue: 0,0:14:59.95,0:15:02.70,桜遥,,0,0,0,,kesal bukan karena dia datang.
-Dialogue: 0,0:15:02.70,0:15:04.76,桜遥,,0,0,0,,Tapi kesal sama dianya.
-Dialogue: 0,0:15:05.68,0:15:08.27,桜遥,,0,0,0,,Jadi jangan terus-terusan minta maaf.
-Dialogue: 0,0:15:08.27,0:15:10.58,桜遥,,0,0,0,,Justru itu malah bikin kesal.
-Dialogue: 0,0:15:11.39,0:15:12.78,桜遥,,0,0,0,,Halah!
-Dialogue: 0,0:15:12.78,0:15:14.75,桜遥,,0,0,0,,Dipikir-pikir lagi malah makin kesal!
-Dialogue: 0,0:15:15.90,0:15:17.78,桜遥,,0,0,0,,Apa maksudnya "Bocah", coba?
-Dialogue: 0,0:15:17.78,0:15:19.90,桜遥,,0,0,0,,Padahal cuma lebih tua dua tahun!
-Dialogue: 0,0:18:16.48,0:18:19.03,桜遥,,0,0,0,,Aku belum pernah main beginian.
-Dialogue: 0,0:18:52.37,0:18:54.95,桜遥,,0,0,0,,Ayo tanding sekali lagi! Sialan!
-Dialogue: 0,0:19:00.90,0:19:01.38,桜遥,,0,0,0,,Hei!
-Dialogue: 0,0:19:02.78,0:19:04.45,桜遥,,0,0,0,,Kita main sampai aku menang.
-Dialogue: 0,0:19:04.45,0:19:06.05,桜遥,,0,0,0,,Terserah mau berapa kali pun.
-Dialogue: 0,0:19:06.05,0:19:08.33,桜遥,,0,0,0,,Awas saja kalau habis menang kamu kabur.
-Dialogue: 0,0:20:49.78,0:20:53.38,桜遥,,0,0,0,,Kenapa ada banyak yang kumpul?
-Dialogue: 0,0:21:00.49,0:21:02.83,桜遥,,0,0,0,,Dasar, apa boleh buat.
-Dialogue: 0,0:21:05.40,0:21:07.25,桜遥,,0,0,0,,Hah? Apa, sih?
-Dialogue: 0,0:23:32.50,0:23:34.27,桜遥,,0,0,0,,Aku bilang sampai aku menang!
-Dialogue: 0,0:23:34.27,0:23:36.08,桜遥,,0,0,0,,Lah! Kenapa tidak mau belok, sih!
-Dialogue: 0,0:23:38.68,0:23:40.10,桜遥,,0,0,0,,Siapa juga yang sudi mengerem!
-Dialogue: 0,0:23:40.10,0:23:41.23,桜遥,,0,0,0,,Lo? Sekarang apa lagi?
-Dialogue: 0,0:21:23.50,0:21:26.23,梅宮一,,0,0,0,,Lah? Sudah pada kumpul?
-Dialogue: 0,0:21:45.40,0:21:47.12,梅宮一,,0,0,0,,Sakura, Suo, Nirei.
-Dialogue: 0,0:21:47.12,0:21:49.21,梅宮一,,0,0,0,,Terima kasih sudah datang pagi-pagi.
-Dialogue: 0,0:21:50.56,0:21:51.50,梅宮一,,0,0,0,,Baiklah,
-Dialogue: 0,0:21:52.28,0:21:53.75,梅宮一,,0,0,0,,ayo kita mulai.
-Dialogue: 0,0:01:40.68,0:01:42.47,楡井秋彦,,0,0,0,,Bu-Bukan begitu.
-Dialogue: 0,0:01:43.50,0:01:44.84,楡井秋彦,,0,0,0,,Hanya saja,
-Dialogue: 0,0:01:45.53,0:01:49.35,楡井秋彦,,0,0,0,,sulit bersikap biasa saja\Nsetelah hal itu terjadi.
-Dialogue: 0,0:06:59.87,0:07:01.82,楡井秋彦,,0,0,0,,Mantan Furin?
-Dialogue: 0,0:07:10.18,0:07:13.42,楡井秋彦,,0,0,0,,Tidak ada orang Furin yang tidak mengenalnya.
-Dialogue: 0,0:07:13.86,0:07:15.78,楡井秋彦,,0,0,0,,Dia sudah seperti legenda.
-Dialogue: 0,0:08:43.36,0:08:44.43,楡井秋彦,,0,0,0,,Itu...
-Dialogue: 0,0:08:44.43,0:08:46.93,楡井秋彦,,0,0,0,,Itu tidak benar!
-Dialogue: 0,0:08:49.86,0:08:53.31,楡井秋彦,,0,0,0,,Tahu apa kamu tentang Sakura?
-Dialogue: 0,0:08:54.84,0:08:57.44,楡井秋彦,,0,0,0,,Jangan bicara seenaknya!
-Dialogue: 0,0:14:10.75,0:14:12.63,楡井秋彦,,0,0,0,,Sa-Sakura.
-Dialogue: 0,0:14:12.63,0:14:15.63,楡井秋彦,,0,0,0,,Kalau makan mendadak begitu,\Nnanti tubuhmu bisa kaget.
-Dialogue: 0,0:15:14.75,0:15:15.90,楡井秋彦,,0,0,0,,Hei, Sakura.
-Dialogue: 0,0:18:19.03,0:18:20.83,楡井秋彦,,0,0,0,,Benar juga.
-Dialogue: 0,0:18:20.83,0:18:22.26,楡井秋彦,,0,0,0,,Ya sudah, begini...
-Dialogue: 0,0:18:22.26,0:18:23.93,楡井秋彦,,0,0,0,,Yang ini gas.
-Dialogue: 0,0:18:23.93,0:18:25.51,楡井秋彦,,0,0,0,,Yang ini rem.
-Dialogue: 0,0:18:46.78,0:18:49.11,楡井秋彦,,0,0,0,,Suo, jaga bicaramu, dong!
-Dialogue: 0,0:18:55.79,0:18:58.13,楡井秋彦,,0,0,0,,Suo, gantian, dong.
-Dialogue: 0,0:19:16.20,0:19:18.35,楡井秋彦,,0,0,0,,Siap! Akan kutemani!
-Dialogue: 0,0:21:02.83,0:21:05.40,楡井秋彦,,0,0,0,,Lo? Sakura? Cuma begitu?
-Dialogue: 0,0:21:07.25,0:21:09.38,楡井秋彦,,0,0,0,,So-Soalnya...
-Dialogue: 0,0:21:09.38,0:21:14.45,楡井秋彦,,0,0,0,,Kalau para petinggi\Ndan Empat Raja berkumpul,
-Dialogue: 0,0:21:15.80,0:21:20.22,楡井秋彦,,0,0,0,,berarti masalah kemarin\Nsangatlah penting, kan?
-Dialogue: 0,0:23:30.37,0:23:32.50,楡井秋彦,,0,0,0,,Sakura, sudahan, dong!
-Dialogue: 0,0:23:36.08,0:23:37.75,楡井秋彦,,0,0,0,,Gasnya jangan dipencet terus!
-Dialogue: 0,0:23:37.75,0:23:38.68,楡井秋彦,,0,0,0,,Kamu harus rem!
-Dialogue: 0,0:23:41.23,0:23:42.00,楡井秋彦,,0,0,0,,Salah jalan!
-Dialogue: 0,0:23:42.00,0:23:44.58,楡井秋彦,,0,0,0,,Jangan sampai kamu punya SIM, ya!
-Dialogue: 0,0:07:02.37,0:07:03.78,蘇枋隼飛,,0,0,0,,Endo.
-Dialogue: 0,0:07:06.37,0:07:09.15,蘇枋隼飛,,0,0,0,,Dia orang terkenal yang bahkan aku saja tahu.
-Dialogue: 0,0:09:20.95,0:09:21.75,蘇枋隼飛,,0,0,0,,Berarti...
-Dialogue: 0,0:09:22.48,0:09:24.39,蘇枋隼飛,,0,0,0,,Kalau orang Furin yang maju, boleh, kan?
-Dialogue: 0,0:13:16.98,0:13:17.83,蘇枋隼飛,,0,0,0,,Sakura!
-Dialogue: 0,0:18:40.80,0:18:43.66,蘇枋隼飛,,0,0,0,,Sakura, kamu harus belajar dari Suzuri.
-Dialogue: 0,0:18:44.28,0:18:46.78,蘇枋隼飛,,0,0,0,,Selain itu, Nirei jago banget, ya.
-Dialogue: 0,0:18:58.13,0:19:00.90,蘇枋隼飛,,0,0,0,,Eh? Aku lebih suka menonton.
+Dialogue: 0,0:13:52.02,0:13:56.19,5-normal,,0,0,0,,{\move(615,190,595,161,25,4154)\fs65\b1\bord3\c&H1D2B4F&\3c&H3F6094&}Hari Ini Kami Tutup
+Dialogue: 0,0:18:31.63,0:18:33.38,4-normal,,0,0,0,,{\fs75\bord4\c&H050308&\3c&HFFFFFF&\b1\pos(276.636,70)}Nirei Menang\N10 Kali Berturut
+Dialogue: 0,0:18:31.63,0:18:33.38,6-normal,,0,0,0,,{\fs75\bord4\c&H050308&\3c&HFFFFFF&\b1\pos(1670.667,126.667)}Sakura Kalah\N10 Kali Berturut
+Dialogue: 0,0:21:52.00,0:21:55.00,5-normal,,0,0,0,,{\fs80\pos(960,695)\b1}Setelah Badai
+Dialogue: 0,0:23:24.97,0:23:39.98,5-normal,,0,0,0,,{\pos(960,240)\fs70\b1\bord3\c&H7AD3EF&\3c&H794C6C&}Distrik Keisei
+Dialogue: 0,0:00:10.25,0:00:12.83,Default,,0,0,0,,Wah! Semuanya terlihat enak!
+Dialogue: 0,0:00:12.83,0:00:14.40,Default,,0,0,0,,Oh, ini...
+Dialogue: 0,0:00:14.40,0:00:16.25,Default,,0,0,0,,Miyoshi, ada makanan yang kamu suka.
+Dialogue: 0,0:00:16.25,0:00:18.18,Default,,0,0,0,,Aku tahu, ayo, bantu bawakan itu.
+Dialogue: 0,0:00:18.18,0:00:20.68,Default,,0,0,0,,Oh, ini baru digoreng!
+Dialogue: 0,0:00:20.68,0:00:22.05,Default,,0,0,0,,Hidaka, aku minta satu.
+Dialogue: 0,0:00:22.05,0:00:24.33,Default,,0,0,0,,Bodoh! Belum juga ditata ke piring!
+Dialogue: 0,0:00:25.39,0:00:26.65,Default,,0,0,0,,Aduh, duh, panas!
+Dialogue: 0,0:00:26.65,0:00:28.53,Default,,0,0,0,,Suaranya terdengar enak, ya.
+Dialogue: 0,0:00:28.53,0:00:29.73,Default,,0,0,0,,Suara Fa yang tajam.
+Dialogue: 0,0:00:29.73,0:00:31.50,Default,,0,0,0,,Otowa hebat banget.
+Dialogue: 0,0:00:31.50,0:00:33.78,Default,,0,0,0,,Bisa tahu nada not dari suaranya.
+Dialogue: 0,0:00:33.78,0:00:35.18,Default,,0,0,0,,Oh, kamu baru tahu?
+Dialogue: 0,0:00:35.18,0:00:37.66,Default,,0,0,0,,Padahal dia sering membantumu latihan nyanyi.
+Dialogue: 0,0:00:38.25,0:00:40.33,Default,,0,0,0,,Apa semuanya sudah dapat minuman?
+Dialogue: 0,0:00:40.33,0:00:41.88,Default,,0,0,0,,- Sudah!\N- Iya!
+Dialogue: 0,0:00:42.62,0:00:43.99,Default,,0,0,0,,Ehem.
+Dialogue: 0,0:00:45.06,0:00:47.62,Default,,0,0,0,,Sebagai ucapan terima kasih\Nkarena menolong Shizuka,
+Dialogue: 0,0:00:48.09,0:00:50.87,Default,,0,0,0,,dan menyambut Suzuri\Nyang akan bersama kita ke depannya.
+Dialogue: 0,0:00:51.29,0:00:52.88,Default,,0,0,0,,Makan dan minumlah sepuasnya.
+Dialogue: 0,0:00:52.88,0:00:55.13,Default,,0,0,0,,Semuanya aku yang bayar.
+Dialogue: 0,0:00:55.68,0:00:56.88,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:00:56.88,0:00:58.53,Default,,0,0,0,,Bersulang!
+Dialogue: 0,0:00:58.53,0:01:00.89,Default,,0,0,0,,- Bersulang!\N- Bersulang!
+Dialogue: 0,0:01:02.15,0:01:03.93,Default,,0,0,0,,Ayo, dimakan!
+Dialogue: 0,0:01:03.93,0:01:06.58,Default,,0,0,0,,Jus ini enak, ya, Hidaka.
+Dialogue: 0,0:01:06.58,0:01:07.83,Default,,0,0,0,,Aku juga suka.
+Dialogue: 0,0:01:07.83,0:01:09.83,Default,,0,0,0,,Aku jadi ingin jual di tokoku.
+Dialogue: 0,0:01:09.83,0:01:11.60,Default,,0,0,0,,Ini jus orisinal kami!
+Dialogue: 0,0:01:11.60,0:01:12.88,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:01:12.88,0:01:16.03,Default,,0,0,0,,Bilang saja kalau mau makan sesuatu, ya,\Nnanti aku ambilkan.
+Dialogue: 0,0:01:24.66,0:01:27.45,Default,,0,0,0,,Duh, kalian ini.
+Dialogue: 0,0:01:27.45,0:01:31.33,Default,,0,0,0,,Tidak ada gunanya memikirkan\Nyang sudah lewat.
+Dialogue: 0,0:01:31.33,0:01:32.78,Default,,0,0,0,,Atau apa?
+Dialogue: 0,0:01:32.78,0:01:35.68,Default,,0,0,0,,Kalian tidak mau makan\Nmakanan yang aku ambilkan?
+Dialogue: 0,0:03:29.38,0:03:32.90,Default,,0,0,0,,Omong-omong, apa kalian aman?
+Dialogue: 0,0:03:32.90,0:03:35.79,Default,,0,0,0,,Ada orang yang meminta kalian\Nmenculik Shizuka, kan?
+Dialogue: 0,0:03:35.79,0:03:38.45,Default,,0,0,0,,- Benar juga.\N- Oh, iya.
+Dialogue: 0,0:03:38.45,0:03:40.30,Default,,0,0,0,,Kayaknya bakal gawat.
+Dialogue: 0,0:03:40.30,0:03:41.78,Default,,0,0,0,,Tenang saja.
+Dialogue: 0,0:03:41.78,0:03:44.18,Default,,0,0,0,,Aku akan mencoba bicara padanya.
+Dialogue: 0,0:03:44.62,0:03:46.05,Default,,0,0,0,,Bicara, ya?
+Dialogue: 0,0:03:48.48,0:03:51.43,Default,,0,0,0,,Siapa juga yang mau bicara\Ndengan orang yang kalah?
+Dialogue: 0,0:03:51.43,0:03:53.81,Default,,0,0,0,,Kerja saja cuma setengah-setengah.
+Dialogue: 0,0:03:54.45,0:03:57.27,Default,,0,0,0,,Aku benar-benar tidak pandai menilai orang.
+Dialogue: 0,0:03:57.90,0:03:58.95,Default,,0,0,0,,Tapi, yah...
+Dialogue: 0,0:03:58.95,0:04:02.28,Default,,0,0,0,,Aku dapat satu lagi kartu Furin.
+Dialogue: 0,0:04:06.73,0:04:08.28,Default,,0,0,0,,Kenapa...
+Dialogue: 0,0:04:08.28,0:04:10.79,Default,,0,0,0,,Kenapa kamu ada di sini?
+Dialogue: 0,0:04:10.79,0:04:12.58,Default,,0,0,0,,Cerewet.
+Dialogue: 0,0:04:12.58,0:04:15.03,Default,,0,0,0,,Aku akan pergi ke tempat yang kuinginkan.
+Dialogue: 0,0:04:15.63,0:04:18.19,Default,,0,0,0,,Sejak dulu juga begitu, kan?
+Dialogue: 0,0:04:18.19,0:04:21.17,Default,,0,0,0,,Hal yang menyenangkan dan enak,
+Dialogue: 0,0:04:22.02,0:04:24.36,Default,,0,0,0,,hanya itulah
+Dialogue: 0,0:04:24.36,0:04:27.26,Default,,0,0,0,,cara mengisi waktu sampai kita mati.
+Dialogue: 0,0:04:51.58,0:04:56.10,Default,,0,0,0,,Sakit!
+Dialogue: 0,0:04:56.10,0:04:59.65,Default,,0,0,0,,Hah? Lompat dari lantai dua\Nrasanya sesakit ini?
+Dialogue: 0,0:04:59.65,0:05:02.67,Default,,0,0,0,,Padahal di TV kelihatan keren banget.
+Dialogue: 0,0:05:12.26,0:05:16.02,Default,,0,0,0,,Sakura, jangan coba-coba sentuh dia.
+Dialogue: 0,0:05:16.02,0:05:19.39,Default,,0,0,0,,Beraninya kamu muncul dengan santai begitu.
+Dialogue: 0,0:05:24.38,0:05:25.95,Default,,0,0,0,,Hei, hei.
+Dialogue: 0,0:05:25.95,0:05:28.20,Default,,0,0,0,,Padahal sudah lama tidak bertemu.
+Dialogue: 0,0:05:28.20,0:05:31.19,Default,,0,0,0,,Kalau disambut\Ndengan aura penuh semangat begitu,
+Dialogue: 0,0:05:35.69,0:05:38.55,Default,,0,0,0,,aku jadi ikut senang, tahu.
+Dialogue: 0,0:05:46.83,0:05:48.96,Default,,0,0,0,,Oh, keren banget.
+Dialogue: 0,0:05:49.68,0:05:52.46,Default,,0,0,0,,Bocah-bocah ini sok jagoan banget.
+Dialogue: 0,0:05:53.46,0:05:55.72,Default,,0,0,0,,Akulah orang yang kamu cari.
+Dialogue: 0,0:05:58.00,0:05:59.66,Default,,0,0,0,,Mereka tidak ada hubungannya.
+Dialogue: 0,0:06:02.85,0:06:05.03,Default,,0,0,0,,Biarkan kami bicara berdua.
+Dialogue: 0,0:06:05.84,0:06:07.27,Default,,0,0,0,,Ayo pindah tempat.
+Dialogue: 0,0:06:10.52,0:06:11.38,Default,,0,0,0,,Oh.
+Dialogue: 0,0:06:12.43,0:06:14.48,Default,,0,0,0,,Jadi begitu.
+Dialogue: 0,0:06:15.35,0:06:17.24,Default,,0,0,0,,Rupanya kamulah...
+Dialogue: 0,0:06:18.26,0:06:20.50,Default,,0,0,0,,dalang di balik semua ini.
+Dialogue: 0,0:06:34.30,0:06:35.68,Default,,0,0,0,,Hei, Tsubaki.
+Dialogue: 0,0:06:35.68,0:06:38.18,Default,,0,0,0,,Seharusnya kamu kenalkan aku pada juniormu.
+Dialogue: 0,0:06:38.18,0:06:40.10,Default,,0,0,0,,Mereka jadi kebingungan, kan?
+Dialogue: 0,0:06:43.35,0:06:44.35,Default,,0,0,0,,Dia adalah...
+Dialogue: 0,0:06:45.76,0:06:48.71,Default,,0,0,0,,Mantan murid Furin yang seangkatan denganku,
+Dialogue: 0,0:06:49.67,0:06:51.43,Default,,0,0,0,,Endo Yamato.
+Dialogue: 0,0:07:12.90,0:07:14.78,Default,,0,0,0,,Aku jadi malu.
+Dialogue: 0,0:07:14.78,0:07:18.05,Default,,0,0,0,,Aku cuma setahun di sana, sih.
+Dialogue: 0,0:07:27.18,0:07:28.45,Default,,0,0,0,,Sakura, hentikan.
+Dialogue: 0,0:07:42.96,0:07:46.01,Default,,0,0,0,,Bajingan, ya.
+Dialogue: 0,0:07:47.13,0:07:49.32,Default,,0,0,0,,Jangan begitu, dong.
+Dialogue: 0,0:07:49.32,0:07:53.71,Default,,0,0,0,,Furin yang jadi pahlawan kota\Ntidak boleh bicara kasar.
+Dialogue: 0,0:07:54.63,0:07:56.47,Default,,0,0,0,,Terlepas dari itu...
+Dialogue: 0,0:07:56.47,0:08:00.88,Default,,0,0,0,,Oh, jadi kamu yang namanya Sakura.
+Dialogue: 0,0:08:02.12,0:08:05.60,Default,,0,0,0,,Warna rambut dan mata itu...
+Dialogue: 0,0:08:06.25,0:08:09.35,Default,,0,0,0,,Kamu salah satu orang yang menyerbu KEEL, ya?
+Dialogue: 0,0:08:10.86,0:08:13.48,Default,,0,0,0,,Aku melihat semuanya, lo.
+Dialogue: 0,0:08:14.23,0:08:16.86,Default,,0,0,0,,Saat kamu maju sendirian
+Dialogue: 0,0:08:16.86,0:08:20.91,Default,,0,0,0,,maupun saat tidak fokus\Nkarena memikirkan orang lain.
+Dialogue: 0,0:08:21.73,0:08:23.54,Default,,0,0,0,,Saat itu, aku terpikir...
+Dialogue: 0,0:08:23.91,0:08:25.03,Default,,0,0,0,,Sakura,
+Dialogue: 0,0:08:26.04,0:08:29.38,Default,,0,0,0,,orang sepertimu tidak pantas ada di Furin.
+Dialogue: 0,0:08:30.80,0:08:34.42,Default,,0,0,0,,Mending berhenti saja.
+Dialogue: 0,0:08:52.44,0:08:55.95,Default,,0,0,0,,Hei, hei, suaramu melengking banget, tuh.
+Dialogue: 0,0:09:02.33,0:09:03.91,Default,,0,0,0,,Kok tiba-tiba menyerang?
+Dialogue: 0,0:09:03.91,0:09:05.96,Default,,0,0,0,,Tarik kembali ucapanmu tadi.
+Dialogue: 0,0:09:05.96,0:09:08.13,Default,,0,0,0,,Hah? Aku cuma...
+Dialogue: 0,0:09:09.78,0:09:12.71,Default,,0,0,0,,Tidak ada orang yang lebih cocok darinya\Nuntuk berada di Furin!
+Dialogue: 0,0:09:12.71,0:09:15.51,Default,,0,0,0,,Yah, kamu sendiri bukan orang Furin, kan?
+Dialogue: 0,0:09:39.33,0:09:40.73,Default,,0,0,0,,Ya ampun.
+Dialogue: 0,0:09:40.73,0:09:42.74,Default,,0,0,0,,Dengarkan dulu sampai selesai.
+Dialogue: 0,0:09:42.74,0:09:45.58,Default,,0,0,0,,Aku tidak bermaksud meremehkannya.
+Dialogue: 0,0:09:45.58,0:09:47.61,Default,,0,0,0,,Justru sebaliknya.
+Dialogue: 0,0:09:47.61,0:09:49.33,Default,,0,0,0,,Aku memujinya.
+Dialogue: 0,0:09:49.98,0:09:52.04,Default,,0,0,0,,Sayang sekali kalau dibiarkan.
+Dialogue: 0,0:09:53.42,0:09:56.22,Default,,0,0,0,,Kamu terhalang oleh orang lain.
+Dialogue: 0,0:09:56.85,0:09:59.83,Default,,0,0,0,,Kemampuan aslimu seharusnya\Njauh lebih dari itu.
+Dialogue: 0,0:10:01.35,0:10:03.53,Default,,0,0,0,,Orang sepertimu
+Dialogue: 0,0:10:04.33,0:10:06.80,Default,,0,0,0,,lebih cocok sendirian.
+Dialogue: 0,0:10:29.75,0:10:31.99,Default,,0,0,0,,Boleh juga.
+Dialogue: 0,0:10:32.75,0:10:35.23,Default,,0,0,0,,Tadinya aku tidak ada niat ke situ,
+Dialogue: 0,0:10:40.33,0:10:43.01,Default,,0,0,0,,ayo kita main sebentar, deh.
+Dialogue: 0,0:10:50.75,0:10:51.75,Default,,0,0,0,,Hentikan.
+Dialogue: 0,0:10:53.00,0:10:54.11,Default,,0,0,0,,Suzuri!
+Dialogue: 0,0:10:54.11,0:10:56.44,Default,,0,0,0,,Hei! Kamu itu tidak ada hubungannya!
+Dialogue: 0,0:10:56.44,0:10:57.80,Default,,0,0,0,,Itu benar.
+Dialogue: 0,0:10:57.80,0:11:00.89,Default,,0,0,0,,Aku sudah tidak peduli padamu, enyahlah.
+Dialogue: 0,0:11:00.89,0:11:03.20,Default,,0,0,0,,Mustahil kamu tidak peduli.
+Dialogue: 0,0:11:03.20,0:11:05.89,Default,,0,0,0,,Dilihat dari semua yang terjadi sekarang,
+Dialogue: 0,0:11:05.89,0:11:07.32,Default,,0,0,0,,akarnya ada padaku.
+Dialogue: 0,0:11:07.98,0:11:09.69,Default,,0,0,0,,Kamu datang kemari
+Dialogue: 0,0:11:09.69,0:11:11.83,Default,,0,0,0,,untuk memeriksa pekerjaanku, kan?
+Dialogue: 0,0:11:12.74,0:11:14.72,Default,,0,0,0,,Seharusnya ini urusan kita.
+Dialogue: 0,0:11:15.56,0:11:16.59,Default,,0,0,0,,Aku tidak bisa
+Dialogue: 0,0:11:17.59,0:11:20.47,Default,,0,0,0,,melibatkan mereka lebih jauh lagi.
+Dialogue: 0,0:11:22.88,0:11:24.34,Default,,0,0,0,,Suzuri.
+Dialogue: 0,0:11:24.95,0:11:28.35,Default,,0,0,0,,Karena itu, kumohon...
+Dialogue: 0,0:11:30.63,0:11:31.69,Default,,0,0,0,,Mundurlah.
+Dialogue: 0,0:11:32.79,0:11:35.73,Default,,0,0,0,,Aku akan bertanggung jawab sepenuhnya.
+Dialogue: 0,0:11:39.23,0:11:42.02,Default,,0,0,0,,Su-Suzuri.
+Dialogue: 0,0:11:49.95,0:11:51.83,Default,,0,0,0,,Suzuri! Pergilah!
+Dialogue: 0,0:11:56.71,0:11:59.45,Default,,0,0,0,,Aku sering melihat orang bersujud,
+Dialogue: 0,0:11:59.45,0:12:02.42,Default,,0,0,0,,tapi tidak ada yang sesemangat ini.
+Dialogue: 0,0:12:03.76,0:12:05.35,Default,,0,0,0,,Selain itu,
+Dialogue: 0,0:12:05.35,0:12:09.18,Default,,0,0,0,,kok kamu semenyedihkan ini?
+Dialogue: 0,0:12:09.18,0:12:11.18,Default,,0,0,0,,Sampai sujud segala.
+Dialogue: 0,0:12:16.81,0:12:18.05,Default,,0,0,0,,Oke.
+Dialogue: 0,0:12:18.05,0:12:20.07,Default,,0,0,0,,Akan kuanggap impas.
+Dialogue: 0,0:12:22.53,0:12:26.30,Default,,0,0,0,,Pak tua yang memintaku juga\Nterlihat mencurigakan, sih.
+Dialogue: 0,0:12:27.53,0:12:29.67,Default,,0,0,0,,Kalau diancam sedikit saja,
+Dialogue: 0,0:12:31.51,0:12:35.17,Default,,0,0,0,,dia tidak akan berani \Nmenyentuh wanita itu lagi.
+Dialogue: 0,0:12:36.40,0:12:38.80,Default,,0,0,0,,Apa maksudmu?
+Dialogue: 0,0:12:38.80,0:12:40.67,Default,,0,0,0,,Apa yang kamu rencanakan?
+Dialogue: 0,0:12:40.67,0:12:42.77,Default,,0,0,0,,Hah? Tidak ada.
+Dialogue: 0,0:12:43.33,0:12:45.28,Default,,0,0,0,,Kalau harus disebut...
+Dialogue: 0,0:12:45.28,0:12:47.80,Default,,0,0,0,,Mungkin karena aku sedang senang?
+Dialogue: 0,0:12:49.08,0:12:50.30,Default,,0,0,0,,Benar juga.
+Dialogue: 0,0:12:51.28,0:12:54.31,Default,,0,0,0,,Dari dulu kamu memang seperti itu.
+Dialogue: 0,0:12:54.93,0:12:57.27,Default,,0,0,0,,Tidak ada yang tahu apa yang kamu pikirkan.
+Dialogue: 0,0:12:57.88,0:12:59.27,Default,,0,0,0,,Ah...
+Dialogue: 0,0:13:00.33,0:13:02.94,Default,,0,0,0,,Setelah tertawa aku jadi hilang semangat.
+Dialogue: 0,0:13:03.58,0:13:07.40,Default,,0,0,0,,Dalam waktu dekat,\Naku akan datang lagi ke Furin.
+Dialogue: 0,0:13:07.40,0:13:08.95,Default,,0,0,0,,Sampai nanti.
+Dialogue: 0,0:13:17.00,0:13:19.20,Default,,0,0,0,,Aku bilang, "Sampai nanti," kan?
+Dialogue: 0,0:13:22.75,0:13:23.92,Default,,0,0,0,,Dasar bocah.
+Dialogue: 0,0:13:25.92,0:13:28.05,Default,,0,0,0,,Sakura, jangan kejar dia!
+Dialogue: 0,0:13:28.54,0:13:29.71,Default,,0,0,0,,Kamu dengar itu?
+Dialogue: 0,0:13:30.18,0:13:32.89,Default,,0,0,0,,Dengarkan nasihat kakak kelasmu.
+Dialogue: 0,0:13:33.77,0:13:35.87,Default,,0,0,0,,Soalnya kamu masih kelas satu.
+Dialogue: 0,0:14:21.23,0:14:23.82,Default,,0,0,0,,Aku benar-benar minta maaf.
+Dialogue: 0,0:14:25.90,0:14:27.15,Default,,0,0,0,,Gara-gara aku,
+Dialogue: 0,0:14:27.93,0:14:30.39,Default,,0,0,0,,kalian jadi berhadapan dengan orang itu.
+Dialogue: 0,0:14:31.78,0:14:33.11,Default,,0,0,0,,Ditambah lagi,
+Dialogue: 0,0:14:33.82,0:14:37.74,Default,,0,0,0,,ternyata dia mantan Furin.
+Dialogue: 0,0:14:38.83,0:14:41.10,Default,,0,0,0,,Aku sampai kehabisan kata-kata...
+Dialogue: 0,0:14:45.00,0:14:46.12,Default,,0,0,0,,Soalnya aku...
+Dialogue: 0,0:15:14.90,0:15:17.41,Default,,0,0,0,,Tidak ada yang perlu\Nkamu khawatirkan, Suzuri.
+Dialogue: 0,0:15:17.85,0:15:20.57,Default,,0,0,0,,Toh, kamilah yang memilih turun tangan.
+Dialogue: 0,0:15:22.23,0:15:22.85,Default,,0,0,0,,Tapi...
+Dialogue: 0,0:15:22.85,0:15:24.41,Default,,0,0,0,,Halah!
+Dialogue: 0,0:15:24.41,0:15:26.66,Default,,0,0,0,,Makanannya nanti dingin.
+Dialogue: 0,0:15:26.66,0:15:28.01,Default,,0,0,0,,Cepat dimakan.
+Dialogue: 0,0:15:49.80,0:15:50.91,Default,,0,0,0,,Enak.
+Dialogue: 0,0:15:54.00,0:15:55.44,Default,,0,0,0,,Enak.
+Dialogue: 0,0:15:56.13,0:15:57.80,Default,,0,0,0,,Ini pertama kalinya
+Dialogue: 0,0:15:59.04,0:16:01.68,Default,,0,0,0,,aku makan makanan seenak ini dalam hidupku.
+Dialogue: 0,0:16:01.68,0:16:03.16,Default,,0,0,0,,Begitu, ya?
+Dialogue: 0,0:16:03.16,0:16:05.26,Default,,0,0,0,,Ayo makan lagi!\NOh, coba makan ini!
+Dialogue: 0,0:16:05.26,0:16:07.33,Default,,0,0,0,,- Makanlah semuanya!\N- Yang ini juga enak, lo.
+Dialogue: 0,0:16:07.33,0:16:09.17,Default,,0,0,0,,I-Iya.
+Dialogue: 0,0:16:09.65,0:16:11.94,Default,,0,0,0,,Orang yang kesulitan untuk makan hari ini,
+Dialogue: 0,0:16:11.94,0:16:14.89,Default,,0,0,0,,mana bisa melakukan hal yang disukainya?
+Dialogue: 0,0:16:14.89,0:16:16.30,Default,,0,0,0,,Hei, Suzuri.
+Dialogue: 0,0:16:16.30,0:16:19.30,Default,,0,0,0,,Apa yang sebenarnya ingin kamu lakukan?
+Dialogue: 0,0:16:19.85,0:16:20.47,Default,,0,0,0,,Eh?
+Dialogue: 0,0:16:20.93,0:16:23.14,Default,,0,0,0,,Dari yang kamu bilang tadi,
+Dialogue: 0,0:16:23.14,0:16:26.93,Default,,0,0,0,,bukankah ada hal yang ingin kamu lakukan,\Natau sesuatu yang kamu sukai?
+Dialogue: 0,0:16:26.93,0:16:28.08,Default,,0,0,0,,Apa itu?
+Dialogue: 0,0:16:36.38,0:16:36.99,Default,,0,0,0,,Gi...
+Dialogue: 0,0:16:38.60,0:16:40.20,Default,,0,0,0,,Gim.
+Dialogue: 0,0:16:40.20,0:16:42.07,Default,,0,0,0,,Gim?
+Dialogue: 0,0:16:42.51,0:16:44.81,Default,,0,0,0,,Gim othello atau kartu, begitu?
+Dialogue: 0,0:16:44.81,0:16:47.33,Default,,0,0,0,,Bukan, yang dicolok ke TV.
+Dialogue: 0,0:16:47.33,0:16:49.15,Default,,0,0,0,,Oh, aku mengerti.
+Dialogue: 0,0:16:49.15,0:16:52.62,Default,,0,0,0,,Harus ada TV, konsol,\Ndan software semacamnya itu, kan?
+Dialogue: 0,0:16:52.62,0:16:54.38,Default,,0,0,0,,Kayaknya tidak bisa sekarang, deh.
+Dialogue: 0,0:16:54.38,0:16:57.84,Default,,0,0,0,,Oh, kalau mau model lama,\Nkayaknya aku masih simpan di lemariku.
+Dialogue: 0,0:16:57.84,0:16:59.42,Default,,0,0,0,,Tidak apa-apa.
+Dialogue: 0,0:16:59.42,0:17:01.00,Default,,0,0,0,,Aku akan bekerja, dan uangnya...
+Dialogue: 0,0:17:01.00,0:17:02.08,Default,,0,0,0,,Ada, lo.
+Dialogue: 0,0:17:05.50,0:17:06.55,Default,,0,0,0,,Ayo main!
+Dialogue: 0,0:17:06.55,0:17:08.98,Default,,0,0,0,,Wah, Hidaka! Mantap juga kamu!
+Dialogue: 0,0:17:14.68,0:17:16.08,Default,,0,0,0,,Bukan, bukan!
+Dialogue: 0,0:17:16.08,0:17:17.82,Default,,0,0,0,,Bukan tombol yang itu.
+Dialogue: 0,0:17:17.82,0:17:19.23,Default,,0,0,0,,Sip, aku paling depan!
+Dialogue: 0,0:17:19.23,0:17:20.68,Default,,0,0,0,,Duh, aku jatuh.
+Dialogue: 0,0:17:20.68,0:17:22.68,Default,,0,0,0,,Hei, Suzuri, kamu salah jalan.
+Dialogue: 0,0:17:22.68,0:17:24.85,Default,,0,0,0,,Sialan! Tunggu dulu, Kanji!
+Dialogue: 0,0:17:24.85,0:17:26.37,Default,,0,0,0,,Semangat, Hidaka.
+Dialogue: 0,0:17:26.99,0:17:28.75,Default,,0,0,0,,Asyik, juara satu!
+Dialogue: 0,0:17:28.75,0:17:31.12,Default,,0,0,0,,Seperti biasa, Kanji memang jago, ya.
+Dialogue: 0,0:17:31.12,0:17:33.01,Default,,0,0,0,,Halah, kalah lagi!
+Dialogue: 0,0:17:34.18,0:17:36.25,Default,,0,0,0,,Suzuri juara terakhir lagi.
+Dialogue: 0,0:17:36.25,0:17:37.83,Default,,0,0,0,,Bagaimana, Suzuri?
+Dialogue: 0,0:17:37.83,0:17:40.00,Default,,0,0,0,,Apa kesan pertamamu setelah main gim ini?
+Dialogue: 0,0:17:42.90,0:17:45.51,Default,,0,0,0,,Me-Menyenangkan.
+Dialogue: 0,0:17:46.51,0:17:48.03,Default,,0,0,0,,Begitu katanya, Tsubaki.
+Dialogue: 0,0:17:48.03,0:17:49.27,Default,,0,0,0,,Syukurlah...
+Dialogue: 0,0:17:53.94,0:17:56.02,Default,,0,0,0,,Aku mau ke toilet dulu.
+Dialogue: 0,0:17:59.23,0:18:01.55,Default,,0,0,0,,Baiklah, Sakura!\NKita gantian!
+Dialogue: 0,0:18:01.55,0:18:02.88,Default,,0,0,0,,Sekarang giliranmu!
+Dialogue: 0,0:18:03.50,0:18:04.55,Default,,0,0,0,,Boleh, tuh.
+Dialogue: 0,0:18:04.55,0:18:06.12,Default,,0,0,0,,Ini controller-nya.
+Dialogue: 0,0:18:06.12,0:18:07.62,Default,,0,0,0,,Oh, ya sudah, aku juga.
+Dialogue: 0,0:18:07.62,0:18:09.62,Default,,0,0,0,,Bodoh, kamu harus tetap bermain.
+Dialogue: 0,0:18:33.39,0:18:35.80,Default,,0,0,0,,Suzuri makin jago, ya.
+Dialogue: 0,0:18:44.65,0:18:45.78,Default,,0,0,0,,Maaf.
+Dialogue: 0,0:19:04.45,0:19:07.26,Default,,0,0,0,,Kamu lebih cocok sendirian.
+Dialogue: 0,0:19:22.53,0:19:24.19,Default,,0,0,0,,Kamu tidak apa-apa?
+Dialogue: 0,0:19:24.83,0:19:25.86,Default,,0,0,0,,Iya, begitulah.
+Dialogue: 0,0:19:25.86,0:19:27.58,Default,,0,0,0,,Bukan itu.
+Dialogue: 0,0:19:28.49,0:19:30.29,Default,,0,0,0,,Soal Endo.
+Dialogue: 0,0:19:32.72,0:19:33.61,Default,,0,0,0,,Ya.
+Dialogue: 0,0:19:34.12,0:19:35.75,Default,,0,0,0,,Aku sudah beri tahu Ume.
+Dialogue: 0,0:19:35.75,0:19:39.40,Default,,0,0,0,,Aku mengerti kenapa Endo menyerang Furin.
+Dialogue: 0,0:19:39.40,0:19:41.00,Default,,0,0,0,,Tapi, tidak kusangka
+Dialogue: 0,0:19:41.64,0:19:44.46,Default,,0,0,0,,dia sangat tertarik dengan Sakura.
+Dialogue: 0,0:19:44.98,0:19:47.76,Default,,0,0,0,,Aku tidak bermaksud meremehkannya.
+Dialogue: 0,0:19:47.76,0:19:49.62,Default,,0,0,0,,Justru sebaliknya.
+Dialogue: 0,0:19:49.62,0:19:51.17,Default,,0,0,0,,Aku memujinya.
+Dialogue: 0,0:19:51.83,0:19:53.28,Default,,0,0,0,,Padahal,
+Dialogue: 0,0:19:53.28,0:19:57.53,Default,,0,0,0,,dia bukan tipe orang\Nyang mudah memuji seperti itu.
+Dialogue: 0,0:19:57.53,0:19:58.69,Default,,0,0,0,,Ya.
+Dialogue: 0,0:19:59.33,0:20:02.69,Default,,0,0,0,,Kecuali satu orang.
+Dialogue: 0,0:20:03.22,0:20:05.26,Default,,0,0,0,,Awasi dia baik-baik.
+Dialogue: 0,0:20:05.92,0:20:08.95,Default,,0,0,0,,Kita tidak tahu gangguan apa lagi\Nyang akan dia lakukan.
+Dialogue: 0,0:20:09.70,0:20:11.45,Default,,0,0,0,,Tentu saja.
+Dialogue: 0,0:20:20.16,0:20:22.55,Default,,0,0,0,,Sakura, Nirei, Suo.
+Dialogue: 0,0:20:22.55,0:20:23.35,Default,,0,0,0,,{\c&H1A1EB4&\3c&HFFFFFF&}- Iya?\N{\c&H54E7FD&\3c&H000000&}- Ya?
+Dialogue: 0,0:20:24.86,0:20:27.42,Default,,0,0,0,,Aku punya permintaan.
+Dialogue: 0,0:20:27.84,0:20:31.00,Default,,0,0,0,,Bisakah kalian bisa ke atap sekolah\Nbesok pagi?
+Dialogue: 0,0:20:35.80,0:20:37.62,Default,,0,0,0,,Jangan bilang begitu.
+Dialogue: 0,0:20:38.20,0:20:39.85,Default,,0,0,0,,Kali ini benar-benar salahku.
+Dialogue: 0,0:20:49.99,0:20:53.85,Default,,0,0,0,,Setelah aku menghubungi Ume, \Nkayaknya dia memanggil mereka semua.
+Dialogue: 0,0:20:53.85,0:20:55.49,Default,,0,0,0,,Yah, duduklah.
+Dialogue: 0,0:21:27.90,0:21:29.13,Default,,0,0,0,,Tumben sekali.
+Dialogue: 0,0:21:29.13,0:21:30.52,Default,,0,0,0,,Biasanya paling awal.
+Dialogue: 0,0:21:31.68,0:21:33.83,Default,,0,0,0,,Kadang memang suka begitu.
+Dialogue: 0,0:21:33.83,0:21:35.32,Default,,0,0,0,,Pagi, Ume.
+Dialogue: 0,0:21:35.32,0:21:36.88,Default,,0,0,0,,Tidak apa-apa, kok.
+Dialogue: 0,0:21:36.88,0:21:38.45,Default,,0,0,0,,Bangun kesiangan, ya?
+Dialogue: 0,0:20:33.63,0:20:35.43,柊登馬,,0,0,0,,Kamu lagi?
+Dialogue: 0,0:21:23.60,0:21:25.25,柊登馬,,0,0,0,,Dasar, kamu ini.
+Dialogue: 0,0:21:25.25,0:21:27.90,柊登馬,,0,0,0,,Kesadaranmu sebagai pemimpin masih kurang!
+Dialogue: 0,0:01:51.40,0:01:53.35,桜遥,,0,0,0,,Kurang ajar!
+Dialogue: 0,0:01:54.53,0:01:56.47,桜遥,,0,0,0,,Awas saja!
+Dialogue: 0,0:04:03.36,0:04:05.29,桜遥,,0,0,0,,Kenapa dia tahu kami Furin?
+Dialogue: 0,0:04:05.29,0:04:06.73,桜遥,,0,0,0,,Padahal kami tidak pakai seragam.
+Dialogue: 0,0:04:28.08,0:04:29.77,桜遥,,0,0,0,,Siapa dia?
+Dialogue: 0,0:04:31.31,0:04:33.68,桜遥,,0,0,0,,Tampaknya Tsubakino mengenalnya.
+Dialogue: 0,0:05:03.15,0:05:05.79,桜遥,,0,0,0,,Dih? Apa-apaan orang ini?
+Dialogue: 0,0:05:19.82,0:05:20.99,桜遥,,0,0,0,,Apa ini?
+Dialogue: 0,0:05:21.47,0:05:23.69,桜遥,,0,0,0,,Kenapa suasananya tegang begini?
+Dialogue: 0,0:06:27.43,0:06:29.10,桜遥,,0,0,0,,Lagi pula,
+Dialogue: 0,0:06:29.10,0:06:31.71,桜遥,,0,0,0,,tiba-tiba nongol begitu,\Nmemangnya kamu siapa?
+Dialogue: 0,0:06:58.78,0:07:01.37,桜遥,,0,0,0,,Hah? Apa sih?
+Dialogue: 0,0:07:19.55,0:07:20.81,桜遥,,0,0,0,,Apanya?
+Dialogue: 0,0:07:22.95,0:07:24.94,桜遥,,0,0,0,,Apanya yang legenda?
+Dialogue: 0,0:07:28.45,0:07:30.69,桜遥,,0,0,0,,Selegenda apa pun itu,
+Dialogue: 0,0:07:31.32,0:07:35.32,桜遥,,0,0,0,,kamu cuma dalang yang menyuruh orang lain\Nmelakukan penculikan,
+Dialogue: 0,0:07:35.32,0:07:37.20,桜遥,,0,0,0,,alias seorang bajingan!
+Dialogue: 0,0:09:30.10,0:09:31.52,桜遥,,0,0,0,,Dasar.
+Dialogue: 0,0:09:33.00,0:09:35.82,桜遥,,0,0,0,,Jangan tinggalkan aku sendirian!
+Dialogue: 0,0:10:11.62,0:10:13.52,桜遥,,0,0,0,,Jangan bicara seenaknya.
+Dialogue: 0,0:10:13.96,0:10:15.88,桜遥,,0,0,0,,Sejak tadi kamu banyak mengoceh.
+Dialogue: 0,0:10:15.88,0:10:18.27,桜遥,,0,0,0,,Berlagak sok tahu.
+Dialogue: 0,0:10:19.08,0:10:21.16,桜遥,,0,0,0,,Apa pun yang orang bilang,
+Dialogue: 0,0:10:21.62,0:10:25.15,桜遥,,0,0,0,,dirikulah yang berhak menentukan\Ntempatku berada.
+Dialogue: 0,0:13:08.95,0:13:10.88,桜遥,,0,0,0,,Hah? Yang benar saja!
+Dialogue: 0,0:13:10.88,0:13:11.98,桜遥,,0,0,0,,Tunggu dulu!
+Dialogue: 0,0:13:41.90,0:13:43.31,桜遥,,0,0,0,,Bajingan!
+Dialogue: 0,0:13:58.64,0:14:00.95,桜遥,,0,0,0,,Sialan! Dasar kurang ajar!
+Dialogue: 0,0:14:02.29,0:14:04.45,桜遥,,0,0,0,,Awas saja dia!
+Dialogue: 0,0:14:12.98,0:14:14.13,桜遥,,0,0,0,,Hah?
+Dialogue: 0,0:14:41.10,0:14:44.00,桜遥,,0,0,0,,Kenapa kamu harus meminta maaf?
+Dialogue: 0,0:14:46.12,0:14:49.71,桜遥,,0,0,0,,Dia datang karena ada kamu, kan?
+Dialogue: 0,0:14:49.71,0:14:51.25,桜遥,,0,0,0,,Terus kenapa?
+Dialogue: 0,0:14:52.95,0:14:54.38,桜遥,,0,0,0,,Aku sendiri...
+Dialogue: 0,0:14:54.95,0:14:57.70,桜遥,,0,0,0,,kesal bukan karena dia datang.
+Dialogue: 0,0:14:57.70,0:14:59.76,桜遥,,0,0,0,,Tapi kesal sama dianya.
+Dialogue: 0,0:15:00.68,0:15:03.27,桜遥,,0,0,0,,Jadi jangan terus-terusan minta maaf.
+Dialogue: 0,0:15:03.27,0:15:05.58,桜遥,,0,0,0,,Justru itu malah bikin kesal.
+Dialogue: 0,0:15:06.39,0:15:07.78,桜遥,,0,0,0,,Halah!
+Dialogue: 0,0:15:07.78,0:15:09.75,桜遥,,0,0,0,,Dipikir-pikir lagi malah makin kesal!
+Dialogue: 0,0:15:10.90,0:15:12.78,桜遥,,0,0,0,,Apa maksudnya "Bocah", coba?
+Dialogue: 0,0:15:12.78,0:15:14.90,桜遥,,0,0,0,,Padahal cuma lebih tua dua tahun!
+Dialogue: 0,0:18:11.48,0:18:14.03,桜遥,,0,0,0,,Aku belum pernah main beginian.
+Dialogue: 0,0:18:47.37,0:18:49.95,桜遥,,0,0,0,,Ayo tanding sekali lagi! Sialan!
+Dialogue: 0,0:18:55.90,0:18:56.38,桜遥,,0,0,0,,Hei!
+Dialogue: 0,0:18:57.78,0:18:59.45,桜遥,,0,0,0,,Kita main sampai aku menang.
+Dialogue: 0,0:18:59.45,0:19:01.05,桜遥,,0,0,0,,Terserah mau berapa kali pun.
+Dialogue: 0,0:19:01.05,0:19:03.33,桜遥,,0,0,0,,Awas saja kalau habis menang kamu kabur.
+Dialogue: 0,0:20:44.78,0:20:48.38,桜遥,,0,0,0,,Kenapa ada banyak yang kumpul?
+Dialogue: 0,0:20:55.49,0:20:57.83,桜遥,,0,0,0,,Dasar, apa boleh buat.
+Dialogue: 0,0:21:00.40,0:21:02.25,桜遥,,0,0,0,,Hah? Apa, sih?
+Dialogue: 0,0:23:27.50,0:23:29.27,桜遥,,0,0,0,,Aku bilang sampai aku menang!
+Dialogue: 0,0:23:29.27,0:23:31.08,桜遥,,0,0,0,,Lah! Kenapa tidak mau belok, sih!
+Dialogue: 0,0:23:33.68,0:23:35.10,桜遥,,0,0,0,,Siapa juga yang sudi mengerem!
+Dialogue: 0,0:23:35.10,0:23:36.23,桜遥,,0,0,0,,Lo? Sekarang apa lagi?
+Dialogue: 0,0:21:18.50,0:21:21.23,梅宮一,,0,0,0,,Lah? Sudah pada kumpul?
+Dialogue: 0,0:21:40.40,0:21:42.12,梅宮一,,0,0,0,,Sakura, Suo, Nirei.
+Dialogue: 0,0:21:42.12,0:21:44.21,梅宮一,,0,0,0,,Terima kasih sudah datang pagi-pagi.
+Dialogue: 0,0:21:45.56,0:21:46.50,梅宮一,,0,0,0,,Baiklah,
+Dialogue: 0,0:21:47.28,0:21:48.75,梅宮一,,0,0,0,,ayo kita mulai.
+Dialogue: 0,0:01:35.68,0:01:37.47,楡井秋彦,,0,0,0,,Bu-Bukan begitu.
+Dialogue: 0,0:01:38.50,0:01:39.84,楡井秋彦,,0,0,0,,Hanya saja,
+Dialogue: 0,0:01:40.53,0:01:44.35,楡井秋彦,,0,0,0,,sulit bersikap biasa saja\Nsetelah hal itu terjadi.
+Dialogue: 0,0:06:54.87,0:06:56.82,楡井秋彦,,0,0,0,,Mantan Furin?
+Dialogue: 0,0:07:05.18,0:07:08.42,楡井秋彦,,0,0,0,,Tidak ada orang Furin yang tidak mengenalnya.
+Dialogue: 0,0:07:08.86,0:07:10.78,楡井秋彦,,0,0,0,,Dia sudah seperti legenda.
+Dialogue: 0,0:08:38.36,0:08:39.43,楡井秋彦,,0,0,0,,Itu...
+Dialogue: 0,0:08:39.43,0:08:41.93,楡井秋彦,,0,0,0,,Itu tidak benar!
+Dialogue: 0,0:08:44.86,0:08:48.31,楡井秋彦,,0,0,0,,Tahu apa kamu tentang Sakura?
+Dialogue: 0,0:08:49.84,0:08:52.44,楡井秋彦,,0,0,0,,Jangan bicara seenaknya!
+Dialogue: 0,0:14:05.75,0:14:07.63,楡井秋彦,,0,0,0,,Sa-Sakura.
+Dialogue: 0,0:14:07.63,0:14:10.63,楡井秋彦,,0,0,0,,Kalau makan mendadak begitu,\Nnanti tubuhmu bisa kaget.
+Dialogue: 0,0:15:09.75,0:15:10.90,楡井秋彦,,0,0,0,,Hei, Sakura.
+Dialogue: 0,0:18:14.03,0:18:15.83,楡井秋彦,,0,0,0,,Benar juga.
+Dialogue: 0,0:18:15.83,0:18:17.26,楡井秋彦,,0,0,0,,Ya sudah, begini...
+Dialogue: 0,0:18:17.26,0:18:18.93,楡井秋彦,,0,0,0,,Yang ini gas.
+Dialogue: 0,0:18:18.93,0:18:20.51,楡井秋彦,,0,0,0,,Yang ini rem.
+Dialogue: 0,0:18:41.78,0:18:44.11,楡井秋彦,,0,0,0,,Suo, jaga bicaramu, dong!
+Dialogue: 0,0:18:50.79,0:18:53.13,楡井秋彦,,0,0,0,,Suo, gantian, dong.
+Dialogue: 0,0:19:11.20,0:19:13.35,楡井秋彦,,0,0,0,,Siap! Akan kutemani!
+Dialogue: 0,0:20:57.83,0:21:00.40,楡井秋彦,,0,0,0,,Lo? Sakura? Cuma begitu?
+Dialogue: 0,0:21:02.25,0:21:04.38,楡井秋彦,,0,0,0,,So-Soalnya...
+Dialogue: 0,0:21:04.38,0:21:09.45,楡井秋彦,,0,0,0,,Kalau para petinggi\Ndan Empat Raja berkumpul,
+Dialogue: 0,0:21:10.80,0:21:15.22,楡井秋彦,,0,0,0,,berarti masalah kemarin\Nsangatlah penting, kan?
+Dialogue: 0,0:23:25.37,0:23:27.50,楡井秋彦,,0,0,0,,Sakura, sudahan, dong!
+Dialogue: 0,0:23:31.08,0:23:32.75,楡井秋彦,,0,0,0,,Gasnya jangan dipencet terus!
+Dialogue: 0,0:23:32.75,0:23:33.68,楡井秋彦,,0,0,0,,Kamu harus rem!
+Dialogue: 0,0:23:36.23,0:23:37.00,楡井秋彦,,0,0,0,,Salah jalan!
+Dialogue: 0,0:23:37.00,0:23:39.58,楡井秋彦,,0,0,0,,Jangan sampai kamu punya SIM, ya!
+Dialogue: 0,0:06:57.37,0:06:58.78,蘇枋隼飛,,0,0,0,,Endo.
+Dialogue: 0,0:07:01.37,0:07:04.15,蘇枋隼飛,,0,0,0,,Dia orang terkenal yang bahkan aku saja tahu.
+Dialogue: 0,0:09:15.95,0:09:16.75,蘇枋隼飛,,0,0,0,,Berarti...
+Dialogue: 0,0:09:17.48,0:09:19.39,蘇枋隼飛,,0,0,0,,Kalau orang Furin yang maju, boleh, kan?
+Dialogue: 0,0:13:11.98,0:13:12.83,蘇枋隼飛,,0,0,0,,Sakura!
+Dialogue: 0,0:18:35.80,0:18:38.66,蘇枋隼飛,,0,0,0,,Sakura, kamu harus belajar dari Suzuri.
+Dialogue: 0,0:18:39.28,0:18:41.78,蘇枋隼飛,,0,0,0,,Selain itu, Nirei jago banget, ya.
+Dialogue: 0,0:18:53.13,0:18:55.90,蘇枋隼飛,,0,0,0,,Eh? Aku lebih suka menonton.
