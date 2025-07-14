@@ -11,8 +11,8 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 1.000000
-Scroll Position: 25
-Active Line: 31
+Scroll Position: 335
+Active Line: 341
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,23 +63,23 @@ Dialogue: 0,0:01:34.76,0:01:36.76,Default,,0,0,0,,Dia sangat berbakat dan potens
 Dialogue: 0,0:01:36.84,0:01:40.18,Default,,0,0,0,,Seluruh negeri\Nharus melihat Sasago yang asli!
 Dialogue: 0,0:01:40.26,0:01:44.14,Default,,0,0,0,,Ya! Hidup Sasago!
 Dialogue: 0,0:01:55.03,0:01:58.95,Default,,0,0,0,,-Sasago!\N-Sasago!
-Dialogue: 0,0:02:01.37,0:02:04.45,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Halo, Teman-temanku
-Dialogue: 0,0:02:04.54,0:02:07.21,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Aku ingat hari-hari
-Dialogue: 0,0:02:07.29,0:02:12.21,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Saat kita membicarakan mimpi-mimpi
-Dialogue: 0,0:02:13.38,0:02:19.59,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Sulit rasanya menjadi dewasa
-Dialogue: 0,0:02:19.68,0:02:22.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Mari kita cari
-Dialogue: 0,0:02:22.47,0:02:27.48,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Hal yang kita sembunyikan
-Dialogue: 0,0:02:27.56,0:02:28.56,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Hei!
-Dialogue: 0,0:02:37.36,0:02:43.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Buanglah pikiran kacaumu
-Dialogue: 0,0:02:43.49,0:02:46.37,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Rasakan kebahagiaanmu
-Dialogue: 0,0:02:46.45,0:02:50.17,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Tegakkan kepalamu dan larilah, ya
-Dialogue: 0,0:02:51.33,0:02:54.34,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Hujan telah berhenti
-Dialogue: 0,0:02:54.42,0:02:57.51,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Bernyanyilah
-Dialogue: 0,0:02:57.59,0:03:00.89,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Bergandenganlah
-Dialogue: 0,0:03:03.76,0:03:06.72,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Aku juga tertawa
-Dialogue: 0,0:03:06.81,0:03:09.89,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Kau juga tertawa
-Dialogue: 0,0:03:09.98,0:03:13.27,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Aku yakin dengan begini
-Dialogue: 0,0:03:13.36,0:03:19.24,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Kita akan bertemu lagi
+Dialogue: 0,0:02:01.37,0:02:04.45,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Halo, Teman-temanku
+Dialogue: 0,0:02:04.54,0:02:07.21,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku ingat hari-hari
+Dialogue: 0,0:02:07.29,0:02:12.21,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Saat kita membicarakan mimpi-mimpi
+Dialogue: 0,0:02:13.38,0:02:19.59,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Sulit rasanya menjadi dewasa
+Dialogue: 0,0:02:19.68,0:02:22.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Mari kita cari
+Dialogue: 0,0:02:22.47,0:02:27.48,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Hal yang kita sembunyikan
+Dialogue: 0,0:02:27.56,0:02:28.56,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Hei!
+Dialogue: 0,0:02:37.36,0:02:43.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Buanglah pikiran kacaumu
+Dialogue: 0,0:02:43.49,0:02:46.37,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Rasakan kebahagiaanmu
+Dialogue: 0,0:02:46.45,0:02:50.17,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Tegakkan kepalamu dan larilah, ya
+Dialogue: 0,0:02:51.33,0:02:54.34,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Hujan telah berhenti
+Dialogue: 0,0:02:54.42,0:02:57.51,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Bernyanyilah
+Dialogue: 0,0:02:57.59,0:03:00.89,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Bergandenganlah
+Dialogue: 0,0:03:03.76,0:03:06.72,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku juga tertawa
+Dialogue: 0,0:03:06.81,0:03:09.89,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Kau juga tertawa
+Dialogue: 0,0:03:09.98,0:03:13.27,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Aku yakin dengan begini
+Dialogue: 0,0:03:13.36,0:03:19.24,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Kita akan bertemu lagi
 Dialogue: 0,0:03:35.88,0:03:37.30,tanda,,0,0,0,,SENIN
 Dialogue: 0,0:03:46.93,0:03:48.72,tanda,,0,0,0,,UTANG MAKANANMU 1.000 YEN
 Dialogue: 0,0:04:02.99,0:04:04.82,Default,,0,0,0,,Misi selesai!
@@ -172,27 +172,27 @@ Dialogue: 0,0:08:00.93,0:08:02.85,tanda,,0,0,0,,KAPRIKORNUS\NBENDA KEBERUNTUNGAN
 Dialogue: 0,0:08:02.94,0:08:04.98,Default,,0,0,0,,Orang-orang yang percaya horoskop kita…
 Dialogue: 0,0:08:06.94,0:08:08.40,Default,,0,0,0,,Mustahil…
 Dialogue: 0,0:08:09.74,0:08:10.82,Default,,0,0,0,,Tak ada.
-Dialogue: 0,0:08:10.90,0:08:11.86,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Hilangkan saja.
+Dialogue: 0,0:08:10.90,0:08:11.86,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Hilangkan saja.
 Dialogue: 0,0:08:11.95,0:08:14.03,Default,,0,0,0,,Karena itu, ini bukan masalah.
-Dialogue: 0,0:08:14.11,0:08:15.24,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Singkirkan saja.
+Dialogue: 0,0:08:14.11,0:08:15.24,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Singkirkan saja.
 Dialogue: 0,0:08:15.91,0:08:18.12,Default,,0,0,0,,-Omong-omong, Todoroki…\N-Ya?
-Dialogue: 0,0:08:18.20,0:08:20.41,Default,,0,0,0,,Naskah {\i1\c&Hffffff&\fnTrebuchet MS}Tn. Mengecewakan {\c}{\fn\i0}sudah beres?
+Dialogue: 0,0:08:18.20,0:08:20.41,Default,,0,0,0,,Naskah {\i1\c&Hffffff&\fnBasic Comical NC}Tn. Mengecewakan {\c}{\fn\i0}sudah beres?
 Dialogue: 0,0:08:20.50,0:08:21.37,Default,,0,0,0,,Tidak…
 Dialogue: 0,0:08:21.46,0:08:23.12,tanda,,0,0,0,,TN. MENGECEWAKAN\NKENYATAAN SANGATLAH KEJAM
 Dialogue: 0,0:08:23.21,0:08:26.63,Default,,0,0,0,,Karena kami tiba-tiba memutuskan\Nbahwa ini komik terakhir,
 Dialogue: 0,0:08:26.71,0:08:28.84,Default,,0,0,0,,kami butuh tambahan waktu.
 Dialogue: 0,0:08:28.92,0:08:30.42,Default,,0,0,0,,Besok…
 Dialogue: 0,0:08:30.51,0:08:34.89,Default,,0,0,0,,Itu cuma satu halaman berisi empat panel.
-Dialogue: 0,0:08:34.97,0:08:38.31,Default,,0,0,0,,Jadi, ayo putuskan\Nhalaman {\i1\c&Hffffff&\fnTrebuchet MS}feature {\c}{\fn\i0}hari ini!
+Dialogue: 0,0:08:34.97,0:08:38.31,Default,,0,0,0,,Jadi, ayo putuskan\Nhalaman {\i1\c&Hffffff&\fnBasic Comical NC}feature {\c}{\fn\i0}hari ini!
 Dialogue: 0,0:08:38.39,0:08:40.27,Default,,0,0,0,,Ayo kita makan dahulu.
 Dialogue: 0,0:08:40.35,0:08:42.31,Default,,0,0,0,,Biar kupesan makanan dari Makabe…
-Dialogue: 0,0:08:43.06,0:08:45.52,Default,,0,0,0,,Mengapa {\i1\c&Hffffff&\fnTrebuchet MS}Tn. Mengecewakan {\c}{\fn\i0}akan tamat?
+Dialogue: 0,0:08:43.06,0:08:45.52,Default,,0,0,0,,Mengapa {\i1\c&Hffffff&\fnBasic Comical NC}Tn. Mengecewakan {\c}{\fn\i0}akan tamat?
 Dialogue: 0,0:08:46.02,0:08:46.90,Default,,0,0,0,,Apa?
 Dialogue: 0,0:08:48.48,0:08:52.90,Default,,0,0,0,,Sejujurnya, satu-satunya alasanku\Nmasuk majalah komunitas ini
-Dialogue: 0,0:08:52.99,0:08:55.20,Default,,0,0,0,,adalah karena ada {\i1\c&Hffffff&\fnTrebuchet MS}Tn. Mengecewakan.
+Dialogue: 0,0:08:52.99,0:08:55.20,Default,,0,0,0,,adalah karena ada {\i1\c&Hffffff&\fnBasic Comical NC}Tn. Mengecewakan.
 Dialogue: 0,0:08:56.11,0:09:01.20,Default,,0,0,0,,Sulit dipercaya bahwa karyaku\Ndan guruku tersayang akan tamat.
-Dialogue: 0,0:09:02.96,0:09:06.96,Default,,0,0,0,,Kumohon beri kesempatan\Nuntuk Pak Kamaboko Oni{\i1\c&Hffffff&\fnTrebuchet MS}.
-Dialogue: 0,0:09:08.59,0:09:14.68,Default,,0,0,0,,Namun, seniman selanjutnya\Nadalah Pak Daisuke Naganohara{\i1\c&Hffffff&\fnTrebuchet MS}.
+Dialogue: 0,0:09:02.96,0:09:06.96,Default,,0,0,0,,Kumohon beri kesempatan\Nuntuk Pak Kamaboko Oni{\i1\c&Hffffff&\fnBasic Comical NC}.
+Dialogue: 0,0:09:08.59,0:09:14.68,Default,,0,0,0,,Namun, seniman selanjutnya\Nadalah Pak Daisuke Naganohara{\i1\c&Hffffff&\fnBasic Comical NC}.
 Dialogue: 0,0:09:14.76,0:09:15.63,Default,,0,0,0,,Sungguh?
 Dialogue: 0,0:09:15.72,0:09:20.06,Default,,0,0,0,,{\an8}Dia seniman besar! Favoritku!
 Dialogue: 0,0:09:20.14,0:09:23.10,Default,,0,0,0,,{\an8}Aku sungguh tak sabar!
@@ -234,42 +234,42 @@ Dialogue: 0,0:11:38.53,0:11:41.49,tanda,,0,0,0,,MITAKE CAMERA - EDISI BULAN INI
 Dialogue: 0,0:12:03.39,0:12:06.51,tanda,,0,0,0,,TAHUN PERTAMA SMA, MUSIM SEMI
 Dialogue: 0,0:12:06.60,0:12:09.10,Default,,0,0,0,,Niikura, kau mendengarkan\Nacara radio Goro Kurobe?
 Dialogue: 0,0:12:09.18,0:12:12.52,Default,,0,0,0,,Tidak…
-Dialogue: 0,0:12:14.52,0:12:18.69,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Saat itu, aku tak punya hobi{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}atau keahlian khusus,{\c}{\fn}
-Dialogue: 0,0:12:18.78,0:12:21.70,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}jadi aku tak bisa{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}memulai percakapan dengan orang.{\c}{\fn}
-Dialogue: 0,0:12:21.78,0:12:25.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Aku pun mulai merasa cemas{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}soal mencari teman.{\c}{\fn}
-Dialogue: 0,0:12:25.57,0:12:29.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Lalu suatu hari,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}aku melewati lapangan tenis.{\c}{\fn}
-Dialogue: 0,0:12:29.83,0:12:32.66,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Di sana, pertama kalinya,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}di antara celah kerumunan…{\c}{\fn}
-Dialogue: 0,0:12:33.87,0:12:37.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}aku melihatnya di lapangan tenis.
+Dialogue: 0,0:12:14.52,0:12:18.69,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Saat itu, aku tak punya hobi{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}atau keahlian khusus,{\c}{\fn}
+Dialogue: 0,0:12:18.78,0:12:21.70,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}jadi aku tak bisa{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}memulai percakapan dengan orang.{\c}{\fn}
+Dialogue: 0,0:12:21.78,0:12:25.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku pun mulai merasa cemas{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}soal mencari teman.{\c}{\fn}
+Dialogue: 0,0:12:25.57,0:12:29.04,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Lalu suatu hari,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}aku melewati lapangan tenis.{\c}{\fn}
+Dialogue: 0,0:12:29.83,0:12:32.66,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Di sana, pertama kalinya,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}di antara celah kerumunan…{\c}{\fn}
+Dialogue: 0,0:12:33.87,0:12:37.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}aku melihatnya di lapangan tenis.
 Dialogue: 0,0:12:39.75,0:12:40.71,Default,,0,0,0,,Bagus!
 Dialogue: 0,0:12:40.80,0:12:44.51,Default,,0,0,0,,Nagumo dari klub pulang\Nmengalahkan Nasu dari klub tenis.
 Dialogue: 0,0:12:44.59,0:12:46.18,Default,,0,0,0,,Nasu peringkat keempat di Jepang.
 Dialogue: 0,0:12:46.85,0:12:47.97,Default,,0,0,0,,Apa yang terjadi?
-Dialogue: 0,0:12:48.05,0:12:51.52,Default,,0,0,0,,Besok, dia akan melawan Tsukiyama\Ndari tim {\i1\c&Hffffff&\fnTrebuchet MS}gateball.
+Dialogue: 0,0:12:48.05,0:12:51.52,Default,,0,0,0,,Besok, dia akan melawan Tsukiyama\Ndari tim {\i1\c&Hffffff&\fnBasic Comical NC}gateball.
 Dialogue: 0,0:12:51.60,0:12:54.35,Default,,0,0,0,,Apa? Siapa Midori Nagumo ini?
 Dialogue: 0,0:12:54.44,0:12:55.35,Default,,0,0,0,,Bagus!
 Dialogue: 0,0:12:55.44,0:12:56.35,tanda,,0,0,0,,TENGGARA\NNAGUMO
 Dialogue: 0,0:12:57.61,0:12:59.86,tanda,,0,0,0,,BAB\N"BURUNG YANG INDAH"
-Dialogue: 0,0:13:00.61,0:13:03.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Sejak saat itu,
-Dialogue: 0,0:13:03.57,0:13:07.87,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}aku sangat menantikan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}pertandingan Nagumo sepulang sekolah.{\c}{\fn}
+Dialogue: 0,0:13:00.61,0:13:03.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Sejak saat itu,
+Dialogue: 0,0:13:03.57,0:13:07.87,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}aku sangat menantikan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}pertandingan Nagumo sepulang sekolah.{\c}{\fn}
 Dialogue: 0,0:13:07.95,0:13:09.24,Default,,0,0,0,,Hore!
-Dialogue: 0,0:13:09.33,0:13:12.16,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Caranya menghancurkan klub satu demi satu
-Dialogue: 0,0:13:12.83,0:13:15.75,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}bahkan tampak meredakan depresiku.
-Dialogue: 0,0:13:15.83,0:13:18.21,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Aku mau momen itu berlangsung selamanya.
-Dialogue: 0,0:13:18.29,0:13:23.05,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Lalu aku tersadar{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}bahwa aku telah mengabadikannya.{\c}{\fn}
+Dialogue: 0,0:13:09.33,0:13:12.16,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Caranya menghancurkan klub satu demi satu
+Dialogue: 0,0:13:12.83,0:13:15.75,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}bahkan tampak meredakan depresiku.
+Dialogue: 0,0:13:15.83,0:13:18.21,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku mau momen itu berlangsung selamanya.
+Dialogue: 0,0:13:18.29,0:13:23.05,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Lalu aku tersadar{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}bahwa aku telah mengabadikannya.{\c}{\fn}
 Dialogue: 0,0:13:23.13,0:13:25.55,Default,,0,0,0,,Kalian tahu Nagumo, siswi tahun kedua?
 Dialogue: 0,0:13:25.63,0:13:28.35,Default,,0,0,0,,-Ya! Dia sangat keren.\N-Aku penggemar beratnya!
-Dialogue: 0,0:13:28.43,0:13:32.93,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Tinggal menunggu waktu sebelum semua orang{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}di sekolah tahu Nagumo.{\c}{\fn}
+Dialogue: 0,0:13:28.43,0:13:32.93,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Tinggal menunggu waktu sebelum semua orang{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}di sekolah tahu Nagumo.{\c}{\fn}
 Dialogue: 0,0:13:33.02,0:13:34.77,Default,,0,0,0,,Ayo dukung Nagumo!
-Dialogue: 0,0:13:35.48,0:13:37.44,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Di kelasku pun begitu.
+Dialogue: 0,0:13:35.48,0:13:37.44,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Di kelasku pun begitu.
 Dialogue: 0,0:13:37.52,0:13:38.65,Default,,0,0,0,,Niikura.
 Dialogue: 0,0:13:39.40,0:13:40.86,Default,,0,0,0,,Apa itu foto Nagumo?
 Dialogue: 0,0:13:43.03,0:13:45.03,Default,,0,0,0,,-Kau penggemar Nagumo?\N-Ya!
 Dialogue: 0,0:13:45.11,0:13:49.95,Default,,0,0,0,,-Masih ada lagi. Mau lihat?\N-Tunjukkan kepadaku. Keren!
 Dialogue: 0,0:13:50.03,0:13:51.45,Default,,0,0,0,,Aku juga mau lihat.
 Dialogue: 0,0:13:51.54,0:13:52.87,Default,,0,0,0,,Aku juga.
-Dialogue: 0,0:13:56.29,0:13:57.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Beberapa hari kemudian,
-Dialogue: 0,0:13:57.54,0:14:00.63,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Nagumo tiba-tiba pindah ke sekolah baru,
-Dialogue: 0,0:14:00.71,0:14:03.34,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}tetapi dia memberiku hadiah tak ternilai.
+Dialogue: 0,0:13:56.29,0:13:57.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Beberapa hari kemudian,
+Dialogue: 0,0:13:57.54,0:14:00.63,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Nagumo tiba-tiba pindah ke sekolah baru,
+Dialogue: 0,0:14:00.71,0:14:03.34,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}tetapi dia memberiku hadiah tak ternilai.
 Dialogue: 0,0:14:09.93,0:14:13.01,Default,,0,0,0,,Akan kuhadiahkan ini kepadanya\Nbersama sarapan.
 Dialogue: 0,0:14:27.32,0:14:28.49,tanda,,0,0,0,,HIDANGAN BARAT MAKABE
 Dialogue: 0,0:14:28.57,0:14:29.66,tanda,,0,0,0,,BUKA
@@ -363,7 +363,7 @@ Dialogue: 0,0:18:48.87,0:18:50.92,tanda,,0,0,0,,"UNTUNG AKU HIDUP SENDIRI"\N…H
 Dialogue: 0,0:18:51.00,0:18:53.67,tanda,,0,0,0,,BAB\N"JALUR MANGA"
 Dialogue: 0,0:18:55.76,0:18:59.38,Default,,0,0,0,,Setrip final sudah diterima seutuhnya.
 Dialogue: 0,0:19:01.26,0:19:04.47,Default,,0,0,0,,Benar-benar terbaik sampai akhir!
-Dialogue: 0,0:19:04.56,0:19:06.43,Default,,0,0,0,,BENAR-BENAR TERBAIK SAMPAI AKHIR!
+Dialogue: 0,0:19:04.56,0:19:06.43,tanda,,0,0,0,,BENAR-BENAR TERBAIK SAMPAI AKHIR!
 Dialogue: 0,0:19:07.43,0:19:09.56,Default,,0,0,0,,Banyak yang mengecewakan bertahun-tahun.
 Dialogue: 0,0:19:10.56,0:19:11.56,Default,,0,0,0,,Benar.
 Dialogue: 0,0:19:14.23,0:19:15.28,tanda,,0,0,0,,#12 GAGAK
@@ -381,7 +381,7 @@ Dialogue: 0,0:19:45.89,0:19:49.14,Default,,0,0,0,,Pak Naganohara tak bisa mengga
 Dialogue: 0,0:19:49.23,0:19:50.06,Default,,0,0,0,,Apa?
 Dialogue: 0,0:19:50.14,0:19:51.94,Default,,0,0,0,,Lengannya terluka.
 Dialogue: 0,0:19:52.02,0:19:53.31,Default,,0,0,0,,Apa?
-Dialogue: 0,0:19:53.40,0:19:56.27,Default,,0,0,0,,Jadi, beri tahu dia\Nbahwa {\i1\c&Hffffff&\fnTrebuchet MS}Tn. Mengecewakan {\c}{\fn\i0}akan berlanjut.
+Dialogue: 0,0:19:53.40,0:19:56.27,Default,,0,0,0,,Jadi, beri tahu dia\Nbahwa {\i1\c&Hffffff&\fnBasic Comical NC}Tn. Mengecewakan {\c}{\fn\i0}akan berlanjut.
 Dialogue: 0,0:20:38.15,0:20:39.57,Default,,0,0,0,,Pak Kamaboko Oni!
 Dialogue: 0,0:20:55.58,0:20:58.38,Default,,0,0,0,,Aku bercanda!
 Dialogue: 0,0:21:01.26,0:21:03.51,Default,,0,0,0,,Ayo buat serial baru!
@@ -389,31 +389,31 @@ Dialogue: 0,0:21:03.59,0:21:07.89,Default,,0,0,0,,Apa? Namun, mulai kapan?
 Dialogue: 0,0:21:07.97,0:21:10.77,Default,,0,0,0,,Mulai minggu depan, tentu saja!
 Dialogue: 0,0:21:11.89,0:21:15.44,Default,,0,0,0,,Namun, aku belum punya ide berikutnya.
 Dialogue: 0,0:21:17.48,0:21:18.44,Default,,0,0,0,,Itu benar.
-Dialogue: 0,0:21:23.86,0:21:26.82,Default,,0,0,0,,Bagaimana dengan {\i1\c&Hffffff&\fnTrebuchet MS}Tn. Mengecewakan 2?
+Dialogue: 0,0:21:23.86,0:21:26.82,Default,,0,0,0,,Bagaimana dengan {\i1\c&Hffffff&\fnBasic Comical NC}Tn. Mengecewakan 2?
 Dialogue: 0,0:21:29.62,0:21:35.12,Default,,0,0,0,,Pak Todoroki, sudah kubilang,\Naku kehabisan ide!
 Dialogue: 0,0:21:38.13,0:21:43.09,Default,,0,0,0,,Aku sudah lama memikirkan ini.\NIdemu tak bisa dipakai, Pak Todoroki.
 Dialogue: 0,0:21:43.17,0:21:46.05,Default,,0,0,0,,Sungguh? Jangan cemaskan itu.
 Dialogue: 0,0:21:46.13,0:21:48.43,Default,,0,0,0,,Pak Todoroki, bagaimana jika begini?
-Dialogue: 0,0:21:48.51,0:21:49.55,Default,,0,0,0,,Mulai dari Mimi 21{\i1\c&Hffffff&\fnTrebuchet MS}…
-Dialogue: 0,0:21:49.64,0:21:52.81,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Malam mulai menyelimuti CITY.
-Dialogue: 0,0:22:00.98,0:22:04.65,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Musim yang samar
-Dialogue: 0,0:22:04.74,0:22:08.74,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Berakhir begitu saja
-Dialogue: 0,0:22:08.82,0:22:12.83,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Lima menit berjalan kaki{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}Di jalan yang panas sekali{\c}{\fn}
-Dialogue: 0,0:22:12.91,0:22:16.96,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Entah itu mimpi atau kenyataan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}Aku tak tahu{\c}{\fn}
-Dialogue: 0,0:22:17.04,0:22:20.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Bangun kesiangan dan akhirnya kesulitan
-Dialogue: 0,0:22:21.25,0:22:24.51,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Tak henti mengejar semua impian
-Dialogue: 0,0:22:25.05,0:22:29.09,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Merasa malu atau keras kepala
-Dialogue: 0,0:22:29.18,0:22:32.47,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Mereka bilang ini saatnya{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}Untuk menelan semuanya{\c}{\fn}
-Dialogue: 0,0:22:33.01,0:22:39.98,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Berpura-pura bersikap seperti biasa
-Dialogue: 0,0:22:41.19,0:22:44.57,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Ini musim panas
-Dialogue: 0,0:22:44.65,0:22:49.16,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Berbeda dari tahun lalu
-Dialogue: 0,0:22:49.24,0:22:53.70,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Menyebalkan, tetapi tetap menyenangkan
-Dialogue: 0,0:22:57.50,0:23:01.96,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Kau tetap menjadi dirimu
-Dialogue: 0,0:23:05.00,0:23:09.55,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Di kota yang ada di tepian ini{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}Tempat semua orang tetap sama{\c}{\fn}
-Dialogue: 0,0:23:09.63,0:23:12.55,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Aku juga ingin bersamamu hari ini
-Dialogue: 0,0:23:12.64,0:23:16.43,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Jauh di atas atap
-Dialogue: 0,0:23:16.52,0:23:19.94,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Matahari bersembunyi
-Dialogue: 0,0:23:20.02,0:23:22.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Ah, musim panas akan berakhir
+Dialogue: 0,0:21:48.51,0:21:49.55,Default,,0,0,0,,Mulai dari Mimi 21{\i1\c&Hffffff&\fnBasic Comical NC}…
+Dialogue: 0,0:21:49.64,0:21:52.81,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Malam mulai menyelimuti CITY.
+Dialogue: 0,0:22:00.98,0:22:04.65,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Musim yang samar
+Dialogue: 0,0:22:04.74,0:22:08.74,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Berakhir begitu saja
+Dialogue: 0,0:22:08.82,0:22:12.83,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Lima menit berjalan kaki{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Di jalan yang panas sekali{\c}{\fn}
+Dialogue: 0,0:22:12.91,0:22:16.96,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Entah itu mimpi atau kenyataan{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Aku tak tahu{\c}{\fn}
+Dialogue: 0,0:22:17.04,0:22:20.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Bangun kesiangan dan akhirnya kesulitan
+Dialogue: 0,0:22:21.25,0:22:24.51,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Tak henti mengejar semua impian
+Dialogue: 0,0:22:25.05,0:22:29.09,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Merasa malu atau keras kepala
+Dialogue: 0,0:22:29.18,0:22:32.47,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Mereka bilang ini saatnya{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Untuk menelan semuanya{\c}{\fn}
+Dialogue: 0,0:22:33.01,0:22:39.98,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Berpura-pura bersikap seperti biasa
+Dialogue: 0,0:22:41.19,0:22:44.57,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Ini musim panas
+Dialogue: 0,0:22:44.65,0:22:49.16,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Berbeda dari tahun lalu
+Dialogue: 0,0:22:49.24,0:22:53.70,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Menyebalkan, tetapi tetap menyenangkan
+Dialogue: 0,0:22:57.50,0:23:01.96,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Kau tetap menjadi dirimu
+Dialogue: 0,0:23:05.00,0:23:09.55,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnBasic Comical NC}Di kota yang ada di tepian ini{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnBasic Comical NC}Tempat semua orang tetap sama{\c}{\fn}
+Dialogue: 0,0:23:09.63,0:23:12.55,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Aku juga ingin bersamamu hari ini
+Dialogue: 0,0:23:12.64,0:23:16.43,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Jauh di atas atap
+Dialogue: 0,0:23:16.52,0:23:19.94,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Matahari bersembunyi
+Dialogue: 0,0:23:20.02,0:23:22.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Ah, musim panas akan berakhir
 Dialogue: 0,0:23:30.99,0:23:33.32,tanda,,0,0,0,,POS POLISI
 Dialogue: 0,0:23:47.05,0:23:50.22,tanda,,0,0,0,,BAB\N"KONFLIK! NIIKURA VS NIIKURA"
 Dialogue: 0,0:23:51.80,0:23:54.05,Default,,0,0,0,,Ambil, simpan, dan gunakan.
@@ -432,7 +432,7 @@ Dialogue: 0,0:24:33.47,0:24:34.59,Default,,0,0,0,,Iblis Kebodohan!
 Dialogue: 0,0:24:34.68,0:24:37.76,Default,,0,0,0,,Jangan rewel. Ambil saja.
 Dialogue: 0,0:24:37.85,0:24:40.85,Default,,0,0,0,,Ayo pakai untuk membeli tanah\Ndan membangun rumah.
 Dialogue: 0,0:24:42.60,0:24:47.61,Default,,0,0,0,,Malaikat! Bukankah aku punya malaikat?
-Dialogue: 0,0:24:47.69,0:24:49.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Maaf membuatmu menunggu.
+Dialogue: 0,0:24:47.69,0:24:49.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnBasic Comical NC}Maaf membuatmu menunggu.
 Dialogue: 0,0:24:50.28,0:24:51.57,Default,,0,0,0,,Bisa kubantu?
 Dialogue: 0,0:24:51.65,0:24:53.61,Default,,0,0,0,,Jangan membuatku berharap!
 Dialogue: 0,0:24:53.70,0:24:56.49,Default,,0,0,0,,Seberapa besar aku menginginkan 500 yen?
