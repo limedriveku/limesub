@@ -10,6 +10,8 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 2
 
+[Aegisub Project Garbage]
+Last Style Storage: cr_default
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,10 +35,10 @@ Dialogue: 0,0:03:13.71,0:03:15.46,tanda-5,signs,0,0,0,,{\fad(200,0)\blur0\bord3\
 Dialogue: 0,0:03:13.71,0:03:15.46,tanda-5,signs,0,0,0,,{\fad(200,0)\blur0\bord3\fs65\c&H303030&\3c&HFBFDFD&\pos(1135.6,1000)}Florian
 Dialogue: 0,0:03:15.46,0:03:18.67,tanda-5,signs,0,0,0,,{\fad(0,150)\blur0\bord3\fs75\c&H303030&\3c&HFBFDFD&\pos(1295,990)}Vigor
 Dialogue: 0,0:16:13.95,0:16:14.82,tanda-5,signs,0,0,0,,{\fad(0,0)\fs100\blur0\bord2\shad2.5\c&H6EE2F1&\3c&H975892&\pos(1525,50)\4c&H975892&}Tuan
-Dialogue: 0,0:16:14.82,0:16:17.95,tanda-5,signs,0,0,0,,{\fs100\blur0\bord5\c&H62F9F8&\3c&HE49D6D&\pos(1226,100)}Dennis
-Dialogue: 0,0:21:46.11,0:21:50.37,tanda-6,signs,0,0,0,,{\fs80\fad(450,500)\blur0\bord3\pos(1825,870)\c&H0B1D38&\3c&HFFFFFF&}Kau Bebas
-Dialogue: 0,0:23:33.09,0:23:38.43,tanda-5,signs,0,0,0,,{\fs90\fad(450,0)\blur0\bord3.5\c&H182541&\3c&HFFFFFF&\pos(960,362)}Episode {\c&H068BEE&}2
-Dialogue: 0,0:23:33.09,0:23:38.43,tanda-5,signs,0,0,0,,{\fs100\fad(450,0)\blur0\bord3.5\c&H182541&\3c&HFFFFFF&\pos(960,721)}Sangat Enak{\c&H068BEE&}!
+Dialogue: 0,0:16:14.82,0:16:17.95,tanda-5,signs,0,0,0,,{\fs100\blur0\bord5\c&H5EF1FD&\3c&HE49D6D&\pos(1226,100)}Dennis
+Dialogue: 0,0:21:46.11,0:21:50.37,tanda-6,signs,0,0,0,,{\fs80\fad(450,500)\blur0\bord3.5\pos(1825,870)\c&H0B1D38&\3c&HFFFFFF&}Kau Bebas
+Dialogue: 0,0:23:33.09,0:23:38.43,tanda-5,signs,0,0,0,,{\fs90\fad(450,0)\blur0\bord3.5\c&H182541&\3c&HFFFFFF&\pos(960,362)}Episode {\c&H0192FB&}2
+Dialogue: 0,0:23:33.09,0:23:38.43,tanda-5,signs,0,0,0,,{\fs100\fad(450,0)\blur0\bord3.5\c&H182541&\3c&HFFFFFF&\pos(960,721)}Sangat Enak{\c&H0192FB&}!
 Dialogue: 10,0:00:23.93,0:00:25.04,dialog,,0,0,0,,Protia!
 Dialogue: 10,0:00:35.81,0:00:36.79,dialog,,0,0,0,,Kau tidak apa-apa?
 Dialogue: 10,0:00:36.79,0:00:38.64,dialog,,0,0,0,,Ya, hanya tergores saja.
