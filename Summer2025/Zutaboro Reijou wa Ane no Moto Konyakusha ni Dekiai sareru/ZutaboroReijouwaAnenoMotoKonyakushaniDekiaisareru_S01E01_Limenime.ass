@@ -15,17 +15,17 @@ Last Style Storage: Default
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,2,64,64,33,1
-Style: Default Above,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,65,1
+Style: Default Above,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,8,64,64,33,1
 Style: 5-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
 Style: 6-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,6,10,10,10,1
 Style: 4-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,4,10,10,10,1
-Style: Atas,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,0,0,65,1
+Style: Atas,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,8,64,64,33,1
 Style: res,Basic Comical NC,1080,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,0,0,0,0,1,2,2,2,10,10,10,1
 Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:04.79,0:01:12.97,5-normal,,0,0,0,,{\move(960,212,960,246,25,6990)\fs70\b1\bord0\c&HDEBB0A&\fad(2819,314)}Bertunangan {\c&H2A8DAF&}dengan {\c&H6C03FF&}Mantan Tunangan Kakakku
+Dialogue: 0,0:01:04.79,0:01:12.96,5-normal,,0,0,0,,{\move(960,202,960,236,25,6990)\fs90\b1\bord0\c&HDEBB0A&\fad(2819,314)}Bertunangan {\c&H2A8DAF&}dengan {\c&H6C03FF&}Mantan Tunangan Kakakku
 Dialogue: 0,0:02:48.18,0:02:52.40,6-normal,,0,0,0,,{\pos(1860,937)\fax-0.13\fs65\b1\bord2.5\blur0\fad(420,420)}\h\hEpisode 1: Mana Mungkin Aku Bisa Menggantikan Kakakku\h\h
 Dialogue: 0,0:08:11.38,0:08:18.51,4-normal,,0,0,0,,{\pos(457,255)\fs65\b1\bord0\c&H000000&}Putri sulung Baron Shaderan, Putri Anastasia.\NKami ingin segera menyambut wanita cantik seperti Anda\Nke Keluarga Granado sebagai istri Cyrus Granado
 Dialogue: 0,0:24:19.22,0:24:27.02,6-normal,,0,0,0,,{\pos(1860,937)\fax-0.13\fs65\b1\bord2.5\blur0\fad(420,0)\c&HFFFFFF&}\h\hEpisode 2: Aku Ingin Menikahi Marie\h\h
