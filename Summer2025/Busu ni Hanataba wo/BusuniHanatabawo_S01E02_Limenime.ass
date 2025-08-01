@@ -25,11 +25,11 @@ Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:57.26,0:02:03.97,tanda-5,signs,0,0,0,,{\move(960,140,960,153)\fs90\b1\bord0\shad3\move(960,147,961.6,163,21,6736)\1c&H644B57&\4c&HE4B8BA&}A{\1c&H6A4D62&}p{\1c&H6F4F6C&}r{\1c&H735073&}i{\1c&H755178&}l{\1c&H78527D&} {\1c&H7A5381&}S{\1c&H7F558B&}h{\1c&H845795&}o{\1c&H8A59A0&}w{\1c&H905CAD&}e{\1c&H955DB5&}r{\1c&H995FBD&}s{\1c&H9C60C3&} {\1c&HA061CA&}B{\1c&HA563D3&}r{\1c&HA764D7&}i{\1c&HA562D0&}n{\1c&HA35FC7&}g{\1c&HA15DC1&} {\1c&H9F5AB7&}M{\1c&H9C57AE&}a{\1c&H9A55A5&}y{\1c&H9954A1&} {\1c&H97529A&}F{\1c&H965095&}l{\1c&H944E8D&}o{\1c&H914B82&}w{\1c&H8E4879&}e{\1c&H8D4673&}r{\1c&H8B446C&}s{\1c&H8A4368&}.
+Dialogue: 0,0:01:57.26,0:02:03.97,tanda-5,signs,0,0,0,,{\move(960,140,960,153)\fs90\b1\bord0\shad3\1c&H644B57&\4c&HE4B8BA&}A{\1c&H6A4D62&}p{\1c&H6F4F6C&}r{\1c&H735073&}i{\1c&H755178&}l{\1c&H78527D&} {\1c&H7A5381&}S{\1c&H7F558B&}h{\1c&H845795&}o{\1c&H8A59A0&}w{\1c&H905CAD&}e{\1c&H955DB5&}r{\1c&H995FBD&}s{\1c&H9C60C3&} {\1c&HA061CA&}B{\1c&HA563D3&}r{\1c&HA764D7&}i{\1c&HA562D0&}n{\1c&HA35FC7&}g{\1c&HA15DC1&} {\1c&H9F5AB7&}M{\1c&H9C57AE&}a{\1c&H9A55A5&}y{\1c&H9954A1&} {\1c&H97529A&}F{\1c&H965095&}l{\1c&H944E8D&}o{\1c&H914B82&}w{\1c&H8E4879&}e{\1c&H8D4673&}r{\1c&H8B446C&}s{\1c&H8A4368&}.
 Dialogue: 0,0:02:03.97,0:02:06.93,tanda-6,signs,0,0,0,,{\fs100\blur0\bord2\shad3\c&HF7F7F7&\3c&HCB86E5&\4c&HBC69E0&\move(1692,70,1692,550,29,2948)\frz14.5}Grand Opening Round 11!
 Dialogue: 0,0:02:03.97,0:02:06.93,tanda-5,signs,0,0,0,,{\blur0\bord3\fs65\shad0\c&HFFF3FE&\3c&HC379E2&\move(452,330,452,805,29,2948)\frz8.886}Dapatkan strap gratis untuk\Nempat tamu atau lebih!
 Dialogue: 0,0:02:10.86,0:02:16.82,tanda-6,signs,0,0,0,,{\fs70\b1\bord3\c&H1FADEC&\fad(420,450)\3c&HFFFEFF&\pos(1827,914)}Episode 2: Cara Seorang Karakter Wanita Figuran Bertindak
-Dialogue: 0,0:05:01.03,0:05:03.74,tanda-5,signs,0,0,0,,{\fs80\blur0\bord3\shad0\c&H1A1A1A&\3c&HFAFAFA&\pos(1475.6,719.2)}Terasa ada cewek yang tidak senang
+Dialogue: 0,0:05:01.03,0:05:03.74,tanda-5,signs,0,0,0,,{\fs75\blur0\bord3\shad0\c&H1A1A1A&\3c&HFAFAFA&\pos(1475.6,719.2)}Terasa ada cewek yang tidak senang
 Dialogue: 0,0:07:09.86,0:07:12.57,tanda-5,signs,0,0,0,,{\blur0\fs60\bord0\shad0\c&H8C868E&\pos(963.2,326.934)\frz1.776\b1}Sedang boling
 Dialogue: 0,0:12:50.24,0:12:52.54,tanda-4,signs,0,0,0,,{\fs50\blur0\fad(0,120)\bord0\shad0\c&H888889&\frz332\pos(917.343,520.457)}Alarm 1
 Dialogue: 0,0:13:02.63,0:13:04.72,tanda-4,signs,0,0,0,,{\fs60\bord0\shad0\frz339\c&H464646&\pos(546.667,750.333)}Pesan dari Uguisudani Sumire
