@@ -25,7 +25,7 @@ Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:19.41,0:02:23.58,tanda-6,signs,0,0,0,,{\fs70\fad(300,300)\blur0\bord0\shad0\pos(1828,927)\c&HE8E6F0&\3c&H221A24&}#2  Mengambil Satu Langkah Maju
+Dialogue: 0,0:02:19.41,0:02:23.58,tanda-6,signs,0,0,0,,{\fs70\fad(300,300)\blur0\bord3\shad0\pos(1828,927)\c&HE8E6F0&\3c&H221A24&}#2  Mengambil Satu Langkah Maju
 Dialogue: 0,0:03:30.02,0:03:31.98,tanda-5,signs,0,0,0,,{\fad(400,0)\fs60\blur0\bord2.5\shad0\c&H000000&\3c&HFFFFFF&\pos(960,720)}Sekretaris OSIS Akademi Serendia
 Dialogue: 0,0:03:30.02,0:03:31.98,tanda-5,signs,0,0,0,,{\fad(400,0)\fs60\blur0\bord2.5\shad0\c&H000000&\3c&HFFFFFF&\pos(960,775)\fs70}Elliott Howard
 Dialogue: 0,0:03:33.27,0:03:35.98,tanda-5,signs,0,0,0,,{\fad(400,0)\fs60\blur0\bord2.5\shad0\c&H000000&\3c&HFFFFFF&\pos(960,720)}Sekretaris OSIS Akademi Serendia
