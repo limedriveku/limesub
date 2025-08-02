@@ -11,7 +11,7 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 1.000000
-Scroll Position: 55
+Scroll Position: 58
 Active Line: 64
 
 [V4+ Styles]
@@ -314,8 +314,8 @@ Dialogue: 0,0:20:14.83,0:20:18.50,Default,,0,0,0,,Tapi yang pasti,\Nkau tak bole
 Dialogue: 0,0:20:19.88,0:20:22.59,Default,,0,0,0,,Aku belum pernah melihat\Nsesuatu yang seperti ini.
 Dialogue: 0,0:20:27.55,0:20:29.31,Default,,0,0,0,,Tapi aku yakin ada alasannya.
 Dialogue: 0,0:20:33.06,0:20:36.10,Default,,0,0,0,,Hubungi aku saat kau siap bicara.
-Dialogue: 0,0:20:36.19,0:20:38.07,Default,,0,0,0,,KODE QR-KU\NTAMBAHKAN TEMAN
-Dialogue: 0,0:20:39.61,0:20:41.28,Default,,0,0,0,,RIE KUREBAYASHI\NKIRIM PESAN
+Dialogue: 0,0:20:36.19,0:20:38.07,tanda,,0,0,0,,KODE QR-KU\NTAMBAHKAN TEMAN
+Dialogue: 0,0:20:39.61,0:20:41.28,tanda,,0,0,0,,RIE KUREBAYASHI\NKIRIM PESAN
 Dialogue: 0,0:20:45.11,0:20:47.53,Default,,0,0,0,,Terima… kasih…
 Dialogue: 0,0:21:02.26,0:21:03.38,Default,,0,0,0,,{\i1}Jangan!{\i0}
 Dialogue: 0,0:21:04.26,0:21:05.51,Default,,0,0,0,,{\i1}Yoshiki.{\i0}
