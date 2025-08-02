@@ -11,8 +11,8 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 1.000000
-Scroll Position: 55
-Active Line: 64
+Scroll Position: 37
+Active Line: 46
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,306 +22,354 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.35,0:00:18.56,Default,,0,0,0,,Tunggu!
-Dialogue: 0,0:00:18.64,0:00:20.81,Default,,0,0,0,,Tunggu, Yoshiki!
-Dialogue: 0,0:00:22.39,0:00:24.31,Default,,0,0,0,,Yoshiki…
-Dialogue: 0,0:00:33.78,0:00:35.16,Default,,0,0,0,,Terima kasih.
-Dialogue: 0,0:00:40.99,0:00:42.58,tanda,,0,0,0,,POLISI
-Dialogue: 0,0:00:44.87,0:00:46.08,Default,,0,0,0,,Apa yang terjadi?
-Dialogue: 0,0:00:46.17,0:00:51.92,Default,,0,0,0,,Kudengar nenek "masuk urat" meninggal.\NIbuku membicarakannya pagi ini.
-Dialogue: 0,0:00:52.63,0:00:54.34,Default,,0,0,0,,Bukan "masuk urat"…
-Dialogue: 0,0:00:54.42,0:00:55.76,Default,,0,0,0,,{\i1}Matsuura.{\i0}
-Dialogue: 0,0:00:55.84,0:00:57.09,Default,,0,0,0,,{\i1}Benar, dia!{\i0}
-Dialogue: 0,0:00:57.18,0:00:58.30,Default,,0,0,0,,Matsuura!
-Dialogue: 0,0:01:02.52,0:01:04.89,Default,,0,0,0,,Baru kali ini aku melihat mobil polisi!
-Dialogue: 0,0:01:04.98,0:01:06.48,Default,,0,0,0,,Keren sekali, ya?
-Dialogue: 0,0:01:30.34,0:01:36.05,tanda,,0,0,0,,THE SUMMER HIKARU DIED
-Dialogue: 0,0:02:48.16,0:02:52.42,tanda,,0,0,0,,THE SUMMER HIKARU DIED
-Dialogue: 0,0:02:58.21,0:02:59.97,tanda,,0,0,0,,{\an8}EPISODE 2: KECURIGAAN
-Dialogue: 0,0:03:00.05,0:03:04.30,Default,,0,0,0,,{\an8}Ingat kata Pak Hara\Nsaat perwalian pagi ini?
-Dialogue: 0,0:03:04.89,0:03:08.35,Default,,0,0,0,,Tentang nenek dari Kubitachi itu?
-Dialogue: 0,0:03:08.43,0:03:09.27,Default,,0,0,0,,Ya.
-Dialogue: 0,0:03:09.35,0:03:13.27,Default,,0,0,0,,Kudengar dia bunuh diri\Ndengan menjejal tangannya ke tenggorokan.
-Dialogue: 0,0:03:14.02,0:03:15.52,Default,,0,0,0,,Seram sekali.
-Dialogue: 0,0:03:15.61,0:03:16.98,Default,,0,0,0,,Memang seram.
-Dialogue: 0,0:03:17.07,0:03:18.15,Default,,0,0,0,,Itu kutukan!
-Dialogue: 0,0:03:18.65,0:03:22.28,Default,,0,0,0,,Nenek itu pasti melihat sesuatu\Nyang tak seharusnya dia lihat!
-Dialogue: 0,0:03:24.78,0:03:28.66,Default,,0,0,0,,Di bagian ini, apa perlu\Nmeneteskan air mata saat menyanyikannya?
-Dialogue: 0,0:03:28.75,0:03:31.33,Default,,0,0,0,,Itu sedikit berlebihan.
-Dialogue: 0,0:03:32.00,0:03:36.25,Default,,0,0,0,,Berita seram belakangan ini\Nmembuatku takut.
-Dialogue: 0,0:03:39.84,0:03:44.18,Default,,0,0,0,,Sebenarnya, aku mungkin juga dikutuk.
-Dialogue: 0,0:03:44.68,0:03:45.51,Default,,0,0,0,,Apa?
-Dialogue: 0,0:03:46.10,0:03:50.35,Default,,0,0,0,,Aku selalu lewat jalan gunung\Ndi gerbang timur saat pulang ke Ashidori.
-Dialogue: 0,0:03:50.43,0:03:51.27,Default,,0,0,0,,Lalu?
-Dialogue: 0,0:03:51.35,0:03:53.90,Default,,0,0,0,,Terowongan di sana sedang ada konstruksi.
-Dialogue: 0,0:03:54.40,0:03:57.15,Default,,0,0,0,,Jadi, aku harus memutar lewat hutan.
-Dialogue: 0,0:03:58.07,0:04:02.40,Default,,0,0,0,,{\i1}Hutan itu sangat menyeramkan.{\i0}
-Dialogue: 0,0:04:04.07,0:04:07.83,Default,,0,0,0,,Jangan konyol. Kau cuma takut gelap, 'kan?
-Dialogue: 0,0:04:07.91,0:04:09.74,Default,,0,0,0,,Kau tidak mengerti.
-Dialogue: 0,0:04:10.33,0:04:12.62,Default,,0,0,0,,Bahkan bagian dalamnya tak terlihat.
-Dialogue: 0,0:04:12.71,0:04:16.13,Default,,0,0,0,,{\i1}Seolah-olah mataku{\i0}\N{\i1}cuma bisa melihat jalurnya.{\i0}
-Dialogue: 0,0:04:16.21,0:04:20.00,Default,,0,0,0,,{\i1}Saat kucoba melihat ke atas,{\i0}\N{\i1}tubuhku tak bisa bergerak.{\i0}
-Dialogue: 0,0:04:22.47,0:04:24.59,Default,,0,0,0,,Seram!
-Dialogue: 0,0:04:24.68,0:04:26.47,Default,,0,0,0,,{\an8}Sekarang aku jadi penasaran!
-Dialogue: 0,0:04:27.93,0:04:29.35,Default,,0,0,0,,Karena itu, bantu aku!
-Dialogue: 0,0:04:29.43,0:04:31.85,Default,,0,0,0,,Yoshiki, ayo pulang bersama!
-Dialogue: 0,0:04:31.93,0:04:32.77,Default,,0,0,0,,Tidak mau.
-Dialogue: 0,0:04:32.85,0:04:34.52,Default,,0,0,0,,- Apa?\N- Berisik.
-Dialogue: 0,0:04:34.60,0:04:37.06,Default,,0,0,0,,Anggap saja semacam uji nyali!
-Dialogue: 0,0:04:37.15,0:04:40.15,Default,,0,0,0,,Kuserahkan itu kepada turis bodoh\Nyang kadang datang.
-Dialogue: 0,0:04:40.23,0:04:43.44,Default,,0,0,0,,Ayolah! Temani aku!
-Dialogue: 0,0:04:43.53,0:04:45.78,Default,,0,0,0,,Sepertinya seru.
-Dialogue: 0,0:04:45.86,0:04:47.28,Default,,0,0,0,,Aku juga mau ikut.
-Dialogue: 0,0:04:47.37,0:04:49.03,Default,,0,0,0,,- Apa?\N- Apa?
-Dialogue: 0,0:04:51.58,0:04:53.62,Default,,0,0,0,,Kau yakin?
-Dialogue: 0,0:04:53.71,0:04:56.00,Default,,0,0,0,,Kukira kau paling benci hal seperti itu.
-Dialogue: 0,0:04:56.08,0:04:59.63,Default,,0,0,0,,Bukankah kau pernah pingsan dua jam\Nsetelah menonton film horor?
-Dialogue: 0,0:04:59.71,0:05:03.09,Default,,0,0,0,,Ya, soal itu… Aku sudah tidak takut lagi.
-Dialogue: 0,0:05:03.59,0:05:05.51,Default,,0,0,0,,Benar, Yoshiki?
-Dialogue: 0,0:05:06.30,0:05:08.43,Default,,0,0,0,,Ya…
-Dialogue: 0,0:05:10.26,0:05:14.73,Default,,0,0,0,,Baiklah, kalau begitu,\NYoshiki, Yuki, Asako…
-Dialogue: 0,0:05:15.23,0:05:17.10,Default,,0,0,0,,dan Hikaru.
-Dialogue: 0,0:05:18.86,0:05:22.19,Default,,0,0,0,,Lagi pula, mungkin lebih aman\Njika tetap bersama.
-Dialogue: 0,0:05:23.69,0:05:27.82,Default,,0,0,0,,Maaf aku terlambat.
-Dialogue: 0,0:05:27.91,0:05:28.74,Default,,0,0,0,,Sebenarnya…
-Dialogue: 0,0:05:28.82,0:05:30.74,Default,,0,0,0,,Kau lama sekali!
-Dialogue: 0,0:05:32.83,0:05:35.37,Default,,0,0,0,,Karena di luar panas, ayo bicara di dalam.
-Dialogue: 0,0:05:36.46,0:05:37.37,tanda,,0,0,0,,DILARANG MASUK
-Dialogue: 0,0:05:37.46,0:05:39.54,Default,,0,0,0,,Berengsek, itu ilegal!
-Dialogue: 0,0:05:40.21,0:05:42.59,Default,,0,0,0,,Kau yang membayarku untuk menyelidiki.
-Dialogue: 0,0:05:44.09,0:05:46.92,Default,,0,0,0,,Tolong bawa kandang hamsterku\Ndengan hati-hati.
-Dialogue: 0,0:05:47.01,0:05:50.26,Default,,0,0,0,,- Kau sedang apa?\N- Jangan!
-Dialogue: 0,0:05:53.47,0:05:55.14,Default,,0,0,0,,Permisi.
-Dialogue: 0,0:05:57.48,0:05:59.90,Default,,0,0,0,,Astaga, berantakan sekali.
-Dialogue: 0,0:06:03.61,0:06:07.40,Default,,0,0,0,,Omong-omong, Takeda, ayahmu sehat?
-Dialogue: 0,0:06:07.49,0:06:12.41,Default,,0,0,0,,Dia tak mau keluar kamarnya.\NDia yakin dirinya yang berikutnya.
-Dialogue: 0,0:06:13.49,0:06:14.41,Default,,0,0,0,,Sudah kuduga!
-Dialogue: 0,0:06:14.49,0:06:17.79,Default,,0,0,0,,Berengsek. Ada orang yang mati di sini!
-Dialogue: 0,0:06:17.87,0:06:22.29,Default,,0,0,0,,{\an8}Aku pikir mungkin ini karena "perusahaan"\Ntempatmu bekerja ikut campur!
-Dialogue: 0,0:06:22.38,0:06:24.25,Default,,0,0,0,,Jika korporasi tak tahu apa-apa itu
-Dialogue: 0,0:06:24.34,0:06:27.67,Default,,0,0,0,,mengembangkan tanah ini,\Nakan terjadi bencana lebih besar.
-Dialogue: 0,0:06:28.38,0:06:32.68,Default,,0,0,0,,Tapi perusahaanku menghentikannya.\NSeharusnya kau berterima kasih.
-Dialogue: 0,0:06:34.14,0:06:36.89,Default,,0,0,0,,{\i1}"Perusahaan," ya?{\i0}
-Dialogue: 0,0:06:36.97,0:06:39.19,Default,,0,0,0,,{\i1}Kami masih belum tahu siapa mereka.{\i0}
-Dialogue: 0,0:06:39.27,0:06:41.90,Default,,0,0,0,,Bukan cuma Bu Matsuura.
-Dialogue: 0,0:06:41.98,0:06:45.23,Default,,0,0,0,,Belakangan ini,\Nbanyak kejadian aneh di seluruh desa.
-Dialogue: 0,0:06:45.78,0:06:49.70,Default,,0,0,0,,Kau sudah tahu\Nputra Indo menghilang, 'kan?
-Dialogue: 0,0:06:50.28,0:06:52.57,Default,,0,0,0,,{\i1}Ritual mereka pasti gagal,{\i0}
-Dialogue: 0,0:06:52.66,0:06:55.70,Default,,0,0,0,,{\i1}jadi makhluk itu mulai berulah.{\i0}
-Dialogue: 0,0:07:03.42,0:07:06.13,Default,,0,0,0,,Ya, itu menyeramkan.
-Dialogue: 0,0:07:07.46,0:07:09.09,Default,,0,0,0,,Yu-chan, kau takut?
-Dialogue: 0,0:07:09.17,0:07:12.39,Default,,0,0,0,,Apa? Biasa saja.
-Dialogue: 0,0:07:13.76,0:07:15.47,Default,,0,0,0,,Aku takut! Takut!
-Dialogue: 0,0:07:15.56,0:07:17.31,Default,,0,0,0,,- Aku sangat takut!\N- Ayo jalan.
-Dialogue: 0,0:07:17.39,0:07:19.56,Default,,0,0,0,,Tunggu! Jangan tinggalkan aku!
-Dialogue: 0,0:07:19.64,0:07:21.27,Default,,0,0,0,,Aku bisa mati, tahu!
-Dialogue: 0,0:07:21.35,0:07:23.56,Default,,0,0,0,,Aku bisa mati!
-Dialogue: 0,0:07:31.28,0:07:32.24,Default,,0,0,0,,{\i1}Apa?{\i0}
-Dialogue: 0,0:07:34.37,0:07:36.08,Default,,0,0,0,,- Tak ada apa-apa.\N- Ya.
-Dialogue: 0,0:07:36.16,0:07:37.79,Default,,0,0,0,,Syukurlah.
-Dialogue: 0,0:07:37.87,0:07:41.21,Default,,0,0,0,,Ya, itu cuma hutan biasa.
-Dialogue: 0,0:07:42.12,0:07:45.13,Default,,0,0,0,,Terima kasih! Ternyata aku cuma ketakutan.
-Dialogue: 0,0:07:45.21,0:07:47.09,Default,,0,0,0,,Hati-hati saat jalan pulang.
-Dialogue: 0,0:07:49.92,0:07:52.05,Default,,0,0,0,,{\an8}"Nonuki-sama," ya?
-Dialogue: 0,0:07:52.84,0:07:55.97,Default,,0,0,0,,{\an8}Sepertinya nenek ini\Npernah melihat sesuatu.
-Dialogue: 0,0:07:57.39,0:08:01.64,Default,,0,0,0,,Kudengar dia mengalami hal mengerikan\Ndi gunung waktu masih kecil.
-Dialogue: 0,0:08:01.73,0:08:04.19,Default,,0,0,0,,Saat itulah dia melihatnya.
-Dialogue: 0,0:08:06.02,0:08:08.94,Default,,0,0,0,,Rupanya itu yang membuatnya jadi aneh?
-Dialogue: 0,0:08:09.65,0:08:12.90,Default,,0,0,0,,Tidak, dulu dia normal.
-Dialogue: 0,0:08:13.40,0:08:16.57,Default,,0,0,0,,Tapi putrinya menghilang tanpa jejak.
-Dialogue: 0,0:08:16.66,0:08:17.78,Default,,0,0,0,,Kau kenal dekat?
-Dialogue: 0,0:08:20.62,0:08:24.75,Default,,0,0,0,,Nenek ini sangat takut pada makhluk\Nyang berkeliaran di gunung itu.
-Dialogue: 0,0:08:25.83,0:08:30.05,Default,,0,0,0,,Tapi makin dia takut,\Nmakin makhluk itu tertarik kepadanya.
-Dialogue: 0,0:08:30.63,0:08:33.47,Default,,0,0,0,,Kita harus melewati hutan lagi.\NMalas sekali.
-Dialogue: 0,0:08:33.97,0:08:36.80,Default,,0,0,0,,- Ini melelahkan.\N- Aku digigit serangga.
-Dialogue: 0,0:08:36.89,0:08:39.97,Default,,0,0,0,,Setidaknya di sini sejuk.
-Dialogue: 0,0:08:50.98,0:08:52.69,Default,,0,0,0,,{\i1}Apa?{\i0}
-Dialogue: 0,0:08:53.61,0:08:55.78,Default,,0,0,0,,{\i1}Lekukan apa itu?{\i0}
-Dialogue: 0,0:08:59.16,0:09:00.41,Default,,0,0,0,,{\i1}Apa?{\i0}
-Dialogue: 0,0:09:12.26,0:09:13.42,Default,,0,0,0,,{\i1}Tidak…{\i0}
-Dialogue: 0,0:09:13.51,0:09:14.92,Default,,0,0,0,,{\i1}Itu…{\i0}
-Dialogue: 0,0:09:15.01,0:09:18.14,Default,,0,0,0,,{\i1}Mengayun-ayun… ke arahku…{\i0}
-Dialogue: 0,0:09:18.22,0:09:19.43,Default,,0,0,0,,Yoshiki.
-Dialogue: 0,0:09:20.26,0:09:22.81,Default,,0,0,0,,Gawat. Kau melihatnya, ya?
-Dialogue: 0,0:09:24.68,0:09:25.81,Default,,0,0,0,,Itu tidak baik.
-Dialogue: 0,0:09:27.44,0:09:28.90,Default,,0,0,0,,Makhluk itu mengikutimu.
-Dialogue: 0,0:09:32.86,0:09:33.82,Default,,0,0,0,,Kemari.
-Dialogue: 0,0:09:42.58,0:09:45.75,Default,,0,0,0,,Kenapa kita tiba-tiba datang\Nke rumah Mikasa?
-Dialogue: 0,0:09:47.46,0:09:52.04,Default,,0,0,0,,Situasinya lebih parah dari dugaanku.\NKita butuh tempat yang lebih aman.
-Dialogue: 0,0:09:53.13,0:09:58.30,Default,,0,0,0,,{\an8}Aku baru memasang semacam pelindung\Ndi sekitar kuil di tempat Mikasa.
-Dialogue: 0,0:09:58.88,0:09:59.80,Default,,0,0,0,,{\an8}Apa?
-Dialogue: 0,0:10:08.64,0:10:12.15,Default,,0,0,0,,Omong-omong, aku ke gunung itu tadi pagi.
-Dialogue: 0,0:10:12.65,0:10:15.74,Default,,0,0,0,,Aku menemukan barang bagus di sana.
-Dialogue: 0,0:10:17.03,0:10:18.07,Default,,0,0,0,,Ini.
-Dialogue: 0,0:10:18.65,0:10:22.45,Default,,0,0,0,,Itu tas yang selalu dibawa Kohei.
-Dialogue: 0,0:10:22.53,0:10:25.41,Default,,0,0,0,,Apa Hikaru, putranya,\Nmembawanya ke gunung?
-Dialogue: 0,0:10:25.49,0:10:28.37,Default,,0,0,0,,Ini, coba lihat isinya.
-Dialogue: 0,0:10:33.42,0:10:35.17,Default,,0,0,0,,Apa-apaan ini?
-Dialogue: 0,0:10:35.67,0:10:37.92,Default,,0,0,0,,Batu hitam?
-Dialogue: 0,0:10:38.01,0:10:41.93,Default,,0,0,0,,Aku yakin dulu ini kepala seseorang.
-Dialogue: 0,0:10:42.72,0:10:43.85,Default,,0,0,0,,Benda ini?
-Dialogue: 0,0:10:44.56,0:10:46.52,Default,,0,0,0,,Kenapa ada di dalam tasnya?
-Dialogue: 0,0:10:46.60,0:10:47.60,Default,,0,0,0,,Entahlah.
-Dialogue: 0,0:10:48.18,0:10:51.19,Default,,0,0,0,,Tapi itu sangat efektif\Nmenangkal roh halus.
-Dialogue: 0,0:10:53.40,0:10:57.23,Default,,0,0,0,,Dengan ini, makhluk-makhluk itu\Ntak akan mendekati kalian.
-Dialogue: 0,0:10:58.03,0:11:02.95,Default,,0,0,0,,Awalnya, kukira ini penyebab\Nnoda di gunung sudah bersih.
-Dialogue: 0,0:11:03.03,0:11:06.45,Default,,0,0,0,,Tunggu. Noda di gunung sudah hilang?
-Dialogue: 0,0:11:06.95,0:11:11.08,Default,,0,0,0,,Tapi mungkin terlalu cepat menyimpulkan\Nsemua itu berkat benda ini.
-Dialogue: 0,0:11:11.58,0:11:14.04,Default,,0,0,0,,Terutama setelah yang terjadi\Npada nenek itu.
-Dialogue: 0,0:11:14.13,0:11:15.75,Default,,0,0,0,,Apa maksudmu?
-Dialogue: 0,0:11:15.84,0:11:18.26,Default,,0,0,0,,Makhluk itu telah turun dari gunung.
-Dialogue: 0,0:11:19.97,0:11:24.80,Default,,0,0,0,,Kurasa itu menemukan cara bersembunyi\Nsambil berbaur di antara kita.
-Dialogue: 0,0:11:25.64,0:11:28.68,Default,,0,0,0,,{\an8}Ucapan Kohei selama ini benar.
-Dialogue: 0,0:11:28.77,0:11:30.27,tanda,,0,0,0,,KUBITACHI - UDEKARI\NKIBOGAYAMA
-Dialogue: 0,0:11:30.35,0:11:31.73,Default,,0,0,0,,Sekarang bagaimana?
-Dialogue: 0,0:11:31.81,0:11:32.94,tanda,,0,0,0,,ASHIDORI
-Dialogue: 0,0:11:34.40,0:11:35.31,Default,,0,0,0,,Baiklah.
-Dialogue: 0,0:11:35.90,0:11:37.57,Default,,0,0,0,,Boleh aku mulai menyelidiki?
-Dialogue: 0,0:11:41.40,0:11:43.61,Default,,0,0,0,,Apa itu? Suara apa itu?
-Dialogue: 0,0:11:44.99,0:11:46.12,Default,,0,0,0,,A-chan?
-Dialogue: 0,0:11:47.87,0:11:50.25,Default,,0,0,0,,Tunggu! Kau mau ke mana?
-Dialogue: 0,0:11:50.33,0:11:52.46,Default,,0,0,0,,A-chan? Hei, A-chan!
-Dialogue: 0,0:11:52.96,0:11:55.46,Default,,0,0,0,,Hei, bangun. {\i1}Hikaru!{\i0}
-Dialogue: 0,0:11:58.30,0:11:59.46,Default,,0,0,0,,Kau baik-baik saja?
-Dialogue: 0,0:12:02.01,0:12:03.72,Default,,0,0,0,,Cuma mimisan.
-Dialogue: 0,0:12:04.22,0:12:05.97,Default,,0,0,0,,Ada tisu?
-Dialogue: 0,0:12:06.05,0:12:06.89,Default,,0,0,0,,Tidak.
-Dialogue: 0,0:12:06.97,0:12:09.39,Default,,0,0,0,,Apa yang kau lakukan tadi?
-Dialogue: 0,0:12:09.47,0:12:11.23,Default,,0,0,0,,Itu agak aneh.
-Dialogue: 0,0:12:13.27,0:12:15.98,Default,,0,0,0,,Makhluk itu mau menempel padamu.
-Dialogue: 0,0:12:16.98,0:12:18.65,Default,,0,0,0,,Jadi, kuhancurkan, lalu kumakan.
-Dialogue: 0,0:12:20.23,0:12:24.32,Default,,0,0,0,,Aku… isap? Mungkin kutelan?
-Dialogue: 0,0:12:24.41,0:12:27.24,Default,,0,0,0,,Tapi dia melawan, jadi aku mimisan.
-Dialogue: 0,0:12:28.08,0:12:30.12,Default,,0,0,0,,Omong-omong, Yoshiki.
-Dialogue: 0,0:12:30.87,0:12:33.50,Default,,0,0,0,,Jangan lihat yang lain selain diriku.
-Dialogue: 0,0:12:34.37,0:12:36.67,Default,,0,0,0,,Kau akan diikuti jika melihatnya.
-Dialogue: 0,0:12:36.75,0:12:38.59,Default,,0,0,0,,Mereka mudah kesepian.
-Dialogue: 0,0:12:38.67,0:12:40.92,Default,,0,0,0,,Sebaiknya kau cuma melihatku.
-Dialogue: 0,0:12:41.01,0:12:43.30,Default,,0,0,0,,Cuma aku yang boleh menempelimu.
-Dialogue: 0,0:12:43.80,0:12:44.88,Default,,0,0,0,,Apa?
-Dialogue: 0,0:12:45.38,0:12:48.60,Default,,0,0,0,,Kau belum paham? Jangan lihat mereka lagi!
-Dialogue: 0,0:12:48.68,0:12:50.31,Default,,0,0,0,,Jika kau lihat, beri tahu aku.
-Dialogue: 0,0:12:51.10,0:12:53.43,Default,,0,0,0,,Baiklah. Jangan tarik bajuku.
-Dialogue: 0,0:12:57.69,0:12:59.06,Default,,0,0,0,,Itu mereka.
-Dialogue: 0,0:12:59.61,0:13:02.15,Default,,0,0,0,,Maaf. Kami tak bermaksud meninggalkan…
-Dialogue: 0,0:13:02.23,0:13:04.32,Default,,0,0,0,,Kau berdarah!
-Dialogue: 0,0:13:04.90,0:13:07.45,Default,,0,0,0,,Aku tersandung, lalu jatuh.
-Dialogue: 0,0:13:07.53,0:13:09.95,Default,,0,0,0,,Tapi kami dengar bunyi keras.
-Dialogue: 0,0:13:10.03,0:13:13.33,Default,,0,0,0,,Mungkin itu bunyi tembakan\Nuntuk mengusir hewan liar.
-Dialogue: 0,0:13:13.41,0:13:15.25,Default,,0,0,0,,Tenang, tak terjadi apa-apa.
-Dialogue: 0,0:13:15.75,0:13:19.25,Default,,0,0,0,,{\i1}Rupanya terdengar begitu bagi mereka?{\i0}
-Dialogue: 0,0:13:19.75,0:13:23.26,Default,,0,0,0,,{\i1}Perasaan tidak enak dari hutan{\i0}\N{\i1}juga sudah hilang…{\i0}
-Dialogue: 0,0:13:24.80,0:13:26.51,Default,,0,0,0,,{\i1}Apa keduanya saling menghapus?{\i0}
-Dialogue: 0,0:13:28.51,0:13:29.51,Default,,0,0,0,,{\i1}Hikaru.{\i0}
-Dialogue: 0,0:13:30.30,0:13:31.89,Default,,0,0,0,,Kau yakin tidak sakit?
-Dialogue: 0,0:13:32.39,0:13:35.23,Default,,0,0,0,,Ya, aku tak mengerti\Nbagaimana rasanya "sakit".
-Dialogue: 0,0:13:43.44,0:13:48.07,Default,,0,0,0,,{\i1}Aku tak perlu menempelinya,{\i0}\N{\i1}dia akan selalu bersamaku.{\i0}
-Dialogue: 0,0:13:55.12,0:13:56.96,Default,,0,0,0,,{\i1}Akan kupastikan dia tak dicuri.{\i0}
-Dialogue: 0,0:13:57.75,0:13:59.96,tanda,,0,0,0,,THE SUMMER HIKARU DIED
-Dialogue: 0,0:14:00.04,0:14:01.92,tanda,,0,0,0,,THE SUMMER HIKARU DIED
-Dialogue: 0,0:14:06.63,0:14:07.47,Default,,0,0,0,,Hikaru.
-Dialogue: 0,0:14:09.01,0:14:12.85,Default,,0,0,0,,Jika ada orang yang kau sukai,\Nkau harus segera menikahinya.
-Dialogue: 0,0:14:13.35,0:14:15.31,Default,,0,0,0,,Bagaimana jika tidak?
-Dialogue: 0,0:14:15.81,0:14:18.39,Default,,0,0,0,,Unuki-sama akan menyeretnya ke gunung.
-Dialogue: 0,0:14:19.90,0:14:21.65,Default,,0,0,0,,Itu aturan keluarga Indo.
-Dialogue: 0,0:14:22.15,0:14:25.48,Default,,0,0,0,,Kita sudah sepakat, makhluk itu\Ntak akan menyakiti keluarga kita.
-Dialogue: 0,0:14:25.99,0:14:28.15,Default,,0,0,0,,Jadi, orang yang kau nikahi akan aman.
-Dialogue: 0,0:14:28.90,0:14:30.78,Default,,0,0,0,,Kenapa makhluk itu menculik orang?
-Dialogue: 0,0:14:31.28,0:14:35.20,Default,,0,0,0,,Karena kesepian, tapi makhluk itu\Ntak akan menyentuh keluarga kita.
-Dialogue: 0,0:14:35.29,0:14:37.75,Default,,0,0,0,,Sebagai gantinya,\Ndia mengambil orang tersayangmu.
-Dialogue: 0,0:14:38.25,0:14:41.42,Default,,0,0,0,,Namun, itu cuma mitos.
-Dialogue: 0,0:14:42.08,0:14:43.75,Default,,0,0,0,,{\an8}Kesepian?
-Dialogue: 0,0:15:06.61,0:15:07.82,Default,,0,0,0,,Ini…
-Dialogue: 0,0:15:10.15,0:15:13.49,Default,,0,0,0,,terasa agak mesum.\NKenapa kita jadi begini?
-Dialogue: 0,0:15:13.57,0:15:15.53,Default,,0,0,0,,Apa-apaan kau?
-Dialogue: 0,0:15:15.62,0:15:18.04,Default,,0,0,0,,Kenapa tanya aku? Ini idemu.
-Dialogue: 0,0:15:18.12,0:15:21.58,Default,,0,0,0,,Kau yang penasaran dengan bagian dalamku.
-Dialogue: 0,0:15:21.67,0:15:24.75,Default,,0,0,0,,{\an8}Aku penasaran soal "menghancurkan"\Ndan "memakan" makhluk itu.
-Dialogue: 0,0:15:24.84,0:15:28.55,Default,,0,0,0,,{\an8}Apa yang kau lakukan\Ntempo hari di hutan itu?
-Dialogue: 0,0:15:28.63,0:15:30.55,Default,,0,0,0,,Itu yang mau kutunjukkan.
-Dialogue: 0,0:15:39.27,0:15:40.27,Default,,0,0,0,,Yoshiki.
-Dialogue: 0,0:15:45.31,0:15:47.11,Default,,0,0,0,,Mau coba masukkan tanganmu?
-Dialogue: 0,0:15:47.61,0:15:48.44,Default,,0,0,0,,Apa?
-Dialogue: 0,0:15:53.86,0:15:56.03,Default,,0,0,0,,{\an8}Ada perasaan aneh yang…
-Dialogue: 0,0:15:56.87,0:15:57.79,Default,,0,0,0,,Bagaimana?
-Dialogue: 0,0:15:57.87,0:15:58.70,Default,,0,0,0,,Apa?
-Dialogue: 0,0:15:59.20,0:16:03.37,Default,,0,0,0,,Rasanya seperti\Ndaging ayam mentah berbumbu.
-Dialogue: 0,0:16:03.46,0:16:04.63,Default,,0,0,0,,Dingin.
-Dialogue: 0,0:16:06.21,0:16:10.01,Default,,0,0,0,,Kau terasa hangat.
-Dialogue: 0,0:16:12.09,0:16:13.59,Default,,0,0,0,,Enak sekali.
-Dialogue: 0,0:16:14.13,0:16:17.39,Default,,0,0,0,,Sudah lama aku tak merasakan\Nsesuatu yang hidup dalam diriku.
-Dialogue: 0,0:16:18.10,0:16:21.52,Default,,0,0,0,,Coba angkat tanganmu ke atas.
-Dialogue: 0,0:16:29.61,0:16:31.65,Default,,0,0,0,,Ya, di sana enak!
-Dialogue: 0,0:16:31.74,0:16:33.61,Default,,0,0,0,,{\an8}Rasanya enak?
-Dialogue: 0,0:16:33.70,0:16:36.74,Default,,0,0,0,,Terasa seperti kepala dielus-elus.
-Dialogue: 0,0:16:36.82,0:16:39.28,Default,,0,0,0,,Belum pernah ada yang menyentuhku di sana.
-Dialogue: 0,0:16:52.92,0:16:54.34,Default,,0,0,0,,Kau takut?
-Dialogue: 0,0:16:55.13,0:16:56.22,Default,,0,0,0,,{\i1}Sialan…{\i0}
-Dialogue: 0,0:16:57.89,0:16:58.76,Default,,0,0,0,,Ayolah.
-Dialogue: 0,0:16:59.26,0:17:01.18,Default,,0,0,0,,Itu tidak kotor!
-Dialogue: 0,0:17:05.85,0:17:07.86,Default,,0,0,0,,Bajuku?
-Dialogue: 0,0:17:09.02,0:17:11.53,Default,,0,0,0,,Lihat sepuasnya!
-Dialogue: 0,0:17:11.61,0:17:12.44,Default,,0,0,0,,Tapi bohong.
-Dialogue: 0,0:17:14.82,0:17:16.61,Default,,0,0,0,,Hei, ada apa?
-Dialogue: 0,0:17:21.58,0:17:23.12,Default,,0,0,0,,Kau tidak suka, ya?
-Dialogue: 0,0:17:24.50,0:17:27.79,Default,,0,0,0,,{\an8}Cepat kancingkan bajumu.\NApa kau manusia purba?
-Dialogue: 0,0:17:29.59,0:17:30.79,Default,,0,0,0,,{\an8}Mungkin begitu.
-Dialogue: 0,0:17:33.38,0:17:35.30,tanda,,0,0,0,,SHIITAKE MANJU
-Dialogue: 0,0:17:39.39,0:17:42.31,Default,,0,0,0,,Kau putra Tsujinaka, 'kan?
-Dialogue: 0,0:17:42.39,0:17:44.18,Default,,0,0,0,,Sudah besar, ya?
-Dialogue: 0,0:17:44.27,0:17:45.56,Default,,0,0,0,,Anak itu…
-Dialogue: 0,0:17:45.64,0:17:49.56,Default,,0,0,0,,Adikmu sehat? Kudengar jarang ke sekolah.
-Dialogue: 0,0:17:49.65,0:17:51.65,Default,,0,0,0,,Keluarga Yamazaki juga cemas.
-Dialogue: 0,0:17:51.73,0:17:54.65,Default,,0,0,0,,Katanya dia kesulitan bangun pagi\Natau semacamnya.
-Dialogue: 0,0:17:55.53,0:17:58.45,Default,,0,0,0,,{\an8}Semua orang\Npasti mengantuk saat pagi, 'kan?
-Dialogue: 0,0:17:58.53,0:18:01.45,Default,,0,0,0,,{\an8}Kaoru sudah SMP, 'kan?\NJangan terlalu memanjakannya.
-Dialogue: 0,0:18:01.53,0:18:05.45,Default,,0,0,0,,Ibumu dari Tokyo, 'kan?\NMungkin cara mengasuhnya berbeda.
-Dialogue: 0,0:18:06.29,0:18:09.50,Default,,0,0,0,,Omong-omong, orang tuamu\Nbertengkar di tengah malam lagi?
-Dialogue: 0,0:18:09.58,0:18:12.17,Default,,0,0,0,,Semuanya jadi khawatir.
-Dialogue: 0,0:18:12.25,0:18:13.71,Default,,0,0,0,,Pasti itu berat bagimu.
-Dialogue: 0,0:18:13.80,0:18:15.88,Default,,0,0,0,,Jika butuh bantuan, jangan sungkan.
-Dialogue: 0,0:18:15.96,0:18:17.63,Default,,0,0,0,,{\i1}Kau masih ikut ekskul fotografi?{\i0}
-Dialogue: 0,0:18:17.72,0:18:21.72,Default,,0,0,0,,{\i1}Putraku pernah juara dua{\i0}\N{\i1}dalam acara lomba lari!{\i0}
-Dialogue: 0,0:18:22.30,0:18:24.77,Default,,0,0,0,,Yoshiki, sebaiknya ponimu dicukur.
-Dialogue: 0,0:18:25.27,0:18:26.93,Default,,0,0,0,,Ini kembaliannya.
-Dialogue: 0,0:18:27.02,0:18:28.02,Default,,0,0,0,,Ya?
-Dialogue: 0,0:18:48.29,0:18:49.92,Default,,0,0,0,,Jangan.
-Dialogue: 0,0:18:50.50,0:18:52.79,Default,,0,0,0,,Hentikan sekarang juga, Nak.
-Dialogue: 0,0:18:52.88,0:18:54.21,Default,,0,0,0,,Apa?
-Dialogue: 0,0:18:54.29,0:18:57.84,Default,,0,0,0,,Kau terlalu dekat\Ndengan sesuatu yang berbahaya.
-Dialogue: 0,0:18:57.92,0:18:59.72,Default,,0,0,0,,Cepat menjauh darinya.
-Dialogue: 0,0:18:59.80,0:19:02.09,Default,,0,0,0,,Jika tidak, kau akan "tercampur."
-Dialogue: 0,0:19:02.85,0:19:04.56,Default,,0,0,0,,Tercampur?
-Dialogue: 0,0:19:08.89,0:19:10.56,Default,,0,0,0,,Sulit menjelaskannya.
-Dialogue: 0,0:19:11.10,0:19:14.73,Default,,0,0,0,,Jika terlalu sering bercampur,\Nperlahan kau jadi bukan manusia.
-Dialogue: 0,0:19:15.23,0:19:17.48,Default,,0,0,0,,Anu, kau siapa?
-Dialogue: 0,0:19:17.57,0:19:19.44,Default,,0,0,0,,Jangan takut!
-Dialogue: 0,0:19:19.53,0:19:21.91,Default,,0,0,0,,Aku cuma ibu rumah tangga\Nyang kebetulan lewat.
-Dialogue: 0,0:19:21.99,0:19:24.12,Default,,0,0,0,,Aku bisa melihat yang tak terlihat orang.
-Dialogue: 0,0:19:26.16,0:19:27.62,Default,,0,0,0,,Aku tidak bohong.
-Dialogue: 0,0:19:28.37,0:19:32.75,Default,,0,0,0,,Kau tahu area terlarang di gunung\Ndi dekat Desa Kubitachi?
-Dialogue: 0,0:19:32.83,0:19:37.17,Default,,0,0,0,,{\i1}Selama ini, aku merasakan{\i0}\N{\i1}firasat buruk dari sana.{\i0}
-Dialogue: 0,0:19:37.96,0:19:40.80,Default,,0,0,0,,Pasti ada sesuatu yang jahat. Aku yakin.
-Dialogue: 0,0:19:42.30,0:19:44.89,Default,,0,0,0,,{\i1}Itu gunung tempat Hikaru menghilang.{\i0}
-Dialogue: 0,0:19:44.97,0:19:48.27,Default,,0,0,0,,Tapi baru-baru ini, tiba-tiba menghilang.
-Dialogue: 0,0:19:48.35,0:19:50.35,Default,,0,0,0,,Firasat buruk itu hilang.
-Dialogue: 0,0:19:50.85,0:19:52.52,Default,,0,0,0,,Entah pergi ke mana.
-Dialogue: 0,0:19:53.02,0:19:57.40,Default,,0,0,0,,Aku tak tahu apa yang terjadi\Ndan sangat ketakutan.
-Dialogue: 0,0:19:58.32,0:20:01.86,Default,,0,0,0,,Tapi itu ada bersamamu, 'kan?
-Dialogue: 0,0:20:07.28,0:20:10.12,Default,,0,0,0,,Kenapa? Kau tahu sesuatu?
-Dialogue: 0,0:20:10.62,0:20:12.54,Default,,0,0,0,,Tidak juga.
-Dialogue: 0,0:20:14.83,0:20:18.50,Default,,0,0,0,,Tapi yang pasti,\Nkau tak boleh terus begini.
-Dialogue: 0,0:20:19.88,0:20:22.59,Default,,0,0,0,,Aku belum pernah melihat\Nsesuatu yang seperti ini.
-Dialogue: 0,0:20:27.55,0:20:29.31,Default,,0,0,0,,Tapi aku yakin ada alasannya.
-Dialogue: 0,0:20:33.06,0:20:36.10,Default,,0,0,0,,Hubungi aku saat kau siap bicara.
-Dialogue: 0,0:20:36.19,0:20:38.07,Default,,0,0,0,,KODE QR-KU\NTAMBAHKAN TEMAN
-Dialogue: 0,0:20:39.61,0:20:41.28,Default,,0,0,0,,RIE KUREBAYASHI\NKIRIM PESAN
-Dialogue: 0,0:20:45.11,0:20:47.53,Default,,0,0,0,,Terima… kasih…
-Dialogue: 0,0:21:02.26,0:21:03.38,Default,,0,0,0,,{\i1}Jangan!{\i0}
-Dialogue: 0,0:21:04.26,0:21:05.51,Default,,0,0,0,,{\i1}Yoshiki.{\i0}
-Dialogue: 0,0:21:07.51,0:21:08.76,Default,,0,0,0,,{\i1}Yoshiki.{\i0}
-Dialogue: 0,0:21:11.89,0:21:14.81,Default,,0,0,0,,{\i1}Yoshiki… Yoshiki…{\i0}
-Dialogue: 0,0:21:14.89,0:21:15.81,Default,,0,0,0,,{\i1}Jangan!{\i0}
-Dialogue: 0,0:21:15.89,0:21:16.81,Default,,0,0,0,,Yoshiki.
-Dialogue: 0,0:21:18.65,0:21:20.57,Default,,0,0,0,,Rahasia!
-Dialogue: 0,0:22:58.04,0:23:01.04,Default,,0,0,0,,Terjemahan subtitle oleh Sudirman Lius
+Dialogue: 0,0:00:15.09,0:00:18.93,tanda,,0,0,0,,{\an8}JANUARI 2020, NISAYAMA
+Dialogue: 0,0:00:26.94,0:00:28.48,Default,,0,0,0,,{\an8}Hikaru!
+Dialogue: 0,0:00:28.57,0:00:30.11,Default,,0,0,0,,{\an8}Hei! Kau menemukannya?
+Dialogue: 0,0:00:36.53,0:00:37.87,Default,,0,0,0,,{\an8}Hikaru!
+Dialogue: 0,0:00:38.99,0:00:40.12,Default,,0,0,0,,{\an8}Ini sia-sia.
+Dialogue: 0,0:00:46.08,0:00:48.79,Default,,0,0,0,,{\an8}Kita tak bisa mencarinya seperti ini.
+Dialogue: 0,0:00:48.88,0:00:50.09,Default,,0,0,0,,{\an8}Ayo kembali dulu!
+Dialogue: 0,0:00:51.05,0:00:52.01,Default,,0,0,0,,{\an8}Baik…
+Dialogue: 0,0:00:56.30,0:00:57.80,Default,,0,0,0,,{\an8}Yoshiki…
+Dialogue: 0,0:01:00.93,0:01:01.85,Default,,0,0,0,,{\an8}Hikaru!
+Dialogue: 0,0:01:06.85,0:01:07.81,Default,,0,0,0,,{\an8}Hikaru?
+Dialogue: 0,0:01:07.90,0:01:09.02,Default,,0,0,0,,{\an8}Hikaru!
+Dialogue: 0,0:01:12.53,0:01:13.44,Default,,0,0,0,,{\an8}Sial!
+Dialogue: 0,0:01:19.32,0:01:21.03,Default,,0,0,0,,Unuki-sama…
+Dialogue: 0,0:01:23.83,0:01:28.71,Default,,0,0,0,,Siapa saja…
+Dialogue: 0,0:01:28.79,0:01:30.38,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:01:50.44,0:01:53.94,tanda,,0,0,0,,{\an8}JULI 2020, DESA KUBITACHI
+Dialogue: 0,0:01:55.44,0:01:58.07,Default,,0,0,0,,{\i1}Nek, kami mau beli es krim.{\i0}
+Dialogue: 0,0:01:59.49,0:02:01.20,Default,,0,0,0,,{\i1}Sejuk sekali.{\i0}
+Dialogue: 0,0:02:01.28,0:02:02.95,Default,,0,0,0,,{\i1}Es krimnya cuma ini?{\i0}
+Dialogue: 0,0:02:03.03,0:02:04.95,Default,,0,0,0,,{\i1}Apanya yang "ada es krim"?{\i0}
+Dialogue: 0,0:02:06.91,0:02:08.33,Default,,0,0,0,,Cuma ada Papicco.
+Dialogue: 0,0:02:11.42,0:02:14.38,Default,,0,0,0,,Lalu kenapa tulisannya\N"Es Krem Super Dingin"?
+Dialogue: 0,0:02:16.17,0:02:19.72,Default,,0,0,0,,Pak Hara sialan,\Nmenyuruh kita lari saat terik begini.
+Dialogue: 0,0:02:20.30,0:02:22.72,Default,,0,0,0,,Ini cuma peniksaan.
+Dialogue: 0,0:02:23.47,0:02:24.39,Default,,0,0,0,,Hikaru.
+Dialogue: 0,0:02:25.18,0:02:27.06,Default,,0,0,0,,Yang benar "penyiksaan."
+Dialogue: 0,0:02:27.98,0:02:29.77,Default,,0,0,0,,Ucapkan lagi, "penyiksaan."
+Dialogue: 0,0:02:30.40,0:02:31.94,Default,,0,0,0,,"Pe-nyik-sa-an."
+Dialogue: 0,0:02:32.90,0:02:34.94,Default,,0,0,0,,Baiklah. "Penyiksaan"…
+Dialogue: 0,0:02:35.48,0:02:37.11,Default,,0,0,0,,"Penyiksaan," ya?
+Dialogue: 0,0:02:37.19,0:02:38.19,Default,,0,0,0,,Akan kuingat.
+Dialogue: 0,0:02:40.82,0:02:41.99,Default,,0,0,0,,Omong-omong,
+Dialogue: 0,0:02:42.07,0:02:44.95,Default,,0,0,0,,kau benar-benar hilang\Ndi gunung itu selama sepekan.
+Dialogue: 0,0:02:45.66,0:02:46.95,Default,,0,0,0,,Kau tak ingat apa-apa?
+Dialogue: 0,0:02:47.62,0:02:49.33,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:02:51.83,0:02:54.17,Default,,0,0,0,,Kau belum ingat juga\Nsetelah setengah tahun?
+Dialogue: 0,0:02:54.79,0:02:57.80,Default,,0,0,0,,Sampai kapan kau mau terus menanyakan itu?
+Dialogue: 0,0:02:57.88,0:03:01.05,Default,,0,0,0,,- Kau tahu betapa khawatirnya kami?\N- Hentikan!
+Dialogue: 0,0:03:04.26,0:03:06.18,Default,,0,0,0,,Apa kau kesepian tanpa aku?
+Dialogue: 0,0:03:08.06,0:03:09.52,Default,,0,0,0,,Tidak juga.
+Dialogue: 0,0:03:10.14,0:03:12.10,Default,,0,0,0,,Bohong. Kau pasti menangis.
+Dialogue: 0,0:03:12.69,0:03:14.90,Default,,0,0,0,,"Jangan tinggalkan aku, Hikaru!"
+Dialogue: 0,0:03:14.98,0:03:16.02,Default,,0,0,0,,Jangan aneh-aneh.
+Dialogue: 0,0:03:16.11,0:03:17.82,Default,,0,0,0,,Hentikan!
+Dialogue: 0,0:03:17.90,0:03:20.32,Default,,0,0,0,,Kau selalu menggangguku\Nkarena aku lebih kecil.
+Dialogue: 0,0:03:23.24,0:03:25.16,tanda,,0,0,0,,HALTE BUS SEKOLAH
+Dialogue: 0,0:03:31.46,0:03:33.83,Default,,0,0,0,,Hei. Boleh aku menanyakan hal aneh?
+Dialogue: 0,0:03:34.79,0:03:37.50,Default,,0,0,0,,Apa? Kau mau menyatakan cintamu kepadaku?
+Dialogue: 0,0:03:37.59,0:03:38.50,Default,,0,0,0,,Yang benar saja.
+Dialogue: 0,0:03:39.38,0:03:40.22,Default,,0,0,0,,Hanya saja,
+Dialogue: 0,0:03:40.76,0:03:44.14,Default,,0,0,0,,aku merasa ada yang aneh\Nsejak beberapa waktu lalu.
+Dialogue: 0,0:03:44.80,0:03:45.93,Default,,0,0,0,,Aku perlu tahu.
+Dialogue: 0,0:03:46.60,0:03:50.18,Default,,0,0,0,,Aku sudah merasakannya\Nsejak kau menghilang dan kembali.
+Dialogue: 0,0:03:57.32,0:03:58.32,Default,,0,0,0,,Kau…
+Dialogue: 0,0:03:58.94,0:04:01.82,Default,,0,0,0,,Kau bukan Hikaru, 'kan?
+Dialogue: 0,0:04:09.12,0:04:09.95,Default,,0,0,0,,Apa?
+Dialogue: 0,0:04:16.46,0:04:17.59,Default,,0,0,0,,Bagaimana kau…
+Dialogue: 0,0:04:19.42,0:04:22.42,Default,,0,0,0,,Kukira aku menirunya dengan sempurna.
+Dialogue: 0,0:04:36.27,0:04:37.36,Default,,0,0,0,,Aku mohon.
+Dialogue: 0,0:04:38.48,0:04:39.77,Default,,0,0,0,,Jangan beri tahu siapa pun.
+Dialogue: 0,0:04:40.69,0:04:43.03,Default,,0,0,0,,Ini pertama kali\Naku hidup sebagai manusia.
+Dialogue: 0,0:04:43.11,0:04:46.86,Default,,0,0,0,,Pertama kali bersekolah dan makan es krim,\Nsemuanya sangat menyenangkan.
+Dialogue: 0,0:04:47.49,0:04:49.62,Default,,0,0,0,,Meski ini bukan tubuh dan kepribadianku…
+Dialogue: 0,0:04:51.33,0:04:53.83,Default,,0,0,0,,Aku sangat menyukaimu.
+Dialogue: 0,0:04:54.46,0:04:55.62,Default,,0,0,0,,Karena itu, kumohon.
+Dialogue: 0,0:04:56.87,0:04:58.04,Default,,0,0,0,,Aku tak mau…
+Dialogue: 0,0:04:58.63,0:05:00.04,Default,,0,0,0,,membunuhmu.
+Dialogue: 0,0:05:14.93,0:05:17.73,Default,,0,0,0,,{\i1}Hikaru telah tiada. Itu tak bisa diubah.{\i0}
+Dialogue: 0,0:05:19.73,0:05:22.82,Default,,0,0,0,,{\i1}Jadi, meski dia palsu,{\i0}
+Dialogue: 0,0:05:23.40,0:05:25.15,Default,,0,0,0,,{\i1}aku mau dia tetap di sini.{\i0}
+Dialogue: 0,0:05:30.03,0:05:31.33,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:05:32.24,0:05:33.08,Default,,0,0,0,,{\i1}Hikaru…{\i0}
+Dialogue: 0,0:05:34.83,0:05:35.83,Default,,0,0,0,,Salam kenal.
+Dialogue: 0,0:05:35.91,0:05:38.92,tanda,,0,0,0,,THE SUMMER HIKARU DIED
+Dialogue: 0,0:05:40.67,0:05:43.84,Default,,0,0,0,,{\i1}Apa rencanamu setelah lulus{\i0}\N{\i1}dari SMA Kibogayama?{\i0}
+Dialogue: 0,0:05:45.09,0:05:47.26,Default,,0,0,0,,Aku belum memikirkannya.
+Dialogue: 0,0:05:47.34,0:05:50.60,Default,,0,0,0,,Mungkin aku akan mewarisi\Nkebun jamur shiitake Kakek.
+Dialogue: 0,0:05:51.55,0:05:52.93,Default,,0,0,0,,Apa rencanamu, Yoshiki?
+Dialogue: 0,0:05:53.77,0:05:55.64,Default,,0,0,0,,Aku juga belum memikirkannya.
+Dialogue: 0,0:05:56.52,0:05:58.77,Default,,0,0,0,,Kau sangat pintar.
+Dialogue: 0,0:05:58.85,0:06:02.02,Default,,0,0,0,,Sebaiknya kau pergi dari desa ini\Ndan kuliah di Tokyo.
+Dialogue: 0,0:06:02.52,0:06:05.61,Default,,0,0,0,,Kenapa? Kau tak mau terpisah dariku?
+Dialogue: 0,0:06:06.61,0:06:08.49,Default,,0,0,0,,- Menggelikan.\N- Mati saja kau.
+Dialogue: 0,0:06:09.32,0:06:12.20,Default,,0,0,0,,Meski kau dapat pacar cantik di Tokyo,
+Dialogue: 0,0:06:12.28,0:06:14.49,Default,,0,0,0,,aku akan selalu main ke tempatmu.
+Dialogue: 0,0:06:14.58,0:06:16.62,Default,,0,0,0,,Jadi, kau tak bisa membawanya pulang.
+Dialogue: 0,0:06:16.70,0:06:18.41,Default,,0,0,0,,Tak mungkin aku dapat pacar.
+Dialogue: 0,0:06:19.46,0:06:20.96,Default,,0,0,0,,Jangan begitu.
+Dialogue: 0,0:06:21.04,0:06:23.59,Default,,0,0,0,,Kau selalu marah setiap membicarakan ini.
+Dialogue: 0,0:06:25.51,0:06:27.22,Default,,0,0,0,,Kau pasti bisa dapat pacar.
+Dialogue: 0,0:06:28.97,0:06:29.88,Default,,0,0,0,,Hikaru.
+Dialogue: 0,0:06:30.51,0:06:32.10,Default,,0,0,0,,Hei, Yoshiki. Ada apa?
+Dialogue: 0,0:06:32.72,0:06:34.26,Default,,0,0,0,,Soal akhir pekan ini…
+Dialogue: 0,0:06:36.35,0:06:39.77,Default,,0,0,0,,Akhir pekan ini aku tak bisa.\NAku harus ke gunung.
+Dialogue: 0,0:06:39.85,0:06:41.69,Default,,0,0,0,,Ke gunung? Kenapa?
+Dialogue: 0,0:06:42.36,0:06:44.15,Default,,0,0,0,,Karena…
+Dialogue: 0,0:06:44.23,0:06:45.94,Default,,0,0,0,,Rahasia!
+Dialogue: 0,0:06:55.08,0:06:57.41,Default,,0,0,0,,- Bangun, Yoshiki!\N- Ternyata mimpi.
+Dialogue: 0,0:06:57.50,0:06:59.91,Default,,0,0,0,,- Sarapan sudah siap!\N- Saat dia masih hidup…
+Dialogue: 0,0:07:03.13,0:07:05.80,Default,,0,0,0,,Yang terakhir kulihat\Nwajahnya meniru Pak Hara?
+Dialogue: 0,0:07:06.38,0:07:07.59,Default,,0,0,0,,Bodoh sekali.
+Dialogue: 0,0:07:22.10,0:07:25.61,Default,,0,0,0,,Yoshiki! Cepat makan!
+Dialogue: 0,0:07:30.24,0:07:32.16,Default,,0,0,0,,{\an8}- Masih banyak.\N- Terima kasih.
+Dialogue: 0,0:07:32.24,0:07:33.57,tanda,,0,0,0,,{\an8}EPISODE 1: PENGGANTI
+Dialogue: 0,0:07:33.66,0:07:35.20,Default,,0,0,0,,{\an8}Pagi, Yoshiki.
+Dialogue: 0,0:07:35.28,0:07:38.95,Default,,0,0,0,,Sedang apa kau sudah siang begini?\NLampu kamarmu menyala semalaman.
+Dialogue: 0,0:07:42.12,0:07:43.50,Default,,0,0,0,,Selamat makan.
+Dialogue: 0,0:07:44.46,0:07:45.75,Default,,0,0,0,,{\i1}Selamat pagi.{\i0}
+Dialogue: 0,0:07:45.84,0:07:48.05,Default,,0,0,0,,{\i1}Berikut laporan cuaca nasional hari ini.{\i0}
+Dialogue: 0,0:07:48.67,0:07:52.55,Default,,0,0,0,,{\i1}Dibandingkan tahun-tahun lalu,{\i0}\N{\i1}musim panas kali ini akan sangat panas.{\i0}
+Dialogue: 0,0:07:53.34,0:07:55.01,Default,,0,0,0,,Kaoru masih tidur?
+Dialogue: 0,0:07:57.10,0:07:58.89,Default,,0,0,0,,{\i1}…dari Laut Jepang sampai timur laut.{\i0}
+Dialogue: 0,0:07:58.97,0:08:01.39,Default,,0,0,0,,{\i1}Tekanan atmosfer rendah{\i0}\N{\i1}mendekati Hokkaido.{\i0}
+Dialogue: 0,0:08:01.48,0:08:03.02,Default,,0,0,0,,Hikaru sudah datang!
+Dialogue: 0,0:08:03.60,0:08:04.81,Default,,0,0,0,,Aku datang!
+Dialogue: 0,0:08:05.81,0:08:08.61,Default,,0,0,0,,{\i1}Di timur dan barat Jepang,{\i0}
+Dialogue: 0,0:08:08.69,0:08:11.15,Default,,0,0,0,,{\i1}mentari bersinar terang{\i0}\N{\i1}karena tekanan tinggi.{\i0}
+Dialogue: 0,0:08:11.24,0:08:14.49,Default,,0,0,0,,Sebaiknya potong ponimu\Nsebelum menghalangi matamu.
+Dialogue: 0,0:08:16.95,0:08:19.41,Default,,0,0,0,,Hei, Yoshiki. Pagi.
+Dialogue: 0,0:08:20.20,0:08:22.41,Default,,0,0,0,,Pagi ini…
+Dialogue: 0,0:08:22.50,0:08:24.58,Default,,0,0,0,,- Ibuku…\N- Apa kau bodoh?
+Dialogue: 0,0:08:24.67,0:08:25.92,Default,,0,0,0,,Tak ada waktu.
+Dialogue: 0,0:08:26.75,0:08:28.00,Default,,0,0,0,,Cepat berangkat.
+Dialogue: 0,0:08:28.71,0:08:30.05,Default,,0,0,0,,Nanti terlambat.
+Dialogue: 0,0:08:32.09,0:08:35.30,Default,,0,0,0,,Ya. Aku tak mau dimarahi Pak Hara.
+Dialogue: 0,0:08:35.84,0:08:36.80,Default,,0,0,0,,{\i1}Ini tak apa-apa.{\i0}
+Dialogue: 0,0:08:38.76,0:08:40.93,Default,,0,0,0,,Ibuku membelikan semangka.
+Dialogue: 0,0:08:41.02,0:08:42.68,Default,,0,0,0,,Lalu kami habiskan semuanya.
+Dialogue: 0,0:08:42.77,0:08:44.14,Default,,0,0,0,,Enak sekali!
+Dialogue: 0,0:08:44.23,0:08:46.19,Default,,0,0,0,,{\i1}Aku tak peduli kau makhluk apa.{\i0}
+Dialogue: 0,0:08:46.77,0:08:48.40,Default,,0,0,0,,{\i1}Lebih baik daripada kau tak ada.{\i0}
+Dialogue: 0,0:08:49.61,0:08:50.69,Default,,0,0,0,,{\i1}Jauh lebih baik.{\i0}
+Dialogue: 0,0:08:56.74,0:08:57.62,Default,,0,0,0,,{\i1}Halo?{\i0}
+Dialogue: 0,0:08:57.70,0:08:58.91,Default,,0,0,0,,Ya, halo.
+Dialogue: 0,0:08:59.53,0:09:01.95,Default,,0,0,0,,Perusahaanku menugaskanku ke sini.
+Dialogue: 0,0:09:02.04,0:09:03.54,Default,,0,0,0,,{\an8}Namaku Tanaka.
+Dialogue: 0,0:09:04.41,0:09:05.58,tanda,,0,0,0,,SMA KIBOGAYAMA
+Dialogue: 0,0:09:05.67,0:09:07.08,Default,,0,0,0,,{\i1}Dengan sunyi{\i0}
+Dialogue: 0,0:09:07.17,0:09:10.59,Default,,0,0,0,,{\i1}Terus impikan mimpi itu{\i0}
+Dialogue: 0,0:09:11.50,0:09:13.34,Default,,0,0,0,,{\i1}Dengan sunyi{\i0}
+Dialogue: 0,0:09:13.42,0:09:17.09,Default,,0,0,0,,{\i1}Terus carilah yang kau cari{\i0}
+Dialogue: 0,0:09:17.18,0:09:20.35,Default,,0,0,0,,{\i1}Meski kilauan masa lalu{\i0}
+Dialogue: 0,0:09:20.43,0:09:23.22,Default,,0,0,0,,{\i1}Tak bisa kembali lagi{\i0}
+Dialogue: 0,0:09:23.31,0:09:25.60,Default,,0,0,0,,{\i1}Menuju masa depan{\i0}
+Dialogue: 0,0:09:25.69,0:09:28.60,Default,,0,0,0,,{\i1}Detak di jantungku ini…{\i0}
+Dialogue: 0,0:09:31.44,0:09:34.86,Default,,0,0,0,,Yang mencurigakan…
+Dialogue: 0,0:09:36.70,0:09:38.24,Default,,0,0,0,,Ada di sini.
+Dialogue: 0,0:09:47.62,0:09:48.87,Default,,0,0,0,,Ibu…
+Dialogue: 0,0:09:51.34,0:09:53.25,Default,,0,0,0,,Ibu…
+Dialogue: 0,0:09:57.05,0:09:59.89,Default,,0,0,0,,Aku merasakan ada banyak potensi.
+Dialogue: 0,0:10:10.52,0:10:13.94,Default,,0,0,0,,Malas sekali! Kenapa harus paduan suara?
+Dialogue: 0,0:10:14.53,0:10:17.95,Default,,0,0,0,,Katanya untuk mengganti\Npembatalan festival budaya tahun lalu.
+Dialogue: 0,0:10:20.45,0:10:21.95,Default,,0,0,0,,Aku suka menyanyi.
+Dialogue: 0,0:10:22.03,0:10:25.20,Default,,0,0,0,,Tapi kau tak menyanyi sama sekali.\NCuma menatap kertasnya.
+Dialogue: 0,0:10:25.29,0:10:28.08,Default,,0,0,0,,Aku penasaran apa arti liriknya.
+Dialogue: 0,0:10:28.16,0:10:30.12,Default,,0,0,0,,Hei, kalian mau ke mana?
+Dialogue: 0,0:10:30.21,0:10:33.50,Default,,0,0,0,,Kelas berikutnya bukan sains,\Ntapi belajar mandiri.
+Dialogue: 0,0:10:33.59,0:10:35.55,Default,,0,0,0,,Kita menonton film di kelas.
+Dialogue: 0,0:10:35.63,0:10:36.51,Default,,0,0,0,,Film?
+Dialogue: 0,0:10:36.59,0:10:38.51,Default,,0,0,0,,- Lagi?\N- Ini sudah berapa kali?
+Dialogue: 0,0:10:38.59,0:10:39.72,Default,,0,0,0,,Benar, 'kan?
+Dialogue: 0,0:10:41.30,0:10:46.27,Default,,0,0,0,,Tidak, tak ada hubungannya\Nsedikit pun dengan itu.
+Dialogue: 0,0:10:46.35,0:10:48.89,Default,,0,0,0,,{\i1}Begitukah? Sayang sekali.{\i0}
+Dialogue: 0,0:10:48.98,0:10:52.31,Default,,0,0,0,,Kukira perusahaan ini akan belajar.
+Dialogue: 0,0:10:53.23,0:10:55.52,Default,,0,0,0,,Padahal sudah ratusan tahun mencari…
+Dialogue: 0,0:10:59.61,0:11:02.28,Default,,0,0,0,,{\i1}Sulit dipercaya{\i0}\N{\i1}perusahaan ini masih berdiri.{\i0}
+Dialogue: 0,0:11:04.49,0:11:06.62,Default,,0,0,0,,Tolong berhenti mengeluhkan\Nperusahaan kita.
+Dialogue: 0,0:11:06.70,0:11:08.95,Default,,0,0,0,,Bisa ada yang mengadu ke para eksekutif.
+Dialogue: 0,0:11:09.54,0:11:11.17,Default,,0,0,0,,{\i1}Baik, baik.{\i0}
+Dialogue: 0,0:11:11.25,0:11:15.80,Default,,0,0,0,,Aku serius menangani tugasku.\NPercayalah, aku tak apa-apa.
+Dialogue: 0,0:11:21.01,0:11:22.18,Default,,0,0,0,,Sudahlah,
+Dialogue: 0,0:11:22.26,0:11:25.47,Default,,0,0,0,,kurasa menemukannya memang tak akan mudah.
+Dialogue: 0,0:11:26.81,0:11:29.02,tanda,,0,0,0,,THE SUMMER HIKARU DIED
+Dialogue: 0,0:11:29.10,0:11:30.98,tanda,,0,0,0,,THE SUMMER HIKARU DIED
+Dialogue: 0,0:11:31.06,0:11:32.60,Default,,0,0,0,,{\i1}Apa yang kau lakukan?{\i0}
+Dialogue: 0,0:11:32.69,0:11:35.02,Default,,0,0,0,,{\i1}Diam, dasar wanita rendahan.{\i0}
+Dialogue: 0,0:11:35.69,0:11:37.73,Default,,0,0,0,,{\i1}- Kau bukan apa-apa.{\i0}\N{\i1}- Membosankan.{\i0}
+Dialogue: 0,0:11:37.82,0:11:39.74,Default,,0,0,0,,{\i1}Kau bisa kuganti dengan mudah.{\i0}
+Dialogue: 0,0:11:40.99,0:11:42.15,Default,,0,0,0,,{\i1}Dia menangis?{\i0}
+Dialogue: 0,0:11:43.57,0:11:45.12,Default,,0,0,0,,Malang sekali wanita itu…
+Dialogue: 0,0:11:45.91,0:11:47.83,Default,,0,0,0,,Hei, kenapa kau menangis?
+Dialogue: 0,0:11:47.91,0:11:49.41,Default,,0,0,0,,Kita sudah menonton lima kali.
+Dialogue: 0,0:11:50.20,0:11:52.87,Default,,0,0,0,,Aku tahu, ini ada dalam ingatanku.
+Dialogue: 0,0:11:54.25,0:11:56.88,Default,,0,0,0,,Tapi ini pertama kali {\i1}aku{\i0} menontonnya.
+Dialogue: 0,0:11:58.42,0:12:00.67,Default,,0,0,0,,- Sampai jumpa.\N- Panas sekali.
+Dialogue: 0,0:12:00.76,0:12:02.17,Default,,0,0,0,,Aku malas ikut ekskul.
+Dialogue: 0,0:12:02.76,0:12:03.59,Default,,0,0,0,,Hei…
+Dialogue: 0,0:12:03.68,0:12:05.30,Default,,0,0,0,,Kunciku mana?
+Dialogue: 0,0:12:05.39,0:12:06.93,Default,,0,0,0,,Sudah periksa tasmu?
+Dialogue: 0,0:12:08.06,0:12:09.97,Default,,0,0,0,,Kau juga berlatih di rumah?
+Dialogue: 0,0:12:10.06,0:12:11.98,Default,,0,0,0,,Di mana kunciku?
+Dialogue: 0,0:12:12.69,0:12:13.81,Default,,0,0,0,,Ayo pulang!
+Dialogue: 0,0:12:14.40,0:12:15.31,Default,,0,0,0,,Hei!
+Dialogue: 0,0:12:16.73,0:12:17.73,Default,,0,0,0,,Ada!
+Dialogue: 0,0:12:17.82,0:12:20.23,Default,,0,0,0,,Terselip di buku Sastra Klasik B.
+Dialogue: 0,0:12:22.49,0:12:24.28,Default,,0,0,0,,- Kita mulai.\N- Baik!
+Dialogue: 0,0:12:24.86,0:12:25.74,Default,,0,0,0,,Syukurlah.
+Dialogue: 0,0:12:26.37,0:12:27.49,Default,,0,0,0,,Ayo pulang.
+Dialogue: 0,0:13:35.10,0:13:37.48,tanda,,0,0,0,,PERTOKOAN JALAN DARUMA
+Dialogue: 0,0:14:14.85,0:14:17.85,Default,,0,0,0,,Dulu kita sesekali makan di sini, 'kan?
+Dialogue: 0,0:14:17.94,0:14:18.77,Default,,0,0,0,,Ya.
+Dialogue: 0,0:14:26.19,0:14:28.20,Default,,0,0,0,,Enak sekali! Gila, renyah sekali!
+Dialogue: 0,0:14:28.28,0:14:30.41,Default,,0,0,0,,Padahal aku sudah tahu rasanya!
+Dialogue: 0,0:14:30.49,0:14:32.91,tanda,,0,0,0,,TOKO DAGING DLL. YAMAZAKI\NMENCHI-KATSU, KARAAGE
+Dialogue: 0,0:14:32.99,0:14:34.24,Default,,0,0,0,,Berisik.
+Dialogue: 0,0:14:34.33,0:14:36.04,Default,,0,0,0,,Aneh sekali.
+Dialogue: 0,0:14:36.12,0:14:38.66,Default,,0,0,0,,Kau ingat, tapi terasa baru.
+Dialogue: 0,0:14:38.75,0:14:42.21,Default,,0,0,0,,Aku ingat betul kenangannya,\Ntapi pengalamannya tidak.
+Dialogue: 0,0:14:42.88,0:14:45.55,Default,,0,0,0,,Lagi pula, aku memang belum pernah hidup,
+Dialogue: 0,0:14:45.63,0:14:48.30,Default,,0,0,0,,jadi ini kali pertama\Naku menjadi seseorang.
+Dialogue: 0,0:14:50.09,0:14:51.51,Default,,0,0,0,,Apa kau hantu?
+Dialogue: 0,0:14:52.39,0:14:53.68,Default,,0,0,0,,Entahlah.
+Dialogue: 0,0:14:53.76,0:14:55.18,Default,,0,0,0,,Hantu?
+Dialogue: 0,0:14:56.35,0:14:58.39,Default,,0,0,0,,Rasanya kurang tepat.
+Dialogue: 0,0:14:58.48,0:15:00.69,Default,,0,0,0,,Tapi aku monster hebat. Sudah pasti.
+Dialogue: 0,0:15:03.27,0:15:04.86,Default,,0,0,0,,Ada Menchi.
+Dialogue: 0,0:15:04.94,0:15:08.69,Default,,0,0,0,,Sepertinya dia makin gemuk\Nkarena sering diberi daging dari toko.
+Dialogue: 0,0:15:08.78,0:15:10.07,Default,,0,0,0,,Benar juga.
+Dialogue: 0,0:15:17.70,0:15:19.96,Default,,0,0,0,,Cepat sekali kucing itu.
+Dialogue: 0,0:15:22.67,0:15:24.92,Default,,0,0,0,,Ada tempat lain di kota\Nyang ingin kau datangi?
+Dialogue: 0,0:15:25.50,0:15:27.59,Default,,0,0,0,,Kau mau menemaniku?
+Dialogue: 0,0:15:28.26,0:15:29.80,Default,,0,0,0,,Yoshiki…
+Dialogue: 0,0:15:30.55,0:15:33.09,Default,,0,0,0,,Kau terlalu baik kepadaku.
+Dialogue: 0,0:15:33.18,0:15:34.35,Default,,0,0,0,,Selalu begitu.
+Dialogue: 0,0:15:36.01,0:15:37.60,Default,,0,0,0,,Aku tidak baik.
+Dialogue: 0,0:15:37.68,0:15:39.22,Default,,0,0,0,,Aku cuma mudah memanjakan.
+Dialogue: 0,0:15:39.85,0:15:41.19,Default,,0,0,0,,Terutama pada diriku.
+Dialogue: 0,0:15:41.69,0:15:43.44,Default,,0,0,0,,Aku tak paham,
+Dialogue: 0,0:15:43.52,0:15:46.52,Default,,0,0,0,,tapi menurutku kau tetap baik,\Nbahkan kepadaku.
+Dialogue: 0,0:15:48.19,0:15:51.86,Default,,0,0,0,,{\i1}Ah, aku taiyaki{\i0}
+Dialogue: 0,0:15:51.95,0:15:55.12,Default,,0,0,0,,{\i1}Aku taiyaki{\i0}
+Dialogue: 0,0:15:55.20,0:15:58.12,Default,,0,0,0,,Kau mengganti isinya\Ndengan pasta kacang merah kasar?
+Dialogue: 0,0:15:58.20,0:16:00.00,Default,,0,0,0,,Kalau begitu, aku…
+Dialogue: 0,0:16:05.96,0:16:07.59,Default,,0,0,0,,Berikutnya ke mana?
+Dialogue: 0,0:16:18.76,0:16:19.81,Default,,0,0,0,,Hai, Pak Capung.
+Dialogue: 0,0:16:19.89,0:16:22.56,Default,,0,0,0,,Itu sejenis darter, capung merah.
+Dialogue: 0,0:16:22.64,0:16:24.56,Default,,0,0,0,,Tapi belum terlalu merah.
+Dialogue: 0,0:16:24.65,0:16:26.19,Default,,0,0,0,,Capung merah?
+Dialogue: 0,0:16:26.27,0:16:27.27,Default,,0,0,0,,Di musim panas?
+Dialogue: 0,0:16:27.77,0:16:30.11,Default,,0,0,0,,Ya. Yang di musim gugur\Nadalah capung musim gugur.
+Dialogue: 0,0:16:30.61,0:16:32.53,Default,,0,0,0,,Ini capung musim panas.
+Dialogue: 0,0:16:33.20,0:16:34.20,Default,,0,0,0,,Apa bedanya?
+Dialogue: 0,0:16:36.20,0:16:37.95,Default,,0,0,0,,Aku malas menjelaskannya.
+Dialogue: 0,0:16:38.03,0:16:39.70,Default,,0,0,0,,Capung musim panas dan musim gugur
+Dialogue: 0,0:16:39.79,0:16:42.33,Default,,0,0,0,,terlihat sama, tapi berbeda jenis.
+Dialogue: 0,0:16:43.33,0:16:45.67,Default,,0,0,0,,Kurasa itu sebabnya kau dijuluki Emil.
+Dialogue: 0,0:16:46.79,0:16:48.71,Default,,0,0,0,,{\i1}Dia ini makhluk apa?{\i0}
+Dialogue: 0,0:16:48.79,0:16:50.67,Default,,0,0,0,,{\i1}Penampilannya persis Hikaru,{\i0}\N{\i1}tapi bukan.{\i0}
+Dialogue: 0,0:16:51.26,0:16:52.51,Default,,0,0,0,,{\i1}Makhluk itu berbeda.{\i0}
+Dialogue: 0,0:16:52.59,0:16:53.72,Default,,0,0,0,,Tunggu!
+Dialogue: 0,0:16:56.64,0:16:57.72,Default,,0,0,0,,Kenapa?
+Dialogue: 0,0:16:57.80,0:16:58.72,Default,,0,0,0,,Yoshiki?
+Dialogue: 0,0:16:58.80,0:17:00.47,Default,,0,0,0,,{\i1}- Ini kacau.{\i0}\N- Hei!
+Dialogue: 0,0:17:00.56,0:17:02.43,Default,,0,0,0,,{\i1}Aku pun kacau karena menerimanya.{\i0}
+Dialogue: 0,0:17:02.52,0:17:04.48,Default,,0,0,0,,{\i1}Takut! Takut sekali!{\i0}
+Dialogue: 0,0:17:04.56,0:17:07.27,Default,,0,0,0,,{\i1}Ini tak masuk akal! Kenapa ini terjadi?{\i0}
+Dialogue: 0,0:17:07.35,0:17:09.06,Default,,0,0,0,,{\i1}Aku tak paham! Aku bisa gila!{\i0}
+Dialogue: 0,0:17:09.15,0:17:10.82,Default,,0,0,0,,{\i1}Meski dia palsu,{\i0}
+Dialogue: 0,0:17:10.90,0:17:12.28,Default,,0,0,0,,{\i1}aku mau dia tetap di sini.{\i0}
+Dialogue: 0,0:17:13.65,0:17:14.82,Default,,0,0,0,,Omong-omong.
+Dialogue: 0,0:17:14.90,0:17:16.82,Default,,0,0,0,,Aku mau mampir nanti.
+Dialogue: 0,0:17:16.91,0:17:18.87,Default,,0,0,0,,Aku mau baca {\i1}Master + Master{\i0} lagi.
+Dialogue: 0,0:17:18.95,0:17:19.83,Default,,0,0,0,,Boleh?
+Dialogue: 0,0:17:22.37,0:17:23.41,Default,,0,0,0,,Boleh saja.
+Dialogue: 0,0:17:25.41,0:17:26.83,Default,,0,0,0,,Sudah baca sampai mana?
+Dialogue: 0,0:17:27.33,0:17:28.46,Default,,0,0,0,,Ron pergi dari pulau!
+Dialogue: 0,0:17:29.17,0:17:31.75,Default,,0,0,0,,Kau baru baca awalnya saja?
+Dialogue: 0,0:17:31.84,0:17:32.96,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:17:33.05,0:17:34.84,Default,,0,0,0,,Kau boleh baca di rumahku.
+Dialogue: 0,0:17:34.92,0:17:36.59,Default,,0,0,0,,Tapi kurang volume tiga.
+Dialogue: 0,0:17:38.14,0:17:40.30,Default,,0,0,0,,Aku akan pikirkan nanti.
+Dialogue: 0,0:17:40.39,0:17:44.10,Default,,0,0,0,,Tapi aku masih tak mengerti\Nkenapa kau punya 11 volume satu.
+Dialogue: 0,0:17:49.94,0:17:51.57,Default,,0,0,0,,Kenapa…
+Dialogue: 0,0:17:52.52,0:17:57.45,Default,,0,0,0,,{\an8}Nonuki-sama telah turun dari gunung!
+Dialogue: 0,0:17:57.53,0:18:00.53,Default,,0,0,0,,Apa? Mogimogi-sama?
+Dialogue: 0,0:18:00.62,0:18:02.24,Default,,0,0,0,,Jangan pedulikan.
+Dialogue: 0,0:18:02.33,0:18:05.12,Default,,0,0,0,,Hal seperti ini membuatku takut.
+Dialogue: 0,0:18:05.20,0:18:06.12,Default,,0,0,0,,Ya, seram.
+Dialogue: 0,0:18:08.75,0:18:11.13,Default,,0,0,0,,Menjauhlah! Pergi!
+Dialogue: 0,0:18:16.42,0:18:17.51,Default,,0,0,0,,Ayo pergi,
+Dialogue: 0,0:18:17.59,0:18:18.63,Default,,0,0,0,,{\i1}Hikaru.{\i0}
+Dialogue: 0,0:18:26.35,0:18:27.18,Default,,0,0,0,,Hei.
+Dialogue: 0,0:18:27.77,0:18:29.06,Default,,0,0,0,,Jadi, Hikaru…
+Dialogue: 0,0:18:29.65,0:18:31.02,Default,,0,0,0,,benar-benar mati, ya?
+Dialogue: 0,0:18:33.15,0:18:33.98,Default,,0,0,0,,Ya.
+Dialogue: 0,0:18:34.48,0:18:37.99,Default,,0,0,0,,Tubuhnya hangat\Ndan jantungnya masih berdetak, tapi…
+Dialogue: 0,0:18:38.70,0:18:39.99,Default,,0,0,0,,dia sudah mati.
+Dialogue: 0,0:18:40.57,0:18:42.03,Default,,0,0,0,,Apa itu artinya…
+Dialogue: 0,0:18:42.12,0:18:43.24,Default,,0,0,0,,Tidak!
+Dialogue: 0,0:18:43.99,0:18:46.54,Default,,0,0,0,,Saat kutemukan,\Ndia sudah di ambang kematian.
+Dialogue: 0,0:18:46.62,0:18:48.04,Default,,0,0,0,,Sungguh.
+Dialogue: 0,0:18:49.87,0:18:51.63,Default,,0,0,0,,Ini yang aku ingat.
+Dialogue: 0,0:18:51.71,0:18:54.09,Default,,0,0,0,,{\i1}Aku berkeliaran di gunung{\i0}
+Dialogue: 0,0:18:54.17,0:18:56.51,Default,,0,0,0,,{\i1}sejak dahulu kala.{\i0}
+Dialogue: 0,0:18:57.05,0:18:59.22,Default,,0,0,0,,{\i1}Aku tak bisa merasakan apa-apa.{\i0}
+Dialogue: 0,0:18:59.30,0:19:01.68,Default,,0,0,0,,{\i1}Aku merasa seperti semacam robot.{\i0}
+Dialogue: 0,0:19:01.76,0:19:02.80,Default,,0,0,0,,{\i1}Kemudian,{\i0}
+Dialogue: 0,0:19:03.43,0:19:05.64,Default,,0,0,0,,{\i1}aku menemukan Hikaru di ambang kematian.{\i0}
+Dialogue: 0,0:19:06.14,0:19:09.89,Default,,0,0,0,,{\i1}Lalu, saat sadar,{\i0}\N{\i1}aku sudah jadi seperti ini.{\i0}
+Dialogue: 0,0:19:15.65,0:19:17.65,Default,,0,0,0,,Sampai besok, Yoshiki.
+Dialogue: 0,0:19:20.65,0:19:21.49,Default,,0,0,0,,Hei.
+Dialogue: 0,0:19:22.20,0:19:23.74,Default,,0,0,0,,Apa kau menyukaiku?
+Dialogue: 0,0:19:23.82,0:19:25.37,Default,,0,0,0,,Apa?
+Dialogue: 0,0:19:36.46,0:19:37.63,Default,,0,0,0,,Ya, aku suka.
+Dialogue: 0,0:19:39.13,0:19:40.72,Default,,0,0,0,,Aku sangat menyukaimu.
+Dialogue: 0,0:19:45.05,0:19:46.85,Default,,0,0,0,,{\i1}Dia belum pernah mengatakan itu.{\i0}
+Dialogue: 0,0:19:47.64,0:19:49.98,Default,,0,0,0,,{\i1}Bahkan sekali pun.{\i0}
+Dialogue: 0,0:19:52.35,0:19:57.15,Default,,0,0,0,,Kalau begitu, jangan pernah\Nmeninggalkanku lagi, ya?
+Dialogue: 0,0:20:14.25,0:20:16.42,Default,,0,0,0,,Semester satu hampir berakhir, tahu!
+Dialogue: 0,0:20:16.50,0:20:17.67,Default,,0,0,0,,Dia di rumah lagi!
+Dialogue: 0,0:20:19.25,0:20:21.09,Default,,0,0,0,,Kau pikir itu tak apa-apa?
+Dialogue: 0,0:20:21.17,0:20:24.18,Default,,0,0,0,,Kau ibunya.\NKalau kau tak keberatan, aku juga.
+Dialogue: 0,0:20:25.76,0:20:27.51,Default,,0,0,0,,Bukan itu intinya!
+Dialogue: 0,0:20:27.60,0:20:29.68,Default,,0,0,0,,Apa kau benar-benar peduli dengan Kaoru?
+Dialogue: 0,0:20:34.27,0:20:36.19,Default,,0,0,0,,Menjauh! Menjauh!
+Dialogue: 0,0:20:36.27,0:20:37.98,Default,,0,0,0,,Bu Matsuura.
+Dialogue: 0,0:20:38.52,0:20:41.19,Default,,0,0,0,,- Ada paket.\N- Tak akan kubuka!
+Dialogue: 0,0:20:41.28,0:20:44.20,Default,,0,0,0,,- Tentu saja aku peduli. Aku ayahnya.\N- Kalau begitu, kenapa…
+Dialogue: 0,0:20:44.28,0:20:45.99,Default,,0,0,0,,Bu Matsuura?
+Dialogue: 0,0:20:46.78,0:20:49.91,Default,,0,0,0,,Kau cuma memikirkan diri sendiri.\NKau tak peduli anak-anak kita!
+Dialogue: 0,0:20:49.99,0:20:52.20,Default,,0,0,0,,Mencari nafkah saja tidak cukup!
+Dialogue: 0,0:20:52.29,0:20:53.83,Default,,0,0,0,,Bu Matsuura.
+Dialogue: 0,0:20:54.41,0:20:55.67,Default,,0,0,0,,Bu Matsuura.
+Dialogue: 0,0:20:56.25,0:20:58.71,Default,,0,0,0,,Ada orang di rumah?
+Dialogue: 0,0:21:02.71,0:21:06.80,Default,,0,0,0,,Tak mungkin ada pengiriman paket\Nyang selarut ini.
+Dialogue: 0,0:21:06.89,0:21:08.39,Default,,0,0,0,,Aku tahu kau di dalam!
+Dialogue: 0,0:21:09.30,0:21:10.93,Default,,0,0,0,,{\i1}Bu Matsuura!{\i0}
+Dialogue: 0,0:21:12.06,0:21:13.43,Default,,0,0,0,,Bu Matsuura!
+Dialogue: 0,0:21:14.56,0:21:15.98,Default,,0,0,0,,{\i1}Bu Matsuura!{\i0}
+Dialogue: 0,0:21:16.06,0:21:19.48,Default,,0,0,0,,Tidak… Kau tak boleh masuk ke rumah ini!
+Dialogue: 0,0:21:19.56,0:21:22.23,Default,,0,0,0,,Bu Matsuura. Bu Matsuura!
+Dialogue: 0,0:21:29.62,0:21:30.74,Default,,0,0,0,,Bu Matsuura.
+Dialogue: 0,0:21:34.58,0:21:35.96,Default,,0,0,0,,Aku sudah masuk.
+Dialogue: 0,0:21:49.76,0:21:51.85,Default,,0,0,0,,{\i1}Selamat tidur, Hikaru.{\i0}
+Dialogue: 0,0:22:06.65,0:22:09.99,tanda,,0,0,0,,{\an8}POLISI
+Dialogue: 0,0:22:10.07,0:22:11.33,Default,,0,0,0,,{\an8}Ya, benar dia.
+Dialogue: 0,0:22:11.95,0:22:14.16,Default,,0,0,0,,{\an8}Dia ibuku.
+Dialogue: 0,0:22:15.29,0:22:16.29,Default,,0,0,0,,{\an8}Kenapa…
+Dialogue: 0,0:22:18.00,0:22:20.42,Default,,0,0,0,,{\an8}Aku berikutnya…
+Dialogue: 0,0:22:23.17,0:22:26.76,Default,,0,0,0,,Nonuki-sama datang menjemputku…
+Dialogue: 0,0:22:26.84,0:22:30.72,Default,,0,0,0,,{\an8}Sudah kuduga. Ritual Indo gagal.
+Dialogue: 0,0:22:30.80,0:22:33.14,Default,,0,0,0,,{\an8}Bagaimana ini, Takeda?
+Dialogue: 0,0:22:35.52,0:22:37.02,Default,,0,0,0,,{\i1}Tentu saja.{\i0}
+Dialogue: 0,0:22:37.10,0:22:39.64,Default,,0,0,0,,Aku akan langsung ke sana besok pagi.
+Dialogue: 0,0:22:39.73,0:22:43.36,Default,,0,0,0,,Aku akan membantu\Nsebisa mungkin, Pak Takeda.
+Dialogue: 0,0:22:46.82,0:22:50.53,Default,,0,0,0,,Sebenarnya aku malas mengunjungi\NDesa Kubitachi yang suram itu.
+Dialogue: 0,0:22:52.62,0:22:54.03,Default,,0,0,0,,Tapi,
+Dialogue: 0,0:22:54.12,0:22:57.75,Default,,0,0,0,,{\an8}warga desa itu tak tahu\Napa yang mereka hadapi.
+Dialogue: 0,0:22:57.83,0:23:00.37,Default,,0,0,0,,{\an8}Itu tak mudah ditangani\Nseperti yang mereka kira.
+Dialogue: 0,0:23:00.46,0:23:03.04,Default,,0,0,0,,{\an8}Terjemahan subtitle oleh Sudirman Lius
