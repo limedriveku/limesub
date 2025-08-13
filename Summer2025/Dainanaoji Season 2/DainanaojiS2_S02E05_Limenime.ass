@@ -10,10 +10,9 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: dandadandandandandan
-Video Zoom Percent: 0.250000
-Scroll Position: 83
-Active Line: 90
+Last Style Storage: another_diusir dari grup pahlawan
+Scroll Position: 123
+Active Line: 133
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,340 +26,340 @@ Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.25,0:00:24.20,dialog,,0,0,0,,Hati, ya?
-Dialogue: 0,0:00:24.20,0:00:28.27,dialog,,0,0,0,,Sayang sekali,\Ntapi itu bukanlah titik vitalku.
-Dialogue: 0,0:00:30.83,0:00:32.63,dialog,,0,0,0,,Sudah kubilang, kan?
-Dialogue: 0,0:00:33.06,0:00:36.05,dialog,,0,0,0,,Aku tak bisa menunjukkan jalan padamu.
-Dialogue: 0,0:00:38.89,0:00:42.14,dialog,,0,0,0,,Titik vitalku juga bukan di situ, tahu...
-Dialogue: 0,0:00:42.14,0:00:43.48,dialog,,0,0,0,,Pendeta bajingan!
-Dialogue: 0,0:00:53.87,0:00:58.75,tanda-5,,0,0,0,,{\pos(960,90)\fs70\b1\bord3\c&H3C00E8&\3c&HFFFFFF&)\fad(1200,943)}Bereinkarnasi Malah Menjadi Pangeran Ketujuh, jadi Aku Bisa\NMenyempurnakan Kemampuan Sihirku Sepuasnya {\\c&H3C00E8&\3c&H000000&}Musim Kedua
-Dialogue: 0,0:02:15.57,0:02:20.53,tanda-6,,0,0,0,,{\pos(1815,891.286)\fs80\fscy98\fad(450,480)\blur0\bord3\shad0\c&H000000&\3c&HFFFFFF&\b1}Episode 17: {\c&H463AEC&}Rahasia Gereja
-Dialogue: 0,0:02:18.18,0:02:19.79,dialog - atas,,0,0,0,,Kekuatanku...
-Dialogue: 0,0:02:20.13,0:02:24.28,dialog - atas,,0,0,0,,adalah tubuh super fleksibel yang bisa\Nmemutar dan membengkokkan tubuh secara luas.
-Dialogue: 0,0:02:24.79,0:02:28.56,dialog,,0,0,0,,Keunggulan teknik ini adalah karena\Nia tak pernah disadari oleh lawan.
-Dialogue: 0,0:02:28.56,0:02:32.46,dialog,,0,0,0,,Aku bisa membengkokkan bagian dalam tubuh\Ntanpa mengubah posisi tubuh,
-Dialogue: 0,0:02:32.46,0:02:35.18,dialog,,0,0,0,,dan menggeser titik vitalku\Ntanpa disadari lawan.
-Dialogue: 0,0:02:35.61,0:02:36.70,dialog,,0,0,0,,Ditambah lagi,
-Dialogue: 0,0:02:37.49,0:02:40.44,dialog,,0,0,0,,aku bisa memutar otot\Ndan tulang sampai batasnya,
-Dialogue: 0,0:02:40.44,0:02:44.56,dialog,,0,0,0,,sehingga dapat melepaskan energi perlawanan\Nyang cukup untuk menghancurkan sebuah batu.
-Dialogue: 0,0:02:45.21,0:02:47.56,dialog,,0,0,0,,Tikus Terpojok Memangsa Kucing!
-Dialogue: 0,0:02:51.19,0:02:52.59,dialog,,0,0,0,,Kerasnya!
-Dialogue: 0,0:02:52.59,0:02:56.45,dialog,,0,0,0,,Gawat, malah jadi senjata makan tuan...
-Dialogue: 0,0:02:56.45,0:03:00.70,dialog,,0,0,0,,Tapi, aku bisa lebih dari ini,\Nlebih dekat, lebih dalam!
-Dialogue: 0,0:03:00.70,0:03:03.49,dialog,,0,0,0,,Dengan sekuat tenaga,\Ndengan seluruh daya sihir yang kupunya...
-Dialogue: 0,0:03:03.49,0:03:07.23,dialog,,0,0,0,,Akan kumurnikan dia langsung\Nsampai ke jiwanya!
-Dialogue: 0,0:03:07.23,0:03:09.96,dialog,,0,0,0,,Tikus Terpojok, Menjadi Naga!
-Dialogue: 0,0:03:10.37,0:03:13.17,dialog,,0,0,0,,Organ dalamku terasa mau keluar lewat mulut!
-Dialogue: 0,0:03:13.17,0:03:16.22,dialog,,0,0,0,,Daya sihirku habis, aku sudah tak bisa\Nmerasakan tanganku...
-Dialogue: 0,0:03:16.59,0:03:18.97,dialog,,0,0,0,,Hentikan, hentikan aku!
-Dialogue: 0,0:03:19.41,0:03:21.16,dialog,,0,0,0,,Babylon...
-Dialogue: 0,0:03:21.16,0:03:24.48,dialog,,0,0,0,,Kumohon, jadikan dia pengecualian...
-Dialogue: 0,0:03:30.10,0:03:31.48,dialog,,0,0,0,,Sungguh menyilaukan.
-Dialogue: 0,0:03:36.86,0:03:39.74,dialog,,0,0,0,,Ya, ya, aku paham perasaan itu.
-Dialogue: 0,0:03:42.95,0:03:45.95,dialog,,0,0,0,,"Sihir Suci-nya tidak berguna!"
-Dialogue: 0,0:03:45.95,0:03:47.37,dialog,,0,0,0,,Kamu pasti merasa begitu, kan?
-Dialogue: 0,0:03:48.79,0:03:53.96,dialog,,0,0,0,,Ah, tapi ada satu hal yang kusukai.
-Dialogue: 0,0:03:54.65,0:03:55.87,dialog,,0,0,0,,Pedang Cahaya itu.
-Dialogue: 0,0:04:02.31,0:04:05.12,dialog,,0,0,0,,Unholy Excalibur.
-Dialogue: 0,0:04:07.36,0:04:09.65,dialog,,0,0,0,,Omong-omong,
-Dialogue: 0,0:04:09.65,0:04:13.04,dialog,,0,0,0,,kamu punya struktur tubuh\Nyang agak lain, ya.
-Dialogue: 0,0:04:13.62,0:04:15.40,dialog,,0,0,0,,Bagian mana yang harus kutusuk...
-Dialogue: 0,0:04:15.85,0:04:17.53,dialog,,0,0,0,,agar kamu mati?
-Dialogue: 0,0:04:26.86,0:04:27.91,dialog,,0,0,0,,Duh,
-Dialogue: 0,0:04:28.32,0:04:31.04,dialog,,0,0,0,,jangan jadikan guild ini\Ntempat berteduh dari hujan, dong!
-Dialogue: 0,0:04:31.04,0:04:34.60,dialog,,0,0,0,,Walau bilang begitu,\Nkamu selalu memberikan handuk untuk kami,
-Dialogue: 0,0:04:34.60,0:04:36.06,dialog,,0,0,0,,Katarina.
-Dialogue: 0,0:04:38.16,0:04:40.51,dialog,,0,0,0,,Lagi-lagi datang hanya untuk berteduh.
-Dialogue: 0,0:04:41.21,0:04:42.56,dialog,,0,0,0,,Escher?
-Dialogue: 0,0:04:52.60,0:04:54.81,dialog,,0,0,0,,Apa yang terjadi?
-Dialogue: 0,0:04:54.81,0:04:56.22,dialog,,0,0,0,,Sebenarnya...
-Dialogue: 0,0:04:57.48,0:05:00.05,dialog,,0,0,0,,Apakah ada sesuatu, Nona Escher?
-Dialogue: 0,0:05:00.05,0:05:03.68,dialog,,0,0,0,,Kalau untuk menolongmu, kami akan\Nlakukan apa pun dengan cuma-cuma!
-Dialogue: 0,0:05:04.29,0:05:05.78,dialog,,0,0,0,,Semuanya...
-Dialogue: 0,0:05:07.67,0:05:09.78,dialog,,0,0,0,,Jangan panggil bala bantuan.
-Dialogue: 0,0:05:13.34,0:05:14.90,dialog,,0,0,0,,Tidak apa-apa, kok!
-Dialogue: 0,0:05:14.90,0:05:17.41,dialog,,0,0,0,,Tuan Pendeta terpeleset\Ndan jatuh karena hujan.
-Dialogue: 0,0:05:17.41,0:05:19.71,dialog,,0,0,0,,Tolong biarkan dia istirahat\Ndi sini sebentar, ya.
-Dialogue: 0,0:05:19.71,0:05:20.37,dialog,,0,0,0,,Eh?
-Dialogue: 0,0:05:20.37,0:05:24.18,dialog,,0,0,0,,Eng, aku masih harus pergi ke suatu tempat.
-Dialogue: 0,0:05:25.03,0:05:27.85,dialog,,0,0,0,,Titip Tuan Pendeta, ya.
-Dialogue: 0,0:05:38.11,0:05:42.84,dialog,,0,0,0,,Bodohnya, kenapa aku tidak minta tolong?
-Dialogue: 0,0:05:43.36,0:05:46.89,dialog,,0,0,0,,Padahal ada orang-orang yang terlihat\Nsangat kuat di sana.
-Dialogue: 0,0:05:49.87,0:05:53.22,dialog,,0,0,0,,Itu bohong...\NSebenarnya aku memahaminya...
-Dialogue: 0,0:05:53.22,0:05:56.50,dialog,,0,0,0,,Aku bisa merasakannya dari dalam tubuhku...
-Dialogue: 0,0:05:58.01,0:05:59.90,dialog,,0,0,0,,Semuanya pasti akan dibunuh...
-Dialogue: 0,0:06:00.87,0:06:02.56,dialog,,0,0,0,,Tak akan ada yang bisa menang...
-Dialogue: 0,0:06:03.33,0:06:06.76,dialog,,0,0,0,,Aku harus melakukan sesuatu...
-Dialogue: 0,0:06:07.37,0:06:08.91,dialog,,0,0,0,,Atau Babylon akan...
-Dialogue: 0,0:06:09.68,0:06:14.27,dialog,,0,0,0,,Aku selalu muak\Ndengan nyanyian perempuan itu.
-Dialogue: 0,0:06:15.34,0:06:19.48,dialog,,0,0,0,,Tuhan, bagaimana bisa aku yang hanya\Npunya kemampuan menyanyi ini...
-Dialogue: 0,0:06:19.48,0:06:22.05,dialog,,0,0,0,,menghentikan orang yang justru...
-Dialogue: 0,0:06:22.05,0:06:23.78,dialog,,0,0,0,,tidak suka dengan nyanyianku?
-Dialogue: 0,0:06:24.26,0:06:28.03,dialog,,0,0,0,,Kumohon, akan kuserahkan hidupku ini...
-Dialogue: 0,0:06:28.03,0:06:31.93,dialog,,0,0,0,,Karena itu, bagaimanapun caranya...\NYa, Tuhan!
-Dialogue: 0,0:06:32.90,0:06:34.54,dialog,,0,0,0,,Yang benar saja.
-Dialogue: 0,0:06:34.88,0:06:38.04,dialog,,0,0,0,,Jadi kamu masuk ajaran gereja\Nkarena alasan itu?
-Dialogue: 0,0:06:40.12,0:06:43.18,dialog,,0,0,0,,Itu hal klasik\Nyang sering diucapkan rohaniwan, sih.
-Dialogue: 0,0:06:48.94,0:06:49.95,dialog,,0,0,0,,Tapi...
-Dialogue: 0,0:06:50.56,0:06:52.10,dialog,,0,0,0,,aku tidak membencinya, kok.
-Dialogue: 0,0:06:53.14,0:06:56.19,dialog,,0,0,0,,Bagaimanapun, suaramu itu pasti...
-Dialogue: 0,0:06:57.11,0:06:58.82,dialog,,0,0,0,,akan tersampaikan bahkan ke surga...
-Dialogue: 0,0:07:00.25,0:07:01.32,dialog,,0,0,0,,Escher...
-Dialogue: 0,0:07:05.70,0:07:07.58,dialog,,0,0,0,,Sudah kuduga memang Escher.
-Dialogue: 0,0:07:07.58,0:07:09.20,dialog,,0,0,0,,Cara jatuhmu itu parah sekali, lo.
-Dialogue: 0,0:07:09.81,0:07:13.20,dialog,,0,0,0,,Kami juga terjebak hujan di tengah jalan\Nsaat mau laporan ke guild.
-Dialogue: 0,0:07:13.61,0:07:17.26,dialog,,0,0,0,,Tunggu, ya. Sylpha dan yang lain\Nsedang beli perlengkapan hujan.
-Dialogue: 0,0:07:17.26,0:07:19.01,dialog,,0,0,0,,Akan kuantar kamu sampai gereja.
-Dialogue: 0,0:07:22.74,0:07:25.97,dialog,,0,0,0,,Kumohon tolong Babylon!
-Dialogue: 0,0:07:29.77,0:07:31.72,dialog,,0,0,0,,Maaf, aku...
-Dialogue: 0,0:07:33.70,0:07:36.08,dialog,,0,0,0,,Kenapa aku mengatakan hal ini\Npada Dik Lloyd...
-Dialogue: 0,0:07:37.70,0:07:42.37,dialog,,0,0,0,,Maaf, tidak ada apa-apa, kok.\NLupakan saja.
-Dialogue: 0,0:08:00.79,0:08:02.48,dialog,,0,0,0,,Berani-beraninya...
-Dialogue: 0,0:08:06.42,0:08:09.18,tanda-5,,0,0,0,,{\fad(330,0)\fs70\blur0\bord3\shad0\c&H3C00E8&\3c&HFFFFFF&\move(968,968,968,1003)}Bereinkarnasi Malah Menjadi Pangeran Ketujuh, jadi Aku Bisa\NMenyempurnakan Kemampuan Sihirku Sepuasnya {\blur0\bord3\c&H3C00E8&\3c&H000000&}Musim Kedua
-Dialogue: 0,0:08:10.06,0:08:11.88,dialog,,0,0,0,,Yah, aku baik-baik saja.
-Dialogue: 0,0:08:11.88,0:08:13.42,dialog,,0,0,0,,Apa pun jalan yang kuambil,
-Dialogue: 0,0:08:13.42,0:08:15.91,dialog,,0,0,0,,hidupku sangat carut-marut\Nsampai bertemu denganmu.
-Dialogue: 0,0:08:16.54,0:08:19.35,dialog,,0,0,0,,Aku juga merasa telah memenuhi\Npermintaan Bos dengan maksimal.
-Dialogue: 0,0:08:20.45,0:08:22.39,dialog,,0,0,0,,Ah, iya, iya.
-Dialogue: 0,0:08:23.73,0:08:26.46,dialog,,0,0,0,,Aku tak membenci nyanyian Escher, kok.
-Dialogue: 0,0:08:26.97,0:08:28.79,dialog,,0,0,0,,Kurasa Bos juga menyukainya, lo.
-Dialogue: 0,0:08:29.91,0:08:32.51,dialog,,0,0,0,,Intinya, suaranya sangat bagus.
-Dialogue: 0,0:08:33.90,0:08:36.98,dialog,,0,0,0,,Omong-omong, apa di sini tidak ada alkohol?
-Dialogue: 0,0:08:41.84,0:08:46.67,dialog,,0,0,0,,Sakit, sakit, sakit, apa yang kamu lakukan,\Nsih? Padahal baru bertemu setelah sekian lama.
-Dialogue: 0,0:09:02.06,0:09:03.44,dialog,,0,0,0,,Apa boleh buat.
-Dialogue: 0,0:09:03.95,0:09:05.81,dialog,,0,0,0,,Minum-minumnya nanti lagi, ya.
-Dialogue: 0,0:09:22.09,0:09:25.69,dialog,,0,0,0,,Nanti kubawakan cerita petualangan\Nbuat teman nyemil.
-Dialogue: 0,0:09:45.83,0:09:47.74,dialog,,0,0,0,,Akhirnya kamu bangun juga, Babylon!
-Dialogue: 0,0:09:47.74,0:09:49.48,dialog,,0,0,0,,Ada apa, ada apa, ada apa?
-Dialogue: 0,0:09:49.81,0:09:53.90,dialog,,0,0,0,,Syukurlah! Aku senang sekali!\NTernyata kamu baik-baik saja!
-Dialogue: 0,0:09:53.90,0:09:55.10,dialog,,0,0,0,,Syukur...
-Dialogue: 0,0:09:55.10,0:09:55.99,dialog,,0,0,0,,Tidur!
-Dialogue: 0,0:09:56.40,0:10:00.74,dialog,,0,0,0,,Ah, maaf.\NTolong klarifikasi padaku sekarang juga.
-Dialogue: 0,0:10:00.74,0:10:02.93,dialog,,0,0,0,,Apa yang terjadi saat Babylon...
-Dialogue: 0,0:10:02.93,0:10:04.10,dialog,,0,0,0,,tertidur selama tiga hari.
-Dialogue: 0,0:10:04.10,0:10:07.00,dialog,,0,0,0,,Dik Lloyd membawa Babylon yang terluka\Nke Lordost untuk pengobatan.
-Dialogue: 0,0:10:07.00,0:10:09.21,dialog,,0,0,0,,Tiga hari kemudian\Nakhirnya Babylon membuka matanya.
-Dialogue: 0,0:10:09.21,0:10:10.26,dialog,,0,0,0,,Kamu lagi di sini.
-Dialogue: 0,0:10:10.26,0:10:13.40,dialog,,0,0,0,,Lalu karena kemungkinan akan ada lagi\Npenyusup yang datang ke gereja...
-Dialogue: 0,0:10:13.40,0:10:14.96,dialog,,0,0,0,,kami terus melakukan pengawasan.
-Dialogue: 0,0:10:14.96,0:10:18.32,dialog,,0,0,0,,Kami juga menjelaskan soal pembasmian Ghoul\Ndan insiden di gereja...
-Dialogue: 0,0:10:18.32,0:10:19.90,dialog,,0,0,0,,kepada pihak guild.
-Dialogue: 0,0:10:19.90,0:10:23.00,dialog,,0,0,0,,Untuk melaporkan situasi pada Tuan Albert...
-Dialogue: 0,0:10:23.00,0:10:24.47,dialog,,0,0,0,,kami kembali ke istana.
-Dialogue: 0,0:10:24.47,0:10:27.92,dialog,,0,0,0,,Ren mengevakuasi Escher dan Pak Pendeta...
-Dialogue: 0,0:10:27.92,0:10:29.33,dialog,,0,0,0,,ke Lordost.
-Dialogue: 0,0:10:29.33,0:10:31.86,dialog,,0,0,0,,Sedangkan para biarawati\Ndibiarkan mengungsi...
-Dialogue: 0,0:10:31.86,0:10:32.74,dialog,,0,0,0,,di istana.
-Dialogue: 0,0:10:32.74,0:10:34.93,dialog,,0,0,0,,Terakhir, untuk memperbaiki\Nkerusakan di gereja,
-Dialogue: 0,0:10:34.93,0:10:37.15,dialog,,0,0,0,,kami mengerahkan duo pria saleh,\Ndan akhirnya sampai...
-Dialogue: 0,0:10:37.15,0:10:38.14,dialog,,0,0,0,,di momen ini.
-Dialogue: 0,0:10:39.12,0:10:40.30,dialog,,0,0,0,,Begitu, ya.
-Dialogue: 0,0:10:41.29,0:10:43.72,dialog,,0,0,0,,Aku paham garis besarnya,\Nkecuali duo pria saleh itu.
-Dialogue: 0,0:10:44.03,0:10:45.33,dialog,,0,0,0,,Lalu, bagaimana dengan Bos...
-Dialogue: 0,0:10:45.82,0:10:46.83,dialog,,0,0,0,,maksudku Tuan Lloyd.
-Dialogue: 0,0:10:46.83,0:10:50.84,dialog,,0,0,0,,Syukurlah, Babylon,\Nkalau saja kamu tidak bangun hari ini...
-Dialogue: 0,0:10:50.84,0:10:55.29,dialog,,0,0,0,,Hai! Hari ini aku akan melakukan percobaan\Nmembangkitkan paksa Babylon!
-Dialogue: 0,0:10:55.29,0:10:57.22,dialog,,0,0,0,,Percobaan membangkitkan paksa?
-Dialogue: 0,0:10:57.22,0:11:00.51,dialog,,0,0,0,,E-Eh, rupanya kamu sudah bangun.
-Dialogue: 0,0:11:00.51,0:11:01.87,dialog,,0,0,0,,Baiklah, syukurlah kalau begitu.
-Dialogue: 0,0:11:01.87,0:11:03.47,dialog,,0,0,0,,Kenapa kamu terlihat kecewa begitu?
-Dialogue: 0,0:11:04.38,0:11:09.80,dialog,,0,0,0,,Kurasa aku bisa selamat berkat kemampuan\Ntubuh fleksibel yang memungkinkanku...
-Dialogue: 0,0:11:09.80,0:11:11.87,dialog,,0,0,0,,menjejalkan jantungku ke sana-sini.
-Dialogue: 0,0:11:11.87,0:11:13.05,dialog,,0,0,0,,Bodoh!
-Dialogue: 0,0:11:13.05,0:11:15.99,dialog,,0,0,0,,Meski begitu, kamu sempat sekarat, tahu!
-Dialogue: 0,0:11:16.48,0:11:20.69,dialog,,0,0,0,,Dik Lloyd dan Jihriel terus memberikanmu\NSihir Penyembuhan selama 10 jam,
-Dialogue: 0,0:11:20.69,0:11:23.19,dialog,,0,0,0,,dan kamu tetap tidak bangun-bangun!
-Dialogue: 0,0:11:23.19,0:11:24.38,dialog,,0,0,0,,10 jam?
-Dialogue: 0,0:11:25.27,0:11:27.79,dialog,,0,0,0,,Maaf sudah membuat kalian khawatir.
-Dialogue: 0,0:11:27.79,0:11:31.00,dialog,,0,0,0,,Escher dan Jade-lah yang pantas mendapatkan\Nucapan terima kasih.
-Dialogue: 0,0:11:31.57,0:11:34.02,dialog,,0,0,0,,Escher terus memberikanmu\Nsihir pemurniannya...
-Dialogue: 0,0:11:34.02,0:11:36.82,dialog,,0,0,0,,tanpa beristirahat.
-Dialogue: 0,0:11:37.26,0:11:41.36,dialog,,0,0,0,,Lalu, lebih dari apa pun juga, kalau saja\NEscher tidak minta tolong padaku...
-Dialogue: 0,0:11:41.74,0:11:44.02,dialog,,0,0,0,,dan kalau saja teleportasi\Nspasial tidak ada...
-Dialogue: 0,0:11:44.71,0:11:46.91,dialog,,0,0,0,,pasti kamu sudah mati.
-Dialogue: 0,0:11:48.91,0:11:49.77,dialog,,0,0,0,,Baik.
-Dialogue: 0,0:11:50.52,0:11:53.52,dialog,,0,0,0,,Sekarang, giliranmu yang harus bercerita.
-Dialogue: 0,0:11:53.88,0:11:56.38,dialog,,0,0,0,,Apa yang terjadi di gereja?
-Dialogue: 0,0:11:56.38,0:12:00.14,dialog,,0,0,0,,Musuh itu mengubah wujudnya seperti iblis,
-Dialogue: 0,0:12:00.14,0:12:03.03,dialog,,0,0,0,,dan dia menggunakan Pedang Cahaya?
-Dialogue: 0,0:12:03.03,0:12:07.38,dialog,,0,0,0,,Jangan konyol!\NSeolah-olah ada monster di antara orang...
-Dialogue: 0,0:12:07.38,0:12:09.71,dialog,,0,0,0,,yang sudah kuajari Sihir Suci itu!
-Dialogue: 0,0:12:09.71,0:12:10.79,dialog,,0,0,0,,Tapi...
-Dialogue: 0,0:12:11.14,0:12:15.20,dialog,,0,0,0,,kenyataannya Ghoul yang ada di gorong-gorong\Nitu hancur sendiri karena Sihir Suci.
-Dialogue: 0,0:12:15.20,0:12:18.34,dialog,,0,0,0,,Kalau soal itu, aku tidak tahu-menahu.
-Dialogue: 0,0:12:18.93,0:12:20.30,dialog,,0,0,0,,Aku merasa pendeta itu...
-Dialogue: 0,0:12:20.69,0:12:23.82,dialog,,0,0,0,,sudah terkena serangan Cahaya Redup-ku\Nsebanyak 30 kali lebih.
-Dialogue: 0,0:12:23.82,0:12:28.48,dialog,,0,0,0,,Tapi sama sekali tidak ada tanda-tanda\Ndia akan jadi orang baik.
-Dialogue: 0,0:12:28.48,0:12:29.68,dialog,,0,0,0,,Dengan kata lain...
-Dialogue: 0,0:12:30.08,0:12:31.44,dialog,,0,0,0,,Kalau memang begitu,
-Dialogue: 0,0:12:32.05,0:12:34.00,dialog,,0,0,0,,mungkin dia memang tidak jahat.
-Dialogue: 0,0:12:35.69,0:12:39.82,dialog,,0,0,0,,Pada dasarnya, sihir pemurnian efektif\Npada orang yang memiliki "rasa bersalah".
-Dialogue: 0,0:12:40.22,0:12:42.87,dialog,,0,0,0,,Kita tidak akan bisa menghasilkan\Nemosi yang tidak ada.
-Dialogue: 0,0:12:44.04,0:12:49.33,dialog,,0,0,0,,Mungkin ada hal yang lebih serius di dalam dirinya\Nsehingga pemurnianmu itu tak sampai padanya.
-Dialogue: 0,0:12:50.70,0:12:52.41,dialog,,0,0,0,,Apa pun itu,
-Dialogue: 0,0:12:53.08,0:12:54.44,dialog,,0,0,0,,dia pasti orang berbahaya.
-Dialogue: 0,0:12:56.84,0:12:59.59,dialog,,0,0,0,,Aku dengar dia bilang\Nharus meningkatkan pengawasan...
-Dialogue: 0,0:12:59.59,0:13:02.62,dialog,,0,0,0,,lalu tiba-tiba mencekikku.
-Dialogue: 0,0:13:02.62,0:13:06.21,dialog,,0,0,0,,Hm, jadi dia mau membiarkan Wraith\Nmerasuki tubuh Pak Pendeta dan Escher,
-Dialogue: 0,0:13:06.21,0:13:09.35,dialog,,0,0,0,,lalu ingin meningkatkan pengawasan\Ndi area gereja?
-Dialogue: 0,0:13:09.35,0:13:11.25,dialog,,0,0,0,,Apa tujuannya, ya?
-Dialogue: 0,0:13:11.25,0:13:13.35,dialog,,0,0,0,,Dia seperti detektif.
-Dialogue: 0,0:13:13.35,0:13:17.94,dialog,,0,0,0,,Lalu kapan kamu bertemu dengan\Npendeta misterius itu?
-Dialogue: 0,0:13:17.94,0:13:21.06,dialog,,0,0,0,,Sejak saat itu,\Naku jadi terus mengawasi area taman.
-Dialogue: 0,0:13:21.06,0:13:23.61,dialog,,0,0,0,,Karena itulah tempat aku pertama kali\Nbertemu dengannya.
-Dialogue: 0,0:13:24.03,0:13:28.37,dialog,,0,0,0,,Lalu, saat kebetulan sedang mengawasi taman,\Ndia sudah ada di situ.
-Dialogue: 0,0:13:28.78,0:13:31.50,dialog,,0,0,0,,Lagi-lagi dia pergi ke taman, ya...
-Dialogue: 0,0:13:32.16,0:13:34.00,dialog,,0,0,0,,Omong-omong, Escher juga berkata...
-Dialogue: 0,0:13:34.00,0:13:36.28,dialog,,0,0,0,,Orang itu bilang...
-Dialogue: 0,0:13:36.28,0:13:39.63,dialog,,0,0,0,,bahwa dia selalu muak dengan nyanyianku.
-Dialogue: 0,0:13:39.63,0:13:42.38,dialog,,0,0,0,,"Selalu", ya?
-Dialogue: 0,0:13:42.67,0:13:44.92,dialog,,0,0,0,,Taman itu mencurigakan!
-Dialogue: 0,0:13:44.92,0:13:46.43,dialog,,0,0,0,,Mencurigakan!
-Dialogue: 0,0:13:46.43,0:13:47.62,dialog,,0,0,0,,Imutnya...
-Dialogue: 0,0:13:47.62,0:13:49.14,dialog,,0,0,0,,Jangan menjadikan Bos mainan kalian.
-Dialogue: 0,0:13:49.57,0:13:50.97,dialog,,0,0,0,,Hei!
-Dialogue: 0,0:13:52.35,0:13:54.34,dialog,,0,0,0,,Terima kasih sudah bantu memperbaiki gereja!
-Dialogue: 0,0:13:54.34,0:13:55.74,dialog,,0,0,0,,Siap!
-Dialogue: 0,0:13:55.74,0:13:56.56,dialog,,0,0,0,,Bos!
-Dialogue: 0,0:13:56.56,0:13:58.31,dialog,,0,0,0,,Tuan Lloyd!
-Dialogue: 0,0:13:58.31,0:14:00.86,dialog,,0,0,0,,Area taman kelihatannya sudah selesai, ya!
-Dialogue: 0,0:14:00.86,0:14:04.07,dialog,,0,0,0,,Ya, tinggal menutup lubang di dinding saja!
-Dialogue: 0,0:14:04.66,0:14:06.80,dialog,,0,0,0,,Rasanya dulu mereka tidak begini.
-Dialogue: 0,0:14:06.80,0:14:09.18,dialog,,0,0,0,,Tinggal tiga hari\Nsebelum perayaan hari lahir Tuhan!
-Dialogue: 0,0:14:09.18,0:14:11.82,dialog,,0,0,0,,Kami pasti bisa menyelesaikannya\Nsampai hari resital...
-Dialogue: 0,0:14:11.82,0:14:14.08,dialog,,0,0,0,,yang akan dihadiri Paus!
-Dialogue: 0,0:14:16.25,0:14:18.86,dialog,,0,0,0,,Syukurlah Babylon baik-baik saja, ya, Lloyd!
-Dialogue: 0,0:14:18.86,0:14:20.82,dialog,,0,0,0,,Oh, kamu jadi detektif terkenal, ya!
-Dialogue: 0,0:14:20.82,0:14:23.88,dialog,,0,0,0,,Ya! Terima kasih untuk pengawasanmu, Tao!
-Dialogue: 0,0:14:26.06,0:14:28.60,dialog,,0,0,0,,Apakah terjadi sesuatu?
-Dialogue: 0,0:14:28.60,0:14:30.72,dialog,,0,0,0,,Tidak ada, kok.
-Dialogue: 0,0:14:30.72,0:14:33.08,dialog,,0,0,0,,Ah, tapi Katarina sempat datang.
-Dialogue: 0,0:14:33.08,0:14:35.44,dialog,,0,0,0,,Dia banyak menanyakan keadaan di sini.
-Dialogue: 0,0:14:35.44,0:14:37.50,dialog,,0,0,0,,Lalu dia bilang apa?
-Dialogue: 0,0:14:37.50,0:14:39.14,dialog,,0,0,0,,Parah sekali!
-Dialogue: 0,0:14:39.14,0:14:41.19,dialog,,0,0,0,,Wah, rupanya kamu ada di sini!
-Dialogue: 0,0:14:41.19,0:14:44.62,dialog,,0,0,0,,Ya, aku sempat berpikir apakah sebaiknya\Nguild petualang dibubarkan saja.
-Dialogue: 0,0:14:44.62,0:14:47.24,dialog,,0,0,0,,Apa yang sebenarnya terjadi?
-Dialogue: 0,0:14:47.24,0:14:48.95,dialog,,0,0,0,,Setelah kejadian itu...
-Dialogue: 0,0:14:49.30,0:14:54.10,dialog,,0,0,0,,begitu aku menghubungi gereja pusat\Ndengan lampiran sketsa pendeta itu...
-Dialogue: 0,0:14:54.95,0:14:59.46,dialog,,0,0,0,,Ini adalah kiriman dari Guild Petualang\Ndan Tuan Albert sang Pangeran Kedua.
-Dialogue: 0,0:14:59.46,0:15:01.92,dialog,,0,0,0,,Keduanya memiliki isi yang sama.
-Dialogue: 0,0:14:59.46,0:15:01.92,tanda_srt,,0,0,0,,"PAUS, GUITANE"
-Dialogue: 0,0:15:03.38,0:15:08.37,dialog,,0,0,0,,Kelihatannya pria ini menyerang\Ngereja cabang Dane kemarin,
-Dialogue: 0,0:15:08.37,0:15:10.14,dialog,,0,0,0,,apakah Anda punya petunjuk?
-Dialogue: 0,0:15:10.14,0:15:12.71,dialog,,0,0,0,,Apakah ada korban luka?
-Dialogue: 0,0:15:12.71,0:15:16.88,dialog,,0,0,0,,Pelakunya melarikan diri dan pengabdi magang\Nyang hendak melindungi terluka parah.
-Dialogue: 0,0:15:16.88,0:15:20.19,dialog,,0,0,0,,Sedangkan seluruh rohaniwan gereja\Nsudah dievakuasi.
-Dialogue: 0,0:15:22.83,0:15:25.53,dialog,,0,0,0,,Mereka menanyakan petunjuk soal pria ini?
-Dialogue: 0,0:15:25.99,0:15:28.53,dialog,,0,0,0,,Tampaknya pria penyerang\Nyang terpampang di sketsa itu...
-Dialogue: 0,0:15:28.97,0:15:32.28,dialog,,0,0,0,,juga menggunakan Sihir Suci\Ndan Pedang Cahaya.
-Dialogue: 0,0:15:33.32,0:15:34.45,dialog,,0,0,0,,Jangan konyol!
-Dialogue: 0,0:15:34.45,0:15:37.10,dialog,,0,0,0,,Apa mereka menduga ada pelaku di antara...
-Dialogue: 0,0:15:37.10,0:15:39.29,dialog,,0,0,0,,sesama saudara pelayan Tuhan ini?
-Dialogue: 0,0:15:39.29,0:15:43.21,dialog,,0,0,0,,Siapa yang berani-beraninya\Nmemberikan informasi penistaan ini?
-Dialogue: 0,0:15:43.93,0:15:46.71,dialog,,0,0,0,,Sepertinya pengabdi magang\Nyang melindungi gereja itu.
-Dialogue: 0,0:15:47.19,0:15:49.26,dialog,,0,0,0,,Tapi dia mantan pembunuh bayaran.
-Dialogue: 0,0:15:49.76,0:15:52.68,dialog,,0,0,0,,Saat ini dia bekerja\Nuntuk Tuan Tanah Lordost.
-Dialogue: 0,0:15:52.68,0:15:55.25,dialog,,0,0,0,,Memangnya perkataan orang seperti itu\Nbisa dipercaya?
-Dialogue: 0,0:15:55.25,0:15:58.22,dialog,,0,0,0,,Bukankah Lordost itu hanya tempat\Nyang dipenuhi berandalan?
-Dialogue: 0,0:15:58.22,0:16:01.06,dialog,,0,0,0,,Pernah ada rumor mereka menimbulkan\Nkerusuhan beberapa waktu lalu!
-Dialogue: 0,0:16:01.40,0:16:02.73,dialog,,0,0,0,,Hentikan.
-Dialogue: 0,0:16:03.22,0:16:07.19,dialog,,0,0,0,,Jangan prasangka buruk terhadap siapa pun\Ntanpa ada bukti.
-Dialogue: 0,0:16:07.98,0:16:09.59,dialog,,0,0,0,,Tapi, Paus...
-Dialogue: 0,0:16:09.59,0:16:13.45,dialog,,0,0,0,,Walau tak ada bukti, mereka duluan\Nyang meragukan kita semua.
-Dialogue: 0,0:16:13.86,0:16:15.09,dialog,,0,0,0,,Iya juga, sih...
-Dialogue: 0,0:16:15.72,0:16:17.54,dialog,,0,0,0,,Kalau begitu kita sampaikan ini saja...
-Dialogue: 0,0:16:17.95,0:16:21.46,dialog,,0,0,0,,"Kalau memang meragukan gereja,\Nbawalah bukti yang jelas!"
-Dialogue: 0,0:16:21.46,0:16:25.34,dialog,,0,0,0,,Aku dimarahi habis-habisan\Noleh atasanku, tahu!
-Dialogue: 0,0:16:26.89,0:16:29.34,dialog,,0,0,0,,Jendela yang sudah susah payah diperbaiki!
-Dialogue: 0,0:16:29.34,0:16:31.42,dialog,,0,0,0,,Tapi, ya, sudahlah.
-Dialogue: 0,0:16:31.42,0:16:33.09,dialog,,0,0,0,,Sungguh orang-orang yang saleh.
-Dialogue: 0,0:16:33.50,0:16:37.42,dialog,,0,0,0,,Guild Petualang tidak bisa melakukan\Napa pun untuk kasus ini.
-Dialogue: 0,0:16:37.42,0:16:40.85,dialog,,0,0,0,,Bahkan kami tak bisa merilis poster buronan\Ndengan sketsa itu.
-Dialogue: 0,0:16:40.85,0:16:42.82,dialog,,0,0,0,,Aku benar-benar minta maaf.
-Dialogue: 0,0:16:43.35,0:16:45.76,dialog,,0,0,0,,Kalau begitu, ayo kita tunjukkan buktinya!
-Dialogue: 0,0:16:46.11,0:16:48.30,dialog,,0,0,0,,Cari buktinya sampai dapat!
-Dialogue: 0,0:16:48.30,0:16:49.57,dialog,,0,0,0,,Siap bosku!
-Dialogue: 0,0:16:50.60,0:16:53.11,dialog,,0,0,0,,Taman yang sudah susah payah diperbaiki!
-Dialogue: 0,0:16:53.11,0:16:54.81,dialog,,0,0,0,,Tapi, ya, sudahlah.
-Dialogue: 0,0:16:54.81,0:16:56.25,dialog,,0,0,0,,Ini mah terlalu saleh.
-Dialogue: 0,0:16:56.25,0:16:58.12,dialog,,0,0,0,,Jangan lakukan itu!
-Dialogue: 0,0:16:58.12,0:17:02.62,dialog,,0,0,0,,Bukankah aku sudah bilang kalau ini tempat\Nsuci untuk menguburkan hewan peliharaan?
-Dialogue: 0,0:17:03.15,0:17:06.23,dialog,,0,0,0,,Repot juga kalau harus mencari bukti\Ntanpa harus menghancurkannya, ya.
-Dialogue: 0,0:17:06.23,0:17:10.76,dialog,,0,0,0,,Shiro yang memiliki penciuman paling tajam pun\Ntidak bisa diajak kerja sama kalau datang ke sini.
-Dialogue: 0,0:17:11.09,0:17:15.26,dialog,,0,0,0,,Dia kelihatan menyadari sesuatu,\Ntapi seolah pura-pura tidak sadar.
-Dialogue: 0,0:17:27.26,0:17:29.39,dialog,,0,0,0,,Biarkan mereka yang mencarinya.
-Dialogue: 0,0:17:29.39,0:17:33.53,dialog,,0,0,0,,Penglihatan mereka tajam dan jumlahnya banyak,\Njadi tempat yang mencurigakan tak akan terlewat.
-Dialogue: 0,0:17:33.53,0:17:35.93,dialog,,0,0,0,,Wah, mantap betul, Crow!
-Dialogue: 0,0:17:35.93,0:17:38.53,dialog,,0,0,0,,Kamu mengendalikan para gagak\Ndengan mantra, ya!
-Dialogue: 0,0:17:38.53,0:17:39.82,dialog,,0,0,0,,Kamu sudah makin berkembang!
-Dialogue: 0,0:17:40.29,0:17:42.68,dialog,,0,0,0,,Shiro melihat dengan gelisah.
-Dialogue: 0,0:17:42.68,0:17:45.79,dialog,,0,0,0,,Tapi dia tidak ikut mencari.
-Dialogue: 0,0:17:46.14,0:17:50.80,dialog,,0,0,0,,Omong-omong, Shiro juga terus ketakutan\Nwaktu pertama kali datang ke sini.
-Dialogue: 0,0:17:50.80,0:17:53.30,dialog,,0,0,0,,Sepertinya memang ada sesuatu di sini.
-Dialogue: 0,0:17:56.14,0:17:57.60,dialog,,0,0,0,,Saria!
-Dialogue: 0,0:17:58.42,0:17:59.26,dialog,,0,0,0,,Kenapa ada di sini?
-Dialogue: 0,0:17:59.26,0:18:01.99,dialog,,0,0,0,,Babylon, syukurlah!
-Dialogue: 0,0:18:01.99,0:18:04.10,dialog,,0,0,0,,Tuan Lloyd!
-Dialogue: 0,0:18:04.65,0:18:07.48,dialog,,0,0,0,,Eng, aku...
-Dialogue: 0,0:18:10.07,0:18:12.74,dialog,,0,0,0,,Syukurlah kamu baik-baik saja.
-Dialogue: 0,0:18:14.57,0:18:15.74,dialog,,0,0,0,,Saria...
-Dialogue: 0,0:18:15.74,0:18:17.24,dialog,,0,0,0,,Hiat!
-Dialogue: 0,0:18:17.56,0:18:20.47,dialog,,0,0,0,,Hukuman karena kamu selalu\Nbolos latihan tanpa izin!
-Dialogue: 0,0:18:20.84,0:18:23.25,dialog,,0,0,0,,Hebat! Kamu pandai memainkannya!
-Dialogue: 0,0:18:23.68,0:18:26.50,dialog,,0,0,0,,Apakah resitalnya bisa dilaksanakan?
-Dialogue: 0,0:18:29.77,0:18:31.88,dialog,,0,0,0,,Eng, Saria...
-Dialogue: 0,0:18:32.79,0:18:36.08,dialog,,0,0,0,,Terima kasih sudah menolong Escher, Babrov.
-Dialogue: 0,0:18:36.08,0:18:37.17,dialog,,0,0,0,,Namaku Babylon.
-Dialogue: 0,0:18:38.26,0:18:41.66,dialog,,0,0,0,,Seperti yang sudah kamu dengar,\NEscher diserang oleh orang jahat.
-Dialogue: 0,0:18:41.66,0:18:44.74,dialog,,0,0,0,,Ada kemungkinan dia akan kembali diincar.
-Dialogue: 0,0:18:44.74,0:18:48.38,dialog,,0,0,0,,Karena itu,\Nsebaiknya resital itu dibatalkan.
-Dialogue: 0,0:18:51.73,0:18:52.61,dialog,,0,0,0,,Begitu, ya.
-Dialogue: 0,0:18:53.73,0:18:57.20,dialog,,0,0,0,,Kalau begitu,\Nbiarkan aku melakukan resitalnya sendiri.
-Dialogue: 0,0:19:05.58,0:19:06.49,dialog,,0,0,0,,Semuanya!
-Dialogue: 0,0:19:42.78,0:19:46.34,dialog,,0,0,0,,Ruang bawah tanah?\NAku tidak pernah dengar soal ini!
-Dialogue: 0,0:19:47.05,0:19:49.79,dialog,,0,0,0,,Aku sama sekali tak menyadarinya.
-Dialogue: 0,0:19:55.30,0:19:56.89,dialog,,0,0,0,,Pintu ini...
-Dialogue: 0,0:19:57.28,0:20:01.70,dialog,,0,0,0,,dirancang dengan lapisan kayu khusus\Nyang bisa memblokade sihir dan energi.
-Dialogue: 0,0:20:02.86,0:20:04.43,dialog,,0,0,0,,Wajar tak ada yang menemukannya.
-Dialogue: 0,0:20:04.93,0:20:07.40,dialog,,0,0,0,,Jadi ada sesuatu di bawah tanah gereja...
-Dialogue: 0,0:20:07.40,0:20:10.40,dialog,,0,0,0,,Lalu, bau apa ini sebenarnya...
-Dialogue: 0,0:20:13.48,0:20:14.86,dialog,,0,0,0,,Sebaiknya jangan dilihat.
-Dialogue: 0,0:20:18.93,0:20:21.74,dialog,,0,0,0,,Sudah seharusnya, Escher tidak boleh ikut.
-Dialogue: 0,0:20:22.21,0:20:24.16,dialog,,0,0,0,,Kamu tunggu saja di sini\Nbersama Pak Pendeta.
-Dialogue: 0,0:20:27.62,0:20:31.08,dialog,,0,0,0,,Kumohon, biarkan aku ikut!
-Dialogue: 0,0:20:31.08,0:20:31.88,dialog,,0,0,0,,Hah?
-Dialogue: 0,0:20:32.66,0:20:34.79,dialog,,0,0,0,,Aku tidak akan merepotkan.
-Dialogue: 0,0:20:34.79,0:20:36.84,dialog,,0,0,0,,Tentu saja tidak boleh.
-Dialogue: 0,0:20:36.84,0:20:39.76,dialog,,0,0,0,,Mungkin saja kamu akan diincar!
-Dialogue: 0,0:20:39.76,0:20:41.09,dialog,,0,0,0,,Sudah, sudah.
-Dialogue: 0,0:20:41.09,0:20:42.85,dialog,,0,0,0,,- Justru kamu yang lagi terluka.\N- Apa yang kamu lakukan?
-Dialogue: 0,0:20:42.85,0:20:44.38,dialog,,0,0,0,,Kamu dan Pak Pendeta yang tidak usah ikut.
-Dialogue: 0,0:20:44.38,0:20:46.20,dialog,,0,0,0,,- Bodoh! Bicara apa kamu?\N- Mau pakai jubah ini?
-Dialogue: 0,0:20:46.20,0:20:47.23,dialog,,0,0,0,,- Kamu tidak paham, ya!\N- Eh? Tidak apa-apa?
-Dialogue: 0,0:20:47.23,0:20:47.88,dialog,,0,0,0,,- Ruang bawah tanah itu pasti berbahaya!\N- Eh? Tidak apa-apa?
-Dialogue: 0,0:20:47.88,0:20:48.61,dialog,,0,0,0,,- Ruang bawah tanah itu pasti berbahaya!\N- Mungkin cuacanya lagi dingin.
-Dialogue: 0,0:20:48.61,0:20:49.06,dialog,,0,0,0,,- Sudahlah!\N- Mungkin cuacanya lagi dingin.
-Dialogue: 0,0:20:49.06,0:20:49.98,dialog,,0,0,0,,- Sakit!\N- Mungkin cuacanya lagi dingin.
-Dialogue: 0,0:20:51.36,0:20:53.23,dialog,,0,0,0,,Aku tidak ingin dia merasa payah.
-Dialogue: 0,0:20:55.08,0:20:56.14,dialog,,0,0,0,,Karena aku juga...
-Dialogue: 0,0:20:56.94,0:20:58.66,dialog,,0,0,0,,penggemar anak itu.
-Dialogue: 0,0:20:59.59,0:21:01.86,dialog,,0,0,0,,Sejak kapan kamu akrab dengannya?
-Dialogue: 0,0:21:01.86,0:21:03.61,dialog,,0,0,0,,Tentu saja selama kamu tidur.
-Dialogue: 0,0:21:07.41,0:21:10.26,dialog,,0,0,0,,Babylon, maaf, ya...
-Dialogue: 0,0:21:11.09,0:21:14.75,dialog,,0,0,0,,Tapi, jika aku berpaling kali ini...
-Dialogue: 0,0:21:15.65,0:21:19.35,dialog,,0,0,0,,aku pasti tak akan bisa bernyanyi\Ndengan lancar lagi.
-Dialogue: 0,0:21:20.34,0:21:24.75,dialog,,0,0,0,,Aku pasti bisa pulang\Ndan melawan rasa takutku.
-Dialogue: 0,0:21:30.38,0:21:31.51,dialog,,0,0,0,,Bagaimana?
-Dialogue: 0,0:21:31.51,0:21:34.10,dialog,,0,0,0,,Mau pergi?\NMau pergi atau tidak?
-Dialogue: 0,0:21:34.10,0:21:36.00,dialog,,0,0,0,,Menakutkan, guk.
-Dialogue: 0,0:21:36.00,0:21:37.36,dialog,,0,0,0,,Tapi...
-Dialogue: 0,0:21:37.81,0:21:40.90,dialog,,0,0,0,,Kumohon, biarkan aku ikut!
-Dialogue: 0,0:21:45.12,0:21:46.91,dialog,,0,0,0,,Guk!
-Dialogue: 0,0:21:46.91,0:21:49.41,dialog,,0,0,0,,Ini baru namanya Shiro!
-Dialogue: 0,0:21:58.71,0:22:01.30,dialog,,0,0,0,,Penistaan macam apa ini?
-Dialogue: 0,0:22:02.88,0:22:05.51,dialog,,0,0,0,,Ternyata ini alasan Shiro ketakutan.
-Dialogue: 0,0:23:50.44,0:23:53.81,dialog,,0,0,0,,Hampir saja aku minum bareng Jade\Ndi alam baka.
-Dialogue: 0,0:23:54.26,0:23:57.30,dialog,,0,0,0,,Berkat nyanyiannya,\Naku bisa kembali ke dunia ini lagi.
-Dialogue: 0,0:23:57.91,0:24:00.90,dialog,,0,0,0,,Selanjutnya, Episode 18:\N"Perasaan Escher".
-Dialogue: 0,0:24:01.41,0:24:04.06,dialog,,0,0,0,,Kamu akan menyaksikan kedalaman sihir.
+Dialogue: 0,0:00:21.39,0:00:22.51,dialog,,0,0,0,,Babylon...
+Dialogue: 0,0:00:23.34,0:00:25.88,dialog,,0,0,0,,bangunlah, bangunlah...
+Dialogue: 0,0:00:34.09,0:00:37.32,dialog,,0,0,0,,Serahkan pengobatan Babylon padaku.
+Dialogue: 0,0:00:37.32,0:00:40.22,dialog,,0,0,0,,Biarkan aku memberikan Sihir Suci padanya.
+Dialogue: 0,0:00:46.13,0:00:47.36,dialog,,0,0,0,,Tidak usah.
+Dialogue: 0,0:00:47.87,0:00:50.11,dialog,,0,0,0,,Kamu istirahat saja di sana, Non.
+Dialogue: 0,0:00:50.45,0:00:53.24,dialog,,0,0,0,,Kumohon, biarkan aku bernyanyi.
+Dialogue: 0,0:00:53.24,0:00:54.61,dialog,,0,0,0,,Keras kepala sekali!
+Dialogue: 0,0:00:54.61,0:00:55.71,dialog,,0,0,0,,Hei!
+Dialogue: 0,0:00:57.54,0:01:01.57,dialog,,0,0,0,,Babylon diserang oleh orang berpenampilan\Nseperti pendeta...
+Dialogue: 0,0:01:02.42,0:01:04.66,dialog,,0,0,0,,Jadi aku tak bisa memercayai\Norang dari gereja!
+Dialogue: 0,0:01:32.82,0:01:37.70,tanda-5,,0,0,0,,{\pos(960,90)\fs70\b1\bord3\c&H3C00E8&\3c&HFFFFFF&)\fad(1200,943)}Bereinkarnasi Malah Menjadi Pangeran Ketujuh, jadi Aku Bisa\NMenyempurnakan Kemampuan Sihirku Sepuasnya {\\c&H3C00E8&\3c&H000000&}Musim Kedua
+Dialogue: 0,0:02:53.32,0:02:58.57,tanda-4,,0,0,0,,{\pos(100,891.286)\fs80\fscy98\fad(450,0)\blur0\bord3\shad0\c&H000000&\3c&HFFFFFF&\b1}Episode 18: {\c&H463AEC&}Perasaan Escher
+Dialogue: 0,0:03:10.68,0:03:12.84,dialog,,0,0,0,,Penistaan macam apa ini?
+Dialogue: 0,0:03:22.17,0:03:24.52,dialog,,0,0,0,,Maafkan... aku...
+Dialogue: 0,0:03:25.99,0:03:27.40,dialog,,0,0,0,,Bagaimana menurutmu?
+Dialogue: 0,0:03:27.83,0:03:29.65,dialog,,0,0,0,,Bagaimana, ya...
+Dialogue: 0,0:03:30.25,0:03:32.68,dialog,,0,0,0,,Kurasa mereka monster.
+Dialogue: 0,0:03:32.68,0:03:34.76,dialog,,0,0,0,,Ada manusia juga.
+Dialogue: 0,0:03:36.70,0:03:38.16,dialog,,0,0,0,,Suara dari atas...
+Dialogue: 0,0:03:39.46,0:03:41.41,dialog,,0,0,0,,lumayan menggema jelas, ya.
+Dialogue: 0,0:03:43.20,0:03:46.02,dialog,,0,0,0,,Berdasarkan perkataannya bahwa ia\Nselalu mendengar nyanyian Escher
+Dialogue: 0,0:03:46.02,0:03:48.57,dialog,,0,0,0,,dan harus meningkatkan pengawasan...
+Dialogue: 0,0:03:49.02,0:03:53.30,dialog,,0,0,0,,kemungkinan ini adalah\Ntempat persembunyian pria itu.
+Dialogue: 0,0:03:53.79,0:03:58.18,dialog,,0,0,0,,Tapi kelihatannya dia sedang tak ada di sini.\NApakah menurutmu dia akan kembali?
+Dialogue: 0,0:03:58.18,0:04:02.73,dialog,,0,0,0,,Agak pesimis, di atas saja dia sudah\Nmengamuk sedahsyat itu.
+Dialogue: 0,0:04:02.73,0:04:06.19,dialog,,0,0,0,,Kurasa tinggal masalah waktu saja\Nsampai tempat ini ditemukan.
+Dialogue: 0,0:04:06.63,0:04:07.70,dialog,,0,0,0,,Kak Sylpha!
+Dialogue: 0,0:04:07.70,0:04:11.77,dialog,,0,0,0,,Makhluk ini punya jahitan yang sama persis dengan\NGhoul yang kita lawan di saluran pembuangan!
+Dialogue: 0,0:04:11.77,0:04:13.19,dialog,,0,0,0,,Kamu benar.
+Dialogue: 0,0:04:13.53,0:04:17.03,dialog,,0,0,0,,Ternyata ini semua berhubungan dengan\Nhal yang ada saluran pembuangan itu.
+Dialogue: 0,0:04:17.03,0:04:19.45,dialog,,0,0,0,,Sebenarnya tempat macam apa ini?
+Dialogue: 0,0:04:20.41,0:04:21.95,dialog,,0,0,0,,Ini...
+Dialogue: 0,0:04:21.95,0:04:23.83,dialog,,0,0,0,,Sintesis.
+Dialogue: 0,0:04:23.83,0:04:27.51,dialog,,0,0,0,,Daripada sihir,\Nini lebih ke tempat penelitian alkimia.
+Dialogue: 0,0:04:27.51,0:04:31.96,dialog,,0,0,0,,Dia membudidaya dan membuat banyak anggota tubuh\Ndengan sel dari makhluk hidup.
+Dialogue: 0,0:04:32.55,0:04:37.84,dialog,,0,0,0,,Memasukkan Wraith ke dalam tubuh itu juga\Nada hubungannya dengan penelitian ini.
+Dialogue: 0,0:04:38.22,0:04:41.97,dialog,,0,0,0,,Dia melakukan hal sekeji itu\Ntepat di bawah gereja...
+Dialogue: 0,0:04:41.97,0:04:47.23,dialog,,0,0,0,,Mungkin ada Ghoul murni yang ikut bertarung\Ndengan kita juga, dan itu mencurigakan.
+Dialogue: 0,0:04:47.92,0:04:51.73,dialog,,0,0,0,,Makhluk yang dibuat dengan menambal sulam\Nbagian yang bisa digunakan, yaitu...
+Dialogue: 0,0:04:52.23,0:04:53.40,dialog,,0,0,0,,Chimera.
+Dialogue: 0,0:04:54.48,0:04:57.25,dialog,,0,0,0,,Ini sungguh keji!
+Dialogue: 0,0:04:57.25,0:05:01.37,dialog,,0,0,0,,Aku tak akan memaafkan orang yang sudah\Nmenjadikan nyawa seperti mainan!
+Dialogue: 0,0:05:01.37,0:05:08.09,dialog,,0,0,0,,Masalahnya kita tak tahu apa yang direncanakannya\Ndengan membuat Chimera sebanyak ini.
+Dialogue: 0,0:05:08.09,0:05:10.85,dialog,,0,0,0,,Aku yakin dia orang yang sangat rendahan.
+Dialogue: 0,0:05:10.85,0:05:11.90,dialog,,0,0,0,,Ah, ini memang...
+Dialogue: 0,0:05:11.90,0:05:14.88,dialog,,0,0,0,,benar-benar...
+Dialogue: 0,0:05:14.88,0:05:16.57,dialog,,0,0,0,,Keterlaluan, duh!
+Dialogue: 0,0:05:17.98,0:05:19.13,dialog,,0,0,0,,Duh?
+Dialogue: 0,0:05:19.13,0:05:21.89,dialog,,0,0,0,,Parah, dia parah sekali!
+Dialogue: 0,0:05:22.50,0:05:24.45,dialog,,0,0,0,,Melampaui batas moral!
+Dialogue: 0,0:05:24.45,0:05:27.39,dialog,,0,0,0,,Pasti dia juga sudah banyak\Nmemodifikasi dirinya sendiri.
+Dialogue: 0,0:05:27.39,0:05:32.65,dialog,,0,0,0,,Aku ingin lihat! Mungkin saja tubuhnya\Nhasil dari segudang penelitiannya.
+Dialogue: 0,0:05:32.65,0:05:35.70,dialog,,0,0,0,,Ayo kita hancurkan saja\Ntempat penelitian ini.
+Dialogue: 0,0:05:35.70,0:05:36.95,dialog,,0,0,0,,Sudah sewajarnya.
+Dialogue: 0,0:05:38.18,0:05:39.53,dialog,,0,0,0,,Menjijikkan!
+Dialogue: 0,0:05:39.53,0:05:41.76,dialog,,0,0,0,,Kalian mau menghancurkan tempat ini?\NSemuanya?
+Dialogue: 0,0:05:41.76,0:05:46.54,dialog,,0,0,0,,Tentu saja, tapi setelah kita memeriksanya\Ndan mendapat persetujuan Tuan Albert.
+Dialogue: 0,0:05:46.89,0:05:51.22,dialog,,0,0,0,,Selain itu, Tuan Lloyd, kalau soal alkimia,\NAnda juga sudah menguasainya, kan?
+Dialogue: 0,0:05:51.22,0:05:55.54,dialog,,0,0,0,,Tidak juga, dulu aku hanya baca di buku...
+Dialogue: 0,0:05:59.05,0:06:00.92,dialog,,0,0,0,,Jatuh!
+Dialogue: 0,0:06:10.56,0:06:12.51,dialog,,0,0,0,,Itu... Lamia!
+Dialogue: 0,0:06:12.51,0:06:15.69,dialog,,0,0,0,,Sialan! Dia memelihara monster\Ntanpa mengandangkannya!
+Dialogue: 0,0:06:17.94,0:06:19.82,dialog,,0,0,0,,Monster?
+Dialogue: 0,0:06:23.08,0:06:24.32,dialog,,0,0,0,,Jangan membunuhnya.
+Dialogue: 0,0:06:30.83,0:06:34.19,dialog,,0,0,0,,Itu Sihir Tipe Angin level menegah\NBadai Taring, ya.
+Dialogue: 0,0:06:34.19,0:06:35.32,dialog,,0,0,0,,Galilea...
+Dialogue: 0,0:06:35.32,0:06:36.08,dialog,,0,0,0,,Siap!
+Dialogue: 0,0:06:36.08,0:06:37.76,dialog,,0,0,0,,Kepompong Laba-Laba!
+Dialogue: 0,0:06:38.59,0:06:39.59,dialog,,0,0,0,,Belok!
+Dialogue: 0,0:06:40.71,0:06:41.77,dialog,,0,0,0,,Maju, Ren!
+Dialogue: 0,0:06:41.77,0:06:42.47,dialog,,0,0,0,,Ya!
+Dialogue: 0,0:06:47.22,0:06:50.46,dialog,,0,0,0,,Sihir Penghalang!\NDia bahkan bisa melakukan teknik itu!
+Dialogue: 0,0:06:50.46,0:06:52.73,dialog,,0,0,0,,Sepertinya ini akan menjadi\Npertarungan yang panjang.
+Dialogue: 0,0:06:52.73,0:06:53.73,dialog,,0,0,0,,Tidak.
+Dialogue: 0,0:06:55.33,0:06:57.86,dialog,,0,0,0,,Berlutut!
+Dialogue: 0,0:06:59.80,0:07:01.83,dialog,,0,0,0,,Ternyata bisa dikalahkan oleh bangsa iblis, ya.
+Dialogue: 0,0:07:02.82,0:07:05.81,dialog,,0,0,0,,Konsentrasi Sihir, Rapalan Mantra Kutukan!
+Dialogue: 0,0:07:06.72,0:07:08.87,dialog,,0,0,0,,Berlutut! Berlutut! Berlutut!
+Dialogue: 0,0:07:14.29,0:07:15.40,dialog,,0,0,0,,Kuatnya!
+Dialogue: 0,0:07:19.22,0:07:21.13,dialog,,0,0,0,,Tak kusangka kalah dalam satu kali serang...
+Dialogue: 0,0:07:21.46,0:07:24.13,dialog,,0,0,0,,Walau kamu rekan kami,\Nkemampuanmu itu sungguh mengerikan.
+Dialogue: 0,0:07:24.13,0:07:29.14,dialog,,0,0,0,,Setelah berhasil menguasainya,\Nmantramu makin mengerikan saja, ya.
+Dialogue: 0,0:07:29.14,0:07:32.27,dialog,,0,0,0,,Daripada itu, lihatlah ini.\NSesuai dugaanku.
+Dialogue: 0,0:07:32.75,0:07:36.60,dialog,,0,0,0,,Dia bukan hasil budidaya.\NDia manusia.
+Dialogue: 0,0:07:37.60,0:07:39.90,dialog,,0,0,0,,Walau setengahnya monster, sih.
+Dialogue: 0,0:07:40.27,0:07:43.03,dialog,,0,0,0,,Dia menjadikan manusia hidup\Nsebagai penelitian sintesis...
+Dialogue: 0,0:07:43.33,0:07:45.28,dialog,,0,0,0,,Kekonyolan macam apa ini?
+Dialogue: 0,0:07:45.28,0:07:49.28,dialog,,0,0,0,,Bagaimana ini?\NApa yang seharusnya kita lakukan...
+Dialogue: 0,0:07:49.90,0:07:52.41,dialog,,0,0,0,,pada orang ini!
+Dialogue: 0,0:07:56.52,0:07:57.01,dialog,,0,0,0,,Berlutut...
+Dialogue: 0,0:07:57.01,0:07:58.04,dialog,,0,0,0,,Tunggu!
+Dialogue: 0,0:08:01.30,0:08:03.05,dialog,,0,0,0,,Tunggu sebentar.
+Dialogue: 0,0:08:03.75,0:08:07.05,dialog,,0,0,0,,Tenanglah, jangan takut!
+Dialogue: 0,0:08:07.70,0:08:09.55,dialog,,0,0,0,,Kami bukan musuh.
+Dialogue: 0,0:08:09.93,0:08:12.56,dialog,,0,0,0,,Bahaya kalau mendekat, Escher!
+Dialogue: 0,0:08:18.94,0:08:19.94,dialog,,0,0,0,,Escher!
+Dialogue: 0,0:08:21.81,0:08:23.57,dialog,,0,0,0,,Benar juga...
+Dialogue: 0,0:08:24.47,0:08:26.07,dialog,,0,0,0,,Maafkan aku...
+Dialogue: 0,0:08:28.54,0:08:31.45,dialog,,0,0,0,,Mana mungkin kamu tidak ketakutan.
+Dialogue: 0,0:08:31.94,0:08:35.94,dialog,,0,0,0,,Aku pun sangat ketakutan dan tak berdaya.
+Dialogue: 0,0:08:36.36,0:08:37.78,dialog,,0,0,0,,Tak ada yang bisa kulakukan.
+Dialogue: 0,0:08:38.33,0:08:40.29,dialog,,0,0,0,,Memangnya apa yang bisa dilakukan...
+Dialogue: 0,0:08:40.92,0:08:41.96,dialog,,0,0,0,,oleh diriku...
+Dialogue: 0,0:08:42.33,0:08:43.77,dialog,,0,0,0,,yang seperti itu...
+Dialogue: 0,0:09:09.99,0:09:12.27,dialog,,0,0,0,,Melodi ini...
+Dialogue: 0,0:09:34.50,0:09:35.27,dialog,,0,0,0,,Hei,
+Dialogue: 0,0:09:36.47,0:09:39.33,dialog,,0,0,0,,sejak kapan dia bernyanyi?
+Dialogue: 0,0:09:39.77,0:09:43.80,dialog,,0,0,0,,Sejak saat itu dia tak berhenti bernyanyi,\Nsudah lebih dari 20 jam.
+Dialogue: 0,0:09:44.73,0:09:46.53,dialog,,0,0,0,,Jangan konyol!
+Dialogue: 0,0:09:47.07,0:09:50.34,dialog,,0,0,0,,Tidak ada yang menggunakan\NSihir Suci di antara kita!
+Dialogue: 0,0:09:51.18,0:09:53.62,dialog,,0,0,0,,Bukankah daya sihirnya sudah mau habis?
+Dialogue: 0,0:09:53.62,0:09:58.54,dialog,,0,0,0,,Tapi, kenapa dia tetap bisa\Nberdiri dan bernyanyi?
+Dialogue: 0,0:09:58.88,0:10:00.29,dialog,,0,0,0,,Anak ini...
+Dialogue: 0,0:10:00.29,0:10:02.47,dialog,,0,0,0,,Hebat!
+Dialogue: 0,0:10:02.47,0:10:04.06,dialog,,0,0,0,,Nyanyian orang ini...
+Dialogue: 0,0:10:05.07,0:10:06.84,dialog,,0,0,0,,sungguh hebat!
+Dialogue: 0,0:10:18.86,0:10:20.34,dialog,,0,0,0,,Aku ingat.
+Dialogue: 0,0:10:21.05,0:10:24.76,dialog,,0,0,0,,Aku selalu mendengar nyanyian ini.
+Dialogue: 0,0:10:26.18,0:10:30.40,dialog,,0,0,0,,Aku bisa mendengarnya\Ndari langit-langit yang gelap.
+Dialogue: 0,0:10:31.69,0:10:36.62,dialog,,0,0,0,,Bahkan tangan orang itu pun terhenti\Nsetiap mendengar melodi ini.
+Dialogue: 0,0:10:37.89,0:10:43.29,dialog,,0,0,0,,Benar juga, ketika hatiku sedang\Ndigerogoti oleh monster...
+Dialogue: 0,0:10:43.29,0:10:45.15,dialog,,0,0,0,,aku selalu mendengar nyanyian ini!
+Dialogue: 0,0:10:45.89,0:10:49.30,dialog,,0,0,0,,Suara manusia yang membuatku\Ntetap terhubung dengan jiwaku.
+Dialogue: 0,0:10:54.68,0:10:56.20,dialog,,0,0,0,,Maaf...
+Dialogue: 0,0:10:57.51,0:11:00.29,dialog,,0,0,0,,Eng, aku...
+Dialogue: 0,0:11:02.49,0:11:03.88,dialog,,0,0,0,,Aku ini...
+Dialogue: 0,0:11:04.94,0:11:07.16,dialog,,0,0,0,,manusia!
+Dialogue: 0,0:11:07.16,0:11:08.78,dialog,,0,0,0,,Maafkan aku!
+Dialogue: 0,0:11:16.53,0:11:19.81,dialog,,0,0,0,,Akulah yang harus minta maaf!
+Dialogue: 0,0:11:20.64,0:11:23.15,dialog,,0,0,0,,Kita begitu dekat,
+Dialogue: 0,0:11:25.10,0:11:27.52,dialog,,0,0,0,,tapi aku tak menyadari keberadaanmu.
+Dialogue: 0,0:11:45.39,0:11:48.15,tanda-5,,0,0,0,,{\fad(330,0)\fs70\blur0\bord3\shad0\c&H3C00E8&\3c&HFFFFFF&\move(968,968,968,1003)}Bereinkarnasi Malah Menjadi Pangeran Ketujuh, jadi Aku Bisa\NMenyempurnakan Kemampuan Sihirku Sepuasnya {\blur0\bord3\c&H3C00E8&\3c&H000000&}Musim Kedua
+Dialogue: 0,0:11:48.48,0:11:51.23,dialog,,0,0,0,,Tuan Albert datang!
+Dialogue: 0,0:11:51.82,0:11:54.73,dialog,,0,0,0,,Ada tempat penelitian Chimera\Ndi bawah tanah gereja.
+Dialogue: 0,0:11:55.18,0:11:59.45,dialog,,0,0,0,,Aku ingin segera melacak\Ndan mengejar pelakunya...
+Dialogue: 0,0:12:00.24,0:12:03.87,dialog,,0,0,0,,Maaf aku tak berguna.
+Dialogue: 0,0:12:03.87,0:12:07.82,dialog,,0,0,0,,Kamu kehilangan ingatan,\Nbahkan nama pun tak ingat, ya?
+Dialogue: 0,0:12:07.82,0:12:10.25,dialog,,0,0,0,,Mungkin ini efek samping penelitian itu.
+Dialogue: 0,0:12:10.25,0:12:14.38,dialog,,0,0,0,,Tapi aku punya tebakan.\NMungkin kamu mantan petualang!
+Dialogue: 0,0:12:14.38,0:12:17.26,dialog,,0,0,0,,Benar sekali, kamu juga bisa\Nmenggunakan sihir.
+Dialogue: 0,0:12:17.26,0:12:22.51,dialog,,0,0,0,,Tapi saat menyadari tubuhku seperti ini,\Nkurasa aku tak bisa hidup normal.
+Dialogue: 0,0:12:23.03,0:12:28.61,dialog,,0,0,0,,Tenang saja! Orang sepertimu\Nbisa hidup bahagia di Lordost!
+Dialogue: 0,0:12:28.61,0:12:29.75,dialog,,0,0,0,,Jangan ragu dan datanglah!
+Dialogue: 0,0:12:29.75,0:12:31.77,dialog,,0,0,0,,Aku akan membuatkan rok panjang untukmu!
+Dialogue: 0,0:12:31.77,0:12:33.52,dialog,,0,0,0,,Semuanya...
+Dialogue: 0,0:12:35.03,0:12:39.03,dialog,,0,0,0,,Tapi siapa sebenarnya\Npendeta misterius itu, ya...
+Dialogue: 0,0:12:39.03,0:12:42.78,dialog,,0,0,0,,Oh, ya, aku memungut ini\Ndari tempat penelitian.
+Dialogue: 0,0:12:42.78,0:12:45.41,dialog,,0,0,0,,Apakah bisa jadi petunjuk?
+Dialogue: 0,0:12:46.00,0:12:48.91,dialog,,0,0,0,,Salib yang kelihatan cukup usang, ya.
+Dialogue: 0,0:12:48.91,0:12:52.96,dialog,,0,0,0,,Aku tak tahu itu milik pendeta misterius\Nyang kalian bicarakan atau bukan,
+Dialogue: 0,0:12:52.96,0:12:55.13,dialog,,0,0,0,,tapi aku ingat sesuatu walau samar-samar.
+Dialogue: 0,0:12:55.13,0:12:58.28,dialog,,0,0,0,,Dia orang yang membenci Tuhan.
+Dialogue: 0,0:12:59.93,0:13:04.05,dialog,,0,0,0,,Aku juga akan menyerahkan ini padamu.
+Dialogue: 0,0:13:05.86,0:13:08.56,dialog,,0,0,0,,Ini, kan...\NBerkas dari tempat penelitian itu!
+Dialogue: 0,0:13:08.56,0:13:10.49,dialog,,0,0,0,,Ini data penelitian!
+Dialogue: 0,0:13:10.49,0:13:14.06,dialog,,0,0,0,,Ternyata dia tak mau tempatnya dihancurkan\Nhanya karena mau mencuri data itu.
+Dialogue: 0,0:13:14.56,0:13:18.07,dialog,,0,0,0,,Tidak boleh, Dik Lloyd!\NKalau sampai dia melihat isinya...
+Dialogue: 0,0:13:18.07,0:13:20.82,dialog,,0,0,0,,Kalau tidak suka,\Nkamu boleh membakarnya sendiri.
+Dialogue: 0,0:13:22.23,0:13:26.83,dialog,,0,0,0,,Tapi itu satu-satunya petunjuk\Nuntuk mengembalikan wujudmu menjadi manusia.
+Dialogue: 0,0:13:27.55,0:13:29.40,dialog,,0,0,0,,Tubuhmu itu...
+Dialogue: 0,0:13:29.40,0:13:34.03,dialog,,0,0,0,,dibuat dari sekumpulan teknik sihir rumit\Nyang aku pun tak memahaminya.
+Dialogue: 0,0:13:34.44,0:13:37.32,dialog,,0,0,0,,Data ini dapat dijadikan pembanding\Ndengan membaca dan memahaminya.
+Dialogue: 0,0:13:37.32,0:13:40.84,dialog,,0,0,0,,Yang bisa mengembalikan wujudmu\Nke semula hanyalah kamu sendiri.
+Dialogue: 0,0:13:40.84,0:13:45.72,dialog,,0,0,0,,Kamu lebih senang kalau ini dibakar, atau kamu\Nmau melawan rasa takutmu dan maju ke depan,
+Dialogue: 0,0:13:46.19,0:13:47.40,dialog,,0,0,0,,silakan putuskan sendiri.
+Dialogue: 0,0:13:53.90,0:13:55.71,dialog,,0,0,0,,Terima kasih.
+Dialogue: 0,0:13:55.71,0:13:57.98,dialog,,0,0,0,,Aku akan berusaha.
+Dialogue: 0,0:14:05.70,0:14:08.62,dialog,,0,0,0,,Baiklah, kami juga akan membantumu.
+Dialogue: 0,0:14:09.04,0:14:11.50,dialog,,0,0,0,,Keputusan sudah jelas,\Nayo kita tentukan namamu!
+Dialogue: 0,0:14:11.50,0:14:12.18,tanda_srt,,0,0,0,,TENTUKAN NAMANYA, NAMA,\NNAMA TIDAK BOLEH DIGANTI
+Dialogue: 0,0:14:12.19,0:14:15.74,dialog,,0,0,0,,Ayo beri dia nama yang penuh\Nkeberkahan, Tuan Lloyd.
+Dialogue: 0,0:14:15.74,0:14:16.98,dialog,,0,0,0,,Mohon bantuannya!
+Dialogue: 0,0:14:16.98,0:14:21.26,dialog,,0,0,0,,"Suatu hari nanti aku akan kembali jadi manusia",\Nnama yang dipenuhi harapan itu!
+Dialogue: 0,0:14:21.26,0:14:21.98,dialog,,0,0,0,,NAMA
+Dialogue: 0,0:14:21.99,0:14:23.26,dialog,,0,0,0,,Kalau begitu,
+Dialogue: 0,0:14:23.26,0:14:26.63,dialog,,0,0,0,,Lamy! Karena dia seperti Lamia.
+Dialogue: 0,0:14:28.38,0:14:31.64,dialog,,0,0,0,,Duh, jangan-jangan dia sudah\Nkeburu pulang ke istana.
+Dialogue: 0,0:14:31.64,0:14:34.59,dialog,,0,0,0,,Saria, Saria...
+Dialogue: 0,0:14:34.59,0:14:36.15,dialog,,0,0,0,,Saria!
+Dialogue: 0,0:14:36.51,0:14:37.40,dialog,,0,0,0,,Apa?
+Dialogue: 0,0:14:37.71,0:14:41.28,dialog,,0,0,0,,Saria! Kenapa kamu masih di gereja?
+Dialogue: 0,0:14:41.62,0:14:44.20,dialog,,0,0,0,,Aku makan Babylon yang dibuat Macaron.
+Dialogue: 0,0:14:44.20,0:14:46.53,dialog,,0,0,0,,Sekalian mau latihan untuk resital.
+Dialogue: 0,0:14:48.28,0:14:51.29,dialog,,0,0,0,,Escher juga mau?\NMacaron buatan Babylon.
+Dialogue: 0,0:14:52.89,0:14:55.17,dialog,,0,0,0,,Maafkan aku, Saria.
+Dialogue: 0,0:14:55.47,0:14:58.92,dialog,,0,0,0,,Babylon, aku akan bernyanyi!
+Dialogue: 0,0:14:59.35,0:15:00.92,dialog,,0,0,0,,Aku ingin bernyanyi!
+Dialogue: 0,0:15:01.55,0:15:05.55,dialog,,0,0,0,,Habis aku tak punya kemampuan\Nselain bernyanyi!
+Dialogue: 0,0:15:06.09,0:15:07.43,dialog,,0,0,0,,Itu bagus.
+Dialogue: 0,0:15:07.43,0:15:09.07,dialog,,0,0,0,,Ayo lakukan dengan sekuat tenaga.
+Dialogue: 0,0:15:10.53,0:15:12.27,dialog,,0,0,0,,Perayaan Hari Lahir Tuhan!
+Dialogue: 0,0:15:13.06,0:15:13.97,tanda_srt,,0,0,0,,ELUS-ELUS
+Dialogue: 0,0:15:13.98,0:15:17.44,dialog,,0,0,0,,Perayaan Hari Lahir Tuhan itu,\Nsebaiknya dibatalkan.
+Dialogue: 0,0:15:19.14,0:15:20.07,dialog,,0,0,0,,Cup, cup.
+Dialogue: 0,0:15:24.19,0:15:26.61,dialog,,0,0,0,,Baru sadar kita semua sedang full team.
+Dialogue: 0,0:15:26.95,0:15:30.61,dialog,,0,0,0,,Kak Albert, ini semua tidak boleh dibatalkan!
+Dialogue: 0,0:15:30.61,0:15:33.47,dialog,,0,0,0,,Yah, habis, Saria...
+Dialogue: 0,0:15:33.96,0:15:36.87,dialog,,0,0,0,,Dia tidak salah sebut nama Tuan Albert, ya.
+Dialogue: 0,0:15:37.23,0:15:41.11,dialog,,0,0,0,,Selain itu, kudengar dari Lamy\Nkalau pendeta misterius itu...
+Dialogue: 0,0:15:41.11,0:15:43.01,dialog,,0,0,0,,membenci Tuhan dan gereja.
+Dialogue: 0,0:15:43.01,0:15:43.76,dialog,,0,0,0,,Iya!
+Dialogue: 0,0:15:43.76,0:15:46.26,dialog,,0,0,0,,Semuanya, ini parah sekali!
+Dialogue: 0,0:15:46.26,0:15:49.26,dialog,,0,0,0,,Shiro jadi kocak kalau dipakaikan kalung!
+Dialogue: 0,0:15:49.69,0:15:50.99,dialog,,0,0,0,,Benar juga!
+Dialogue: 0,0:15:54.42,0:15:56.41,dialog,,0,0,0,,Tidak bisa dilepas!
+Dialogue: 0,0:15:57.52,0:15:58.52,tanda_srt,,0,0,0,,BUK, BAK, BUK
+Dialogue: 0,0:15:58.52,0:16:00.46,dialog,,0,0,0,,Karena orang itu juga bilang...
+Dialogue: 0,0:16:00.46,0:16:05.15,dialog,,0,0,0,,kalau dia muak dengan nyanyian Escher,\Nalias lagu-lagu rohani.
+Dialogue: 0,0:16:05.59,0:16:09.33,dialog,,0,0,0,,Masalahnya, pria itu sampai membuat\Ntempat penelitian sebesar itu...
+Dialogue: 0,0:16:09.33,0:16:11.72,dialog,,0,0,0,,dan kita tak tahu\Napa yang sudah direncanakannya.
+Dialogue: 0,0:16:12.16,0:16:15.66,dialog,,0,0,0,,Kalau aku, mungkin akan mengacaukan\NPerayaan Hari Lahir Tuhan itu.
+Dialogue: 0,0:16:15.66,0:16:18.41,dialog,,0,0,0,,Kalau aku, mungkin akan membunuh Paus.
+Dialogue: 0,0:16:19.70,0:16:21.04,dialog,,0,0,0,,Tos!
+Dialogue: 0,0:16:21.53,0:16:24.89,dialog,,0,0,0,,Dengan kata lain,\Nacara itu memang harus dibatalkan.
+Dialogue: 0,0:16:24.89,0:16:26.67,dialog,,0,0,0,,Tapi bagaimana laporannya, ya?
+Dialogue: 0,0:16:26.67,0:16:29.55,dialog,,0,0,0,,Dilaporkan bagaimanapun\Npasti akan menimbulkan keributan.
+Dialogue: 0,0:16:30.87,0:16:33.81,dialog,,0,0,0,,Terlebih, situasinya tidak sesederhana itu.
+Dialogue: 0,0:16:34.21,0:16:37.60,dialog,,0,0,0,,Masalahnya ada pada salib yang dibawa Lamy.
+Dialogue: 0,0:16:37.60,0:16:39.34,dialog,,0,0,0,,Eh, mana salibnya?
+Dialogue: 0,0:16:39.34,0:16:41.81,dialog,,0,0,0,,Katarina yang tadi memegangnya.
+Dialogue: 0,0:16:42.21,0:16:43.51,dialog,,0,0,0,,Di sini, guk.
+Dialogue: 0,0:16:43.94,0:16:47.94,dialog,,0,0,0,,Kalau ini memang benar milik\Npendeta misterius itu,
+Dialogue: 0,0:16:47.94,0:16:50.07,dialog,,0,0,0,,situasinya jadi cukup rumit.
+Dialogue: 0,0:16:50.07,0:16:53.48,dialog,,0,0,0,,Aku juga punya salib perak itu, lo.
+Dialogue: 0,0:16:53.48,0:16:54.33,dialog,,0,0,0,,Eng...
+Dialogue: 0,0:16:54.87,0:16:57.25,dialog,,0,0,0,,kembaran dengan Babylon.
+Dialogue: 0,0:16:57.25,0:17:00.96,dialog,,0,0,0,,Salib milik pendeta itu terlihat seperti baru\Nsaat aku bertemu dengannya.
+Dialogue: 0,0:17:01.55,0:17:03.64,dialog,,0,0,0,,Mungkin sudah hilang dan diganti yang baru.
+Dialogue: 0,0:17:03.64,0:17:06.84,dialog,,0,0,0,,Memangnya kenapa bisa jadi rumit\Ngara-gara salib itu?
+Dialogue: 0,0:17:06.84,0:17:09.88,dialog,,0,0,0,,Biasanya salib itu terbuat dari perak.
+Dialogue: 0,0:17:09.88,0:17:13.34,dialog,,0,0,0,,Tapi salib ini terbuat dari emas murni.
+Dialogue: 0,0:17:13.34,0:17:15.80,dialog,,0,0,0,,Salib emas murni, ya...
+Dialogue: 0,0:17:15.80,0:17:19.35,dialog,,0,0,0,,Orang yang boleh memiliki salib itu\Nhanya 12 orang.
+Dialogue: 0,0:17:19.35,0:17:22.74,dialog,,0,0,0,,Termasuk dengan Paus, itu adalah\Nsalib milik 12 Pendeta Agung...
+Dialogue: 0,0:17:22.74,0:17:24.77,dialog,,0,0,0,,yang mengawasi gereja pusat.
+Dialogue: 0,0:17:25.10,0:17:28.14,dialog,,0,0,0,,Dengan kata lain pelakunya ada\Ndi antara 12 pendeta itu!
+Dialogue: 0,0:17:29.03,0:17:30.62,dialog,,0,0,0,,Jangan sembarangan!
+Dialogue: 0,0:17:30.62,0:17:33.95,dialog,,0,0,0,,Tak mungkin para Pendeta Agung\Nmelakukan hal seperti itu!
+Dialogue: 0,0:17:33.95,0:17:35.91,dialog,,0,0,0,,- Kalian ini memang agak lain!\N- Itu dia! Benar!
+Dialogue: 0,0:17:35.91,0:17:38.84,dialog,,0,0,0,,Tidak, berdasarkan cerita Babylon...
+Dialogue: 0,0:17:38.84,0:17:42.92,dialog,,0,0,0,,ada kemungkinan orang itu\Nbisa mengubah wujudnya sesuka hati.
+Dialogue: 0,0:17:44.39,0:17:46.98,dialog,,0,0,0,,Kalau begitu, mungkin salib itu palsu...
+Dialogue: 0,0:17:46.98,0:17:49.44,dialog,,0,0,0,,atau mungkin dicuri\Ndari para Pendeta Agung itu.
+Dialogue: 0,0:17:49.44,0:17:53.68,dialog,,0,0,0,,Yang jelas, mustahil pelakunya\Nada di antara mereka...
+Dialogue: 0,0:17:53.68,0:17:56.85,dialog,,0,0,0,,Babylon membuat Escher galau...
+Dialogue: 0,0:17:56.85,0:17:57.58,dialog,,0,0,0,,Hah?
+Dialogue: 0,0:17:57.58,0:18:01.94,dialog,,0,0,0,,Parah banget, sepertinya kamu harus\Ndisucikan dengan sihir pemurnian.
+Dialogue: 0,0:18:02.26,0:18:04.41,dialog,,0,0,0,,Supaya kamu bisa jadi Babylon\Nyang tidak babi.
+Dialogue: 0,0:18:06.23,0:18:07.52,dialog,,0,0,0,,Chuu.
+Dialogue: 0,0:18:07.52,0:18:09.07,dialog,,0,0,0,,Biarkan aku melakukannya!
+Dialogue: 0,0:18:09.07,0:18:12.32,dialog,,0,0,0,,Tidak usah!\NAku tidak perlu pemurnian...
+Dialogue: 0,0:18:13.45,0:18:14.94,dialog,,0,0,0,,Pedang Cahaya.
+Dialogue: 0,0:18:16.57,0:18:22.00,dialog,,0,0,0,,Dia mengaktifkan Sihir Suci\Ntanpa ritual apa pun.
+Dialogue: 0,0:18:22.00,0:18:23.46,dialog,,0,0,0,,Pasti ada kekuatan orang dalam.
+Dialogue: 0,0:18:26.48,0:18:28.96,dialog,,0,0,0,,Aku bisa menggunakannya dari Tuan Lloyd...
+Dialogue: 0,0:18:29.48,0:18:31.67,dialog,,0,0,0,,jadi itu sudah sewajarnya.
+Dialogue: 0,0:18:32.18,0:18:35.39,dialog,,0,0,0,,Pada dasarnya,\NSihir Suci diaktifkan melalui ritual,
+Dialogue: 0,0:18:35.39,0:18:38.22,dialog,,0,0,0,,layaknya Escher dengan nyanyian\Ndan gerak tubuhnya.
+Dialogue: 0,0:18:38.22,0:18:40.95,dialog,,0,0,0,,Ini teknik merepotkan\Nyang penuh dengan instruksi.
+Dialogue: 0,0:18:44.03,0:18:47.92,dialog,,0,0,0,,Kekuatan orang dalam, ya.\NTidak salah lagi...
+Dialogue: 0,0:18:48.51,0:18:51.99,dialog,,0,0,0,,Orang yang bisa menggunakan Sihir Suci\Ntanpa melalui ritual apa pun...
+Dialogue: 0,0:18:56.39,0:18:59.24,dialog,,0,0,0,,hanyalah 12 Pendeta Agung itu.
+Dialogue: 0,0:19:09.25,0:19:10.77,dialog,,0,0,0,,Aku menemukan catur!
+Dialogue: 0,0:19:10.77,0:19:12.38,dialog,,0,0,0,,Aku mau main!
+Dialogue: 0,0:19:12.38,0:19:14.93,dialog,,0,0,0,,Hah? Kalau aku tanpa bantuan\Norang dalam pun...
+Dialogue: 0,0:19:14.93,0:19:16.63,dialog,,0,0,0,,Tutup mulutmu.
+Dialogue: 0,0:19:18.13,0:19:19.55,dialog,,0,0,0,,Jadi begitu?
+Dialogue: 0,0:19:19.55,0:19:22.64,dialog,,0,0,0,,Iya, tapi itu tidak sepenuhnya benar.
+Dialogue: 0,0:19:22.64,0:19:26.67,dialog,,0,0,0,,Aku hanya memberikan akses orang dalam\Nkepada Paus Guitane.
+Dialogue: 0,0:19:27.13,0:19:30.51,dialog,,0,0,0,,Lalu kedua belas orang lainnya adalah\Norang yang memercayai Guitane.
+Dialogue: 0,0:19:31.74,0:19:35.48,dialog,,0,0,0,,Sama seperti yang dilakukan Lloyd\Nkepada kelompok Lordost.
+Dialogue: 0,0:19:35.87,0:19:37.88,dialog,,0,0,0,,Aku percaya pada Tuan Lloyd!
+Dialogue: 0,0:19:37.88,0:19:40.11,dialog,,0,0,0,,Aku juga percaya pada mereka!
+Dialogue: 0,0:19:40.11,0:19:41.90,dialog,,0,0,0,,Kalau begitu aku juga percaya mereka!
+Dialogue: 0,0:19:43.21,0:19:45.91,dialog,,0,0,0,,Kamu begitu memercayai lelaki itu, ya.
+Dialogue: 0,0:19:45.91,0:19:48.67,dialog,,0,0,0,,Tuan Lloyd juga lelaki, sih.
+Dialogue: 0,0:19:49.23,0:19:52.05,dialog,,0,0,0,,Itu karena Guitane adalah lelaki\Nyang mirip dengannya.
+Dialogue: 0,0:19:55.03,0:19:59.21,dialog,,0,0,0,,Sebanyak apa pun kita jelaskan, pihak gereja pusat\Nyang telah menolak sepenuhnya...
+Dialogue: 0,0:19:59.21,0:20:01.30,dialog,,0,0,0,,fakta dari Babylon tak akan berpikir bahwa...
+Dialogue: 0,0:20:01.72,0:20:04.77,dialog,,0,0,0,,kita akan membatalkan\NPerayaan Hari Lahir Tuhan itu.
+Dialogue: 0,0:20:04.77,0:20:05.53,dialog,,0,0,0,,Ote!
+Dialogue: 0,0:20:05.53,0:20:06.96,dialog,,0,0,0,,Itu sogi!
+Dialogue: 0,0:20:06.96,0:20:08.54,dialog,,0,0,0,,Maksudku,
+Dialogue: 0,0:20:08.54,0:20:10.84,dialog,,0,0,0,,- Iya juga.\N- dengan batalnya perayaan itu,
+Dialogue: 0,0:20:10.84,0:20:15.82,dialog,,0,0,0,,musuh jadi menyelinap ke gereja pusat,\Nmaka nyawa Paus ada dalam bahaya.
+Dialogue: 0,0:20:15.82,0:20:20.32,dialog,,0,0,0,,Ya, yang jelas kita tak ada waktu\Nuntuk mengadakan perayaan itu.
+Dialogue: 0,0:20:24.35,0:20:28.41,dialog,,0,0,0,,Kalau pendeta misterius memang ada\Ndi antara 11 orang itu...
+Dialogue: 0,0:20:28.41,0:20:31.96,dialog,,0,0,0,,kita buat para Pendeta Agung itu\Npergi terpisah dengan Paus...
+Dialogue: 0,0:20:32.39,0:20:37.09,dialog,,0,0,0,,lalu kami akan membentuk penjagaan\Ndan mengawasi mereka semua.
+Dialogue: 0,0:20:40.22,0:20:46.24,dialog,,0,0,0,,Dengan begitu, setidaknya kita bisa mencegah\Nterjadinya pembunuhan Paus.
+Dialogue: 0,0:20:46.80,0:20:49.63,dialog,,0,0,0,,Sepertinya itu memang satu-satunya\Nsolusi yang bisa dilakukan.
+Dialogue: 0,0:20:50.33,0:20:52.25,dialog,,0,0,0,,Aku akan melakukan apa yang kubisa.
+Dialogue: 0,0:20:52.25,0:20:55.47,dialog,,0,0,0,,Dengan kondisi seperti ini, kita tak bisa\Nmeminta bantuan guild petualang.
+Dialogue: 0,0:20:55.96,0:20:58.24,dialog,,0,0,0,,Yang bisa dipercaya hanyalah kalian.
+Dialogue: 0,0:20:58.76,0:21:03.18,dialog,,0,0,0,,Jika ada Pendeta Agung yang mencurigakan,\Ntahanlah dengan pertimbangan pribadi.
+Dialogue: 0,0:21:03.18,0:21:06.74,dialog,,0,0,0,,Kita harus berhasil menyelenggarakan\NPerayaan Hari Lahir Tuhan ini dengan aman!
+Dialogue: 0,0:21:12.38,0:21:13.58,dialog,,0,0,0,,Tunggu.
+Dialogue: 0,0:21:15.27,0:21:17.30,dialog,,0,0,0,,Nona Anastasia...
+Dialogue: 0,0:21:17.85,0:21:20.38,dialog,,0,0,0,,Surat apa itu?
+Dialogue: 0,0:21:20.38,0:21:25.74,dialog,,0,0,0,,Ini, eng, aku dapat dari kurir Tuan Albert\Nsang Pangeran Kedua...
+Dialogue: 0,0:21:25.74,0:21:27.04,dialog,,0,0,0,,Perlihatkan padaku.
+Dialogue: 0,0:21:27.04,0:21:31.13,dialog,,0,0,0,,Tapi, beliau berpesan untuk disampaikan\Nlangsung pada Paus...
+Dialogue: 0,0:21:38.79,0:21:41.07,dialog,,0,0,0,,Nona Anastasia!
+Dialogue: 0,0:22:03.79,0:22:07.29,dialog,,0,0,0,,Ada surat untuk Paus yang dikirim\Noleh Pangeran Kedua.
+Dialogue: 0,0:22:07.29,0:22:08.47,dialog,,0,0,0,,Oh?
+Dialogue: 0,0:22:08.47,0:22:12.31,dialog,,0,0,0,,Dia meminta Paus untuk pergi terpisah\Ndengan para Pendeta Agung di hari perayaan,
+Dialogue: 0,0:22:12.31,0:22:15.23,dialog,,0,0,0,,dan ingin menginspeksi gereja.
+Dialogue: 0,0:22:15.23,0:22:17.09,dialog,,0,0,0,,Begitu, ya.
+Dialogue: 0,0:22:17.09,0:22:20.23,dialog,,0,0,0,,Pasti mereka dapat informasi\Ndari makhluk Lamia itu.
+Dialogue: 0,0:22:20.63,0:22:25.94,dialog,,0,0,0,,Ya, Pangeran Kedua sempat memerintahkan\Npenghancuran ruang bawah tanah itu...
+Dialogue: 0,0:22:25.94,0:22:28.24,dialog,,0,0,0,,Tapi, jika kutebak dari isi pesan itu...
+Dialogue: 0,0:22:28.24,0:22:30.50,dialog,,0,0,0,,sepertinya mereka belum banyak\Ndapat informa...
+Dialogue: 0,0:22:32.01,0:22:37.20,dialog,,0,0,0,,Si Perang Saudara itu meninggalkan\Nlengan ini dan berubah jadi debu.
+Dialogue: 0,0:22:37.63,0:22:42.31,dialog,,0,0,0,,Penyebab langsung kematiannya memang\Nmutiara suci yang sudah kuserahkan padanya.
+Dialogue: 0,0:22:42.31,0:22:45.11,dialog,,0,0,0,,Tapi lengan kirinya terpental.
+Dialogue: 0,0:22:45.11,0:22:47.33,dialog,,0,0,0,,Dia pasti sedang bertarung saat itu.
+Dialogue: 0,0:22:47.33,0:22:50.71,dialog,,0,0,0,,Entah siapa yang dia lawan sampai tak bisa\Nberpikir dengan jernih?
+Dialogue: 0,0:22:50.71,0:22:53.14,dialog,,0,0,0,,Makhluk seperti apa yang dilawannya?
+Dialogue: 0,0:22:53.61,0:22:57.15,dialog,,0,0,0,,Sepertinya ada hal besar\Nyang sudah kulewatkan.
+Dialogue: 0,0:22:59.65,0:23:01.19,dialog,,0,0,0,,Tapi...
+Dialogue: 0,0:23:01.85,0:23:05.51,dialog,,0,0,0,,rencana apa pun yang tengah disiapkan\Noleh Pangeran Kedua...
+Dialogue: 0,0:23:05.51,0:23:08.16,dialog,,0,0,0,,tidak akan jadi masalah.
+Dialogue: 0,0:23:10.79,0:23:13.79,dialog,,0,0,0,,Kalau dia berpikir dengan menghancurkan\Ntempat penelitian itu...
+Dialogue: 0,0:23:13.79,0:23:17.29,dialog,,0,0,0,,sama dengan menghancurkan rencanaku...
+Dialogue: 0,0:23:17.29,0:23:22.00,dialog,,0,0,0,,Tidak, bahkan jika dia sudah bisa\Nmemprediksi segalanya pun...
+Dialogue: 0,0:23:22.00,0:23:23.97,dialog,,0,0,0,,itu akan sama saja.
+Dialogue: 0,0:23:27.84,0:23:30.24,dialog,,0,0,0,,Waktunya telah tiba.
+Dialogue: 0,0:23:32.06,0:23:34.06,dialog,,0,0,0,,Tidak akan ada lagi...
+Dialogue: 0,0:23:34.06,0:23:38.06,dialog,,0,0,0,,orang yang bisa menghentikan kita.
+Dialogue: 0,0:23:41.25,0:23:42.51,dialog,,0,0,0,,Nah,
+Dialogue: 0,0:23:42.51,0:23:44.36,dialog,,0,0,0,,mari kita mulai...
+Dialogue: 0,0:23:45.84,0:23:47.96,dialog,,0,0,0,,Perayaan Hari Lahir Tuhan!
+Dialogue: 0,0:23:50.59,0:23:53.88,dialog,,0,0,0,,Pelakunya ada di antara 12 Pendeta Agung?
+Dialogue: 0,0:23:53.88,0:23:56.58,dialog,,0,0,0,,Gosok vas dulu biar tenang!
+Dialogue: 0,0:23:57.10,0:24:01.16,dialog,,0,0,0,,Selanjutnya, Episode 19:\N"Perayaan Hari Lahir Tuhan".
+Dialogue: 0,0:24:01.16,0:24:05.82,dialog,,0,0,0,,Kamu akan menyaksikan kedalaman sihir.
