@@ -12,8 +12,7 @@ PlayResY: 1080
 [Aegisub Project Garbage]
 Last Style Storage: rahasia_penyihir_bisu
 Video Zoom Percent: 0.250000
-Scroll Position: 3
-Active Line: 9
+Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +27,7 @@ Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:57.73,0:02:01.95,tanda-6,,0,0,0,,{\fs70\fad(650,750)\blur0\bord3\shad0\pos(1827,927)\c&HF5F5F5&\3c&H221A24&\b1}#9  Rahasia yang Tak Bisa Diungkap
+Dialogue: 0,0:09:30.32,0:09:32.78,tanda-5,,0,0,0,,{\fad(400,0)\fs70\blur0\bord2\shad0\c&H000000&\3c&HFFFFFF&\pos(960,855)}Tiga Hari Kemudian
 Dialogue: 0,0:23:50.80,0:23:55.80,tanda-5,,0,0,0,,{\fs75\blur0\bord2.5\shad0\c&HDEEFEC&\3c&H232B29&\pos(960,452)\b1}#10  Penyihir Pembaca Bintang, Mary Harvey
 Dialogue: 0,0:00:02.38,0:00:04.69,dialog,,0,0,0,,Wah, tumben sekali.
 Dialogue: 0,0:00:05.11,0:00:07.56,dialog,,0,0,0,,Sepertinya kau kehabisan energi sihir.
@@ -137,9 +137,7 @@ Dialogue: 0,0:09:12.17,0:09:16.16,dialog,,0,0,0,,Dia datang ke sini\Nuntuk mence
 Dialogue: 0,0:09:21.05,0:09:23.40,dialog,,0,0,0,,Ternyata dia berada begitu dekat denganku...
 Dialogue: 0,0:09:23.40,0:09:25.00,dialog,,0,0,0,,Nona Everett.
 Dialogue: 0,0:09:25.85,0:09:29.10,dialog,,0,0,0,,Sosok yang mampu membuatku lupa diri.
-Dialogue: 0,0:09:30.32,0:09:30.91,dialog,,0,0,0,,TIGA HARI KEMUDIAN
-Dialogue: 0,0:09:30.91,0:09:32.98,dialog,,0,0,0,,Minggir dari sana, Agatha.\NTIGA HARI KEMUDIAN
-Dialogue: 0,0:09:32.98,0:09:33.26,dialog,,0,0,0,,Minggir dari sana, Agatha.
+Dialogue: 0,0:09:30.91,0:09:33.26,dialog,,0,0,0,,Minggir dari sana, Agatha.
 Dialogue: 0,0:09:33.58,0:09:35.36,dialog,,0,0,0,,Tidak bisa, Nona.
 Dialogue: 0,0:09:35.81,0:09:38.51,dialog,,0,0,0,,Apa pun yang terjadi, aku tidak akan pergi.
 Dialogue: 0,0:09:39.10,0:09:42.70,dialog,,0,0,0,,Beraninya kau,\Npelayan keluarga Norton, lakukan ini?
