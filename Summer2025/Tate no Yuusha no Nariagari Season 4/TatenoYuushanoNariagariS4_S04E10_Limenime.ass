@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 Title: Bilibili Subtitle
 ScriptType: v4.00+
-WrapStyle: 0
-ScaledBorderAndShadow: yes
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
@@ -24,299 +24,340 @@ Style: tanda_srt,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:37.82,0:03:41.07,tanda-5,signs,0,0,0,,{\fs100\t(\fs95)\blur0.5\bord0\shad0\c&HE2F2F1&\move(946,862,946.857,847.429,8,3217)}Clevatess
-Dialogue: 0,0:03:50.23,0:03:55.00,tanda-5,signs,0,0,0,,{\fad(229,0)\fs60\blur0.5\bord0\shad0\c&HEDF3F8&\pos(399.6,720.8)}Episode 11
-Dialogue: 0,0:03:50.23,0:03:55.00,tanda-5,signs,0,0,0,,{\fad(229,0)\fs90\blur0.5\bord0\shad0\c&HEBF3F6&\pos(399.6,1010)}Pahlawan Palsu
-Dialogue: 0,0:23:35.49,0:23:36.99,tanda-5,signs,0,0,0,,{\fs80\blur0.5\bord0\shad0\c&HF5F3F4&\pos(960,440)}Selanjutnya
-Dialogue: 0,0:23:36.99,0:23:41.99,tanda-5,signs,0,0,0,,{\fs60\blur0.5\bord0\shad0\pos(960,396)}Episode 12
-Dialogue: 0,0:23:36.99,0:23:41.99,tanda-5,signs,0,0,0,,{\fs80\blur0.5\bord0\shad0\pos(960,688)}Kembalinya Kejayaan sang Raja
-Dialogue: 10,0:00:21.40,0:00:22.74,dialog,,0,0,0,,Hei, Clan.
-Dialogue: 10,0:00:22.74,0:00:24.44,dialog,,0,0,0,,Apa maksudmu raja tanpa kepala?
-Dialogue: 10,0:00:24.44,0:00:25.76,dialog,,0,0,0,,Membakar Luna?
-Dialogue: 10,0:00:25.76,0:00:27.02,dialog,,0,0,0,,Apa yang terjadi?
-Dialogue: 10,0:00:27.02,0:00:27.74,dialog,,0,0,0,,Hei!
-Dialogue: 10,0:00:27.74,0:00:28.60,dialog,,0,0,0,,Pahlawan Alicia.
-Dialogue: 10,0:00:30.76,0:00:33.51,dialog,,0,0,0,,Pahlawan Alicia, syukurlah kau tak apa.
-Dialogue: 10,0:00:33.51,0:00:36.44,dialog,,0,0,0,,Yang Mulia, Anda kembali kemari sendirian?
-Dialogue: 10,0:00:36.74,0:00:40.02,dialog,,0,0,0,,Aku kabur dari para bawahanku\Nmenggunakan asap.
-Dialogue: 10,0:00:40.02,0:00:42.02,dialog,,0,0,0,,Karena bagaimanapun,\Naku ingin bertemu denganmu.
-Dialogue: 10,0:00:42.02,0:00:45.66,dialog,,0,0,0,,Kukira kalian semua dihabisi oleh Clevatess.
-Dialogue: 10,0:00:45.66,0:00:47.50,dialog,,0,0,0,,Apakah ada yang lain yang datang kemari?
-Dialogue: 10,0:00:48.00,0:00:50.76,dialog,,0,0,0,,Tidak, hanya aku, Yang Mulia.
-Dialogue: 10,0:00:51.24,0:00:53.03,dialog,,0,0,0,,Para pahlawan lainnya
-Dialogue: 10,0:00:53.03,0:00:54.84,dialog,,0,0,0,,semua dihabisi oleh Clevatess.
-Dialogue: 10,0:00:55.26,0:00:56.46,dialog,,0,0,0,,Begitu, ya.
-Dialogue: 10,0:00:56.84,0:01:01.04,dialog,,0,0,0,,Tapi aku sangat berterima kasih\Nmeskipun hanya kau seorang yang datang.
-Dialogue: 10,0:01:01.04,0:01:03.38,dialog,,0,0,0,,Dengan kekuatan militer Hidrat\Nyang sekarang,
-Dialogue: 10,0:01:03.38,0:01:06.92,dialog,,0,0,0,,hampir tak mungkin untuk menahan\Npasukan Dorel di dalam kota ini saja.
-Dialogue: 10,0:01:06.92,0:01:09.14,dialog,,0,0,0,,Kami tak bisa melawan Dorel\Nyang memegang Harta
-Dialogue: 10,0:01:09.14,0:01:11.05,dialog,,0,0,0,,dan bisa menggunakan sihir yang kuat.
-Dialogue: 10,0:01:11.40,0:01:14.54,dialog,,0,0,0,,Namun, asalkan ada dirimu\Nyang sesama pemilik Harta,
-Dialogue: 10,0:01:14.54,0:01:16.40,dialog,,0,0,0,,pasti monster itu bisa kita hadang.
-Dialogue: 10,0:01:16.40,0:01:17.68,dialog,,0,0,0,,Tentu saja.
-Dialogue: 10,0:01:17.68,0:01:19.92,dialog,,0,0,0,,Selain itu masih ada temanku yang lain juga.
-Dialogue: 10,0:01:19.92,0:01:20.70,dialog,,0,0,0,,Betul juga.
-Dialogue: 10,0:01:20.70,0:01:23.60,dialog,,0,0,0,,Sebelum itu, ada hal yang perlu\Nkusampaikan padamu, Yang Mulia.
-Dialogue: 10,0:01:23.60,0:01:24.60,dialog,,0,0,0,,Luna...
-Dialogue: 10,0:01:24.60,0:01:27.06,dialog,,0,0,0,,Tidak, anakmu
-Dialogue: 10,0:01:27.06,0:01:28.32,dialog,,0,0,0,,masih hidup.
-Dialogue: 10,0:01:28.90,0:01:31.07,dialog,,0,0,0,,Apa katamu barusan?
-Dialogue: 10,0:01:31.07,0:01:34.54,dialog,,0,0,0,,Bayi itu dibungkus kain berlambang kerajaan.
-Dialogue: 10,0:01:34.54,0:01:36.08,dialog,,0,0,0,,Bayi itu adalah keturunan murni.
-Dialogue: 10,0:01:36.08,0:01:38.87,dialog,,0,0,0,,Pasti itu adalah anakmu,\Nkalau aku tidak salah dengar.
-Dialogue: 10,0:01:39.76,0:01:42.87,dialog,,0,0,0,,Anakku... masih hidup?
-Dialogue: 10,0:01:43.74,0:01:46.37,dialog,,0,0,0,,Benar-benar masih hidup...
-Dialogue: 10,0:01:46.60,0:01:47.64,dialog,,0,0,0,,Di mana dia?
-Dialogue: 10,0:01:47.64,0:01:49.20,dialog,,0,0,0,,Anakku sekarang ada di mana?
-Dialogue: 10,0:01:49.20,0:01:52.22,dialog,,0,0,0,,Clan, maksudku dia dibawa ke tungku kerajaan\Nbersama dengan temanku.
-Dialogue: 10,0:01:52.22,0:01:53.58,dialog,,0,0,0,,Tungku keluarga kerajaan?
-Dialogue: 10,0:01:53.58,0:01:54.88,dialog,,0,0,0,,Nanti akan kujelaskan.
-Dialogue: 10,0:01:54.88,0:01:56.48,dialog,,0,0,0,,Dorel juga sedang menuju ke sana.
-Dialogue: 10,0:01:56.48,0:01:57.64,dialog,,0,0,0,,Aku harus mengejarnya.
-Dialogue: 10,0:01:57.64,0:02:00.39,dialog,,0,0,0,,Tunggu, aku juga ikut.
-Dialogue: 10,0:02:01.30,0:02:02.74,dialog,,0,0,0,,Tapi itu bahaya, Yang Mulia.
-Dialogue: 10,0:02:02.74,0:02:04.12,dialog,,0,0,0,,Aku pasti akan membawanya kembali,
-Dialogue: 10,0:02:04.12,0:02:05.56,dialog,,0,0,0,,sebaiknya kau ke tempat yang aman.
-Dialogue: 10,0:02:05.56,0:02:07.19,dialog,,0,0,0,,Mana ada tempat yang aman.
-Dialogue: 10,0:02:07.19,0:02:09.92,dialog,,0,0,0,,Terlebih lagi,\Nsebelum aku menjadi putri mahkota,
-Dialogue: 10,0:02:09.92,0:02:11.19,dialog,,0,0,0,,aku adalah seorang ibu.
-Dialogue: 10,0:02:11.19,0:02:12.86,dialog,,0,0,0,,Demi bertemu anakku,
-Dialogue: 10,0:02:12.86,0:02:14.94,dialog,,0,0,0,,aku tak peduli melewati\Ntanah kematian sekalipun.
-Dialogue: 10,0:04:07.38,0:04:11.18,dialog,,0,0,0,,Darah daging ini kupersembahkan\Nuntuk penguasa tungku ini.
-Dialogue: 10,0:04:39.54,0:04:40.93,dialog,,0,0,0,,Tunggu.
-Dialogue: 10,0:04:44.33,0:04:50.01,dialog,,0,0,0,,Memangnya itu cara memegang cucumu\Ndengan benar?
-Dialogue: 10,0:04:50.01,0:04:54.88,dialog,,0,0,0,,Kelihatannya terlalu serampangan,\Njangan-jangan dia bukan cucu aslimu?
-Dialogue: 10,0:04:55.42,0:05:00.20,dialog,,0,0,0,,Dia benar-benar cucuku\Nyang berdarah keluarga kerajaan.
-Dialogue: 10,0:05:00.20,0:05:02.07,dialog,,0,0,0,,Tidak salah lagi.
-Dialogue: 10,0:05:02.07,0:05:04.17,dialog,,0,0,0,,Kalau begitu,\Nkenapa kau berniat membunuhnya?
-Dialogue: 10,0:05:04.17,0:05:06.45,dialog,,0,0,0,,Wahai raja sebelumnya yang tanpa kepala.
-Dialogue: 10,0:05:06.45,0:05:11.00,dialog,,0,0,0,,Apakah normal di dunia Hominid\Nuntuk membunuh cucu-cucumu seperti sampah?
-Dialogue: 10,0:05:11.00,0:05:17.97,dialog,,0,0,0,,Aku tidak bergerak atas keinginanku.
-Dialogue: 10,0:05:17.97,0:05:21.37,dialog,,0,0,0,,Semuanya adalah atas kehendak sang tungku.
-Dialogue: 10,0:05:21.37,0:05:23.30,dialog,,0,0,0,,Atas kehendak?
-Dialogue: 10,0:05:23.30,0:05:27.27,dialog,,0,0,0,,Orang yang akan menjadi raja\Nakan berubah menjadi abu di sini,
-Dialogue: 10,0:05:27.27,0:05:29.80,dialog,,0,0,0,,dan dari abu, dia bangkit menjadi raja.
-Dialogue: 10,0:05:30.40,0:05:32.92,dialog,,0,0,0,,Ini adalah kebiasaan sejak dahulu kala.
-Dialogue: 10,0:05:32.92,0:05:36.45,dialog,,0,0,0,,Biasanya, upacara pemberian nama\Nakan dilakukan terlebih dahulu,
-Dialogue: 10,0:05:36.45,0:05:39.42,dialog,,0,0,0,,dan nama asli tersebut\Nakan diukir pada tungku.
-Dialogue: 10,0:05:39.42,0:05:43.32,dialog,,0,0,0,,Sejak saat itu, siapa pun tak akan\Nmampu lagi melawan kehendak tungku.
-Dialogue: 10,0:05:43.75,0:05:48.45,dialog,,0,0,0,,Secara resmi, nama anak ini\Nadalah Hidelias ke-6,
-Dialogue: 10,0:05:48.45,0:05:50.83,dialog,,0,0,0,,tetapi nama aslinya adalah Thoth.
-Dialogue: 10,0:05:50.83,0:05:55.20,dialog,,0,0,0,,Namun, karena nama sebenarnya\Ntidak terukir di tungku tersebut,
-Dialogue: 10,0:05:55.20,0:05:59.17,dialog,,0,0,0,,jadi, dia tidak bisa melompat masuk\Natas kehendak tungku ini.
-Dialogue: 10,0:05:59.17,0:06:02.70,dialog,,0,0,0,,Maka dari itu sebagai gantinya\Ntubuhku ini digerakkan olehnya.
-Dialogue: 10,0:06:02.70,0:06:07.85,dialog,,0,0,0,,Jadi, kau juga sudah menjadi abu,\Nlalu dibuat kembali dari tempat itu, ya?
-Dialogue: 10,0:06:08.72,0:06:12.60,dialog,,0,0,0,,Jadi, itu sebabnya kenapa\Nkau bisa bergerak tanpa kepala juga.
-Dialogue: 10,0:06:12.60,0:06:14.75,dialog,,0,0,0,,Anakku ayah dari anak ini,
-Dialogue: 10,0:06:14.75,0:06:20.47,dialog,,0,0,0,,takut akan panggilan dari tungku ini\Ndan mengambil nyawanya sendiri.
-Dialogue: 10,0:06:20.47,0:06:25.60,dialog,,0,0,0,,Karena aku telah mengatakan kenyataan\Npadanya sebelum dia menjadi raja.
-Dialogue: 10,0:06:26.35,0:06:29.62,dialog,,0,0,0,,Kupikir aku ingin membiarkan\Ndia memilih nasibnya,
-Dialogue: 10,0:06:29.62,0:06:32.17,dialog,,0,0,0,,tapi ternyata aku salah.
-Dialogue: 10,0:06:32.17,0:06:38.27,dialog,,0,0,0,,Takdir semua makhluk hidup\Nsudah ditentukan sejak mereka lahir.
-Dialogue: 10,0:06:39.35,0:06:42.87,dialog,,0,0,0,,Itulah aturan Benua Edthea ini.
-Dialogue: 10,0:06:43.80,0:06:47.45,dialog,,0,0,0,,Sekalipun kau mati,\Nyang berikutnya akan terpilih.
-Dialogue: 10,0:06:48.57,0:06:54.51,dialog,,0,0,0,,Terutama dalam kutukan ini\Ntidak ada cara lain selain mengakhirinya.
-Dialogue: 10,0:06:54.51,0:06:57.02,dialog,,0,0,0,,Dengan tradisi pahlawan,
-Dialogue: 10,0:06:57.02,0:07:00.42,dialog,,0,0,0,,dari abu, menjadi raja.
-Dialogue: 10,0:07:05.55,0:07:07.28,dialog,,0,0,0,,Aku sudah tahu.
-Dialogue: 10,0:07:07.28,0:07:10.47,dialog,,0,0,0,,Yang perlu diseret keluar adalah\Nisi dari tungku itu
-Dialogue: 10,0:07:10.47,0:07:14.28,dialog,,0,0,0,,untuk menghancurkan dunia.
-Dialogue: 10,0:07:16.90,0:07:18.57,dialog,,0,0,0,,Kau tidak apa?
-Dialogue: 10,0:07:19.00,0:07:19.91,dialog,,0,0,0,,Ya.
-Dialogue: 10,0:07:21.65,0:07:23.37,dialog,,0,0,0,,Aku akan menggendongmu dari sini.
-Dialogue: 10,0:07:23.37,0:07:25.52,dialog,,0,0,0,,Pegangan yang erat\Nagar kau tidak jatuh terlempar.
-Dialogue: 10,0:07:25.95,0:07:27.17,dialog,,0,0,0,,Baik.
-Dialogue: 10,0:07:27.17,0:07:28.87,dialog,,0,0,0,,Arah menuju tungku ke mana?
-Dialogue: 10,0:07:28.87,0:07:30.17,dialog,,0,0,0,,Di seberang sana.
-Dialogue: 10,0:07:40.43,0:07:45.19,dialog,,0,0,0,,Aku bukan raja, jadi aku tak diberi tahu\Ntentang kenyataannya.
-Dialogue: 10,0:07:45.19,0:07:48.44,dialog,,0,0,0,,Namun, ada beberapa kata yang diucapkan\Nsuamiku sebelum dia meninggal.
-Dialogue: 10,0:07:48.44,0:07:51.45,dialog,,0,0,0,,Dan itu selalu membuatku penasaran.
-Dialogue: 10,0:07:51.45,0:07:53.92,dialog,,0,0,0,,Pahlawan sebenarnya sudah tidak ada.
-Dialogue: 10,0:07:53.92,0:07:57.95,dialog,,0,0,0,,Pahlawan yang sekarang tak memiliki\Nkekuatan untuk kalahkan Raja Monster Iblis.
-Dialogue: 10,0:07:57.95,0:08:00.25,dialog,,0,0,0,,Kenapa dia berkata bahwa "sudah tidak ada"?
-Dialogue: 10,0:08:00.25,0:08:03.83,dialog,,0,0,0,,Kenapa dia berkata\N"tidak memiliki kekuatan"?
-Dialogue: 10,0:08:03.83,0:08:07.40,dialog,,0,0,0,,Faktanya, tidak ada catatan\Nyang menunjukkan tentang keberhasilan
-Dialogue: 10,0:08:07.40,0:08:10.34,dialog,,0,0,0,,mengalahkan dalam sejarah\Ntercatat selama seribu tahun.
-Dialogue: 10,0:08:10.34,0:08:13.65,dialog,,0,0,0,,Catatan sebelum itu juga sangat samar.
-Dialogue: 10,0:08:13.65,0:08:16.85,dialog,,0,0,0,,Jadi, apa yang disebut\Ntradisi sang pahlawan?
-Dialogue: 10,0:08:16.85,0:08:18.87,dialog,,0,0,0,,Atas dasar apa perkataan bahwa
-Dialogue: 10,0:08:18.87,0:08:21.30,dialog,,0,0,0,,mengalahkan keempat Raja Monster Iblis\Nakan membuka dunia?
-Dialogue: 10,0:08:21.30,0:08:24.85,dialog,,0,0,0,,Lalu siapa yang awalnya\Nmenurunkan tradisi ini?
-Dialogue: 10,0:08:24.85,0:08:29.36,dialog,,0,0,0,,Suamiku tidak pernah\Nmenjawab pertanyaan itu.
-Dialogue: 10,0:08:30.36,0:08:33.86,dialog,,0,0,0,,Dia hanya tersenyum dingin.
-Dialogue: 10,0:08:33.86,0:08:38.28,dialog,,0,0,0,,Mungkin para raja sebelumnya mengetahui\Nkenyataan itu, tapi menyembunyikannya.
-Dialogue: 10,0:08:38.28,0:08:39.55,dialog,,0,0,0,,Jika benar begitu,
-Dialogue: 10,0:08:39.55,0:08:41.02,dialog,,0,0,0,,maka dia mengirim kalian 13 orang
-Dialogue: 10,0:08:41.02,0:08:44.07,dialog,,0,0,0,,dalam keadaan mengetahui\Nbahwa kalian tidak akan menang.
-Dialogue: 10,0:08:44.07,0:08:46.04,dialog,,0,0,0,,Itu hal yang sangat\Ntidak bertanggung jawab.
-Dialogue: 10,0:08:46.70,0:08:49.32,dialog,,0,0,0,,Sekalipun ada alasan mengapa\Nhal itu tidak dapat dihentikan,
-Dialogue: 10,0:08:49.32,0:08:52.62,dialog,,0,0,0,,jika kita tidak menghadapi kenyataan\Ndan memperbaiki apa yang perlu diperbaiki,
-Dialogue: 10,0:08:53.35,0:08:55.40,dialog,,0,0,0,,kita akan menyebabkan\Nkerusakan seperti ini lagi
-Dialogue: 10,0:08:55.40,0:08:57.72,dialog,,0,0,0,,dan merenggut banyak nyawa yang berharga.
-Dialogue: 10,0:08:58.80,0:09:02.12,dialog,,0,0,0,,Aku tidak ingin anakku\Nmenjadi raja seperti itu.
-Dialogue: 10,0:09:02.12,0:09:05.60,dialog,,0,0,0,,Aku tidak mengerti tentang hal\Nyang sulit seperti itu.
-Dialogue: 10,0:09:05.60,0:09:08.05,dialog,,0,0,0,,Tapi terlepas dari bagaimana tradisi itu,
-Dialogue: 10,0:09:08.05,0:09:10.72,dialog,,0,0,0,,kurasa ada arti\Ndalam menantang hal tersebut.
-Dialogue: 10,0:09:10.72,0:09:15.07,dialog,,0,0,0,,Karena tanpa ada tradisi itu sekalipun,\Naku akan tetap mencoba untuk menantangnya.
-Dialogue: 10,0:09:15.62,0:09:17.65,dialog,,0,0,0,,Keingintahuan terhadap hal\Nyang tidak diketahui,
-Dialogue: 10,0:09:17.65,0:09:19.70,dialog,,0,0,0,,pengejaran terhadap kekuatan.
-Dialogue: 10,0:09:19.70,0:09:22.25,dialog,,0,0,0,,Aku percaya bahwa keinginan manusia\Nyang tak pernah terpuaskan
-Dialogue: 10,0:09:22.25,0:09:25.71,dialog,,0,0,0,,untuk menjadi lebih baik adalah\Nsesuatu yang tidak dapat dibendung.
-Dialogue: 10,0:09:25.71,0:09:29.71,dialog,,0,0,0,,Aku masih belum tahu\Napa itu sebenarnya pahlawan.
-Dialogue: 10,0:09:30.42,0:09:35.22,dialog,,0,0,0,,Kupikir mungkin itu adalah seseorang yang\Nmenghadapi takdirnya dengan sikap positif.
-Dialogue: 10,0:09:35.22,0:09:38.77,dialog,,0,0,0,,Sebenarnya, tidak masalah apakah\Ndia manusia atau binatang,
-Dialogue: 10,0:09:38.77,0:09:42.35,dialog,,0,0,0,,menurutku itulah\Nyang disebut dengan pahlawan.
-Dialogue: 10,0:09:43.72,0:09:46.95,dialog,,0,0,0,,Bahkan dalam pengartian seperti itu pun,\NDorel tetaplah bukan pahlawan.
-Dialogue: 10,0:09:46.95,0:09:50.73,dialog,,0,0,0,,Dia hanya putus asa dengan kenyataan\Nsaat ini dan mencoba menghancurkannya.
-Dialogue: 10,0:09:51.65,0:09:53.65,dialog,,0,0,0,,Dia memang musuh ayahku,\Ntapi lebih dari itu,
-Dialogue: 10,0:09:53.65,0:09:56.95,dialog,,0,0,0,,dia musuh yang harus kukalahkan\Nsebagai pahlawan.
-Dialogue: 10,0:09:56.95,0:09:58.99,dialog,,0,0,0,,Itulah yang kupikirkan sekarang.
-Dialogue: 10,0:09:58.99,0:10:01.65,dialog,,0,0,0,,Kau benar-benar kuat, ya, Alicia.
-Dialogue: 10,0:10:01.65,0:10:03.82,dialog,,0,0,0,,Aku ini lemah.
-Dialogue: 10,0:10:03.82,0:10:06.95,dialog,,0,0,0,,Dibandingkan Dorel, dan tentu saja\Ndibanding Raja Monster Iblis juga.
-Dialogue: 10,0:10:06.95,0:10:08.50,dialog,,0,0,0,,Tapi meskipun begitu,
-Dialogue: 10,0:10:08.50,0:10:12.50,dialog,,0,0,0,,aku tak akan menyerah\Nuntuk menjadi seorang pahlawan.
-Dialogue: 10,0:10:14.51,0:10:17.42,dialog,,0,0,0,,Sejujurnya aku pernah berpikir\Nuntuk menyerah saja,
-Dialogue: 10,0:10:17.42,0:10:20.30,dialog,,0,0,0,,tapi aku bertemu dengan orang\Nyang tidak membiarkanku untuk menyerah.
-Dialogue: 10,0:10:20.30,0:10:22.64,dialog,,0,0,0,,Orang yang seperti apa dia?
-Dialogue: 10,0:10:22.64,0:10:24.64,dialog,,0,0,0,,Kalau dikatakan dalam satu kalimat,
-Dialogue: 10,0:10:24.64,0:10:27.64,dialog,,0,0,0,,dia adalah seseorang yang jelas-jelas\Ntak ingin aku pertemukan denganmu.
-Dialogue: 10,0:10:28.47,0:10:30.15,dialog,,0,0,0,,Dengan begini,
-Dialogue: 10,0:10:30.15,0:10:32.07,dialog,,0,0,0,,bayi itu sudah menjadi abu, ya.
-Dialogue: 10,0:10:32.07,0:10:35.37,dialog,,0,0,0,,Lalu sekarang bagaimana, Raja Tanpa Kepala?
-Dialogue: 10,0:10:36.44,0:10:39.78,dialog,,0,0,0,,Bukankah dia akan bangkit kembali dari abu?
-Dialogue: 10,0:10:39.78,0:10:41.41,dialog,,0,0,0,,Bagaimana ini?
-Dialogue: 10,0:10:41.41,0:10:44.30,dialog,,0,0,0,,Apakah memang harus yang asli?
-Dialogue: 10,0:10:45.70,0:10:48.15,dialog,,0,0,0,,Apakah raja tidak bisa terlahir\Ndari bayanganku saja?
-Dialogue: 10,0:10:48.75,0:10:53.42,dialog,,0,0,0,,Kau menukarnya\Nsaat kau memegang lenganku, ya?
-Dialogue: 10,0:10:53.42,0:10:56.82,dialog,,0,0,0,,Kau yang bilang kan, bahwa sebagai gantinya
-Dialogue: 10,0:10:56.82,0:10:58.95,dialog,,0,0,0,,dia tidak bisa lompat sendiri,\Njadi kau digerakkan.
-Dialogue: 10,0:10:58.95,0:11:03.43,dialog,,0,0,0,,Lalu saat itu tidak terwujud juga,\Napa yang terjadi pada tubuh itu?
-Dialogue: 10,0:11:03.43,0:11:04.92,dialog,,0,0,0,,Pasti mudah untuk membayangkan bahwa
-Dialogue: 10,0:11:04.92,0:11:08.18,dialog,,0,0,0,,kerangka kosong sepertimu\Ntidak akan mempan padaku, 'kan?
-Dialogue: 10,0:11:27.70,0:11:29.70,dialog,,0,0,0,,Abu tetaplah abu.
-Dialogue: 10,0:11:29.70,0:11:32.85,dialog,,0,0,0,,Kalau dianggap tidak berguna\Nakan terbakar habis, ya.
-Dialogue: 10,0:11:33.37,0:11:37.82,dialog,,0,0,0,,Baiklah, kalau begitu selanjutnya,\Nsiapa yang akan datang menjemput dia?
-Dialogue: 10,0:11:42.22,0:11:45.26,dialog,,0,0,0,,Apakah dia berencana\Nmembakar Luna begitu saja?
-Dialogue: 10,0:11:45.43,0:11:49.10,dialog,,0,0,0,,Dia sepertinya tak mengerti, makin kuat\Ncahayanya, makin jelas bayangannya.
-Dialogue: 10,0:11:50.23,0:11:53.42,dialog,,0,0,0,,Menyerahkan dan keluar saja,\Npenguasa tungku ini.
-Dialogue: 10,0:12:05.92,0:12:08.04,dialog,,0,0,0,,Tutup tungkunya meledak.
-Dialogue: 10,0:12:08.04,0:12:09.16,dialog,,0,0,0,,Tungkunya?
-Dialogue: 10,0:12:13.42,0:12:15.92,dialog,,0,0,0,,Cepatlah,
-Dialogue: 10,0:12:15.92,0:12:18.92,dialog,,0,0,0,,dan tancapkan bilahku.
-Dialogue: 10,0:12:20.92,0:12:22.00,dialog,,0,0,0,,Dorel.
-Dialogue: 10,0:12:22.00,0:12:24.37,dialog,,0,0,0,,Anakku, anakku!
-Dialogue: 10,0:12:24.37,0:12:25.93,dialog,,0,0,0,,Sebaiknya kau mundur saja.
-Dialogue: 10,0:12:26.30,0:12:27.85,dialog,,0,0,0,,Biar aku yang pergi memastikannya.
-Dialogue: 10,0:12:29.00,0:12:31.82,dialog,,0,0,0,,Sulit dipercaya jika Clan\Nakan membiarkan Luna mati.
-Dialogue: 10,0:12:31.82,0:12:34.65,dialog,,0,0,0,,Tapi Dorel yang dirasuki oleh kesadaran\Ndari Raja Monster Iblis Utara
-Dialogue: 10,0:12:34.65,0:12:36.06,dialog,,0,0,0,,tak bisa kubiarkan begitu saja.
-Dialogue: 10,0:12:38.07,0:12:40.00,dialog,,0,0,0,,Tidak sempat, ya?
-Dialogue: 10,0:12:42.77,0:12:43.95,dialog,,0,0,0,,Yang barusan itu...
-Dialogue: 10,0:12:46.55,0:12:48.45,dialog,,0,0,0,,Dorel!
-Dialogue: 10,0:12:48.45,0:12:50.79,dialog,,0,0,0,,Aku akan menghentikanmu kali ini!
-Dialogue: 10,0:12:51.80,0:12:55.71,dialog,,0,0,0,,Ice Javelin!
-Dialogue: 10,0:12:57.96,0:13:00.46,dialog,,0,0,0,,Itu adalah Komandan Royce.
-Dialogue: 10,0:13:00.46,0:13:01.46,dialog,,0,0,0,,Harta, ya?
-Dialogue: 10,0:13:02.07,0:13:04.47,dialog,,0,0,0,,Aku akan memperhatikanmu dari jauh.
-Dialogue: 10,0:13:04.47,0:13:08.35,dialog,,0,0,0,,Berjuanglah, Royce dari Eslinn.
-Dialogue: 10,0:13:22.65,0:13:24.11,dialog,,0,0,0,,Bagaimana?
-Dialogue: 10,0:13:29.91,0:13:32.41,dialog,,0,0,0,,Berulang kali kau lakukan pun percuma.
-Dialogue: 10,0:13:45.42,0:13:47.17,dialog,,0,0,0,,Aku terselamatkan.
-Dialogue: 10,0:13:47.17,0:13:49.17,dialog,,0,0,0,,Jangan jangan kau ini pahlawan, ya?
-Dialogue: 10,0:13:49.17,0:13:52.22,dialog,,0,0,0,,Ya, aku adalah sisa dari 13 pahlawan.
-Dialogue: 10,0:13:52.22,0:13:54.68,dialog,,0,0,0,,Karena repot kalau dijelaskan,\Nakan kukatakan dari awal.
-Dialogue: 10,0:13:54.68,0:13:57.32,dialog,,0,0,0,,Memang ini bukan saat yang tepat, ya.
-Dialogue: 10,0:13:57.32,0:13:58.45,dialog,,0,0,0,,Namaku Rod.
-Dialogue: 10,0:13:58.45,0:13:59.69,dialog,,0,0,0,,Alicia.
-Dialogue: 10,0:13:59.69,0:14:02.19,dialog,,0,0,0,,Bisakah anggap saja kita ini\Nsedang bekerja sama?
-Dialogue: 10,0:14:02.19,0:14:05.19,dialog,,0,0,0,,Mungkin begitu, kalau tidak,\Nkita tidak akan bisa...
-Dialogue: 10,0:14:06.20,0:14:08.62,dialog,,0,0,0,,Mengalahkannya.
-Dialogue: 10,0:14:17.96,0:14:20.07,dialog,,0,0,0,,Bekerja sama.
-Dialogue: 10,0:14:20.07,0:14:25.46,dialog,,0,0,0,,Jika ada dua orang yang membawa Harta,\Nmungkin kalian bisa menang.
-Dialogue: 10,0:14:25.46,0:14:28.75,dialog,,0,0,0,,Memang benar kalian itu adalah\Norang yang paling kuat.
-Dialogue: 10,0:14:28.75,0:14:30.62,dialog,,0,0,0,,Tapi percuma.
-Dialogue: 10,0:14:30.62,0:14:34.02,dialog,,0,0,0,,Lagi pula, itu hanyalah\Natas hierarki di antara Hominid masa kini.
-Dialogue: 10,0:14:34.02,0:14:37.48,dialog,,0,0,0,,Untuk diriku yang sekarang,\Nkalian bukanlah lawanku!
-Dialogue: 10,0:14:40.97,0:14:42.98,dialog,,0,0,0,,Ada dua mata yang terbuka lagi.
-Dialogue: 10,0:14:43.37,0:14:44.35,dialog,,0,0,0,,Dia datang!
-Dialogue: 10,0:14:46.49,0:14:47.40,dialog,,0,0,0,,Belakangmu!
-Dialogue: 10,0:15:36.10,0:15:39.54,dialog,,0,0,0,,Keluarkan esmu.
-Dialogue: 10,0:15:39.82,0:15:42.54,dialog,,0,0,0,,Keluarkan es yang besar itu.
-Dialogue: 10,0:15:42.54,0:15:44.04,dialog,,0,0,0,,Cepat!
-Dialogue: 10,0:15:47.07,0:15:48.57,dialog,,0,0,0,,Baiklah.
-Dialogue: 10,0:15:53.15,0:15:56.60,dialog,,0,0,0,,Ice Javelin!
-Dialogue: 10,0:16:00.08,0:16:02.81,dialog,,0,0,0,,Kau pikir dengan\Nteknik sebesar itu akan kena?
-Dialogue: 10,0:16:10.32,0:16:14.32,dialog,,0,0,0,,Ice Jail!
-Dialogue: 10,0:16:16.37,0:16:19.33,dialog,,0,0,0,,Ini adalah seluruh kemampuanku sekarang.
-Dialogue: 10,0:16:21.33,0:16:23.33,dialog,,0,0,0,,Habisi dia, Pahlawan!
-Dialogue: 10,0:16:24.75,0:16:26.59,dialog,,0,0,0,,Naga Terbang Terbalik!
-Dialogue: 10,0:16:35.42,0:16:36.92,dialog,,0,0,0,,Gunung Runtuh!
-Dialogue: 10,0:16:39.57,0:16:41.85,dialog,,0,0,0,,Bagaimana, Monster?
-Dialogue: 10,0:16:41.85,0:16:43.35,dialog,,0,0,0,,Baiklah.
-Dialogue: 10,0:16:44.40,0:16:46.75,dialog,,0,0,0,,Unik. Berani.
-Dialogue: 10,0:16:46.75,0:16:50.05,dialog,,0,0,0,,Itulah jenis teknik yang akan diciptakan\Noleh seorang penguasa pedang.
-Dialogue: 10,0:16:55.10,0:16:56.87,dialog,,0,0,0,,Itu darah iblis?
-Dialogue: 10,0:16:56.87,0:16:58.78,dialog,,0,0,0,,Seluruh tubuhnya adalah darah iblis?
-Dialogue: 10,0:17:00.87,0:17:02.37,dialog,,0,0,0,,Pahlawan, kananmu!
-Dialogue: 10,0:17:10.13,0:17:12.66,dialog,,0,0,0,,Pahlawan!
-Dialogue: 10,0:17:13.13,0:17:14.38,dialog,,0,0,0,,Alicia!
-Dialogue: 10,0:17:27.87,0:17:30.15,dialog,,0,0,0,,Upaya
-Dialogue: 10,0:17:30.15,0:17:32.15,dialog,,0,0,0,,dan harapan,
-Dialogue: 10,0:17:32.15,0:17:35.95,dialog,,0,0,0,,semuanya sia-sia\Ndalam menghadapi kenyataan.
-Dialogue: 10,0:17:37.90,0:17:40.97,dialog,,0,0,0,,Sama halnya dengan ikan\Ntidak bisa menjadi manusia,
-Dialogue: 10,0:17:41.66,0:17:47.17,dialog,,0,0,0,,tidak peduli seberapa keras kita berusaha,\Nkita tidak bisa menjadi pahlawan sejati.
-Dialogue: 10,0:17:49.77,0:17:51.47,dialog,,0,0,0,,Itu semua karena alasan sederhana,
-Dialogue: 10,0:17:51.47,0:17:55.17,dialog,,0,0,0,,pada dasarnya kita bukanlah spesies\Nyang bisa melakukan itu.
-Dialogue: 10,0:17:55.17,0:17:58.95,dialog,,0,0,0,,Fakta bahwa kita tidak dapat\Nmenggunakan sihir tanpa menggunakan batu
-Dialogue: 10,0:17:58.95,0:18:02.18,dialog,,0,0,0,,membuat kelima Ras Edthea\Nadalah ras yang lebih rendah.
-Dialogue: 10,0:18:03.07,0:18:04.93,dialog,,0,0,0,,Ras yang lebih rendah?
-Dialogue: 10,0:18:04.93,0:18:06.94,dialog,,0,0,0,,Ras Hominid sejati!
-Dialogue: 10,0:18:06.94,0:18:10.44,dialog,,0,0,0,,Ras yang pernah menguasai\Nsegalanya di Bumi.
-Dialogue: 10,0:18:10.44,0:18:13.75,dialog,,0,0,0,,Mereka menghilang\Ndan hanya meninggalkan tradisi bagi kita.
-Dialogue: 10,0:18:13.75,0:18:16.35,dialog,,0,0,0,,Kita ini hanya dimanipulasi.
-Dialogue: 10,0:18:16.35,0:18:19.45,dialog,,0,0,0,,Baik manusia maupun Monster Iblis.
-Dialogue: 10,0:18:19.45,0:18:21.70,dialog,,0,0,0,,Demi mengakhiri itu,
-Dialogue: 10,0:18:21.70,0:18:26.70,dialog,,0,0,0,,kita harus menghancurkan\Nsemua jejak tradisi pahlawan.
-Dialogue: 10,0:18:33.96,0:18:37.97,dialog,,0,0,0,,Demi hal itu, aku tidak peduli\Ndengan berapa banyak perang
-Dialogue: 10,0:18:37.97,0:18:41.97,dialog,,0,0,0,,yang perlu kita lakukan, berapa banyak\Ngunung mayat yang akan kita timbun!
-Dialogue: 10,0:18:44.75,0:18:45.72,dialog,,0,0,0,,Begitu, ya.
-Dialogue: 10,0:18:47.73,0:18:50.57,dialog,,0,0,0,,Jadi begitu, ya.
-Dialogue: 10,0:18:50.57,0:18:52.32,dialog,,0,0,0,,Tujuan dari Dorel adalah...
-Dialogue: 10,0:18:52.32,0:18:56.74,dialog,,0,0,0,,Tidak, tujuan dari Vaudin\Nsudah mulai kuketahui.
-Dialogue: 10,0:18:56.74,0:19:01.62,dialog,,0,0,0,,Kalau dipikir-pikir lagi,\Naku belum pernah melihat Hominid sejati itu.
-Dialogue: 10,0:19:02.00,0:19:06.75,dialog,,0,0,0,,Berarti mereka menghilang sebelum\Naku naik sebagai Raja Monster Iblis?
-Dialogue: 10,0:19:06.75,0:19:11.62,dialog,,0,0,0,,Kalau begitu, berarti mereka sudah\Nmenghilang lebih dari seribu tahun lalu.
-Dialogue: 10,0:19:11.62,0:19:15.27,dialog,,0,0,0,,Zaftier itu, dia mengetahui ini semua,\Ntapi menipuku, ya.
-Dialogue: 10,0:19:16.76,0:19:18.76,dialog,,0,0,0,,Meskipun begitu,
-Dialogue: 10,0:19:19.42,0:19:23.32,dialog,,0,0,0,,tidak kusangka itu\Nadalah sisa dari tradisi pahlawan.
-Dialogue: 10,0:19:27.47,0:19:31.95,dialog,,0,0,0,,Kitab Toa, entah kenapa rasanya bisa kubaca.
-Dialogue: 10,0:19:32.77,0:19:36.85,dialog,,0,0,0,,Akhirnya aku bisa melihat dengan meredupkan\Ncahayanya menggunakan bayangan abadi.
-Dialogue: 10,0:19:36.85,0:19:40.78,dialog,,0,0,0,,Jika aku tidak melakukannya,\Ncahaya dan panas akan merusak mataku.
-Dialogue: 10,0:19:40.78,0:19:45.42,dialog,,0,0,0,,Lalu saat aku bisa melihat wujudnya,\Ntungku itu sendiri hilang.
-Dialogue: 10,0:19:45.42,0:19:49.45,dialog,,0,0,0,,Tidak diragukan lagi bahwa inilah wujud\Ndari penguasa tungku sebenarnya.
-Dialogue: 10,0:19:49.45,0:19:53.02,dialog,,0,0,0,,Sebuah buku belaka telah\Nmembakar Raja Hiden hingga mati,
-Dialogue: 10,0:19:53.02,0:19:54.97,dialog,,0,0,0,,membangkitkan sang raja kembali dari abu,
-Dialogue: 10,0:19:54.97,0:19:58.05,dialog,,0,0,0,,lalu dijadikan pengurus\Nuntuk dirinya sendiri.
-Dialogue: 10,0:19:58.85,0:20:04.00,dialog,,0,0,0,,Benar-benar menyebalkan.\NApakah ini sejenis sihir juga?
-Dialogue: 10,0:20:04.00,0:20:05.75,dialog,,0,0,0,,Apakah karena ada hal ini
-Dialogue: 10,0:20:05.75,0:20:08.47,dialog,,0,0,0,,Alicia mengarahkan pedangnya\Npadaku saat itu?
-Dialogue: 10,0:20:08.47,0:20:14.15,dialog,,0,0,0,,Apakah Luna ditakdirkan berubah\Nmenjadi abu demi sesuatu seperti ini?
-Dialogue: 10,0:20:14.15,0:20:17.62,dialog,,0,0,0,,Apakah gara-gara sesuatu seperti ini\Naku jadi menghancurkan istana
-Dialogue: 10,0:20:17.62,0:20:21.82,dialog,,0,0,0,,dan berpikir memusnahkan seluruh Hominid?
-Dialogue: 10,0:20:32.97,0:20:34.33,dialog,,0,0,0,,Tidak ada artinya,
-Dialogue: 10,0:20:34.33,0:20:36.13,dialog,,0,0,0,,sama sekali tidak ada artinya.
-Dialogue: 10,0:20:36.84,0:20:38.96,dialog,,0,0,0,,Aku tidak menerima ingatan dari leluhurku.
-Dialogue: 10,0:20:38.96,0:20:41.77,dialog,,0,0,0,,Tapi kemungkinan daerah kekuasaan\NRaja Monster Iblis pun,
-Dialogue: 10,0:20:41.77,0:20:44.09,dialog,,0,0,0,,tujuan melindungi daerah itu pun,
-Dialogue: 10,0:20:44.09,0:20:48.72,dialog,,0,0,0,,hanya untuk merespons tradisi tidak penting\Ndari spesies yang sudah tidak ada.
-Dialogue: 10,0:20:48.72,0:20:53.30,dialog,,0,0,0,,Kelahiran dan takdir tidak ada artinya.
-Dialogue: 10,0:20:53.30,0:20:57.86,dialog,,0,0,0,,Sejak awal, keduanya tak berarti.\NDunia ini kelabu.
-Dialogue: 10,0:20:58.62,0:21:04.75,dialog,,0,0,0,,Jika dunia lahir dari kekacauan,\Nmaka aku pun pasti lahir dari kekacauan.
-Dialogue: 10,0:21:06.75,0:21:10.90,dialog,,0,0,0,,Itu ucapan siapa? Ucapanku?
-Dialogue: 10,0:21:10.90,0:21:15.37,dialog,,0,0,0,,Pasti itu hanya karena aku merasa bosan.
-Dialogue: 10,0:21:16.25,0:21:22.38,dialog,,0,0,0,,Kenapa aku membawa bayi monyet\Nyang seperti ini ke mana-mana?
-Dialogue: 10,0:21:36.39,0:21:39.65,dialog,,0,0,0,,Aku sudah tidak ingin menghancurkan\Npara Hominid lagi.
-Dialogue: 10,0:21:39.65,0:21:42.40,dialog,,0,0,0,,Kitab Toa itu juga aku sudah tidak peduli.
-Dialogue: 10,0:21:42.85,0:21:45.15,dialog,,0,0,0,,Aku akan pulang ke Gunung Bulan saja.
-Dialogue: 10,0:21:53.41,0:21:59.42,dialog,,0,0,0,,Padahal aku berharap\Nada hal yang berubah meskipun sedikit.
+Dialogue: 0,0:01:13.09,0:01:17.05,tanda-4,signs,0,0,0,,{\fad(240,75)\fs90\bord3.5\c&H2E0CA1&\3c&HF6FCFF&\pos(572.8,110.4)}The Rising of the Shield Hero
+Dialogue: 0,0:02:37.22,0:02:41.26,tanda-6,signs,0,0,0,,{\fs70\fad(450,500)\bord3\3c&H090E0B&\pos(1807,911)}Episode 10: Doa
+Dialogue: 0,0:10:05.12,0:10:07.87,tanda-4,signs,0,0,0,,{\blur0\fs70\fad(0,1000)\bord3\shad0\c&H262E31&\3c&H829B99&\pos(30,106)}Metode kedua untuk memperkuat senjata Perisai Suci:\NDengan memercayai orang lain dan dipercaya,\Nkemampuan akan meningkat...
+Dialogue: 0,0:10:06.87,0:10:08.33,tanda-4,signs,0,0,0,,{\blur0\fs70\fad(700,0)\bord3\shad0\c&H64F1FD&\3c&H526263&\pos(30,106)}Metode kedua untuk memperkuat senjata Perisai Suci:\NDengan memercayai orang lain dan dipercaya,\Nkemampuan akan meningkat...
+Dialogue: 0,0:10:12.67,0:10:17.26,tanda-4,signs,0,0,0,,{\blur0\fs70\bord3\shad0\c&H64F1FD&\3c&H526263&\pos(30,106)}Metode kedua untuk memperkuat senjata Perisai Suci:\NDengan memercayai orang lain dan dipercaya,\Nkemampuan akan meningkat...
+Dialogue: 0,0:10:39.74,0:10:41.03,tanda-4,signs,0,0,0,,{\blur0\fs70\bord3\fad(0,600)\shad0\c&H2B3737&\3c&H829B99&\pos(30,106)}Terus-menerus mengerahkan kekuatannya.\NDengan mengalokasikan kekuatan itu,\Nbisa melepaskan kemampuan yang kuat.
+Dialogue: 0,0:10:40.49,0:10:43.95,tanda-4,signs,0,0,0,,{\blur0\fad(450,0)\fs70\bord3\shad0\c&H64F1FD&\3c&H526263&\pos(30,106)}Terus-menerus mengerahkan kekuatannya.\NDengan mengalokasikan kekuatan itu,\Nbisa melepaskan kemampuan yang kuat.
+Comment: 0,0:11:00.09,0:11:02.93,tanda-6,signs,0,0,0,,{\blur0.5\fs60\bord2\shad0\c&H76F1FB&\3c&H829B99&\pos(1894,98)}Terus-menerus mengerahkan kekuatannya. \NDengan mengalokasikan kekuatan itu,\N bisa melepaskan kemampuan yang kuat.
+Dialogue: 0,0:11:00.72,0:11:01.64,tanda-5,signs,0,0,0,,{\fad(150,180)\blur0\fs60\bord2.5\shad0\pos(960,545)\c&HFEFEFF&\3c&H304340&}Peningkatan Energi Telah Dipelajari
+Dialogue: 0,0:11:25.37,0:11:29.33,tanda-5,signs,0,0,0,,{\blur0\fs60\bord0\shad0\pos(960,545)\c&HFEFEFF&\3c&H848BBC&}Peningkatan Energi Telah Dipelajari
+Dialogue: 0,0:13:12.93,0:13:15.39,tanda-5,signs,0,0,0,,{\fad(0,180)\blur0\fs60\bord0\shad0\pos(960,545)\c&HFEFEFF&\3c&H848BBC&}Telah Menerima Berkat dari Mediator
+Dialogue: 0,0:13:15.48,0:13:17.52,tanda-5,signs,0,0,0,,{\fad(200,0)\blur0\fs60\bord0\shad0\pos(960,545)}Pelepasan Batasan Pengendalian Spiritual 2: Ketahanan Segel [Sedang]
+Comment: 0,0:13:35.06,0:13:41.44,tanda-5,signs,0,0,0,,{\fad(750,500)\fs50\bord2\c&H2E0CA1&\3c&HF6FCFF&\pos(274,808)}The Rising of the Shield Hero
+Dialogue: 0,0:14:54.20,0:14:56.70,tanda-4,signs,0,0,0,,{\fs70\blur0\fad(0,550)\bord3\shad0\c&H2F3532&\3c&H799189&\pos(94,110)}Metode kedua untuk memperkuat senjata Perisai Suci:\NDengan memercayai orang lain dan dipercaya,\Nkemampuan akan meningkat...
+Dialogue: 0,0:14:55.99,0:14:57.16,tanda-4,signs,0,0,0,,{\fs70\blur0\fad(600,0)\bord3\shad0\pos(94,110)\c&H73D9FB&\3c&H5A736D&}Metode kedua untuk memperkuat senjata Perisai Suci:\NDengan memercayai orang lain dan dipercaya,\Nkemampuan akan meningkat...
+Dialogue: 0,0:23:36.22,0:23:39.98,tanda-5,signs,0,0,0,,{\fs80\fad(150,0)\pos(960,655)}Pendeta Peramal
+Dialogue: 10,0:00:02.41,0:00:06.66,dialog,,0,0,0,,Di sini ada Pendeta Naga Air menanti.
+Dialogue: 10,0:00:24.15,0:00:25.58,dialog,,0,0,0,,Permisi.
+Dialogue: 10,0:00:26.71,0:00:28.80,dialog,,0,0,0,,Selamat datang.
+Dialogue: 10,0:00:31.71,0:00:35.62,dialog,,0,0,0,,Aku berpikir "baguslah jika kau datang".
+Dialogue: 10,0:00:35.99,0:00:39.35,dialog,,0,0,0,,Aku harus menyesuaikan\Ndengan penampilanmu, ya.
+Dialogue: 10,0:00:45.11,0:00:47.86,dialog,,0,0,0,,Aku adalah Pendeta Naga Air.
+Dialogue: 10,0:00:48.18,0:00:50.44,dialog,,0,0,0,,Namaku Shildina.
+Dialogue: 10,0:00:51.61,0:00:55.56,dialog,,0,0,0,,Aku datang sebagai perwakilan.\NNamaku Raphtalia.
+Dialogue: 10,0:00:57.38,0:01:00.10,dialog,,0,0,0,,Tujuan memanggilmu tidak ada yang lain.
+Dialogue: 10,0:01:00.61,0:01:02.50,dialog,,0,0,0,,Aku ingin para pemberontak
+Dialogue: 10,0:01:03.15,0:01:05.96,dialog,,0,0,0,,segera menghentikan serangan mereka\Nterhadap ibu kota lama.
+Dialogue: 10,0:02:40.21,0:02:41.34,dialog,,0,0,0,,Aku yang akan pergi.
+Dialogue: 10,0:02:41.58,0:02:42.60,dialog,,0,0,0,,Tunggu dulu.
+Dialogue: 10,0:02:42.90,0:02:46.10,dialog,,0,0,0,,Surat ini mengatakan untuk pergi sendiri.
+Dialogue: 10,0:02:46.10,0:02:49.24,dialog,,0,0,0,,Jika begitu, kami tidak bisa\Nmelindungi Nona Raphtalia.
+Dialogue: 10,0:02:49.24,0:02:50.47,dialog,,0,0,0,,Aku juga menentangnya.
+Dialogue: 10,0:02:50.47,0:02:52.11,dialog,,0,0,0,,Aku tahu mungkin aneh\Nkalau aku mengatakan ini,
+Dialogue: 10,0:02:52.58,0:02:54.01,dialog,,0,0,0,,tapi jika itu demi Kaisar Surgawi,
+Dialogue: 10,0:02:54.01,0:02:57.30,dialog,,0,0,0,,Pendeta Naga Air akan\Nmenggunakan trik kotor apa pun.
+Dialogue: 10,0:02:57.61,0:02:59.36,dialog,,0,0,0,,Tangan kotor, ya?
+Dialogue: 10,0:03:00.91,0:03:03.53,dialog,,0,0,0,,Tuan Naofumi, bagaimana pendapatmu?
+Dialogue: 10,0:03:03.91,0:03:05.37,dialog,,0,0,0,,Memang ada bahaya.
+Dialogue: 10,0:03:05.74,0:03:09.25,dialog,,0,0,0,,Tapi ini adalah kesempatan untuk\Nbertemu langsung dengan Pendeta Naga Air.
+Dialogue: 10,0:03:09.81,0:03:11.95,dialog,,0,0,0,,Jika aku akan menjadi Kaisar Surgawi,
+Dialogue: 10,0:03:11.95,0:03:15.57,dialog,,0,0,0,,aku harus berbicara dengan Pendeta Naga Air.
+Dialogue: 10,0:03:15.57,0:03:17.50,dialog,,0,0,0,,Apakah boleh untuk mencoba?
+Dialogue: 10,0:03:20.51,0:03:22.30,dialog,,0,0,0,,Aku mengerti.
+Dialogue: 10,0:03:24.63,0:03:27.73,dialog,,0,0,0,,Filo juga ingin menjelajah ke sana!
+Dialogue: 10,0:03:28.11,0:03:30.55,dialog,,0,0,0,,Aku sudah mengajari\Nbanyak hal dengan singkat,
+Dialogue: 10,0:03:30.55,0:03:33.57,dialog,,0,0,0,,aku yakin Raphtalia\Nbisa melakukannya dengan baik.
+Dialogue: 10,0:03:33.57,0:03:37.00,dialog,,0,0,0,,Yah, jika terjadi sesuatu,\NRaph akan memberi tahu kita.
+Dialogue: 10,0:03:39.75,0:03:42.91,dialog,,0,0,0,,Aku telah memberikan Raphtalia\Nwewenang penuh atas pertemuan itu.
+Dialogue: 10,0:03:44.71,0:03:47.33,dialog,,0,0,0,,Pengalaman semacam ini juga diperlukan.
+Dialogue: 10,0:03:48.38,0:03:51.04,dialog,,0,0,0,,Menghentikan serangan ke ibu kota lama, ya?
+Dialogue: 10,0:03:51.37,0:03:54.58,dialog,,0,0,0,,Para pemberontak, yang dulu kami anggap\Nhanya sekelompok orang tak berguna,
+Dialogue: 10,0:03:54.58,0:03:58.80,dialog,,0,0,0,,kini menjadi kekuatan besar\Nyang tidak dapat kita abaikan.
+Dialogue: 10,0:03:59.34,0:04:01.61,dialog,,0,0,0,,Selama kalian terus menyerang,
+Dialogue: 10,0:04:01.61,0:04:04.26,dialog,,0,0,0,,maka kami harus melawan balik.
+Dialogue: 10,0:04:04.65,0:04:06.33,dialog,,0,0,0,,Tergantung pada keadaan,
+Dialogue: 10,0:04:06.33,0:04:08.01,dialog,,0,0,0,,ibu kota lama bisa berubah\Nmenjadi lautan api,
+Dialogue: 10,0:04:08.38,0:04:10.93,dialog,,0,0,0,,banyak orang akan menjadi korban.
+Dialogue: 10,0:04:12.35,0:04:16.60,dialog,,0,0,0,,Namun, itu mungkin bukan niat kalian.
+Dialogue: 10,0:04:17.35,0:04:19.73,dialog,,0,0,0,,Terkait hal itu, aku punya saran.
+Dialogue: 10,0:04:20.18,0:04:20.99,dialog,,0,0,0,,Saran?
+Dialogue: 10,0:04:21.85,0:04:25.45,dialog,,0,0,0,,Tolong hentikan pemberontakanmu\Ndan menyerahlah kepada kami.
+Dialogue: 10,0:04:25.71,0:04:29.91,dialog,,0,0,0,,Jika melakukannya, kami akan membebaskanmu\Ndan para pemberontak dari kesalahan apa pun.
+Dialogue: 10,0:04:30.91,0:04:33.87,dialog,,0,0,0,,Kau adalah saudara dari Kaisar Surgawi.
+Dialogue: 10,0:04:34.14,0:04:36.85,dialog,,0,0,0,,Setelah menggabungkan para pemberontak\Nke dalam tentara kami,
+Dialogue: 10,0:04:36.85,0:04:41.13,dialog,,0,0,0,,kami akan menyambut mereka ke dalam\Npemerintahan sebagai pemimpin utama.
+Dialogue: 10,0:04:41.44,0:04:46.22,dialog,,0,0,0,,Jika mau,\Nkalian bisa kembali ke wilayah Melromarc.
+Dialogue: 10,0:04:46.51,0:04:49.43,dialog,,0,0,0,,Dengan begitu, aku bisa menjamin\Nkeselamatan kalian dan desa.
+Dialogue: 10,0:04:50.65,0:04:53.89,dialog,,0,0,0,,Ini bukanlah ide yang buruk bagimu, 'kan?
+Dialogue: 10,0:04:55.75,0:04:56.60,dialog,,0,0,0,,Memang benar.
+Dialogue: 10,0:04:57.71,0:05:00.17,dialog,,0,0,0,,Aku datang ke negara ini
+Dialogue: 10,0:05:00.17,0:05:02.85,dialog,,0,0,0,,untuk menyatakan bahwa\Naku tidak berniat menjadi Kaisar Surgawi
+Dialogue: 10,0:05:02.85,0:05:04.57,dialog,,0,0,0,,dan untuk meluruskan kesalahpahaman itu.
+Dialogue: 10,0:05:05.38,0:05:06.28,dialog,,0,0,0,,Tetapi,
+Dialogue: 10,0:05:06.57,0:05:10.24,dialog,,0,0,0,,aku melihat langsung penderitaan\Nbanyak orang di negara ini.
+Dialogue: 10,0:05:10.65,0:05:14.66,dialog,,0,0,0,,Dan juga, seseorang yang bahkan tidak bisa\Nmelindungi dirinya sendiri dari monster.
+Dialogue: 10,0:05:15.11,0:05:19.73,dialog,,0,0,0,,Serta para pejabat yang mengenakan\Npajak tinggi dan menindas orang-orang ini.
+Dialogue: 10,0:05:21.41,0:05:26.47,dialog,,0,0,0,,Aku mendengar amukan Orochi baru-baru ini\Njuga disebabkan oleh Kaisar Surgawi.
+Dialogue: 10,0:05:27.98,0:05:32.84,dialog,,0,0,0,,Tentara revolusioner bertempur dengan amarah\Nterhadap pemerintah di hati mereka.
+Dialogue: 10,0:05:32.84,0:05:36.44,dialog,,0,0,0,,Penderitaan mereka telah mencapai batasnya.
+Dialogue: 10,0:05:41.58,0:05:44.69,dialog,,0,0,0,,Melihat mereka seperti itu, aku berpikir.
+Dialogue: 10,0:05:45.45,0:05:47.40,dialog,,0,0,0,,Untuk semua orang yang sedang menderita...
+Dialogue: 10,0:05:47.95,0:05:49.41,dialog,,0,0,0,,Aku ingin menyelamatkan rakyat.
+Dialogue: 10,0:05:50.38,0:05:54.60,dialog,,0,0,0,,Mohon maaf, aku menolak saran itu.
+Dialogue: 10,0:05:54.60,0:05:59.33,dialog,,0,0,0,,Mematuhi pemerintah hanya akan\Nmenambah penderitaan rakyat.
+Dialogue: 10,0:06:00.91,0:06:02.16,dialog,,0,0,0,,Begitu, ya.
+Dialogue: 10,0:06:02.55,0:06:06.55,dialog,,0,0,0,,Kau sangat peduli terhadap rakyatmu, ya.
+Dialogue: 10,0:06:07.78,0:06:12.66,dialog,,0,0,0,,Jika demikian,\Naku ingin memberikan saran baru.
+Dialogue: 10,0:06:14.05,0:06:18.00,dialog,,0,0,0,,Pasukan kami akan mundur dari ibu kota lama.
+Dialogue: 10,0:06:18.45,0:06:21.48,dialog,,0,0,0,,Sebagai balasannya, bisakah para pemberontak\Nmeletakkan senjata mereka
+Dialogue: 10,0:06:22.31,0:06:24.94,dialog,,0,0,0,,dan menyerukan gencatan senjata sementara?
+Dialogue: 10,0:06:26.11,0:06:28.00,dialog,,0,0,0,,Menyerahkan ibu kota lama pada kami?
+Dialogue: 10,0:06:28.41,0:06:29.90,dialog,,0,0,0,,Lalu gencatan senjata?
+Dialogue: 10,0:06:30.55,0:06:32.66,dialog,,0,0,0,,Jika menerima kondisi ini,
+Dialogue: 10,0:06:33.10,0:06:37.35,dialog,,0,0,0,,aku akan mengatur pertemuan\Ndengan Kaisar Surgawi, Tuan Ruftmilia,
+Dialogue: 10,0:06:37.35,0:06:39.40,dialog,,0,0,0,,untuk mencapai kesepakatan damai.
+Dialogue: 10,0:06:40.05,0:06:41.90,dialog,,0,0,0,,Pertemuan dengan Kaisar Surgawi?
+Dialogue: 10,0:06:42.85,0:06:44.40,dialog,,0,0,0,,Kami juga tidak ingin
+Dialogue: 10,0:06:44.75,0:06:47.63,dialog,,0,0,0,,menyeret orang-orang\Nke dalam konflik ini lebih jauh.
+Dialogue: 10,0:06:49.21,0:06:53.10,dialog,,0,0,0,,Apakah kami bisa memercayaimu?
+Dialogue: 10,0:06:53.10,0:06:54.85,dialog,,0,0,0,,Aku... tidak.
+Dialogue: 10,0:06:55.20,0:06:57.80,dialog,,0,0,0,,Sebagai Pendeta Naga Air Shildina,
+Dialogue: 10,0:06:58.18,0:07:01.56,dialog,,0,0,0,,pasti akan menepati janji.
+Dialogue: 10,0:07:05.15,0:07:06.98,dialog,,0,0,0,,Aku mengerti.
+Dialogue: 10,0:07:07.58,0:07:12.45,dialog,,0,0,0,,Sebagai seorang perwakilan,\Nakan menerima tawaran itu.
+Dialogue: 10,0:07:15.55,0:07:16.95,dialog,,0,0,0,,Terima kasih.
+Dialogue: 10,0:07:19.85,0:07:25.21,dialog,,0,0,0,,Akan kukirim surat mengenai pertemuan kita\Nberikutnya segera setelah siap.
+Dialogue: 10,0:07:25.21,0:07:25.96,dialog,,0,0,0,,Baik.
+Dialogue: 10,0:07:26.35,0:07:28.21,dialog,,0,0,0,,Kami menunggu.
+Dialogue: 10,0:07:29.45,0:07:31.72,dialog,,0,0,0,,Kalau begitu, aku permisi.
+Dialogue: 10,0:07:32.45,0:07:34.33,dialog,,0,0,0,,Yang terakhir, satu hal lagi.
+Dialogue: 10,0:07:36.65,0:07:39.23,dialog,,0,0,0,,Jika perdamaian tidak dapat dicapai,
+Dialogue: 10,0:07:39.95,0:07:43.73,dialog,,0,0,0,,aku ingin minta tolong padamu.
+Dialogue: 10,0:07:48.11,0:07:50.61,dialog,,0,0,0,,Setelah pertemuan dengan Pendeta Naga Air,
+Dialogue: 10,0:07:50.61,0:07:54.07,dialog,,0,0,0,,pasukan pemerintah mundur\Ndari ibu kota lama.
+Dialogue: 10,0:07:54.98,0:07:58.79,dialog,,0,0,0,,Lalu, kami yang katanya\Npunya Kaisar Surgawi baru,
+Dialogue: 10,0:07:59.01,0:08:01.75,dialog,,0,0,0,,disambut baik oleh masyarakat ibu kota lama.
+Dialogue: 10,0:08:02.31,0:08:04.21,dialog,,0,0,0,,Setelah dengar tentang\Npenyerahan diri tanpa pertumpahan darah,
+Dialogue: 10,0:08:04.21,0:08:05.71,dialog,,0,0,0,,para anggota pasukan revolusioner
+Dialogue: 10,0:08:05.71,0:08:09.17,dialog,,0,0,0,,merasa skeptis terhadap usulan perdamaian\Nyang diajukan oleh Pendeta Naga Air.
+Dialogue: 10,0:08:11.11,0:08:15.00,dialog,,0,0,0,,Pada akhirnya bisa diyakinkan\Noleh Raphtalia.
+Dialogue: 10,0:08:16.58,0:08:19.96,dialog,,0,0,0,,Aku tidak pernah menyangka mereka\Nakan berbicara tentang perdamaian.
+Dialogue: 10,0:08:21.45,0:08:25.14,dialog,,0,0,0,,Meski begitu, itu akan menjadi tindakan\Nsewenang-wenang oleh Pendeta Naga Air.
+Dialogue: 10,0:08:25.14,0:08:29.36,dialog,,0,0,0,,Aku pikir itu menunjukkan betapa buruknya\Nkeadaan di dalam tubuh pemerintahan.
+Dialogue: 10,0:08:30.58,0:08:32.32,dialog,,0,0,0,,Yang terakhir, satu hal lagi.
+Dialogue: 10,0:08:33.05,0:08:35.36,dialog,,0,0,0,,Jika perdamaian tidak dapat dicapai,
+Dialogue: 10,0:08:35.85,0:08:39.12,dialog,,0,0,0,,aku ingin minta tolong padamu.
+Dialogue: 10,0:08:39.51,0:08:41.58,dialog,,0,0,0,,Jika pemberontak menang,
+Dialogue: 10,0:08:41.58,0:08:43.96,dialog,,0,0,0,,jenderal yang kalah akan\Nkehilangan nyawanya.
+Dialogue: 10,0:08:44.71,0:08:45.92,dialog,,0,0,0,,Di saat itu...
+Dialogue: 10,0:08:46.61,0:08:47.63,dialog,,0,0,0,,Di saat itu...
+Dialogue: 10,0:08:49.11,0:08:51.25,dialog,,0,0,0,,Apakah kau bersedia untuk menerima takhta
+Dialogue: 10,0:08:51.25,0:08:53.38,dialog,,0,0,0,,dari Tuan Ruftmilia sebagai Kaisar Surgawi?
+Dialogue: 10,0:08:54.68,0:08:57.22,dialog,,0,0,0,,Situasi pertempuran jelas merugikan kita.
+Dialogue: 10,0:08:57.75,0:08:58.85,dialog,,0,0,0,,Jika keadaan terus seperti ini,
+Dialogue: 10,0:08:58.85,0:09:02.18,dialog,,0,0,0,,hanya masalah waktu saja sebelum kita\Ndikalahkan oleh pemberontak.
+Dialogue: 10,0:09:02.18,0:09:05.27,dialog,,0,0,0,,Dia juga mendoakan\Nkebahagiaan bagi masyarakat,
+Dialogue: 10,0:09:05.80,0:09:09.13,dialog,,0,0,0,,dia mengatakan ingin\Nmenghentikan pertempuran.
+Dialogue: 10,0:09:10.05,0:09:13.78,dialog,,0,0,0,,Aku... memohon dengan sangat.
+Dialogue: 10,0:09:17.31,0:09:19.03,dialog,,0,0,0,,Aku tidak tahu
+Dialogue: 10,0:09:19.03,0:09:22.24,dialog,,0,0,0,,bagaimana diskusi\Ndengan Kaisar Surgawi akan berakhir...
+Dialogue: 10,0:09:22.75,0:09:24.96,dialog,,0,0,0,,Aku akan menjadi Kaisar Surgawi.
+Dialogue: 10,0:09:26.35,0:09:28.29,dialog,,0,0,0,,Maafkan aku, Tuan Naofumi.
+Dialogue: 10,0:09:28.90,0:09:30.25,dialog,,0,0,0,,Aku sudah seenaknya memutuskan.
+Dialogue: 10,0:09:30.70,0:09:34.52,dialog,,0,0,0,,Jika itu adalah keputusan Raphtalia,\Naku akan mendukung.
+Dialogue: 10,0:09:34.52,0:09:36.01,dialog,,0,0,0,,Aku juga.
+Dialogue: 10,0:09:36.40,0:09:39.98,dialog,,0,0,0,,Besok, Itsuki dan Rishia akan bergabung\Ndengan kita di ibu kota lama.
+Dialogue: 10,0:09:39.98,0:09:43.80,dialog,,0,0,0,,Lalu kita akan melaksanakan upacara\Nuntuk mewarisi Kaisar Surgawi Raphtalia.
+Dialogue: 10,0:09:44.81,0:09:47.01,dialog,,0,0,0,,Jika diberkati oleh ritual tersebut,
+Dialogue: 10,0:09:47.01,0:09:50.41,dialog,,0,0,0,,Raphtalia seharusnya dapat menggunakan\Nkekuatan yang sama dengan Kaisar Surgawi.
+Dialogue: 10,0:09:50.41,0:09:51.98,dialog,,0,0,0,,Baik.
+Dialogue: 10,0:09:57.45,0:09:59.90,dialog,,0,0,0,,Jadi, ini tempat sucinya?
+Dialogue: 10,0:09:59.90,0:10:03.25,dialog,,0,0,0,,Itu... Jam Pasir Naga.
+Dialogue: 10,0:10:03.25,0:10:05.12,dialog,,0,0,0,,Huruf pahlawan?
+Dialogue: 10,0:10:08.55,0:10:12.67,dialog,,0,0,0,,Tampaknya tentang cara memperkuat senjata.
+Dialogue: 10,0:10:13.00,0:10:16.40,dialog,,0,0,0,,Metode kedua untuk memperkuat\Nsenjata Perisai Suci:
+Dialogue: 10,0:10:16.40,0:10:20.51,dialog,,0,0,0,,Dengan memercayai orang lain dan dipercaya,\Nkemampuan akan meningkat.
+Dialogue: 10,0:10:21.35,0:10:27.10,dialog,,0,0,0,,Memang, kami bisa tampil lebih kuat\Njika kami berjuang bersama.
+Dialogue: 10,0:10:28.41,0:10:32.61,dialog,,0,0,0,,Di sisi lain, mungkin inilah sebabnya\NMotoyasu, Ren, dan Itsuki menjadi terisolasi
+Dialogue: 10,0:10:32.61,0:10:35.53,dialog,,0,0,0,,dan lemah setelah kehilangan kemampuan\Nuntuk memercayai siapa pun.
+Dialogue: 10,0:10:35.98,0:10:38.30,dialog,,0,0,0,,Tidak ada hal baru yang tertulis.
+Dialogue: 10,0:10:38.95,0:10:39.74,dialog,,0,0,0,,Di sana.
+Dialogue: 10,0:10:41.01,0:10:43.95,dialog,,0,0,0,,Metode ketiga untuk memperkuat\Nsenjata Perisai Suci:
+Dialogue: 10,0:10:44.40,0:10:46.16,dialog,,0,0,0,,Peningkatan energi...?
+Dialogue: 10,0:10:46.61,0:10:50.42,dialog,,0,0,0,,Tubuh sang pahlawan secara otomatis\Nmenarik energi dari senjatanya,
+Dialogue: 10,0:10:50.84,0:10:53.13,dialog,,0,0,0,,terus-menerus mengerahkan kekuatannya.
+Dialogue: 10,0:10:53.65,0:10:58.16,dialog,,0,0,0,,Dengan mengalokasikan kekuatan itu,\Nbisa melepaskan kemampuan yang kuat.
+Dialogue: 10,0:11:03.35,0:11:05.01,dialog,,0,0,0,,Peningkatan energi.
+Dialogue: 10,0:11:07.50,0:11:08.85,dialog,,0,0,0,,Ini...
+Dialogue: 10,0:11:09.31,0:11:13.48,dialog,,0,0,0,,Eh? Apakah Tuan Itsuki\Njuga pengguna Hengen Musou?
+Dialogue: 10,0:11:13.97,0:11:17.48,dialog,,0,0,0,,Itu berarti, EP itu semacam vitalitas, ya?
+Dialogue: 10,0:11:17.78,0:11:20.33,dialog,,0,0,0,,Mungkin itu jenis kekuatannya yang sama.
+Dialogue: 10,0:11:20.91,0:11:25.37,dialog,,0,0,0,,Dengan EP ini, kita bisa menggunakan\Nkemampuan dan juga sihir untuk menyerang.
+Dialogue: 10,0:11:29.71,0:11:33.14,dialog,,0,0,0,,Tapi entah mengapa dengan menyadari\Nhal ini saja sudah membuat lelah.
+Dialogue: 10,0:11:33.14,0:11:34.73,dialog,,0,0,0,,Maaf membuatmu menunggu!
+Dialogue: 10,0:11:35.75,0:11:38.80,dialog,,0,0,0,,Persiapan telah selesai untuk\Nupacara pewarisan Kaisar Surgawi.
+Dialogue: 10,0:11:47.39,0:11:54.39,dialog,,0,0,0,,Kuat dan cerdik, Kaisar Surgawi kuno.
+Dialogue: 10,0:11:55.37,0:12:01.50,dialog,,0,0,0,,Pelindung laut, sang Naga Air.
+Dialogue: 10,0:12:01.96,0:12:07.90,dialog,,0,0,0,,Macam-macam sihir, penuh dengan dosa.
+Dialogue: 10,0:12:07.91,0:12:10.75,dialog,,0,0,0,,Cantik sekali, Raphtalia...
+Dialogue: 10,0:12:11.08,0:12:12.43,dialog,,0,0,0,,Ya.
+Dialogue: 10,0:12:36.81,0:12:38.69,dialog,,0,0,0,,Dengan ini Nona Raphtalia
+Dialogue: 10,0:12:38.69,0:12:42.00,dialog,,0,0,0,,telah diberikan kekuatan yang diperlukan\Nuntuk menjadi Kaisar Surgawi.
+Dialogue: 10,0:12:42.00,0:12:44.56,dialog,,0,0,0,,Ini adalah kelahiran Kaisar Surgawi baru!
+Dialogue: 10,0:12:45.05,0:12:47.16,dialog,,0,0,0,,Hidup Kaisar Surgawi baru!
+Dialogue: 10,0:12:47.16,0:12:48.34,dialog,,0,0,0,,Hidup!
+Dialogue: 10,0:12:48.35,0:12:50.40,dialog,,0,0,0,,Mereka orang-orang yang bersemangat, ya.
+Dialogue: 10,0:12:50.81,0:12:52.96,dialog,,0,0,0,,Itu artinya mereka senang, 'kan?
+Dialogue: 10,0:12:54.12,0:12:58.00,dialog,,0,0,0,,Jadi bagaimana setelah mendapat berkat itu?
+Dialogue: 10,0:12:58.00,0:13:00.09,dialog,,0,0,0,,Masih belum terasa apa-apa.
+Dialogue: 10,0:13:00.74,0:13:03.80,dialog,,0,0,0,,Tapi efeknya sepertinya ada.
+Dialogue: 10,0:13:04.41,0:13:06.33,dialog,,0,0,0,,Tuan Naofumi, berikan tanganmu.
+Dialogue: 10,0:13:13.78,0:13:15.73,dialog,,0,0,0,,Jadi ini efek dari berkatnya?
+Dialogue: 10,0:13:16.21,0:13:20.37,dialog,,0,0,0,,Jadi, kupikir kita perlu memberikan berkat\Nkepada Tuan Itsuki dan yang lainnya.
+Dialogue: 10,0:13:20.37,0:13:21.70,dialog,,0,0,0,,Ya.
+Dialogue: 10,0:13:21.70,0:13:25.57,dialog,,0,0,0,,Aku juga menemukan monumen batu\Nyang ditulis dengan huruf pahlawan.
+Dialogue: 10,0:13:25.90,0:13:28.61,dialog,,0,0,0,,Jika membawa Ren bersama\Nmenggunakan jam pasir waktu,
+Dialogue: 10,0:13:28.61,0:13:31.00,dialog,,0,0,0,,Mungkin akan tahu informasi baru.
+Dialogue: 10,0:13:31.00,0:13:31.91,dialog,,0,0,0,,Kalau begitu...
+Dialogue: 10,0:13:32.17,0:13:34.62,dialog,,0,0,0,,Mari kita kembali ke Melromarc\Nterlebih dahulu.
+Dialogue: 10,0:13:35.58,0:13:36.86,dialog,,0,0,0,,Iya, ya.
+Dialogue: 10,0:13:39.11,0:13:41.84,dialog,,0,0,0,,Q'ten Lo sekarang\Nkondisinya seperti itu, ya.
+Dialogue: 10,0:13:42.44,0:13:46.04,dialog,,0,0,0,,Jadi, bagaimana persiapan\Nuntuk pertarungan melawan phoenix?
+Dialogue: 10,0:13:46.04,0:13:46.43,dialog,,0,0,0,,Ya.
+Dialogue: 10,0:13:47.05,0:13:48.27,dialog,,0,0,0,,Pembangunan senjata besar
+Dialogue: 10,0:13:48.27,0:13:50.80,dialog,,0,0,0,,sedang dilakukan sebagai persiapan\Nuntuk pertempuran yang menentukan.
+Dialogue: 10,0:13:52.15,0:13:56.10,dialog,,0,0,0,,Jika kita menggunakan monster dewasa,\Ntidak akan ada masalah dengan transportasi.
+Dialogue: 10,0:13:56.61,0:14:00.81,dialog,,0,0,0,,Kami juga membuat senjata dan aksesori\Nyang mudah digunakan.
+Dialogue: 10,0:14:01.10,0:14:04.22,dialog,,0,0,0,,Aku juga mendengar dari ibu bahwa\Nmereka akan bekerja sama dengan Siltvelt
+Dialogue: 10,0:14:04.22,0:14:06.73,dialog,,0,0,0,,untuk mengirimkan pasukan koalisi.
+Dialogue: 10,0:14:07.11,0:14:07.95,dialog,,0,0,0,,Begitu, ya.
+Dialogue: 10,0:14:08.40,0:14:10.61,dialog,,0,0,0,,Di desa sepertinya juga tidak ada serangan,
+Dialogue: 10,0:14:10.61,0:14:14.41,dialog,,0,0,0,,jika menambah orang untuk menuju Q'ten Lo,\Nsepertinya tidak masalah.
+Dialogue: 10,0:14:14.95,0:14:16.62,dialog,,0,0,0,,Maaf membuatmu menunggu, Ren.
+Dialogue: 10,0:14:17.31,0:14:19.08,dialog,,0,0,0,,Maukah ikut ke Q'ten Lo?
+Dialogue: 10,0:14:19.60,0:14:20.71,dialog,,0,0,0,,Aku mengerti.
+Dialogue: 10,0:14:21.31,0:14:23.71,dialog,,0,0,0,,Aku yang kembali lagi ke Q'ten Lo
+Dialogue: 10,0:14:23.71,0:14:27.38,dialog,,0,0,0,,menunjukkan berbagai tempat\Nkepada anggota yang kubawa.
+Dialogue: 10,0:14:27.91,0:14:32.55,dialog,,0,0,0,,Aku memercayakan Rato dan Wyndia\Nuntuk menyelidiki ekosistem Q'ten Lo.
+Dialogue: 10,0:14:33.15,0:14:35.27,dialog,,0,0,0,,Aku membawa Ren dan Imiya
+Dialogue: 10,0:14:35.27,0:14:37.64,dialog,,0,0,0,,ke tempat Motoyasu nomor dua.
+Dialogue: 10,0:14:47.85,0:14:51.15,dialog,,0,0,0,,Aku membawa Ren ke monumen batu\Ndi tempat suci,
+Dialogue: 10,0:14:51.15,0:14:53.46,dialog,,0,0,0,,tetapi akhirnya tidak ada informasi baru.
+Dialogue: 10,0:14:55.15,0:15:00.87,dialog,,0,0,0,,Akan tetapi, karena perlu memperoleh EP,\Nmungkin ini bukan perjalanan yang sia-sia.
+Dialogue: 10,0:15:01.25,0:15:04.00,dialog,,0,0,0,,Jika memungkinkan, aku ingin Motoyasu\Nmemperolehnya juga, tapi...
+Dialogue: 10,0:15:07.05,0:15:10.55,dialog,,0,0,0,,Aku tidak tahu dia di mana dan sedang apa.
+Dialogue: 10,0:15:10.55,0:15:14.39,dialog,,0,0,0,,Filo... Fi-Fi-Fi-Filo...
+Dialogue: 10,0:15:15.38,0:15:17.89,dialog,,0,0,0,,Kupikir aku telah melakukan pekerjaan\Ndengan cukup baik!
+Dialogue: 10,0:15:18.21,0:15:24.30,dialog,,0,0,0,,Hei! Ku, Marine, Midori!\NLukisan Filo-nya sudah selesai!
+Dialogue: 10,0:15:27.01,0:15:28.44,dialog,,0,0,0,,Sementara hal ini terjadi...
+Dialogue: 10,0:15:29.18,0:15:31.45,dialog,,0,0,0,,Mendengar pentingnya\Npembebasan ibu kota lama,
+Dialogue: 10,0:15:31.45,0:15:33.98,dialog,,0,0,0,,para jenderal setempat yang telah\Nmenunjukkan kesetiaannya
+Dialogue: 10,0:15:33.98,0:15:36.18,dialog,,0,0,0,,bergabung dengan tentara revolusioner.
+Dialogue: 10,0:15:36.18,0:15:38.85,dialog,,0,0,0,,Kami bersedia menyerahkan nyawa kami
+Dialogue: 10,0:15:38.85,0:15:41.24,dialog,,0,0,0,,demi Nona Raphtalia.
+Dialogue: 10,0:15:41.25,0:15:45.71,dialog,,0,0,0,,Mari kami tunjukkan bagaimana kita\Ndapat mengalahkan pasukan pemerintah.
+Dialogue: 10,0:15:45.98,0:15:47.17,dialog,,0,0,0,,Tunggu dulu!
+Dialogue: 10,0:15:48.35,0:15:51.88,dialog,,0,0,0,,Sebelum itu, ada yang ingin kukatakan\Nkepada kalian semua.
+Dialogue: 10,0:15:52.38,0:15:53.94,dialog,,0,0,0,,Tujuan kita adalah
+Dialogue: 10,0:15:53.94,0:15:57.74,dialog,,0,0,0,,untuk menyelamatkan orang-orang\Nyang tersiksa karena pemerintah Q'ten Lo.
+Dialogue: 10,0:15:57.74,0:16:01.19,dialog,,0,0,0,,Bukan untuk menghancurkan musuh.
+Dialogue: 10,0:16:02.41,0:16:03.89,dialog,,0,0,0,,Aku ingin mengubah negara ini
+Dialogue: 10,0:16:03.89,0:16:07.57,dialog,,0,0,0,,sehingga setiap orang dapat hidup\Ntanpa kesulitan apa pun.
+Dialogue: 10,0:16:08.00,0:16:11.71,dialog,,0,0,0,,Tapi jika harus mengorbankan\Nseseorang untuk itu,
+Dialogue: 10,0:16:11.71,0:16:13.66,dialog,,0,0,0,,tidak ada bedanya\Ndengan pemerintah yang sekarang.
+Dialogue: 10,0:16:14.21,0:16:16.87,dialog,,0,0,0,,Tolong jangan menumpahkan darah sembarangan,
+Dialogue: 10,0:16:17.37,0:16:21.71,dialog,,0,0,0,,apakah bersedia mencari\Njalan lain bersamaku?
+Dialogue: 10,0:16:22.41,0:16:24.29,dialog,,0,0,0,,Sungguh hal yang bodoh!
+Dialogue: 10,0:16:24.51,0:16:27.25,dialog,,0,0,0,,Kau diperintahkan\Nuntuk melindungi ibu kota lama!
+Dialogue: 10,0:16:27.91,0:16:30.71,dialog,,0,0,0,,Benar-benar tidak dapat diterima\Njika meninggalkannya!
+Dialogue: 10,0:16:30.71,0:16:33.09,dialog,,0,0,0,,Selain itu, ada perjanjian damai\Ndengan para pemberontak.
+Dialogue: 10,0:16:33.09,0:16:35.30,dialog,,0,0,0,,Apa yang sebenarnya kau pikirkan?
+Dialogue: 10,0:16:35.91,0:16:36.85,dialog,,0,0,0,,Aku mohon.
+Dialogue: 10,0:16:36.85,0:16:38.76,dialog,,0,0,0,,Tolong pikirkan sekali saja.
+Dialogue: 10,0:16:38.76,0:16:41.02,dialog,,0,0,0,,Hei! Diamlah kau, Pecundang!
+Dialogue: 10,0:16:42.61,0:16:45.23,dialog,,0,0,0,,Meski dia adalah wanita yang tidak kompeten\Ntanpa bimbingan ilahi apa pun,
+Dialogue: 10,0:16:45.23,0:16:46.89,dialog,,0,0,0,,pendeta sebelumnya tak akan\Nmelakukan sesuatu yang tak perlu
+Dialogue: 10,0:16:46.89,0:16:51.80,dialog,,0,0,0,,dan akan menyelesaikan tugasnya\Nseperti yang diperintahkan.
+Dialogue: 10,0:16:53.11,0:16:56.16,dialog,,0,0,0,,Untuk menghindari melibatkan\Norang-orang dalam perang...
+Dialogue: 10,0:16:59.11,0:17:02.20,dialog,,0,0,0,,Benarkah begitu, Shildina?
+Dialogue: 10,0:17:03.71,0:17:04.83,dialog,,0,0,0,,Ya.
+Dialogue: 10,0:17:04.83,0:17:06.50,dialog,,0,0,0,,Tuan Kaisar Surgawi.
+Dialogue: 10,0:17:06.50,0:17:07.41,dialog,,0,0,0,,Orang ini...
+Dialogue: 10,0:17:07.41,0:17:08.61,dialog,,0,0,0,,Permisi!
+Dialogue: 10,0:17:08.61,0:17:11.26,dialog,,0,0,0,,Tapi ada sesuatu yang ingin\Nkutanyakan pada Nona Makina.
+Dialogue: 10,0:17:11.80,0:17:14.39,dialog,,0,0,0,,Apa yang mau kau lakukan?
+Dialogue: 10,0:17:14.39,0:17:15.63,dialog,,0,0,0,,Silakan.
+Dialogue: 10,0:17:17.71,0:17:18.72,dialog,,0,0,0,,Katakanlah.
+Dialogue: 10,0:17:19.71,0:17:22.57,dialog,,0,0,0,,Insiden Orochi\Nyang lepas kendali di pelabuhan.
+Dialogue: 10,0:17:22.57,0:17:23.10,dialog,,0,0,0,,Hm?
+Dialogue: 10,0:17:23.65,0:17:28.23,dialog,,0,0,0,,Benarkah segel itu rusak\Nkarena suatu berkat?
+Dialogue: 10,0:17:29.35,0:17:30.94,dialog,,0,0,0,,Orang-orang kekurangan makanan,
+Dialogue: 10,0:17:30.94,0:17:34.40,dialog,,0,0,0,,bahkan tidak bisa\Nmelindungi diri dari monster.
+Dialogue: 10,0:17:34.75,0:17:39.24,dialog,,0,0,0,,Aku sama sekali tak percaya ada yang salah\Ndengan pemerintahan Nona Makina!
+Dialogue: 10,0:17:39.51,0:17:42.37,dialog,,0,0,0,,Tetapi, sekaranglah saatnya untuk\Nmengejar perdamaian bagi rakyat...
+Dialogue: 10,0:17:42.58,0:17:43.58,dialog,,0,0,0,,Orang bodoh!
+Dialogue: 10,0:17:45.85,0:17:50.24,dialog,,0,0,0,,Aku tak tahan lagi mendengar omong kosong\Napa pun di hadapan Kaisar Surgawi!
+Dialogue: 10,0:17:50.24,0:17:55.80,dialog,,0,0,0,,Kau adalah pengkhianat yang telah\Nmemberontak terhadap Kaisar Surgawi!
+Dialogue: 10,0:17:56.75,0:17:59.24,dialog,,0,0,0,,Mengenai hal itu,
+Dialogue: 10,0:17:59.24,0:18:01.26,dialog,,0,0,0,,sama sekali tidak ada niat\Ndariku untuk itu.
+Dialogue: 10,0:18:05.75,0:18:08.94,dialog,,0,0,0,,Seharusnya ini akan menjadi hukuman mati.
+Dialogue: 10,0:18:09.18,0:18:15.28,dialog,,0,0,0,,Namun, kita harus mempertimbangkan\Nprestasinya sebagai Pendeta Naga Air.
+Dialogue: 10,0:18:19.78,0:18:20.82,dialog,,0,0,0,,Oleh karena itu,
+Dialogue: 10,0:18:21.35,0:18:23.40,dialog,,0,0,0,,kita tidak punya pilihan selain memohon
+Dialogue: 10,0:18:23.40,0:18:28.79,dialog,,0,0,0,,kepada Kaisar Surgawi untuk secara pribadi\Nmembuat keputusan dengan penuh belas kasih.
+Dialogue: 10,0:18:30.15,0:18:32.88,dialog,,0,0,0,,Nah, beri keputusan sucimu.
+Dialogue: 10,0:18:38.91,0:18:41.30,dialog,,0,0,0,,Aku perintahkan Pendeta Naga Air.
+Dialogue: 10,0:18:42.05,0:18:43.76,dialog,,0,0,0,,Pertaruhkan nyawamu,
+Dialogue: 10,0:18:44.61,0:18:48.73,dialog,,0,0,0,,hentikan pemberontak\Nyang menyerang ibu kota.
+Dialogue: 10,0:18:50.81,0:18:52.53,dialog,,0,0,0,,Aku mengerti.
+Dialogue: 10,0:19:06.31,0:19:09.25,dialog,,0,0,0,,Apakah ini sudah saatnya?
+Dialogue: 10,0:19:12.63,0:19:16.26,dialog,,0,0,0,,Sudah tiga hari sejak Pendeta Naga Air\Nkembali ke ibu kota.
+Dialogue: 10,0:19:16.95,0:19:19.84,dialog,,0,0,0,,Sekarang masih belum ada kabar, ya.
+Dialogue: 10,0:19:19.84,0:19:23.71,dialog,,0,0,0,,Tetapi tidakkah kau berpikir\Npasukan pemerintah telah melambat?
+Dialogue: 10,0:19:23.71,0:19:24.76,dialog,,0,0,0,,Iya, ya.
+Dialogue: 10,0:19:25.38,0:19:28.02,dialog,,0,0,0,,Terjadi pertempuran kecil\Ndi mana-mana, tapi...
+Dialogue: 10,0:19:28.24,0:19:31.98,dialog,,0,0,0,,Ada Fohl dan Atla, Ren dan Itsuki juga ada.
+Dialogue: 10,0:19:31.98,0:19:36.01,dialog,,0,0,0,,Penghalang musuh dapat dinetralkan\Ndengan berkat Raphtalia,
+Dialogue: 10,0:19:36.01,0:19:38.56,dialog,,0,0,0,,dan dengan kekuatan kita saat ini,\Ntidak akan ada masalah.
+Dialogue: 10,0:19:39.01,0:19:43.00,dialog,,0,0,0,,Sekarang aku hanya perlu pastikan pertemuan\Ndengan Kaisar Surgawi berjalan lancar...
+Dialogue: 10,0:19:43.00,0:19:44.41,dialog,,0,0,0,,Tidak apa-apa.
+Dialogue: 10,0:19:45.05,0:19:49.16,dialog,,0,0,0,,Perasaan Raphtalia pasti akan sampai\Nkepada Kaisar Surgawi.
+Dialogue: 10,0:19:50.31,0:19:52.54,dialog,,0,0,0,,Maaf mengganggu obrolan.
+Dialogue: 10,0:19:53.78,0:19:56.66,dialog,,0,0,0,,Semua, harap cepat berkumpul di istana.
+Dialogue: 10,0:19:57.21,0:19:58.80,dialog,,0,0,0,,Apakah akhirnya sudah ada kabar?
+Dialogue: 10,0:20:03.78,0:20:06.64,dialog,,0,0,0,,Aku... memohon dengan sangat.
+Dialogue: 10,0:20:09.15,0:20:10.45,dialog,,0,0,0,,Aku mengerti.
+Dialogue: 10,0:20:10.45,0:20:14.02,dialog,,0,0,0,,Di saat itu,\Naku akan menjadi Kaisar Surgawi.
+Dialogue: 10,0:20:15.71,0:20:18.65,dialog,,0,0,0,,Hei! Diamlah kau, Pecundang!
+Dialogue: 10,0:20:20.51,0:20:23.86,dialog,,0,0,0,,Pendeta sebelumnya tak akan melakukan\Nsesuatu yang tak perlu
+Dialogue: 10,0:20:24.17,0:20:27.95,dialog,,0,0,0,,dan akan menyelesaikan tugasnya\Nseperti yang diperintahkan.
+Dialogue: 10,0:20:34.18,0:20:37.63,dialog,,0,0,0,,Kami telah menerima laporan dari mata-mata\Nyang ditempatkan di ibu kota.
+Dialogue: 10,0:20:38.35,0:20:41.01,dialog,,0,0,0,,Ada tanda-tanda bahwa pasukan prefektur\Nsedang berkumpul di ibu kota.
+Dialogue: 10,0:20:42.22,0:20:45.72,dialog,,0,0,0,,Tampaknya puluhan pasukan sudah berbaris.
+Dialogue: 10,0:20:46.25,0:20:48.22,dialog,,0,0,0,,Ada kemungkinan mereka akan menyerang!
+Dialogue: 10,0:20:48.74,0:20:49.98,dialog,,0,0,0,,Apa maksudnya ini?
+Dialogue: 10,0:20:49.98,0:20:52.73,dialog,,0,0,0,,Pendeta Naga Air kembali ke ibu kota\Nuntuk menghentikan pertempuran, 'kan?
+Dialogue: 10,0:20:53.75,0:20:55.51,dialog,,0,0,0,,Ibu kota lama telah diserahkan,
+Dialogue: 10,0:20:55.51,0:20:59.01,dialog,,0,0,0,,apakah ini untuk membuat kita lengah\Ndan mereka bisa mengumpulkan kekuatan?
+Dialogue: 10,0:20:59.01,0:21:01.10,dialog,,0,0,0,,Sungguh tindakan pengecut.
+Dialogue: 10,0:21:02.18,0:21:05.18,dialog,,0,0,0,,Sialan, ayo serang dan hancurkan ibu kota
+Dialogue: 10,0:21:05.18,0:21:06.40,dialog,,0,0,0,,sebelum mereka sempat bersiap!
+Dialogue: 10,0:21:06.40,0:21:07.57,dialog,,0,0,0,,Tunggu sebentar!
+Dialogue: 10,0:21:07.57,0:21:08.91,dialog,,0,0,0,,Semuanya, tenang!
+Dialogue: 10,0:21:09.91,0:21:11.73,dialog,,0,0,0,,Meskipun dia adalah Pendeta Naga Air,
+Dialogue: 10,0:21:11.73,0:21:14.20,dialog,,0,0,0,,itu tidak berarti dia memiliki kendali\Natas seluruh pasukan.
+Dialogue: 10,0:21:14.20,0:21:15.87,dialog,,0,0,0,,Pasti ada sesuatu di balik itu.
+Dialogue: 10,0:21:16.17,0:21:19.50,dialog,,0,0,0,,Kaisar Surgawi... Tidak, pasti Makina.
+Dialogue: 10,0:21:19.95,0:21:24.57,dialog,,0,0,0,,Apakah kalian lupa jika Nona Raphtalia\Ntelah berjanji akan menjadi Kaisar Surgawi?
+Dialogue: 10,0:21:24.57,0:21:27.35,dialog,,0,0,0,,Tapi ini sama saja dengan melanggar hukum!
+Dialogue: 10,0:21:27.35,0:21:29.01,dialog,,0,0,0,,Ya, benar!
+Dialogue: 10,0:21:29.01,0:21:31.26,dialog,,0,0,0,,Kita akan menyerang juga!
+Dialogue: 10,0:21:33.91,0:21:36.18,dialog,,0,0,0,,Ini gawat! Jika terus begini...
+Dialogue: 10,0:21:36.18,0:21:38.23,dialog,,0,0,0,,Permisi!
+Dialogue: 10,0:21:38.71,0:21:40.44,dialog,,0,0,0,,Aku perlu memberitahumu segera.
+Dialogue: 10,0:21:40.95,0:21:42.30,dialog,,0,0,0,,Kali ini apa?
+Dialogue: 10,0:21:42.30,0:21:43.44,dialog,,0,0,0,,Dikatakan bahwa Pendeta Naga Air
+Dialogue: 10,0:21:43.78,0:21:47.40,dialog,,0,0,0,,telah muncul sendirian\Ndi depan pos pemeriksaan ibu kota lama!
