@@ -11,312 +11,297 @@ PlayResY: 1080
 Timer: 100.0000
 
 [Aegisub Project Garbage]
-Scroll Position: 99
-Active Line: 116
+Last Style Storage: Default
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,2,64,64,33,1
-Style: Default Above,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1.5,8,0,0,65,1
+Style: Default Above,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,8,64,64,33,1
+Style: 5-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
+Style: 6-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,6,10,10,10,1
+Style: 4-normal,Basic Comical NC,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,4,10,10,10,1
+Style: Atas,Basic Comical NC,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,8,64,64,33,1
 Style: res,Basic Comical NC,1080,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,0,0,0,0,1,2,2,2,10,10,10,1
 Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.34,0:00:13.58,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, akhirnya sampai luar juga.
-Dialogue: 0,0:00:17.08,0:00:19.86,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini pengalaman pertamamu\Nke dunia luar, ya, Bee.
-Dialogue: 0,0:00:19.86,0:00:22.59,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bakal susah kalau lewat hutan\Ndi malam hari.
-Dialogue: 0,0:00:24.05,0:00:25.88,Default,,0,0,0,,{\blur3}{\fad(00,40)}Perutku juga lapar.
-Dialogue: 0,0:00:25.88,0:00:27.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oke, Bee!
-Dialogue: 0,0:00:28.17,0:00:30.94,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ayo berkemah di sini malam ini!
-Dialogue: 0,0:00:38.31,0:00:40.52,tanda,,0,0,0,,{\blur3}{\fad(00,40)}AIR MAGIS BAWAH TANAH - RANK SS
-Dialogue: 0,0:00:44.08,0:00:46.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sepertinya Vol sudah menghubungkan
-Dialogue: 0,0:00:46.15,0:00:50.32,Default,,0,0,0,,{\blur3}{\fad(00,40)}Item Box milikku dengan danau\Nbawah tanah itu pakai sihir.
-Dialogue: 0,0:00:52.41,0:00:54.66,tanda,,0,0,0,,{\blur3}{\fad(00,40)}AIR MAGIS BAWAH TANAH - RANK SS
-Dialogue: 0,0:00:57.16,0:00:58.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mau segelas lagi, ya?
-Dialogue: 0,0:00:58.87,0:01:00.83,Default,,0,0,0,,{\blur3}{\fad(00,40)}Minumlah sepuasmu.
-Dialogue: 0,0:01:00.83,0:01:04.67,Default,,0,0,0,,{\blur3}{\fad(00,40)}Berkat itu, Bee bisa minum sepuasnya\Nair magis yang dia butuhkan untuk tumbuh.
-Dialogue: 0,0:01:04.67,0:01:06.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iya, iya.\NNih.
-Dialogue: 0,0:01:09.99,0:01:12.93,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku juga harus minum?\NBoleh.
-Dialogue: 0,0:01:17.64,0:01:20.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Airnya lembut dan ringan sekali!
-Dialogue: 0,0:01:24.98,0:01:26.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Menyala!
-Dialogue: 0,0:01:28.81,0:01:32.41,Default,,0,0,0,,{\blur3}{\fad(00,40)}Menurut ensiklopedia dunia\Nyang kubeli dari tempat Jerome,
-Dialogue: 0,0:01:32.41,0:01:35.58,Default,,0,0,0,,{\blur3}{\fad(00,40)}tertulis kalau batu sihir itu berharga.
-Dialogue: 0,0:01:37.12,0:01:41.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}Efek untuk menghangatkan sesuatu...
-Dialogue: 0,0:01:45.27,0:01:49.65,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, aku bisa membuat\Nbatu sihir dengan mudah.
-Dialogue: 0,0:01:54.05,0:01:56.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oke, waktunya aku mulai.
-Dialogue: 0,0:02:00.89,0:02:03.06,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kelihatan enak sekali!
-Dialogue: 0,0:02:19.03,0:02:21.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini sup daging kedua yang dibuat,
-Dialogue: 0,0:02:21.15,0:02:23.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}tapi aku masih kuat lima kali lagi\Nkalau seenak ini!
-Dialogue: 0,0:02:26.23,0:02:28.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu juga pengin coba?
-Dialogue: 0,0:02:29.40,0:02:32.09,Default,,0,0,0,,{\blur3}{\fad(00,40)}Perutmu enggak akan sakit, kan?
-Dialogue: 0,0:02:32.43,0:02:34.91,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hati-hati, masih panas.
-Dialogue: 0,0:02:38.85,0:02:41.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sudah kubilang hati-hati, lo.
-Dialogue: 0,0:02:56.74,0:03:01.49,tanda,,0,0,0,,{\blur3}{\fad(00,40)}CATATAN PERJALANAN PENGUMPUL MATERIAL\NDI DUNIA LAIN
-Dialogue: 0,0:04:24.31,0:04:26.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, enak, ya?
-Dialogue: 0,0:04:31.02,0:04:34.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bakal tidak lucu kalau partnerku\Ncuma bisa minum air.
-Dialogue: 0,0:04:34.42,0:04:36.80,Default,,0,0,0,,{\blur3}{\fad(00,40)}Untung kita bisa makan makanan yang sama.
-Dialogue: 0,0:04:39.03,0:04:42.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee, kamu tidak kesepian\Nberpisah dengan orang tuamu?
-Dialogue: 0,0:04:48.94,0:04:51.94,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tidak apa-apa asal ada di dekatku?
-Dialogue: 0,0:04:51.94,0:04:54.73,Default,,0,0,0,,{\blur3}{\fad(00,40)}Imutnya!\NKamu memang imut, ya!
-Dialogue: 0,0:04:55.23,0:04:57.74,tanda,,0,0,0,,{\blur3}{\fad(00,40)}RANK B
-Dialogue: 0,0:04:58.15,0:05:01.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Padahal semenggemaskan ini,\NRank-nya B.
-Dialogue: 0,0:05:01.03,0:05:04.20,Default,,0,0,0,,{\blur3}{\fad(00,40)}Punya Gift yang kelihatan hebat pula.
-Dialogue: 0,0:05:06.24,0:05:08.58,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi Bee masih anak-anak!
-Dialogue: 0,0:05:08.58,0:05:10.75,Default,,0,0,0,,{\blur3}{\fad(00,40)}Anak-anak harus dididik dengan benar!
-Dialogue: 0,0:05:11.25,0:05:12.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee!
-Dialogue: 0,0:05:12.00,0:05:13.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}Byui?
-Dialogue: 0,0:05:13.00,0:05:14.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dengar, Bee.
-Dialogue: 0,0:05:14.34,0:05:20.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Meski kamu lebih kuat dariku,\Npokoknya jangan bertindak gegabah!
-Dialogue: 0,0:05:20.13,0:05:25.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dan kalau kamu kenapa-kenapa,\Naku yang bakal dimarahi Vol!
-Dialogue: 0,0:05:29.73,0:05:32.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Malah tidur pulas.
-Dialogue: 0,0:05:32.35,0:05:35.02,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku memang minta partner yang lucu, sih.
-Dialogue: 0,0:05:39.90,0:05:42.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Partnerku seekor reptil.
-Dialogue: 0,0:05:43.07,0:05:45.37,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dia sengaja, ya?
-Dialogue: 0,0:05:56.09,0:05:57.54,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, apa ini?
-Dialogue: 0,0:06:02.05,0:06:03.26,tanda,,0,0,0,,{\blur3}{\fad(00,40)}LOKASI SEKARANG
-Dialogue: 0,0:06:03.26,0:06:06.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini masih hutan yang sama\Ndengan kemarin, kan?
-Dialogue: 0,0:06:06.73,0:06:08.77,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kok tidak menyeramkan lagi?
-Dialogue: 0,0:06:08.77,0:06:10.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa yang terjadi dalam semalam?
-Dialogue: 0,0:06:12.61,0:06:15.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pasti hutannya memang aneh!
-Dialogue: 0,0:06:15.27,0:06:16.98,Default,,0,0,0,,{\blur3}{\fad(00,40)}Namanya juga dunia lain.
-Dialogue: 0,0:06:20.17,0:06:22.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jangan pergi terlalu jauh!
-Dialogue: 0,0:06:22.91,0:06:26.49,Default,,0,0,0,,{\blur3}{\fad(00,40)}Waktunya aku mengumpulkan material.
-Dialogue: 0,0:06:26.49,0:06:29.16,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pilih material Rank C saja...
-Dialogue: 0,0:06:29.16,0:06:31.62,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kuserahkan padamu, Pak Search!
-Dialogue: 0,0:06:33.16,0:06:37.38,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku baru pertama melihat tanaman ini!\NOh, yang ini juga!
-Dialogue: 0,0:06:42.24,0:06:43.91,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada apa, Bee?
-Dialogue: 0,0:06:44.47,0:06:47.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}Search dinyalakan!\NTarget, monster ganas!
-Dialogue: 0,0:06:49.47,0:06:56.23,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sebelum masuk ke gua, kukira monster\Ntidak mau mendekat karena bauku.
-Dialogue: 0,0:06:58.30,0:07:00.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa mereka sudah menemukan bauku?
-Dialogue: 0,0:07:00.82,0:07:04.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}Entahlah, tapi bisa membasmi monster\Nsepertinya menarik juga.
-Dialogue: 0,0:07:04.78,0:07:07.61,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bisa saja aku dapat material berharga.
-Dialogue: 0,0:07:12.70,0:07:15.96,tanda,,0,0,0,,{\blur3}{\fad(00,40)}ROCK FALCON - RANK C
-Dialogue: 0,0:07:18.04,0:07:21.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau dibandingkan sama Vol,\Nmalah jadi kelihatan lucu.
-Dialogue: 0,0:07:21.34,0:07:23.71,tanda,,0,0,0,,{\blur3}{\fad(00,40)}BAGIAN LEMAKNYA MANIS DAN LEZAT
-Dialogue: 0,0:07:22.09,0:07:23.71,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selain itu...
-Dialogue: 0,0:07:23.71,0:07:26.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bukankah ini bahan makanan\Nyang bisa terbang?
-Dialogue: 0,0:07:28.68,0:07:32.51,Default,,0,0,0,,{\blur3}{\fad(00,40)}Shield dan Ice Needle diaktifkan!
-Dialogue: 0,0:07:33.43,0:07:36.06,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku tidak mau membunuh tanpa alasan.
-Dialogue: 0,0:07:36.06,0:07:39.19,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi kalau harus, akan kujadikan\Nmakanan untuk bertahan hidup!
-Dialogue: 0,0:07:40.69,0:07:42.19,Default,,0,0,0,,{\blur3}{\fad(00,40)}Rasakan ini!
-Dialogue: 0,0:07:45.77,0:07:47.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dapat daging!
-Dialogue: 0,0:07:49.82,0:07:51.49,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada daging lainnya.
-Dialogue: 0,0:07:51.49,0:07:53.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maksudku, enam ekor monster lainnya!
-Dialogue: 0,0:07:53.45,0:07:55.91,tanda,,0,0,0,,{\blur3}{\fad(00,40)}SERPENT WOLF - RANK C
-Dialogue: 0,0:07:53.45,0:07:54.59,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maksudku, enam ekor monster lainnya!
-Dialogue: 0,0:07:57.00,0:07:58.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tingkatkan kecepatan dengan Quick.
-Dialogue: 0,0:07:59.29,0:08:02.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}Lalu ringankan badan dengan Reduction.
-Dialogue: 0,0:08:04.25,0:08:06.76,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terakhir, rapalkan Hard\Nke kedua tangan dan kaki!
-Dialogue: 0,0:08:10.18,0:08:11.80,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, kena!
-Dialogue: 0,0:08:20.90,0:08:23.40,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pergi sana!
-Dialogue: 0,0:08:23.81,0:08:26.40,Default,,0,0,0,,{\blur3}{\fad(00,40)}Punya kaki panjang memang mengesankan!
-Dialogue: 0,0:08:35.12,0:08:36.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sip...
-Dialogue: 0,0:08:36.66,0:08:39.41,Default,,0,0,0,,{\blur3}{\fad(00,40)}Daging, daging, daging.
-Dialogue: 0,0:08:39.41,0:08:43.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kumpulkan material-materialnya.\NKumpulkan, kumpulkan.
-Dialogue: 0,0:08:44.63,0:08:47.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, kok jadi repot begini?
-Dialogue: 0,0:08:47.01,0:08:49.72,Default,,0,0,0,,{\blur3}{\fad(00,40)}Malas banget harus terus bertarung\Nsampai ke luar hutan.
-Dialogue: 0,0:08:52.03,0:08:53.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada apa, Bee?
-Dialogue: 0,0:08:53.30,0:08:55.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu mau terbang untuk kabur?
-Dialogue: 0,0:08:55.14,0:08:56.72,Default,,0,0,0,,{\blur3}{\fad(00,40)}Rasanya mustahil...
-Dialogue: 0,0:08:58.65,0:09:00.73,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu kuat juga, ya.
-Dialogue: 0,0:09:00.73,0:09:02.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau begitu, Reduction—
-Dialogue: 0,0:09:10.69,0:09:12.86,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee, terbangmu ketinggian!
-Dialogue: 0,0:09:27.50,0:09:29.11,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bau.
-Dialogue: 0,0:09:29.79,0:09:31.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku masih hidup.
-Dialogue: 0,0:09:34.55,0:09:39.56,tanda,,0,0,0,,{\blur3}{\fad(00,40)}HUTAN RIMBA PUTIH\N{\blur3}{\fad(00,40)}LOKASI SEKARANG
-Dialogue: 0,0:09:34.55,0:09:36.91,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, sebentar.
-Dialogue: 0,0:09:36.91,0:09:39.56,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bukankah ini di sekitar lokasi kemah semalam?
-Dialogue: 0,0:09:40.04,0:09:43.54,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee, terbangmu cepat sekali.
-Dialogue: 0,0:09:44.48,0:09:47.73,Default,,0,0,0,,{\blur3}{\fad(00,40)}Niatmu ingin menolongku, sih.
-Dialogue: 0,0:09:47.73,0:09:49.11,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih.
-Dialogue: 0,0:09:49.11,0:09:52.40,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, kemungkinan\Naku masih seorang manusia.
-Dialogue: 0,0:09:52.40,0:09:55.24,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jadi, selanjutnya tolong\Ntahan sedikit tenagamu.
-Dialogue: 0,0:09:56.74,0:09:58.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aduh.
-Dialogue: 0,0:09:58.70,0:10:01.37,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau ada apa-apa lagi,\Ntolong bantu aku, ya.
-Dialogue: 0,0:10:05.13,0:10:08.53,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sudah kubilang tahan sedikit tenagamu.
-Dialogue: 0,0:10:09.97,0:10:15.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Menurut Pak Search, jarak dari sini\Nke desa Tormi butuh satu hari jalan kaki.
-Dialogue: 0,0:10:15.55,0:10:19.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kita tinggal pulang,\Njadi santai saja, deh.
-Dialogue: 0,0:10:20.27,0:10:21.22,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini?
-Dialogue: 0,0:10:21.89,0:10:23.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada di dalam tasku.
-Dialogue: 0,0:10:23.35,0:10:27.48,tanda,,0,0,0,,{\blur3}{\fad(00,40)}RANTING YGGDRASIL - RANK SS
-Dialogue: 0,0:10:23.35,0:10:25.61,Default,,0,0,0,,{\blur3}{\fad(00,40)}Namanya Ranting Yggdrasil,
-Dialogue: 0,0:10:25.61,0:10:27.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}sepertinya ranting dari pohon terkenal.
-Dialogue: 0,0:10:33.32,0:10:37.32,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu kenapa tiba-ti—\NWah!
-Dialogue: 0,0:10:39.70,0:10:43.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Setelah disembur napas berelemen magis,\Nranting ini terbangun?
-Dialogue: 0,0:10:43.66,0:10:47.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa coba?\NAku sama sekali gagal paham!
-Dialogue: 0,0:10:47.67,0:10:50.88,Default,,0,0,0,,{\blur3}{\fad(00,40)}Memangnya Pengumpul Material\Nboleh bawa tongkat begini?
-Dialogue: 0,0:10:50.88,0:10:55.72,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku tidak mau dikira punya pekerjaan\Nyang mencolok seperti penyihir.
-Dialogue: 0,0:11:00.78,0:11:03.98,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee, hati-hati!\NAda sesuatu!
-Dialogue: 0,0:11:15.89,0:11:17.60,Default,,0,0,0,,{\blur3}{\fad(00,40)}Monster lain, ya?
-Dialogue: 0,0:11:20.74,0:11:21.49,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee!
-Dialogue: 0,0:11:28.65,0:11:30.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu di mana, Bee?
-Dialogue: 0,0:11:34.13,0:11:35.19,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee!
-Dialogue: 0,0:11:35.98,0:11:38.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa yang ada di sana?
-Dialogue: 0,0:11:52.19,0:11:54.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, elf?
-Dialogue: 0,0:11:54.48,0:11:57.82,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jangan-jangan, habis diserang monster?
-Dialogue: 0,0:11:57.82,0:11:59.95,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bu... kan...
-Dialogue: 0,0:12:01.70,0:12:03.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Lah, eh?
-Dialogue: 0,0:12:04.14,0:12:06.71,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, bunyi apa ini?
-Dialogue: 0,0:12:06.71,0:12:10.50,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku sudah tiga hari tidak makan.
-Dialogue: 0,0:12:12.21,0:12:14.25,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ternyata bunyi perutnya, toh.
-Dialogue: 0,0:12:14.68,0:12:17.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}A-Air.
-Dialogue: 0,0:12:19.07,0:12:21.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini, air.
-Dialogue: 0,0:12:30.40,0:12:32.02,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku selamat!
-Dialogue: 0,0:12:34.41,0:12:37.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ternyata suara perut keroncongan\Nelf yang terkapar di jalan.
-Dialogue: 0,0:12:37.78,0:12:44.53,Default,,0,0,0,,{\blur3}{\fad(00,40)}Seingatku ada bekal spesial\Npemberian pemilik penginapan.
-Dialogue: 0,0:12:45.89,0:12:47.04,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu mau?
-Dialogue: 0,0:12:52.15,0:12:54.54,Default,,0,0,0,,{\blur3}{\fad(00,40)}Memangnya elf seperti ini, ya?
-Dialogue: 0,0:12:55.38,0:12:56.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada apa?
-Dialogue: 0,0:12:56.42,0:13:02.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}I-Ini enak sekali!
-Dialogue: 0,0:13:02.34,0:13:04.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sungguh bekal yang lezat.
-Dialogue: 0,0:13:04.97,0:13:08.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Saking lezatnya, aku serasa terbang\Nsampai ke surga.
-Dialogue: 0,0:13:08.18,0:13:11.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau hampir mati kelaparan,\Nsemuanya memang terasa enak.
-Dialogue: 0,0:13:12.35,0:13:14.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Serasa hidup kembali.
-Dialogue: 0,0:13:14.03,0:13:17.57,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dari terbang ke surga terus hidup lagi,\Nkamu sibuk sekali, ya.
-Dialogue: 0,0:13:17.57,0:13:19.69,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku boleh tanya sesuatu?
-Dialogue: 0,0:13:19.69,0:13:21.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hm, tanya apa?
-Dialogue: 0,0:13:21.36,0:13:25.74,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini memang jauh dari desa,\Ntapi masa sampai kehabisan bahan makanan?
-Dialogue: 0,0:13:25.74,0:13:28.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Itu soalnya...\Naku terburu-buru...
-Dialogue: 0,0:13:28.87,0:13:33.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}Walau terburu-buru,\Nsetidaknya tetap bawa bekal, kan?
-Dialogue: 0,0:13:33.00,0:13:35.57,Default,,0,0,0,,{\blur3}{\fad(00,40)}Meski kamu bukan petualang sekalipun.
-Dialogue: 0,0:13:36.42,0:13:37.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau itu...
-Dialogue: 0,0:13:40.47,0:13:41.59,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bau!
-Dialogue: 0,0:13:41.59,0:13:42.38,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:13:42.91,0:13:47.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Di bayanganku, elf beraroma pepermin\Ndan angin sejuk musim semi.
-Dialogue: 0,0:13:47.85,0:13:49.89,Default,,0,0,0,,{\blur3}{\fad(00,40)}Baunya malah seperti kompos.
-Dialogue: 0,0:13:49.89,0:13:51.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ko-Kompos?
-Dialogue: 0,0:13:51.64,0:13:54.19,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bauku seperti pupuk kompos katamu?
-Dialogue: 0,0:13:54.19,0:13:58.28,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa boleh buat, kan?\NAku terus-terusan tidur di luar, tahu!
-Dialogue: 0,0:13:59.41,0:14:03.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sudahlah, aku pergi dulu!\NAku sedang buru-buru.
-Dialogue: 0,0:14:03.13,0:14:05.57,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih telah menolongku.
-Dialogue: 0,0:14:05.57,0:14:09.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, mengatai aku bau kompos\Nitu sangat lancang!
-Dialogue: 0,0:14:10.50,0:14:12.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat tinggal!
-Dialogue: 0,0:14:14.45,0:14:17.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}Elf itu kenapa, sih?
-Dialogue: 0,0:14:17.34,0:14:18.89,Default,,0,0,0,,{\blur3}{\fad(00,40)}Biar sajalah.
-Dialogue: 0,0:14:19.95,0:14:22.38,Default,,0,0,0,,{\blur3}{\fad(00,40)}Setelah berpisah dengan elf malang tadi,
-Dialogue: 0,0:14:22.38,0:14:27.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}kami berjalan santai keluar hutan\Nsambil mengumpulkan material yang ada.
-Dialogue: 0,0:14:27.93,0:14:30.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sip, sebentar lagi kita keluar dari hutan.
-Dialogue: 0,0:14:31.83,0:14:34.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada apa?\NApa ada sesuatu?
-Dialogue: 0,0:14:36.17,0:14:37.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kereta kuda?
-Dialogue: 0,0:14:37.87,0:14:42.28,Default,,0,0,0,,{\blur3}{\fad(00,40)}Masih sejauh itu sudah kelihatan?\NHebat sekali kamu, Bee!
-Dialogue: 0,0:14:48.91,0:14:53.12,tanda,,0,0,0,,{\blur3}{\fad(00,40)}UNIKORN - RANK E
-Dialogue: 0,0:14:53.12,0:14:56.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kudanya, pakai Unikorn.
-Dialogue: 0,0:14:56.96,0:14:59.04,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sedang apa kamu di sini?
-Dialogue: 0,0:14:59.48,0:15:02.80,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ah, aku sedang menuju desa Tormi.
-Dialogue: 0,0:15:02.80,0:15:04.47,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jalan kaki?
-Dialogue: 0,0:15:04.47,0:15:05.26,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar.
-Dialogue: 0,0:15:05.26,0:15:08.51,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, pasti merepotkan.
-Dialogue: 0,0:15:08.51,0:15:11.68,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa kamu seorang penyihir?
-Dialogue: 0,0:15:11.68,0:15:13.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aduh, bukan!
-Dialogue: 0,0:15:13.64,0:15:16.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku hanya mengumpulkan\Ndan menjual material.
-Dialogue: 0,0:15:16.44,0:15:18.94,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, sangat tidak biasa.
-Dialogue: 0,0:15:18.94,0:15:21.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu spesialis mengumpulkan material, ya.
-Dialogue: 0,0:15:22.82,0:15:25.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sayangnya aku bukan spesialis.
-Dialogue: 0,0:15:25.78,0:15:28.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kami juga mau pulang ke Tormi.
-Dialogue: 0,0:15:28.66,0:15:30.53,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu mau ikut menumpang?
-Dialogue: 0,0:15:30.53,0:15:34.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sebenarnya mau, tapi badanku ini besar.
-Dialogue: 0,0:15:35.58,0:15:37.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iyah, gede banget!
-Dialogue: 0,0:15:37.42,0:15:40.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kakak ini lucu dan badannya gede!
-Dialogue: 0,0:15:40.79,0:15:44.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}Perasaan aku tidak mengatakan hal lucu, deh.
-Dialogue: 0,0:15:50.37,0:15:53.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kakak, silakan duduk di sini.
-Dialogue: 0,0:15:53.39,0:15:54.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih.
-Dialogue: 0,0:15:58.68,0:16:05.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}Entah kenapa, sejak tiba di dunia ini,\Naku gampang disukai anak kecil.
-Dialogue: 0,0:16:05.01,0:16:07.65,Default,,0,0,0,,{\blur3}{\fad(00,40)}Berkat itu,\Naku jadi tidak terlalu dicurigai, sih,
-Dialogue: 0,0:16:07.65,0:16:10.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}jadi akan kumanfaatkan sebaik mungkin.
-Dialogue: 0,0:16:11.58,0:16:15.91,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa kubilang, walau dirimu besar,\Nkereta kuda ini tetap kokoh, kan?
-Dialogue: 0,0:16:15.91,0:16:19.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar, tapi maaf keretanya\Njadi sempit karena aku.
-Dialogue: 0,0:16:19.29,0:16:20.79,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jangan dipikirkan.
-Dialogue: 0,0:16:20.79,0:16:24.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sudah jadi tradisi Tormi\Nuntuk saling menolong saat kesusahan.
-Dialogue: 0,0:16:24.30,0:16:28.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kami sudah memutuskan akan menolong\Nkalau ada yang kesusahan.
-Dialogue: 0,0:16:28.01,0:16:29.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sudah diputuskan.
-Dialogue: 0,0:16:29.77,0:16:32.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih banyak.
-Dialogue: 0,0:16:32.00,0:16:35.22,Default,,0,0,0,,{\blur3}{\fad(00,40)}Anak-anak sebelia ini\Nsudah ikut perjalanan jauh, ya.
-Dialogue: 0,0:16:35.22,0:16:37.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}Padahal ada bahayanya,\Nhebat sekali.
-Dialogue: 0,0:16:37.43,0:16:38.81,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini, silakan.
-Dialogue: 0,0:16:38.81,0:16:40.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih.
-Dialogue: 0,0:16:40.44,0:16:44.90,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, bagaimana jadinya\Nkalau aku seorang perampok?
-Dialogue: 0,0:16:44.90,0:16:46.23,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aum!
-Dialogue: 0,0:16:46.51,0:16:51.61,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hehe, ketahuan bohongnya!\NSoalnya, Magic Item kami diam saja.
-Dialogue: 0,0:16:51.61,0:16:53.24,Default,,0,0,0,,{\blur3}{\fad(00,40)}Magic Item?
-Dialogue: 0,0:16:53.67,0:16:57.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini akan berbunyi\Nkalau kamu orang berbahaya.
-Dialogue: 0,0:16:58.12,0:17:02.04,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, rupanya batu sihirnya\Nbisa dirapali sihir.
-Dialogue: 0,0:17:02.04,0:17:04.25,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kurasa aku bisa membuatnya.
-Dialogue: 0,0:17:04.25,0:17:08.26,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, maaf belum mengenalkan diri,\Nnamaku Takeru.
-Dialogue: 0,0:17:08.26,0:17:10.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}Wah, sopan sekali.
-Dialogue: 0,0:17:10.43,0:17:14.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku Eliza, dia Yunan, dan ini Cain.
-Dialogue: 0,0:17:14.14,0:17:15.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku Porun.
-Dialogue: 0,0:17:15.92,0:17:17.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Salam kenal.
-Dialogue: 0,0:17:18.35,0:17:20.77,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, suara apa itu?
-Dialogue: 0,0:17:20.77,0:17:22.56,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kedengaran lagi.
-Dialogue: 0,0:17:22.56,0:17:24.56,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kakak bawa sesuatu?
-Dialogue: 0,0:17:24.94,0:17:28.07,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada situ, ya?\NTunjukkan dong, Kak!
-Dialogue: 0,0:17:30.14,0:17:32.82,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sebenarnya bisa saja kuperlihatkan.
-Dialogue: 0,0:17:32.82,0:17:37.33,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, kurasa monster ini sangat tidak biasa.
-Dialogue: 0,0:17:37.33,0:17:40.12,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu ragu-ragu sekali, ya.
-Dialogue: 0,0:17:40.12,0:17:42.83,Default,,0,0,0,,{\blur3}{\fad(00,40)}Padahal monster bukan sesuatu yang langka.
-Dialogue: 0,0:17:42.83,0:17:45.63,Default,,0,0,0,,{\blur3}{\fad(00,40)}Para petualang juga sering membawanya.
-Dialogue: 0,0:17:45.95,0:17:48.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, benarkah?
-Dialogue: 0,0:17:48.00,0:17:49.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau begitu...
-Dialogue: 0,0:17:49.42,0:17:52.68,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee, jangan bikin ricuh\Natau menggigit mereka, ya.
-Dialogue: 0,0:17:55.93,0:17:58.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Imut sekali!\N- Imut sekali!
-Dialogue: 0,0:17:58.43,0:18:00.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini baru bikin terkejut.
-Dialogue: 0,0:18:00.39,0:18:02.19,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dia sejenis naga?
-Dialogue: 0,0:18:02.52,0:18:05.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kurasa dia anakan Black Dragon.
-Dialogue: 0,0:18:05.36,0:18:09.90,Default,,0,0,0,,{\blur3}{\fad(00,40)}Rasanya aku tidak perlu menyebut dia\Nanakan Ancient Dragon.
-Dialogue: 0,0:18:09.90,0:18:13.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau bawa naga,\NKakak ini Dragon Knight, ya?
-Dialogue: 0,0:18:13.70,0:18:16.91,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tidak, aku cuma kebetulan\Nmemungut telur naga.
-Dialogue: 0,0:18:17.18,0:18:19.49,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu menetaskannya dari telur?
-Dialogue: 0,0:18:19.49,0:18:22.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, ternyata bisa begitu.
-Dialogue: 0,0:18:23.62,0:18:26.67,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Ehehe.\N- Mukanya melar.
-Dialogue: 0,0:18:26.67,0:18:30.17,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jadi, naga memang cukup langka, ya?
-Dialogue: 0,0:18:30.17,0:18:34.26,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dragon Knight saja sudah langka\Ndan jarang ada yang lihat.
-Dialogue: 0,0:18:34.26,0:18:36.72,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dan naga jauh lebih langka lagi.
-Dialogue: 0,0:18:37.14,0:18:39.31,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dragon Knight, ya.
-Dialogue: 0,0:18:39.31,0:18:41.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Klise banget buat gim, ya.
-Dialogue: 0,0:18:41.35,0:18:45.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau sampai ketemu satu,\Nakan kuperhatikan dengan lekat, deh.
-Dialogue: 0,0:18:50.28,0:18:51.37,Default,,0,0,0,,{\blur3}{\fad(00,40)}Light!
-Dialogue: 0,0:18:56.98,0:18:59.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dengan ini monster tidak akan mendekat?
-Dialogue: 0,0:18:59.70,0:19:03.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar, lalu kalau ada apa-apa,\NBee juga akan memberi tahu.
-Dialogue: 0,0:19:03.87,0:19:05.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bisa tenang kalau begitu.
-Dialogue: 0,0:19:05.96,0:19:07.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Namanya juga naga.
-Dialogue: 0,0:19:07.21,0:19:08.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Namanya juga Bee.
-Dialogue: 0,0:19:08.46,0:19:09.88,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iya, heem!
-Dialogue: 0,0:19:10.20,0:19:12.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mereka sepercaya itu sama seekor naga, ya.
-Dialogue: 0,0:19:12.96,0:19:16.38,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sekarang, ayo siapkan makan malam.
-Dialogue: 0,0:19:16.38,0:19:19.89,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, Bu Eliza, untuk berterima kasih,
-Dialogue: 0,0:19:19.89,0:19:21.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}bolehkah aku yang menjamu makan malam?
-Dialogue: 0,0:19:21.97,0:19:22.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh?
-Dialogue: 0,0:19:26.23,0:19:28.81,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ternyata Kakak memang penyihir?
-Dialogue: 0,0:19:28.81,0:19:30.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bukan, bukan.
-Dialogue: 0,0:19:30.48,0:19:32.94,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tasku ini Item Box.
-Dialogue: 0,0:19:32.94,0:19:35.57,Default,,0,0,0,,{\blur3}{\fad(00,40)}Item Box, ya.
-Dialogue: 0,0:19:35.57,0:19:36.56,tanda,,0,0,0,,{\blur3}{\fad(00,40)}MENU HARI INI
-Dialogue: 0,0:19:36.56,0:19:38.78,tanda,,0,0,0,,{\blur3}{\fad(00,40)}SUP DAGING SPESIAL DAN STEIK SEPERTI BIASA.
-Dialogue: 0,0:19:38.78,0:19:40.58,tanda,,0,0,0,,{\blur3}{\fad(00,40)}MENU BARUNYA SALAD JAMUR DAN SAYUR.
-Dialogue: 0,0:19:41.16,0:19:42.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terlihat enak!
-Dialogue: 0,0:19:42.70,0:19:44.83,Default,,0,0,0,,{\blur3}{\fad(00,40)}Masakannya banyak sekali!
-Dialogue: 0,0:19:44.83,0:19:46.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mengejutkan sekali.
-Dialogue: 0,0:19:46.96,0:19:48.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ayo, mari kita makan!
-Dialogue: 0,0:19:48.96,0:19:51.88,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Selamat makan!\N- Selamat makan!
-Dialogue: 0,0:19:53.88,0:19:56.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Enaknya!\N- Enaknya!
-Dialogue: 0,0:19:56.46,0:19:58.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau begitu kami juga.
-Dialogue: 0,0:20:00.64,0:20:02.81,Default,,0,0,0,,{\blur3}{\fad(00,40)}Wah, enak sekali.
-Dialogue: 0,0:20:02.81,0:20:05.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kakak jago sekali masaknya.
-Dialogue: 0,0:20:05.43,0:20:07.10,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benarkah?
-Dialogue: 0,0:20:07.79,0:20:09.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Anu, Pak Porun?
-Dialogue: 0,0:20:09.66,0:20:12.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa rasanya tidak cocok di lidahmu?
-Dialogue: 0,0:20:12.15,0:20:14.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada apa, Sayang?
-Dialogue: 0,0:20:15.71,0:20:19.74,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini terlalu enak!
-Dialogue: 0,0:20:19.74,0:20:22.28,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selama perjalanan menunya\Ncuma daging kering terus!
-Dialogue: 0,0:20:22.28,0:20:26.58,Default,,0,0,0,,{\blur3}{\fad(00,40)}Setelah makan yang seenak ini\Ndan lihat wajah bahagia anak-anakku,
-Dialogue: 0,0:20:26.58,0:20:31.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}air mataku tidak terbendung!
-Dialogue: 0,0:20:32.75,0:20:35.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pak Porun berlebihan sekali, deh!
-Dialogue: 0,0:20:35.71,0:20:39.22,Default,,0,0,0,,{\blur3}{\fad(00,40)}Takeru, sebenarnya kamu penyihir, kan?
-Dialogue: 0,0:20:39.22,0:20:41.59,Default,,0,0,0,,{\blur3}{\fad(00,40)}Penyihir cita rasa, kan?
-Dialogue: 0,0:20:41.59,0:20:44.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, apa-apaan itu?
-Dialogue: 0,0:21:16.71,0:21:20.22,Default,,0,0,0,,{\blur3}{\fad(00,40)}Saat masih di Bumi,\Naku tidak menyadarinya.
-Dialogue: 0,0:21:22.34,0:21:27.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Berbeda dengan makan seorang diri\Nyang begitu sepi, jamuan seperti ini...
-Dialogue: 0,0:21:27.71,0:21:29.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}ternyata lumayan juga.
-Dialogue: 0,0:21:29.73,0:21:32.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Setelah datang ke dunia ini,
-Dialogue: 0,0:21:32.85,0:21:36.69,Default,,0,0,0,,{\blur3}{\fad(00,40)}rasanya ini pertama kalinya\Naku bisa tertawa dari lubuk hatiku.
+Dialogue: 0,0:01:39.70,0:01:44.46,5-normal,,0,0,0,,{\pos(960,230)\fs80\b1\bord3.5\c&H011F60&\3c&HFFFFFF&\blur0\fad(400,0)}Catatan Perjalanan Pengumpul Material di Dunia Lain
+Dialogue: 0,0:12:10.25,0:12:12.92,tanda,,0,0,0,,MONT BLANC CRAB - RANK C
+Dialogue: 0,0:12:14.92,0:12:17.30,tanda,,0,0,0,,SEBENARNYA BISA DIMAKAN.
+Dialogue: 0,0:14:57.88,0:15:04.88,tanda,,0,0,0,,KOTA NIAGA BELKAIM
+Dialogue: 0,0:16:21.96,0:16:24.09,tanda,,0,0,0,,REIDON ENAHASIS - RANK D
+Dialogue: 0,0:16:27.34,0:16:31.39,tanda,,0,0,0,,TAKERU - RANK BELUM DITENTUKAN,
+Dialogue: 0,0:16:27.34,0:16:31.39,tanda,,0,0,0,,19 TAHUN, BIRU
+Dialogue: 0,0:16:36.02,0:16:37.07,tanda,,0,0,0,,DAYA SIHIR MENTOK KANAN, PARTNER PERJALANAN,
+Dialogue: 0,0:16:37.07,0:16:38.10,tanda,,0,0,0,,BAHASA DUNIA LAIN, PENGUATAN FISIK
+Dialogue: 0,0:16:46.23,0:16:49.24,tanda,,0,0,0,,BERKAH NAGA
+Dialogue: 0,0:19:01.29,0:19:03.96,tanda,,0,0,0,,NAMA - TANGGAL LAHIR - ASAL
+Dialogue: 0,0:00:15.49,0:00:18.08,Default,,0,0,0,,{\blur3}{\fad(00,40)}Enak juga mengerjakan sesuatu seperti ini.
+Dialogue: 0,0:00:20.42,0:00:21.92,Default,,0,0,0,,{\blur3}{\fad(00,40)}Cepat sekali bangunmu.
+Dialogue: 0,0:00:21.92,0:00:23.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sedang mengerjakan apa?
+Dialogue: 0,0:00:23.80,0:00:25.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat pagi.
+Dialogue: 0,0:00:25.21,0:00:27.26,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku sedang merawat gunting.
+Dialogue: 0,0:00:27.26,0:00:29.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Orang yang merawat peralatannya,
+Dialogue: 0,0:00:29.70,0:00:31.68,Default,,0,0,0,,{\blur3}{\fad(00,40)}biasanya hasil kerjanya juga baik.
+Dialogue: 0,0:00:34.18,0:00:40.19,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku mengikuti alur jadi pengumpul material,\Ntapi mungkin pekerjaan ini cocok untukku.
+Dialogue: 0,0:00:40.19,0:00:44.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Takeru, ayo berangkat setelah sarapan.
+Dialogue: 0,0:00:44.44,0:00:46.05,Default,,0,0,0,,{\blur3}{\fad(00,40)}Baik.
+Dialogue: 0,0:00:50.28,0:00:53.32,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, kalau boleh...
+Dialogue: 0,0:00:57.16,0:00:59.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu bisa jalan lebih cepat?
+Dialogue: 0,0:01:05.30,0:01:08.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, hebat sekali bisa membuat dia menurut.
+Dialogue: 0,0:01:08.96,0:01:11.05,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dia saja yang pintar.
+Dialogue: 0,0:01:12.83,0:01:14.51,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pagi, Bee.
+Dialogue: 0,0:01:16.93,0:01:18.31,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sudah mulai kelihatan.
+Dialogue: 0,0:01:18.31,0:01:20.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Desa Tormi!\N- Desa Tormi!
+Dialogue: 0,0:01:24.02,0:01:25.69,Default,,0,0,0,,{\blur3}{\fad(00,40)}Akhirnya aku pulang.
+Dialogue: 0,0:02:58.74,0:03:01.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kami jadi banyak merepotkanmu.
+Dialogue: 0,0:03:01.45,0:03:03.50,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih, Takeru.
+Dialogue: 0,0:03:03.50,0:03:07.88,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sama-sama, aku juga\Njadi tidak perlu pulang jalan kaki.
+Dialogue: 0,0:03:07.88,0:03:09.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sampai jumpa lagi.
+Dialogue: 0,0:03:09.29,0:03:11.33,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Sampai jumpa!\N- Sampai jumpa!
+Dialogue: 0,0:03:17.14,0:03:21.06,Default,,0,0,0,,{\blur3}{\fad(00,40)}Porun sudah pulang,\Nberarti sebentar lagi musim semi.
+Dialogue: 0,0:03:21.06,0:03:24.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa pekerjaan Pak Porun?
+Dialogue: 0,0:03:24.14,0:03:28.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Di musim dingin, dia cari uang dengan\Nmembuat rajutan di daerah yang hangat.
+Dialogue: 0,0:03:28.85,0:03:32.65,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jadi, kalau Porun sudah pulang,\Ntandanya musim semi akan tiba.
+Dialogue: 0,0:03:32.65,0:03:38.16,Default,,0,0,0,,{\blur3}{\fad(00,40)}Seingatku, dia bilang perbekalannya mepet\Nkarena tidak bisa berburu.
+Dialogue: 0,0:03:38.63,0:03:41.41,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pantas saja dia menangis karena masakanku.
+Dialogue: 0,0:03:42.39,0:03:47.67,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku sangat beruntung diberi kemampuan\Nuntuk mengumpulkan material.
+Dialogue: 0,0:03:48.75,0:03:53.05,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, iya, kamu tidak laporan ke Jerome\Nsoal pekerjaan yang dia berikan?
+Dialogue: 0,0:03:53.05,0:03:55.05,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar juga.
+Dialogue: 0,0:04:10.98,0:04:16.99,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selain Bijih Mithril yang diminta,\Naku juga memberi Bijih Magis Mithril.
+Dialogue: 0,0:04:19.99,0:04:22.49,Default,,0,0,0,,{\blur3}{\fad(00,40)}Menggeram terus dari tadi.
+Dialogue: 0,0:04:23.50,0:04:25.12,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oi, Takeru!
+Dialogue: 0,0:04:25.75,0:04:26.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iya, kenapa?
+Dialogue: 0,0:04:27.18,0:04:29.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini bukan barang sembarangan, lo.
+Dialogue: 0,0:04:29.42,0:04:33.09,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kurasa ini bukan batu bijih biasa.
+Dialogue: 0,0:04:33.09,0:04:35.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini Bijih Magis Mithril.
+Dialogue: 0,0:04:35.21,0:04:37.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku sudah tahu.
+Dialogue: 0,0:04:37.01,0:04:40.37,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bagaimana caramu menemukannya?
+Dialogue: 0,0:04:40.37,0:04:42.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini barang legendaris, lo.
+Dialogue: 0,0:04:42.68,0:04:46.52,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh? Ternyata seberharga itu?
+Dialogue: 0,0:04:46.52,0:04:51.73,Default,,0,0,0,,{\blur3}{\fad(00,40)}Begini, ya, ini sudah seperti\Nbongkahan elemen magis yang kuat.
+Dialogue: 0,0:04:51.73,0:04:56.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Punya beberapa saja, kekuatannya sudah\Nsetara batu sihir di seluruh negeri.
+Dialogue: 0,0:04:56.03,0:04:58.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, sebegitunya?
+Dialogue: 0,0:04:59.78,0:05:02.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Akhirnya kamu paham juga.
+Dialogue: 0,0:05:02.03,0:05:04.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}A-Aku menemukannya secara kebetulan.
+Dialogue: 0,0:05:04.78,0:05:10.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Meski cuma kebetulan jatuh di kaki,\Nkamu tidak lengah dan tetap mengambilnya.
+Dialogue: 0,0:05:10.66,0:05:16.71,Default,,0,0,0,,{\blur3}{\fad(00,40)}Meski ada faktor hoki, tidak salah lagi\Nkamu punya bakat dan keterampilan.
+Dialogue: 0,0:05:17.98,0:05:19.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih.
+Dialogue: 0,0:05:19.21,0:05:20.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, ya.
+Dialogue: 0,0:05:20.55,0:05:24.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Meski terampil,\Npengetahuanmu terlalu sedikit.
+Dialogue: 0,0:05:24.51,0:05:27.22,Default,,0,0,0,,{\blur3}{\fad(00,40)}Itu dia, Takeru.
+Dialogue: 0,0:05:27.22,0:05:30.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pergilah ke Belkaim.
+Dialogue: 0,0:05:30.85,0:05:32.77,Default,,0,0,0,,{\blur3}{\fad(00,40)}Belkaim?
+Dialogue: 0,0:05:32.77,0:05:36.07,Default,,0,0,0,,{\blur3}{\fad(00,40)}Itu kota yang puluhan kali\Nlebih ramai dari desa ini.
+Dialogue: 0,0:05:36.07,0:05:40.40,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu akan dapat berbagai informasi,\Ndan ada serikat petualang juga.
+Dialogue: 0,0:05:40.40,0:05:43.16,Default,,0,0,0,,{\blur3}{\fad(00,40)}Seharusnya kamu bisa belajar\Npengetahuan dasar.
+Dialogue: 0,0:05:43.16,0:05:46.62,Default,,0,0,0,,{\blur3}{\fad(00,40)}Serta lebih banyak yang bisa dibeli di Belkaim.
+Dialogue: 0,0:05:46.62,0:05:49.20,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku memang butuh keterampilanmu.
+Dialogue: 0,0:05:49.20,0:05:53.12,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, kalau kamu mau cari nama\Nsambil mempromosikan Tormi,
+Dialogue: 0,0:05:53.12,0:05:55.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}kami juga bisa ikut berkembang.
+Dialogue: 0,0:05:55.96,0:05:58.99,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku tidak punya niatan cari nama, sih.
+Dialogue: 0,0:05:59.67,0:06:01.72,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kota besar.
+Dialogue: 0,0:06:04.68,0:06:06.41,Default,,0,0,0,,{\blur3}{\fad(00,40)}Belkaim, ya!
+Dialogue: 0,0:06:12.69,0:06:15.52,Default,,0,0,0,,{\blur3}{\fad(00,40)}Serikat... serikat...
+Dialogue: 0,0:06:15.52,0:06:16.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ketemu.
+Dialogue: 0,0:06:16.44,0:06:22.07,Default,,0,0,0,,{\blur3}{\fad(00,40)}Paguyuban para petualang dan mengatur\Nberbagai permintaan dari banyak daerah, ya.
+Dialogue: 0,0:06:26.20,0:06:27.83,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hm...
+Dialogue: 0,0:06:27.83,0:06:30.16,Default,,0,0,0,,{\blur3}{\fad(00,40)}Walau kategorinya tetap petualang,
+Dialogue: 0,0:06:30.16,0:06:34.00,Default,,0,0,0,,{\blur3}{\fad(00,40)}ada punya banyak kelas\Nseperti kelas petarung dan pendukung, ya.
+Dialogue: 0,0:06:40.39,0:06:42.84,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mumpung datang ke dunia lain,
+Dialogue: 0,0:06:42.84,0:06:46.09,Default,,0,0,0,,{\blur3}{\fad(00,40)}aku ingin menjelajah dunia\Ndan melihat banyak hal.
+Dialogue: 0,0:06:46.09,0:06:49.07,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau jadi petualang,\Naku juga bisa mengumpulkan uang.
+Dialogue: 0,0:06:52.59,0:06:55.28,Default,,0,0,0,,{\blur3}{\fad(00,40)}Berarti tujuanku adalah Serikat Belkaim!
+Dialogue: 0,0:06:56.60,0:06:59.90,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, masih ada hal\Nyang ingin kulakukan di Tormi.
+Dialogue: 0,0:06:59.90,0:07:02.40,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kita santai di sini sebentar lagi, ya.
+Dialogue: 0,0:07:46.20,0:07:50.32,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini, bubuk kaldu yang dibuat\Ndari tulang Rock Falcon.
+Dialogue: 0,0:07:50.32,0:07:51.74,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih banyak.
+Dialogue: 0,0:07:51.74,0:07:54.20,Default,,0,0,0,,{\blur3}{\fad(00,40)}Masih butuh bumbu lain, tidak?
+Dialogue: 0,0:07:54.20,0:07:57.58,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku sudah diberi lumayan banyak.\NJadi, sudah cukup.
+Dialogue: 0,0:07:58.78,0:08:01.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mulai besok pasti terasa sepi.
+Dialogue: 0,0:08:03.19,0:08:04.59,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku juga.
+Dialogue: 0,0:08:04.59,0:08:08.76,Default,,0,0,0,,{\blur3}{\fad(00,40)}Orang-orang desa menawari\Nuntuk tinggal lebih lama, lo.
+Dialogue: 0,0:08:08.76,0:08:15.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, walau mau mengiyakan,\Naku ingin berkeliling melihat banyak tempat.
+Dialogue: 0,0:08:15.14,0:08:16.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Begitu, ya.
+Dialogue: 0,0:08:16.64,0:08:19.69,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau begitu, aku tidak akan menahanmu.
+Dialogue: 0,0:08:19.69,0:08:22.02,Default,,0,0,0,,{\blur3}{\fad(00,40)}Nih, bawalah.
+Dialogue: 0,0:08:22.02,0:08:23.02,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa ini?
+Dialogue: 0,0:08:23.02,0:08:27.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bekal untuk di jalan.\NButuh satu bulan untuk sampai ke Belkaim.
+Dialogue: 0,0:08:27.78,0:08:29.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih banyak!
+Dialogue: 0,0:08:29.70,0:08:32.20,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau kesepian, pulang ke sini, ya.
+Dialogue: 0,0:08:32.20,0:08:33.24,Default,,0,0,0,,{\blur3}{\fad(00,40)}Baik.
+Dialogue: 0,0:08:33.24,0:08:35.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terus ini juga.
+Dialogue: 0,0:08:35.03,0:08:36.75,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, sebanyak ini?
+Dialogue: 0,0:08:36.75,0:08:38.71,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini dan itu.
+Dialogue: 0,0:08:38.71,0:08:40.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terus, nih.\NIni juga.
+Dialogue: 0,0:08:41.28,0:08:45.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Untung aku punya Item Box.
+Dialogue: 0,0:08:48.67,0:08:51.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pada akhirnya Jerome tidak mau membelinya.
+Dialogue: 0,0:08:51.97,0:08:55.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kupikir ini bisa dipakai untuk sesuatu.
+Dialogue: 0,0:09:01.90,0:09:03.52,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terlalu rumit buatmu, ya.
+Dialogue: 0,0:09:05.52,0:09:10.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Karena sudah berjasa padaku, kujadikan sesuatu\Nyang berguna untuk Desa Tormi saja!
+Dialogue: 0,0:09:12.09,0:09:14.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Berguna untuk desa...
+Dialogue: 0,0:09:16.03,0:09:17.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar juga!
+Dialogue: 0,0:09:17.81,0:09:21.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Digabungkan dengan sihir...\NLebih tepat dipadukan, ya?
+Dialogue: 0,0:09:23.71,0:09:25.41,Default,,0,0,0,,{\blur3}{\fad(00,40)}Harus dicoba dulu.
+Dialogue: 0,0:09:25.41,0:09:27.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ayo coba semua yang kubisa.
+Dialogue: 0,0:09:30.97,0:09:33.61,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bayangkan hasil jadinya.
+Dialogue: 0,0:09:35.55,0:09:36.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oke.
+Dialogue: 0,0:09:38.60,0:09:40.10,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bias!
+Dialogue: 0,0:09:54.66,0:09:56.03,Default,,0,0,0,,{\blur3}{\fad(00,40)}Scan.
+Dialogue: 0,0:09:57.33,0:10:00.09,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hore, hasilnya sempurna!
+Dialogue: 0,0:10:09.42,0:10:11.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hati-hati di jalan.
+Dialogue: 0,0:10:11.42,0:10:12.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}Baik.
+Dialogue: 0,0:10:12.30,0:10:14.01,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sampai jumpa lagi, Bee!
+Dialogue: 0,0:10:14.01,0:10:15.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Byuui!
+Dialogue: 0,0:10:20.39,0:10:22.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, Marlow.
+Dialogue: 0,0:10:24.17,0:10:26.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku mencoba membuat alat sihir.
+Dialogue: 0,0:10:27.60,0:10:29.98,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, alat apa ini?
+Dialogue: 0,0:10:29.98,0:10:32.69,Default,,0,0,0,,{\blur3}{\fad(00,40)}Alat untuk memasang penghalang ke desa,
+Dialogue: 0,0:10:32.69,0:10:35.74,Default,,0,0,0,,{\blur3}{\fad(00,40)}agar tidak ada makhluk jahat\Ndan berbahaya mendekat.
+Dialogue: 0,0:10:35.74,0:10:39.12,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu yakin memberikan\Nbenda sehebat ini pada kami?
+Dialogue: 0,0:10:40.87,0:10:44.16,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini tanda terima kasih\Nkarena kalian telah berbaik hati padaku.
+Dialogue: 0,0:10:44.16,0:10:48.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Serta ada harapanku agar kalian\Nbaik-baik saja sampai aku kembali.
+Dialogue: 0,0:10:48.84,0:10:50.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Begitulah.
+Dialogue: 0,0:10:51.71,0:10:52.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih.
+Dialogue: 0,0:10:52.96,0:10:55.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Takeru, pulanglah kemari kapan saja.
+Dialogue: 0,0:10:55.18,0:10:57.74,Default,,0,0,0,,{\blur3}{\fad(00,40)}Baik, aku pasti akan pulang.
+Dialogue: 0,0:10:57.74,0:11:00.18,Default,,0,0,0,,{\blur3}{\fad(00,40)}Karena Desa Tormi\Nsudah jadi kampung halamanku.
+Dialogue: 0,0:11:06.90,0:11:09.06,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hei, Takeru.
+Dialogue: 0,0:11:09.06,0:11:10.32,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ya?
+Dialogue: 0,0:11:10.32,0:11:14.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jangan bilang kamu menggunakan itu...
+Dialogue: 0,0:11:20.66,0:11:22.66,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oi, tunggu, Takeru!
+Dialogue: 0,0:11:22.66,0:11:25.62,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ya sudah, semuanya!\NSehat selalu, ya!
+Dialogue: 0,0:11:26.67,0:11:28.33,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat jalan!
+Dialogue: 0,0:11:28.33,0:11:30.67,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sampai jumpa lagi!
+Dialogue: 0,0:11:33.07,0:11:35.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bertindaklah dengan hati-hati.
+Dialogue: 0,0:11:35.92,0:11:38.97,Default,,0,0,0,,{\blur3}{\fad(00,40)}Belkaim tempat seperti apa, ya?
+Dialogue: 0,0:11:48.69,0:11:51.82,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, tenang sekali di sekitar sini.
+Dialogue: 0,0:12:05.25,0:12:07.04,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini, sih, terlalu gede.
+Dialogue: 0,0:12:08.21,0:12:10.25,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pertama, Scan!
+Dialogue: 0,0:12:17.30,0:12:19.95,Default,,0,0,0,,{\blur3}{\fad(00,40)}Jadi, kepiting ini bisa dimakan?
+Dialogue: 0,0:12:20.55,0:12:24.68,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee, apa kamu tahu?\NKepiting itu enak banget, lo!
+Dialogue: 0,0:12:30.31,0:12:32.31,Default,,0,0,0,,{\blur3}{\fad(00,40)}Reduction! Hard!
+Dialogue: 0,0:12:36.86,0:12:37.82,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee!
+Dialogue: 0,0:12:47.87,0:12:49.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu bisa melakukan itu, ya?
+Dialogue: 0,0:12:49.96,0:12:50.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bii!
+Dialogue: 0,0:12:53.38,0:12:54.71,Default,,0,0,0,,{\blur3}{\fad(00,40)}Masih ada lagi.
+Dialogue: 0,0:13:01.50,0:13:03.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi lawan kita cuma kepiting.
+Dialogue: 0,0:13:03.55,0:13:06.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau cuma bisa jalan menyamping,\Npasti banyak cara mengalahkanâ€”
+Dialogue: 0,0:13:10.06,0:13:13.06,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kok kepiting bisa jalan lurus ke depan?
+Dialogue: 0,0:13:21.78,0:13:25.20,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih, Bee!\NAku jadi selamat.
+Dialogue: 0,0:13:31.29,0:13:33.79,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pokoknya nanti akan kunikmati kalian!
+Dialogue: 0,0:13:34.79,0:13:37.49,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima ini, jurus pemungkas super!
+Dialogue: 0,0:13:45.64,0:13:47.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kita berhasil, Bee!
+Dialogue: 0,0:13:53.90,0:13:56.73,Default,,0,0,0,,{\blur3}{\fad(00,40)}Rapalkan Hard dulu ke tangan.
+Dialogue: 0,0:13:59.90,0:14:01.99,Default,,0,0,0,,{\blur3}{\fad(00,40)}Lalu siapkan panci besar.
+Dialogue: 0,0:14:09.79,0:14:14.56,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terus beri garam yang banyak,\Nsisanya tinggal direbus.
+Dialogue: 0,0:14:19.50,0:14:22.30,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iya, kelihatannya sudah bisa dimakan.
+Dialogue: 0,0:14:24.97,0:14:26.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat makan!
+Dialogue: 0,0:14:30.93,0:14:33.81,Default,,0,0,0,,{\blur3}{\fad(00,40)}Enak!
+Dialogue: 0,0:14:33.81,0:14:39.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ayo kita kunjungi banyak tempat\Ndan makan berbagai hidangan enak!
+Dialogue: 0,0:14:47.57,0:14:50.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar-benar kayak tembok pelindung.
+Dialogue: 0,0:14:50.29,0:14:52.70,Default,,0,0,0,,{\blur3}{\fad(00,40)}Konstruksinya indah sekali.
+Dialogue: 0,0:15:04.88,0:15:07.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kota Niaga Belkaim.
+Dialogue: 0,0:15:07.44,0:15:09.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Serikat nomor satu sebenua ada di sini, ya.
+Dialogue: 0,0:15:13.49,0:15:15.94,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pemeriksaan untuk masuk ke kota?
+Dialogue: 0,0:15:18.81,0:15:23.11,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sepertinya lebih baik kalau kusamarkan\Nseperti tas biasa dengan sihir.
+Dialogue: 0,0:15:23.53,0:15:25.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selanjutnya, silakan masuk.
+Dialogue: 0,0:15:25.84,0:15:27.99,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu diam dulu sebentar, ya.
+Dialogue: 0,0:15:33.25,0:15:36.37,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu Pengumpul Material?\NLangka sekali.
+Dialogue: 0,0:15:36.37,0:15:38.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu ke Belkaim untuk menjual material?
+Dialogue: 0,0:15:38.96,0:15:42.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bukan, aku tertarik\Ndengan serikat petualang.
+Dialogue: 0,0:15:42.21,0:15:46.38,Default,,0,0,0,,{\blur3}{\fad(00,40)}Belkaim memang kota niaga dan petualang.
+Dialogue: 0,0:15:46.38,0:15:47.86,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kami sambut kedatanganmu.
+Dialogue: 0,0:15:48.22,0:15:49.22,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi...
+Dialogue: 0,0:15:49.69,0:15:53.85,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini sudah pekerjaan kami,\Njadi akan kurapali Avalus padamu.
+Dialogue: 0,0:15:53.85,0:15:55.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Avalus?
+Dialogue: 0,0:15:55.39,0:16:00.02,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kami menilai orang yang akan masuk ke sini\Nmencurigakan atau tidak dengan alat sihir.
+Dialogue: 0,0:16:05.12,0:16:07.20,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kelihatannya tidak ada yang aneh.
+Dialogue: 0,0:16:07.20,0:16:09.95,Default,,0,0,0,,{\blur3}{\fad(00,40)}Barang bawaannya juga aman.
+Dialogue: 0,0:16:11.72,0:16:16.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi memangnya,\Nbagaimana orang-orang melihat statusku?
+Dialogue: 0,0:16:16.45,0:16:20.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Status yang terbaca lewat Avalus\Nbisa kulihat dengan Scan, tidak, ya?
+Dialogue: 0,0:16:20.87,0:16:21.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Scan.
+Dialogue: 0,0:16:24.09,0:16:26.59,Default,,0,0,0,,{\blur3}{\fad(00,40)}Salah, bukan begini maksudku.
+Dialogue: 0,0:16:31.39,0:16:33.64,Default,,0,0,0,,{\blur3}{\fad(00,40)}Statusku sederhana sekali.
+Dialogue: 0,0:16:34.14,0:16:36.02,Default,,0,0,0,,{\blur3}{\fad(00,40)}Seharusnya dia memberiku macam-macam,
+Dialogue: 0,0:16:36.02,0:16:37.07,Default,,0,0,0,,{\blur3}{\fad(00,40)}ternyata tidak kelihatan.
+Dialogue: 0,0:16:37.07,0:16:38.10,Default,,0,0,0,,{\blur3}{\fad(00,40)}ternyata tidak kelihatan.
+Dialogue: 0,0:16:38.57,0:16:40.69,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oke, tidak ada masalah.
+Dialogue: 0,0:16:40.69,0:16:42.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Syukurlah.
+Dialogue: 0,0:16:44.62,0:16:46.23,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, "Berkah Naga" ini sebenarnya apa?
+Dialogue: 0,0:16:46.23,0:16:49.24,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tapi, "Berkah Naga" ini sebenarnya apa?
+Dialogue: 0,0:16:49.24,0:16:52.40,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau itu...\NSudahlah.
+Dialogue: 0,0:16:52.40,0:16:53.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bee.
+Dialogue: 0,0:16:55.37,0:16:57.41,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mungkin efek dari dia.
+Dialogue: 0,0:16:57.41,0:16:59.91,Default,,0,0,0,,{\blur3}{\fad(00,40)}- Ma-Manis sekali!\N- Ma-Manis sekali!
+Dialogue: 0,0:17:02.61,0:17:03.92,Default,,0,0,0,,{\blur3}{\fad(00,40)}Itu naga, ya.
+Dialogue: 0,0:17:03.92,0:17:05.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Dia partnerku.
+Dialogue: 0,0:17:06.60,0:17:11.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau begitu, bisa pakaikan penanda\Nkalau dia adalah partnermu?
+Dialogue: 0,0:17:11.55,0:17:13.33,Default,,0,0,0,,{\blur3}{\fad(00,40)}Penanda?
+Dialogue: 0,0:17:15.16,0:17:17.34,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hm...
+Dialogue: 0,0:17:19.08,0:17:22.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Mau coba pakai benda\Nyang kita terima dari anak-anak?
+Dialogue: 0,0:17:28.94,0:17:31.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oke, itu cukup.
+Dialogue: 0,0:17:31.29,0:17:35.78,Default,,0,0,0,,{\blur3}{\fad(00,40)}Akan kulaporkan ke wali kota\Nbahwa ada naga yang memasuki kota.
+Dialogue: 0,0:17:35.78,0:17:37.58,Default,,0,0,0,,{\blur3}{\fad(00,40)}Seharusnya bukan masalah, sih.
+Dialogue: 0,0:17:37.58,0:17:42.75,Default,,0,0,0,,{\blur3}{\fad(00,40)}Serikat petualang ada di gedung persegi besar\Nsetelah melewati jalan utama.
+Dialogue: 0,0:17:42.75,0:17:44.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih banyak.
+Dialogue: 0,0:17:45.13,0:17:48.21,Default,,0,0,0,,{\blur3}{\fad(00,40)}Takeru, selamat datang di Belkaim.
+Dialogue: 0,0:18:08.36,0:18:11.28,Default,,0,0,0,,{\blur3}{\fad(00,40)}Rasanya seperti datang ke dunia lain.
+Dialogue: 0,0:18:11.28,0:18:13.86,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini memang dunia lain, sih.
+Dialogue: 0,0:18:17.99,0:18:19.95,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa itu serikatnya?
+Dialogue: 0,0:18:19.95,0:18:21.06,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ayo coba ke sana.
+Dialogue: 0,0:18:29.17,0:18:31.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat siang.
+Dialogue: 0,0:18:40.31,0:18:42.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat siang.
+Dialogue: 0,0:18:42.14,0:18:45.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Selamat datang di Serikat Petualang Ewropa.
+Dialogue: 0,0:18:46.01,0:18:49.27,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kami menerima pendaftaran\Nanggota baru kapan saja.
+Dialogue: 0,0:18:49.27,0:18:52.11,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku Arianna, resepsionis serikat.
+Dialogue: 0,0:18:52.11,0:18:56.53,Default,,0,0,0,,{\blur3}{\fad(00,40)}Silakan tulis nama\Nserta pekerjaanmu saat ini di lembar ini.
+Dialogue: 0,0:18:56.94,0:19:01.29,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, iya, walau bisa membacanya,\Naku belum pernah menulis huruf dunia ini.
+Dialogue: 0,0:19:05.19,0:19:07.96,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku tidak tahu ini skill yang mana,\Ntapi berguna sekali!
+Dialogue: 0,0:19:08.99,0:19:11.53,Default,,0,0,0,,{\blur3}{\fad(00,40)}Namamu Takeru, ya.
+Dialogue: 0,0:19:11.53,0:19:14.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Oh, seorang Pengumpul Material.
+Dialogue: 0,0:19:14.97,0:19:17.47,Default,,0,0,0,,{\blur3}{\fad(00,40)}Apa kamu punya pengalaman bertarung?
+Dialogue: 0,0:19:17.47,0:19:19.26,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iya, beberapa kali.
+Dialogue: 0,0:19:19.26,0:19:24.35,Default,,0,0,0,,{\blur3}{\fad(00,40)}Melawan burung besar, serigala dengan\Nekor seperti ular, dan kepiting yang lezat.
+Dialogue: 0,0:19:24.95,0:19:29.31,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, apa ada bukti\Nyang bisa kamu tunjukkan?
+Dialogue: 0,0:19:29.31,0:19:30.79,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bukti?
+Dialogue: 0,0:19:30.79,0:19:33.53,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ukurannya cukup besar,\Nboleh kukeluarkan di sini?
+Dialogue: 0,0:19:33.53,0:19:36.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, anu, silakan.
+Dialogue: 0,0:19:44.08,0:19:44.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Gawatâ€”
+Dialogue: 0,0:19:47.37,0:19:49.42,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ada apa ini, Arianna?
+Dialogue: 0,0:19:49.42,0:19:51.38,Default,,0,0,0,,{\blur3}{\fad(00,40)}Eh, apa ini?
+Dialogue: 0,0:19:51.38,0:19:55.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Anu, ini Mont Blanc Crab.
+Dialogue: 0,0:19:55.13,0:19:57.63,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku tahu, tapi...
+Dialogue: 0,0:19:57.63,0:20:01.51,Default,,0,0,0,,{\blur3}{\fad(00,40)}Arianna, apa ini bisa jadi bukti?
+Dialogue: 0,0:20:01.51,0:20:03.39,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bi-Bisa...
+Dialogue: 0,0:20:03.39,0:20:06.77,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu pemilik Item Box?
+Dialogue: 0,0:20:06.77,0:20:09.15,Default,,0,0,0,,{\blur3}{\fad(00,40)}Iya, pemberian seseorang.
+Dialogue: 0,0:20:15.21,0:20:18.11,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ya, sepertinya kamu tidak berbohong.
+Dialogue: 0,0:20:18.11,0:20:22.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}Tenang saja, Arianna.\NDia berwarna biru.
+Dialogue: 0,0:20:24.16,0:20:27.16,Default,,0,0,0,,{\blur3}{\fad(00,40)}A-Apa maksudnya biru?
+Dialogue: 0,0:20:27.16,0:20:31.67,Default,,0,0,0,,{\blur3}{\fad(00,40)}Maaf, aku merapalkan Avalus padamu.
+Dialogue: 0,0:20:32.40,0:20:37.17,Default,,0,0,0,,{\blur3}{\fad(00,40)}Skill Avalus milikku bisa membedakan\Nsifat asli targetnya.
+Dialogue: 0,0:20:37.51,0:20:41.68,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hasilnya biru,\Nartinya kamu tidak bermasalah.
+Dialogue: 0,0:20:41.68,0:20:44.68,Default,,0,0,0,,{\blur3}{\fad(00,40)}Yah, aku memang tidak bohong.
+Dialogue: 0,0:20:44.68,0:20:47.56,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau begitu, lanjutkan proses transaksinya.
+Dialogue: 0,0:20:47.56,0:20:51.77,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ah, Takeru sedang mendaftar jadi petualang.
+Dialogue: 0,0:20:51.77,0:20:55.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Hm? Jadi bukan ingin\Nmenjual cangkang kepiting ini?
+Dialogue: 0,0:20:55.77,0:20:58.44,Default,,0,0,0,,{\blur3}{\fad(00,40)}Benar, karena kepiting itu untuk dimakan!
+Dialogue: 0,0:20:58.44,0:21:02.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ini... kamu makan?
+Dialogue: 0,0:21:02.45,0:21:04.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Padahal enak, lo.
+Dialogue: 0,0:21:04.45,0:21:09.45,Default,,0,0,0,,{\blur3}{\fad(00,40)}Yah, pokoknya, kalau begitu\Nlanjutkan proses pendaftarannya.
+Dialogue: 0,0:21:09.45,0:21:11.46,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kamu punya teman?
+Dialogue: 0,0:21:11.46,0:21:13.67,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kalau partner, ada di sini.
+Dialogue: 0,0:21:14.83,0:21:15.90,Default,,0,0,0,,{\blur3}{\fad(00,40)}Naga?
+Dialogue: 0,0:21:17.34,0:21:19.72,Default,,0,0,0,,{\blur3}{\fad(00,40)}Pengumpul Material yang bawa naga, ya.
+Dialogue: 0,0:21:20.22,0:21:22.14,Default,,0,0,0,,{\blur3}{\fad(00,40)}Bukannya itu naga?
+Dialogue: 0,0:21:22.14,0:21:24.43,Default,,0,0,0,,{\blur3}{\fad(00,40)}Katanya dia Pengumpul Material yang jago.
+Dialogue: 0,0:21:24.43,0:21:27.47,Default,,0,0,0,,{\blur3}{\fad(00,40)}Anak baru yang menjanjikan?\NJadi pengin kurekrut.
+Dialogue: 0,0:21:27.47,0:21:30.48,Default,,0,0,0,,{\blur3}{\fad(00,40)}Langsung menarik perhatian\Ndalam sekejap, deh.
+Dialogue: 0,0:21:34.85,0:21:38.36,Default,,0,0,0,,{\blur3}{\fad(00,40)}Ki-Kita lanjutkan di sebelah saja!
+Dialogue: 0,0:21:40.57,0:21:43.55,Default,,0,0,0,,{\blur3}{\fad(00,40)}Takeru, buktinya sudah cukup.
+Dialogue: 0,0:21:47.62,0:21:52.33,Default,,0,0,0,,{\blur3}{\fad(00,40)}Sesuai aturan serikat, semua orang akan\Nmulai dari tingkat terbawah yaitu Rank F.
+Dialogue: 0,0:21:52.33,0:21:55.13,Default,,0,0,0,,{\blur3}{\fad(00,40)}Aku mendukungmu, Tuan Petualang!
+Dialogue: 0,0:21:55.13,0:21:56.87,Default,,0,0,0,,{\blur3}{\fad(00,40)}Terima kasih banyak.
+Dialogue: 0,0:22:01.22,0:22:02.51,Default,,0,0,0,,{\blur3}{\fad(00,40)}Kita samaan!
