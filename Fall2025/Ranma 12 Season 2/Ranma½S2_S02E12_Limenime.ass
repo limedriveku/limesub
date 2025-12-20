@@ -22,287 +22,310 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:02.92,tanda,,0000,0000,0000,,IZAKAYA FUTABA
-Dialogue: 0,0:03:21.91,0:03:23.58,tanda,,0000,0000,0000,,V3!
-Dialogue: 0,0:04:58.34,0:05:00.76,tanda,,0000,0000,0000,,TOJIMA TANZABURO WANTS TO BE A MASKED RIDER
-Dialogue: 0,0:11:22.93,0:11:27.89,tanda,,0000,0000,0000,,TOJIMA TANZABURO WANTS TO BE A MASKED RIDER
-Dialogue: 0,0:11:27.98,0:11:32.94,tanda,,0000,0000,0000,,TOJIMA TANZABURO WANTS TO BE A MASKED RIDER
-Dialogue: 0,0:15:26.59,0:15:28.55,tanda,,0000,0000,0000,,V3!
-Dialogue: 0,0:15:42.36,0:15:43.48,tanda,,0000,0000,0000,,V3!
-Dialogue: 0,0:16:22.23,0:16:27.36,tanda,,0000,0000,0000,,"32, 27, 40, 44, 24 TAHUN"
-Dialogue: 0,0:17:46.36,0:17:47.36,tanda,,0000,0000,0000,,V3!
-Dialogue: 0,0:18:13.90,0:18:15.03,tanda,,0000,0000,0000,,PARA RIDER, MAJULAH SEMUANYA
-Dialogue: 0,0:18:30.73,0:18:32.28,tanda,,0000,0000,0000,,V3!
-Dialogue: 0,0:19:29.25,0:19:31.21,tanda,,0000,0000,0000,,V3!
-Dialogue: 0,0:23:24.90,0:23:27.57,tanda,,0000,0000,0000,,EPISODE SELANJUTNYA
-Dialogue: 0,0:23:38.75,0:23:39.92,tanda,,0000,0000,0000,,AKU AKAN MATI MELAWAN SHOCKER
-Dialogue: 0,0:23:40.00,0:23:42.96,tanda,,0000,0000,0000,,RAPAT EVALUASI LATIHAN:\NDUA BIR DAN DUA TEH OOLONG
-Dialogue: 0,0:23:43.05,0:23:49.93,tanda,,0000,0000,0000,,HIDUP KALIAN YANG SEHARUSNYA DIEVALUASI\NILUSTRASI: DYNAMIC TARO
-Dialogue: 0,0:00:04.71,0:00:05.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lima orang.
-Dialogue: 0,0:00:08.38,0:00:10.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalian lagi.
-Dialogue: 0,0:00:11.43,0:00:14.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada lima tamu aneh ke bilik belakang!
-Dialogue: 0,0:00:15.22,0:00:16.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Selamat datang!
-Dialogue: 0,0:00:20.48,0:00:22.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kerja bagus minggu lalu.
-Dialogue: 0,0:00:23.48,0:00:24.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah.
-Dialogue: 0,0:00:24.73,0:00:27.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita berkumpul hari ini
-Dialogue: 0,0:00:27.61,0:00:29.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}untuk merayakan kerja keras kemarin.
-Dialogue: 0,0:00:30.19,0:00:32.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pertama, terima kasih kerja kerasnya.
-Dialogue: 0,0:00:38.20,0:00:41.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan pemenang kita,\NTackle, beri sambutan.
-Dialogue: 0,0:00:44.29,0:00:45.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu…
-Dialogue: 0,0:00:45.21,0:00:46.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi sebelum itu,
-Dialogue: 0,0:00:46.92,0:00:47.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}maaf.
-Dialogue: 0,0:00:49.13,0:00:51.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin tanya sesuatu.
-Dialogue: 0,0:00:52.22,0:00:55.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah ungkapkan perasaanku padamu.
-Dialogue: 0,0:00:56.47,0:00:58.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ungkapkan perasaan apa?
-Dialogue: 0,0:01:02.06,0:01:03.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku
-Dialogue: 0,0:01:04.44,0:01:05.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}menyukaimu!
-Dialogue: 0,0:01:07.86,0:01:08.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi
-Dialogue: 0,0:01:09.40,0:01:10.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}apa jawabanmu?
-Dialogue: 0,0:01:39.39,0:01:40.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah kujawab, tapi
-Dialogue: 0,0:01:42.27,0:01:44.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku sudah balas soal itu.
-Dialogue: 0,0:01:47.65,0:01:48.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi…
-Dialogue: 0,0:01:49.57,0:01:53.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi itu jawabanmu, ya?
-Dialogue: 0,0:01:56.07,0:01:56.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak.
-Dialogue: 0,0:01:57.16,0:01:57.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu.
-Dialogue: 0,0:01:58.66,0:01:59.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu…
-Dialogue: 0,0:02:00.33,0:02:03.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa itu tendangan "Aku juga menyukaimu"?
-Dialogue: 0,0:02:03.79,0:02:05.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atau tendangan "Iya OK"?
-Dialogue: 0,0:02:10.46,0:02:11.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu…
-Dialogue: 0,0:02:12.00,0:02:14.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ungkapkan perasaanmu sekali lagi di sini.
-Dialogue: 0,0:02:20.55,0:02:21.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku…
-Dialogue: 0,0:02:22.22,0:02:24.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku…
-Dialogue: 0,0:02:28.23,0:02:29.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Su…
-Dialogue: 0,0:02:30.31,0:02:31.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Su…
-Dialogue: 0,0:02:32.36,0:02:33.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Aku menyukaimu.\N- Maaf.
-Dialogue: 0,0:02:43.37,0:02:46.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Maaf"?
-Dialogue: 0,0:02:47.46,0:02:49.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa "maaf" ini
-Dialogue: 0,0:02:50.25,0:02:51.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}artinya sama seperti dugaanku?
-Dialogue: 0,0:02:52.38,0:02:53.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin.
-Dialogue: 0,0:02:53.71,0:02:55.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa maksudnya "maaf"?
-Dialogue: 0,0:02:56.05,0:02:58.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Maaf" ya "maaf"!
-Dialogue: 0,0:03:02.30,0:03:04.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Astaga, aku tak bisa menahan tawa!
-Dialogue: 0,0:03:04.47,0:03:06.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yukaris.
-Dialogue: 0,0:03:06.31,0:03:08.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia ditolak!
-Dialogue: 0,0:03:11.15,0:03:13.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa? Kau menangis?
-Dialogue: 0,0:03:13.15,0:03:15.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, aku kelepasan.
-Dialogue: 0,0:03:20.11,0:03:21.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Matilah kau!
-Dialogue: 0,0:03:28.12,0:03:28.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei!
-Dialogue: 0,0:03:29.04,0:03:30.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cepat pesan!
-Dialogue: 0,0:05:03.01,0:05:04.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Paket yakitori!
-Dialogue: 0,0:05:04.84,0:05:06.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hati ayam pakai garam,
-Dialogue: 0,0:05:06.18,0:05:07.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}sisanya saus.
-Dialogue: 0,0:05:07.81,0:05:08.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku takoyaki.
-Dialogue: 0,0:05:08.93,0:05:09.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayam goreng.
-Dialogue: 0,0:05:09.97,0:05:10.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kroket krim.
-Dialogue: 0,0:05:11.06,0:05:12.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jeroan dan salad Caesar.
-Dialogue: 0,0:05:13.52,0:05:14.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik!
-Dialogue: 0,0:05:18.69,0:05:19.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau berisik,
-Dialogue: 0,0:05:20.15,0:05:22.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kubunuh kalian semua!
-Dialogue: 0,0:05:27.87,0:05:30.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia masih seram.
-Dialogue: 0,0:05:30.62,0:05:32.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin dia yang terkuat?
-Dialogue: 0,0:05:32.79,0:05:34.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin.
-Dialogue: 0,0:05:36.00,0:05:38.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, kita ulang lagi.
-Dialogue: 0,0:05:39.25,0:05:40.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biar aku yang beri sambutan.
-Dialogue: 0,0:05:46.18,0:05:47.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebenarnya…
-Dialogue: 0,0:05:48.55,0:05:49.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya?
-Dialogue: 0,0:05:55.31,0:05:56.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku suka Tackle.
-Dialogue: 0,0:06:02.28,0:06:05.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cintaku padamu sangat besar.
-Dialogue: 0,0:06:06.57,0:06:08.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sangat besar.
-Dialogue: 0,0:06:09.78,0:06:11.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Izinkan aku menyukaimu.
-Dialogue: 0,0:06:12.49,0:06:14.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski bertepuk sebelah tangan.
-Dialogue: 0,0:06:19.17,0:06:20.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terserah kau.
-Dialogue: 0,0:06:30.47,0:06:31.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa itu?
-Dialogue: 0,0:06:32.47,0:06:35.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mana ada pernyataan cinta sepihak begitu?
-Dialogue: 0,0:06:35.23,0:06:38.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena cinta sepihak itu bebas, sih.
-Dialogue: 0,0:06:39.15,0:06:41.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku belum pernah bertemu
-Dialogue: 0,0:06:41.52,0:06:44.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}wanita sekuat dirimu.
-Dialogue: 0,0:06:45.28,0:06:49.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Caramu memperlihatkan celana dalam itu
-Dialogue: 0,0:06:49.28,0:06:50.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}menakjubkan.
-Dialogue: 0,0:06:54.33,0:06:55.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak perlu dibilang.
-Dialogue: 0,0:06:56.29,0:06:57.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:07:00.29,0:07:03.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pertarungan Tackle\Ndi antara heroine tokusatsu
-Dialogue: 0,0:07:03.25,0:07:05.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}memang perlihatkan celana dalam.
-Dialogue: 0,0:07:05.97,0:07:07.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makanya aku melakukannya.
-Dialogue: 0,0:07:10.84,0:07:11.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih.
-Dialogue: 0,0:07:13.93,0:07:16.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Obrolan soal celana dalam ini tak perlu.
-Dialogue: 0,0:07:17.10,0:07:18.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:07:19.52,0:07:26.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Api keadilan membara terang♫
-Dialogue: 0,0:07:26.28,0:07:33.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Bangkitlah! Bangkitlah! Cyborg Shiro♫
-Dialogue: 0,0:07:33.12,0:07:40.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Musuhnya adalah Destron♫
-Dialogue: 0,0:07:40.46,0:07:44.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Terbang, terbang, mesin utamaku♫
-Dialogue: 0,0:07:47.67,0:07:50.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Hurricane Dash♫
-Dialogue: 0,0:07:51.01,0:07:54.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Rider! Rider V3!♫
-Dialogue: 0,0:07:54.64,0:07:57.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Fight Kick!♫
-Dialogue: 0,0:07:57.93,0:08:00.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Kazami Shiro!♫
-Dialogue: 0,0:08:00.60,0:08:06.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}♫Pria abadi!♫
-Dialogue: 0,0:08:06.15,0:08:07.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nah, makan.
-Dialogue: 0,0:08:10.11,0:08:11.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Itu takoyakiku…\N- Enak?
-Dialogue: 0,0:08:11.86,0:08:12.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, panas…
-Dialogue: 0,0:08:12.78,0:08:15.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bicara apa kau di izakaya begini?
-Dialogue: 0,0:08:16.54,0:08:18.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Coba makan hati ayamnya.
-Dialogue: 0,0:08:22.00,0:08:23.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Enak!
-Dialogue: 0,0:08:23.29,0:08:24.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, 'kan?
-Dialogue: 0,0:08:24.25,0:08:25.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hati ayam memang pas dengan garam.
-Dialogue: 0,0:08:32.01,0:08:34.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Turnamennya seru, ya!
-Dialogue: 0,0:08:34.42,0:08:35.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
-Dialogue: 0,0:08:41.60,0:08:43.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nah, makan.
-Dialogue: 0,0:08:54.11,0:08:55.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merasakannya…
-Dialogue: 0,0:08:55.62,0:08:58.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Firasat ini… Mungkinkah Shocker
-Dialogue: 0,0:08:59.29,0:09:00.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}ada di sini?
-Dialogue: 0,0:09:02.46,0:09:06.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih kerja kerasnya\Ndi konser Combat Girls!
-Dialogue: 0,0:09:06.34,0:09:07.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bersulang!
-Dialogue: 0,0:09:10.13,0:09:12.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bersulang!
-Dialogue: 0,0:09:16.51,0:09:17.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Senang sekali.
-Dialogue: 0,0:09:17.97,0:09:19.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana pendapat Kakak?
-Dialogue: 0,0:09:20.06,0:09:21.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi suka, 'kan?
-Dialogue: 0,0:09:21.64,0:09:23.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak menikmatinya sekali.
-Dialogue: 0,0:09:23.81,0:09:25.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benarkah?
-Dialogue: 0,0:09:25.44,0:09:28.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya mereka konser di stadion.
-Dialogue: 0,0:09:28.44,0:09:29.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak nonton juga, 'kan?
-Dialogue: 0,0:09:29.86,0:09:31.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami belikan tiketnya.
-Dialogue: 0,0:09:31.78,0:09:33.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, 'kan, Kak?
-Dialogue: 0,0:09:34.66,0:09:36.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, boleh juga.
-Dialogue: 0,0:09:40.37,0:09:42.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perasaan apa ini?
-Dialogue: 0,0:11:38.20,0:11:41.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau Shocker, 'kan?
-Dialogue: 0,0:11:48.66,0:11:51.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau ke sini untuk membunuhku?
-Dialogue: 0,0:11:58.05,0:11:59.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei!
-Dialogue: 0,0:12:01.89,0:12:03.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu…
-Dialogue: 0,0:12:06.68,0:12:07.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial.
-Dialogue: 0,0:12:13.15,0:12:14.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ternyata memang pasukan tempur…
-Dialogue: 0,0:12:17.61,0:12:19.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa ada monster di dekat sini?
-Dialogue: 0,0:12:19.95,0:12:20.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:12:25.53,0:12:26.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Beri tahu aku!
-Dialogue: 0,0:12:28.41,0:12:29.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bicara apa kau?
-Dialogue: 0,0:12:31.29,0:12:34.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku takkan mati di tanganmu!
-Dialogue: 0,0:12:34.96,0:12:37.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bicara apa kau?
-Dialogue: 0,0:12:37.50,0:12:39.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kuhabisi kau!
-Dialogue: 0,0:12:43.18,0:12:44.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial!
-Dialogue: 0,0:13:03.82,0:13:06.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa dia?
-Dialogue: 0,0:13:07.91,0:13:09.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kuat sekali…
-Dialogue: 0,0:13:25.80,0:13:27.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei!
-Dialogue: 0,0:13:38.19,0:13:39.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah kubilang, 'kan?
-Dialogue: 0,0:13:40.78,0:13:42.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kubunuh kau jika bikin keributan.
-Dialogue: 0,0:13:47.78,0:13:49.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau lupa?
-Dialogue: 0,0:13:50.20,0:13:51.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak…
-Dialogue: 0,0:14:01.42,0:14:02.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei…
-Dialogue: 0,0:14:02.67,0:14:03.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu…
-Dialogue: 0,0:14:03.67,0:14:05.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau pakai baju apa?
-Dialogue: 0,0:14:06.01,0:14:07.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Keterlaluan!
-Dialogue: 0,0:14:07.64,0:14:08.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak.
-Dialogue: 0,0:14:09.18,0:14:11.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau juga teman kakak bodohku?
-Dialogue: 0,0:14:11.68,0:14:12.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:14:13.93,0:14:15.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau…
-Dialogue: 0,0:14:18.44,0:14:21.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kak, dia lumayan kuat.
-Dialogue: 0,0:14:23.69,0:14:25.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan remehkan…
-Dialogue: 0,0:14:26.74,0:14:27.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shocker…
-Dialogue: 0,0:14:47.97,0:14:50.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sho…
-Dialogue: 0,0:14:56.94,0:14:57.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sho…
-Dialogue: 0,0:14:58.56,0:15:00.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Shocker!
-Dialogue: 0,0:15:01.69,0:15:03.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Henshin!
-Dialogue: 0,0:15:05.95,0:15:07.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamen Rider.
-Dialogue: 0,0:15:13.99,0:15:15.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Humanoid Gelombang Elektronik Tackle!
-Dialogue: 0,0:15:20.79,0:15:22.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Riderman!
-Dialogue: 0,0:15:23.84,0:15:25.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Henshin!
-Dialogue: 0,0:15:30.30,0:15:31.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa…
-Dialogue: 0,0:15:32.14,0:15:34.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa mereka ini?
-Dialogue: 0,0:15:34.89,0:15:37.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya kau datang mengalahkan kami?
-Dialogue: 0,0:15:37.48,0:15:38.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shocker!
-Dialogue: 0,0:15:38.81,0:15:41.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak. Kau siapa?
-Dialogue: 0,0:15:43.57,0:15:46.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau dan kau, aku kenal!
-Dialogue: 0,0:15:46.36,0:15:47.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di mana monsternya?
-Dialogue: 0,0:15:48.03,0:15:51.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan tempur biasa\Ntakkan bisa mengalahkan kami!
-Dialogue: 0,0:15:52.45,0:15:54.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan tempur?
-Dialogue: 0,0:15:56.12,0:15:57.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biar kuberi pelajaran.
-Dialogue: 0,0:15:59.37,0:16:00.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar manusia
-Dialogue: 0,0:16:01.00,0:16:02.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kau akan mati karena mulu...
-Dialogue: 0,0:16:16.64,0:16:18.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalian semua…
-Dialogue: 0,0:16:18.73,0:16:20.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalian orang dewasa, 'kan?
-Dialogue: 0,0:16:22.23,0:16:27.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Masa depan apa yang kalian tuju?
-Dialogue: 0,0:16:27.82,0:16:29.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bereskan ini.
-Dialogue: 0,0:16:29.95,0:16:30.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:16:31.36,0:16:33.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan lupa bayar.
-Dialogue: 0,0:16:35.53,0:16:38.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kelakuan kayak anak SD!
-Dialogue: 0,0:16:39.00,0:16:41.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, itu penghinaan bagi anak SD.
-Dialogue: 0,0:16:41.92,0:16:43.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, apa?
-Dialogue: 0,0:16:43.33,0:16:44.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sampah?
-Dialogue: 0,0:16:45.09,0:16:46.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu juga penghinaan bagi sampah.
-Dialogue: 0,0:16:47.46,0:16:48.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bodoh.
-Dialogue: 0,0:16:48.88,0:16:51.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak ada anak SD yang jadi V3.
-Dialogue: 0,0:16:51.80,0:16:53.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atau Riderman.
-Dialogue: 0,0:16:53.76,0:16:55.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku Shocker asli.
-Dialogue: 0,0:16:56.14,0:16:58.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku berbeda dengan kalian\Nyang main Rider-rideran.
-Dialogue: 0,0:16:59.27,0:17:00.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak.
-Dialogue: 0,0:17:00.64,0:17:01.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan main-main.
-Dialogue: 0,0:17:02.69,0:17:03.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami sungguh-sungguh.
-Dialogue: 0,0:17:07.06,0:17:08.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lanjutkan!
-Dialogue: 0,0:17:08.60,0:17:10.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Majulah!
-Dialogue: 0,0:17:10.60,0:17:12.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Monsternya di mana?
-Dialogue: 0,0:17:13.60,0:17:15.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di sini tak ada monster.
-Dialogue: 0,0:17:15.99,0:17:17.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak disuruh ke sini.
-Dialogue: 0,0:17:18.36,0:17:20.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku petarung independen.
-Dialogue: 0,0:17:20.91,0:17:22.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maksudnya?
-Dialogue: 0,0:17:22.71,0:17:24.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa? Jangan-jangan…
-Dialogue: 0,0:17:24.75,0:17:26.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Otakmu tidak dicuci?
-Dialogue: 0,0:17:26.92,0:17:28.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa? Cuci otak?
-Dialogue: 0,0:17:28.42,0:17:29.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Entahlah.
-Dialogue: 0,0:17:29.42,0:17:30.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku adalah aku!
-Dialogue: 0,0:17:31.63,0:17:32.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski independen,
-Dialogue: 0,0:17:33.43,0:17:36.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku punya harga diri prajurit Shocker.
-Dialogue: 0,0:17:37.85,0:17:39.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamen Rider!
-Dialogue: 0,0:17:39.89,0:17:40.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tackle!
-Dialogue: 0,0:17:41.64,0:17:42.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Riderman!
-Dialogue: 0,0:17:44.94,0:17:46.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau siapa?
-Dialogue: 0,0:17:47.44,0:17:48.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh iya, sudah tanya.
-Dialogue: 0,0:17:50.82,0:17:56.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dikelilingi para Rider begini,\Nkehormatan besar bagi pasukan tempur.
-Dialogue: 0,0:17:57.87,0:17:58.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini mengingatkanku
-Dialogue: 0,0:18:00.54,0:18:05.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}saat jadi Shocker sendirian\Nwaktu main Rider-rideran.
-Dialogue: 0,0:18:07.13,0:18:09.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Izinkan aku ucapkan kalimat
-Dialogue: 0,0:18:09.75,0:18:12.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}impianku sebagai prajurit Shocker!
-Dialogue: 0,0:18:15.05,0:18:19.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Para Rider, majulah semuanya!
-Dialogue: 0,0:18:24.60,0:18:25.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan remehkan!
-Dialogue: 0,0:18:26.02,0:18:27.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu kalimatku!
-Dialogue: 0,0:18:27.81,0:18:28.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu!
-Dialogue: 0,0:18:28.94,0:18:30.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan ini mungkin bukan musuh!
-Dialogue: 0,0:18:32.36,0:18:34.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Mach Punch!\N- Betul.
-Dialogue: 0,0:18:40.45,0:18:42.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa sebutkan nama serangannya?
-Dialogue: 0,0:18:42.58,0:18:43.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak!
-Dialogue: 0,0:18:50.17,0:18:54.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rider…
-Dialogue: 0,0:18:54.51,0:18:55.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rider Punch, 'kan?
-Dialogue: 0,0:18:55.93,0:18:57.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Punch!
-Dialogue: 0,0:18:57.51,0:18:58.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar, 'kan?
-Dialogue: 0,0:19:02.06,0:19:02.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:19:03.52,0:19:04.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:19:05.77,0:19:08.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah menendangnya, 'kan?
-Dialogue: 0,0:19:08.60,0:19:10.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kuhindari pukulannya lalu kutendang.
-Dialogue: 0,0:19:10.73,0:19:11.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi…
-Dialogue: 0,0:19:14.36,0:19:16.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang menendang malah terpental.
-Dialogue: 0,0:19:18.61,0:19:20.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial…
-Dialogue: 0,0:19:27.62,0:19:28.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Serangan pemungkas!
-Dialogue: 0,0:19:32.84,0:19:34.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hanten…
-Dialogue: 0,0:19:43.18,0:19:45.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kick!
-Dialogue: 0,0:19:51.69,0:19:54.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia babak belur.
-Dialogue: 0,0:19:56.24,0:20:01.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak ada Rider menghajar\Npasukan tempur sekuat tenaga, 'kan?
-Dialogue: 0,0:20:02.12,0:20:04.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia yang minta.
-Dialogue: 0,0:20:08.04,0:20:08.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lo?
-Dialogue: 0,0:20:10.25,0:20:12.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau tidak salah, dia…
-Dialogue: 0,0:20:13.92,0:20:15.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, kau.
-Dialogue: 0,0:20:16.13,0:20:17.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Awas, ya.
-Dialogue: 0,0:20:17.92,0:20:20.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, aku juga kena pukul.
-Dialogue: 0,0:20:24.18,0:20:27.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku suka Shocker.
-Dialogue: 0,0:20:28.56,0:20:30.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perampok Shocker?
-Dialogue: 0,0:20:30.35,0:20:31.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang waktu itu?
-Dialogue: 0,0:20:34.15,0:20:37.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Syukurlah Kakak sudah semangat.
-Dialogue: 0,0:20:37.90,0:20:40.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya dia juga suka Combat Girls.
-Dialogue: 0,0:20:40.78,0:20:41.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Senangnya.
-Dialogue: 0,0:20:41.99,0:20:42.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Ya.
-Dialogue: 0,0:20:44.53,0:20:46.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong, Kakak lama juga, ya?
-Dialogue: 0,0:20:46.95,0:20:48.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin toiletnya penuh?
-Dialogue: 0,0:20:48.95,0:20:50.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Haruskah kita cek dia?
-Dialogue: 0,0:20:50.50,0:20:51.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin sembelit…
-Dialogue: 0,0:20:55.50,0:20:56.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Biarkan saja.
-Dialogue: 0,0:20:57.71,0:21:00.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Permisi, tambah bir!
-Dialogue: 0,0:21:00.22,0:21:01.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga.
-Dialogue: 0,0:21:02.22,0:21:03.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik!
-Dialogue: 0,0:21:34.63,0:21:35.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei.
-Dialogue: 0,0:21:37.21,0:21:39.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lama tak jumpa.
-Dialogue: 0,0:21:44.55,0:21:48.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau masih mencolok seperti biasa.
+Dialogue: 0,0:00:40.41,0:00:41.79,tanda,,0000,0000,0000,,MATA AIR BEBEK TENGGELAM
+Dialogue: 0,0:01:56.03,0:02:00.99,tanda,,0000,0000,0000,,RANMA1/2
+Dialogue: 0,0:03:23.99,0:03:29.41,tanda,,0000,0000,0000,,{\an8}BERJUANGLAH, MU SU
+Dialogue: 0,0:07:01.37,0:07:02.92,tanda,,0000,0000,0000,,KAU UBAH DIA MENJADI BEBEK
+Dialogue: 0,0:07:04.13,0:07:05.84,tanda,,0000,0000,0000,,SULIT DIPERCAYA! DASAR ANAK BODOH
+Dialogue: 0,0:07:06.96,0:07:08.88,tanda,,0000,0000,0000,,DUNGU\NANAK TERBODOH DI DUNIA
+Dialogue: 0,0:07:08.88,0:07:10.63,tanda,,0000,0000,0000,,COBA KULIHAT TAMPANG ORANG TUAMU!!!
+Dialogue: 0,0:07:12.30,0:07:13.39,tanda,,0000,0000,0000,,ITU BENAR!
+Dialogue: 0,0:09:13.76,0:09:15.09,tanda,,0000,0000,0000,,RESTORAN NEKOHAN
+Dialogue: 0,0:21:40.38,0:21:42.13,tanda,,0000,0000,0000,,{\an8}RANMA1/2
+Dialogue: 0,0:00:13.05,0:00:16.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Panik seperti itu... Jangan bilang air ini...
+Dialogue: 0,0:00:16.59,0:00:18.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tebakanmu benar.
+Dialogue: 0,0:00:18.10,0:00:22.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu air dari tempat aku tercebur!\NMata Air Bebek Tenggelam!
+Dialogue: 0,0:00:25.15,0:00:26.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma, kau...
+Dialogue: 0,0:00:28.86,0:00:30.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su.
+Dialogue: 0,0:00:30.23,0:00:33.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tak akan kubiarkan\Nmacam-macam dengan Ranma-ku!
+Dialogue: 0,0:00:34.24,0:00:35.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadilah istriku.
+Dialogue: 0,0:00:37.82,0:00:40.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah melamarmu berkali-kali...
+Dialogue: 0,0:00:41.79,0:00:46.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kuperkenalkan pacar baru\Nuntuk Mu Su yang malang itu.
+Dialogue: 0,0:00:51.84,0:00:55.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak percaya kau menghindari\Nserangan Shan Pu tercintaku!
+Dialogue: 0,0:00:55.01,0:00:56.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terimalah nasibmu!
+Dialogue: 0,0:00:58.89,0:01:01.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mana mungkin aku
+Dialogue: 0,0:01:01.47,0:01:04.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dengan senang hati menjadi bebek!
+Dialogue: 0,0:01:08.69,0:01:11.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gawat! Airnya ke mana-mana!
+Dialogue: 0,0:01:19.82,0:01:20.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aka...
+Dialogue: 0,0:01:36.01,0:01:37.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa nasib gadis itu?
+Dialogue: 0,0:01:37.68,0:01:38.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang akan terjadi?
+Dialogue: 0,0:01:38.84,0:01:42.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia pasti akan muncul sebagai bebek.
+Dialogue: 0,0:01:46.77,0:01:49.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane!
+Dialogue: 0,0:03:44.05,0:03:45.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane!
+Dialogue: 0,0:04:03.70,0:04:04.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane.
+Dialogue: 0,0:04:09.99,0:04:11.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma.{\i0}
+Dialogue: 0,0:04:12.66,0:04:14.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma!{\i0}
+Dialogue: 0,0:04:22.97,0:04:24.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ini salahku.{\i0}
+Dialogue: 0,0:04:27.22,0:04:28.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku harus mengubahnya kembali.
+Dialogue: 0,0:04:42.74,0:04:44.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma? Ranma.{\i0}
+Dialogue: 0,0:04:44.20,0:04:46.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma!{\i0}
+Dialogue: 0,0:04:46.24,0:04:47.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma.{\i0}
+Dialogue: 0,0:04:47.82,0:04:52.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma!{\i0}
+Dialogue: 0,0:04:52.08,0:04:54.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma.{\i0}
+Dialogue: 0,0:04:54.25,0:04:56.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma!{\i0}
+Dialogue: 0,0:04:56.29,0:05:06.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma.{\i0}
+Dialogue: 0,0:05:07.18,0:05:08.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma.
+Dialogue: 0,0:05:12.72,0:05:14.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane dan Ranma terlambat.
+Dialogue: 0,0:05:14.81,0:05:17.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terlepas dari semua ucapan mereka,\Npasti mereka lupa waktu.
+Dialogue: 0,0:05:18.94,0:05:20.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Lihat.\N- Mereka sudah pulang.
+Dialogue: 0,0:05:24.03,0:05:25.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah, Akane.
+Dialogue: 0,0:05:27.16,0:05:28.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tenang saja, ya?
+Dialogue: 0,0:05:28.49,0:05:30.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini adalah rahasia kita.
+Dialogue: 0,0:05:31.53,0:05:33.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimanapun,\Nmari jadikan dirimu normal lagi.
+Dialogue: 0,0:05:33.79,0:05:35.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa ini?
+Dialogue: 0,0:05:39.00,0:05:41.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kukira kau mengatakan sesuatu\Ntentang Akane.
+Dialogue: 0,0:05:42.71,0:05:44.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang kau bicarakan?
+Dialogue: 0,0:05:45.01,0:05:48.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang mau kau sembunyikan?
+Dialogue: 0,0:05:49.34,0:05:51.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya ampun. Manis sekali bebek ini.
+Dialogue: 0,0:05:51.10,0:05:52.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar.
+Dialogue: 0,0:05:57.60,0:05:58.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mustahil.
+Dialogue: 0,0:06:00.81,0:06:02.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Dia tidak kembali.{\i0}
+Dialogue: 0,0:06:04.03,0:06:06.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane!
+Dialogue: 0,0:06:06.15,0:06:07.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane?
+Dialogue: 0,0:06:07.78,0:06:09.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bebek ini?
+Dialogue: 0,0:06:11.82,0:06:14.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu, ya? Jadi, ini salahmu.
+Dialogue: 0,0:06:14.66,0:06:16.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, tapi...
+Dialogue: 0,0:06:16.50,0:06:19.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia tak bisa kembali\Nwalau dia kutaruh di bak.
+Dialogue: 0,0:06:21.25,0:06:24.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma, ini bukan hal\Nyang perlu kau cemaskan.
+Dialogue: 0,0:06:25.80,0:06:28.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami cuma ingin\Nagar kau sedikit bertanggung jawab.
+Dialogue: 0,0:06:29.84,0:06:32.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sekarang, waktunya pernikahan!
+Dialogue: 0,0:06:33.22,0:06:35.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
+Dialogue: 0,0:06:41.35,0:06:43.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane, kau terlihat cantik.
+Dialogue: 0,0:06:43.98,0:06:46.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma, mohon jaga dia.
+Dialogue: 0,0:06:46.57,0:06:47.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:06:47.65,0:06:50.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merasa itu cuma bebek biasa.
+Dialogue: 0,0:06:51.41,0:06:52.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Entahlah.
+Dialogue: 0,0:06:52.41,0:06:55.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik, mari kita toas pernikahan.
+Dialogue: 0,0:06:57.37,0:06:58.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hentikan itu!
+Dialogue: 0,0:06:59.00,0:07:01.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Jaga sikapmu, Akane!\N- Dia tak suka itu.
+Dialogue: 0,0:07:02.92,0:07:04.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu salahku.
+Dialogue: 0,0:07:05.84,0:07:06.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi...
+Dialogue: 0,0:07:10.63,0:07:12.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kaulah orang tuaku!
+Dialogue: 0,0:07:13.39,0:07:16.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sungguh pernikahan yang meriah.
+Dialogue: 0,0:07:16.72,0:07:18.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan ambil foto.
+Dialogue: 0,0:07:24.31,0:07:27.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf aku mengubahmu menjadi bebek.
+Dialogue: 0,0:07:29.24,0:07:33.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, lihat,\Naku bisa merebut boneka babimu lagi.
+Dialogue: 0,0:07:33.16,0:07:34.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, jangan sedih.
+Dialogue: 0,0:07:36.08,0:07:37.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar kau...
+Dialogue: 0,0:07:37.37,0:07:41.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik sebagai manusia maupun bebek,\Nkau benar-benar tidak manis.
+Dialogue: 0,0:07:41.71,0:07:44.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf aku tidak manis.
+Dialogue: 0,0:07:44.08,0:07:46.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya ampun, Akane. Selamat datang.
+Dialogue: 0,0:07:46.17,0:07:47.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pulang.
+Dialogue: 0,0:07:47.30,0:07:48.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada keributan apa ini?
+Dialogue: 0,0:07:51.72,0:07:53.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Kau...\N- Apa?
+Dialogue: 0,0:07:53.38,0:07:56.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kau tersiram air\Ndari Mata Air Bebek Tenggelam.
+Dialogue: 0,0:08:09.19,0:08:10.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ini salahku.{\i0}
+Dialogue: 0,0:08:13.28,0:08:14.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku harus mengubahnya kembali.
+Dialogue: 0,0:08:21.37,0:08:22.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sakit.
+Dialogue: 0,0:08:23.08,0:08:26.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane cuma tersemprot air biasa.
+Dialogue: 0,0:08:27.00,0:08:30.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Air dari Mata Air Bebek Tenggelam\Njumlahnya terbatas.
+Dialogue: 0,0:08:30.13,0:08:34.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mengubah Akane Tendo menjadi bebek\Ntak ada untungnya bagiku.
+Dialogue: 0,0:08:34.72,0:08:36.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sasaranku cuma Ranma.
+Dialogue: 0,0:08:37.47,0:08:40.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan seember air terakhir\Ndari Mata Air Bebek Tenggelam ini...
+Dialogue: 0,0:08:46.31,0:08:49.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Habislah air\Ndari Mata Air Bebek Tenggelamnya.
+Dialogue: 0,0:08:52.86,0:08:54.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya ampun, untuk sesaat tadi kukira...
+Dialogue: 0,0:08:54.78,0:08:56.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Kau kira apa?\N- Bukan apa-apa.
+Dialogue: 0,0:08:57.24,0:09:01.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa ini? Apa kalian merayakan sesuatu?
+Dialogue: 0,0:09:01.08,0:09:05.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Situasinya akan lebih seru\Njika kau pulang lebih telat sedikit lagi.
+Dialogue: 0,0:09:07.25,0:09:10.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Ranma. Bisa ikut aku sebentar?
+Dialogue: 0,0:09:10.75,0:09:12.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa? Selarut ini?
+Dialogue: 0,0:09:12.51,0:09:13.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita mau ke mana?
+Dialogue: 0,0:09:15.09,0:09:16.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Duel?
+Dialogue: 0,0:09:16.51,0:09:19.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku dan Mu Su? Kenapa sekarang?
+Dialogue: 0,0:09:19.64,0:09:22.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia menyerahkan tantangan kepadaku\Nuntuk diberikan kepadamu.
+Dialogue: 0,0:09:22.72,0:09:24.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa dia berikan kepadamu?
+Dialogue: 0,0:09:24.18,0:09:25.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebenarnya...
+Dialogue: 0,0:09:29.23,0:09:32.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan mengalahkan Ranma
+Dialogue: 0,0:09:32.11,0:09:35.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dengan atau tanpa air\Ndari Mata Air Bebek Tenggelam.
+Dialogue: 0,0:09:38.70,0:09:41.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su,\Nkau berniat memakai trik pengecut lagi?
+Dialogue: 0,0:09:44.08,0:09:45.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pengecut apanya?
+Dialogue: 0,0:09:48.46,0:09:51.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei! Untuk apa itu, Shan Pu?
+Dialogue: 0,0:09:54.67,0:09:57.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau apa?
+Dialogue: 0,0:09:59.05,0:10:00.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau menyedihkan.
+Dialogue: 0,0:10:00.97,0:10:03.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyerah saja dan kembalilah ke Tiongkok.
+Dialogue: 0,0:10:03.39,0:10:04.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
+Dialogue: 0,0:10:04.64,0:10:06.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selamat tinggal.
+Dialogue: 0,0:10:06.81,0:10:08.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu, kau...
+Dialogue: 0,0:10:08.77,0:10:11.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tahu betul perasaanku, tapi kau masih...
+Dialogue: 0,0:10:11.15,0:10:12.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah muak.
+Dialogue: 0,0:10:12.82,0:10:17.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika wanita kejam sepertimu\Ntak menginginkan aku, baguslah!
+Dialogue: 0,0:10:18.11,0:10:19.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang mendengarnya.
+Dialogue: 0,0:10:19.82,0:10:21.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selesai sampai sini saja.
+Dialogue: 0,0:10:21.24,0:10:25.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu, kumohon! Ucapanku tidak serius!
+Dialogue: 0,0:10:32.42,0:10:34.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau mau menangis semalaman?
+Dialogue: 0,0:10:34.46,0:10:36.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, Shan Pu...
+Dialogue: 0,0:10:36.51,0:10:38.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau benar-benar menyedihkan.
+Dialogue: 0,0:10:38.63,0:10:40.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menyedihkan apanya?
+Dialogue: 0,0:10:40.38,0:10:41.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang benar saja.
+Dialogue: 0,0:10:41.84,0:10:44.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena aku merasa kasihan denganmu,\Naku akan membantumu.
+Dialogue: 0,0:10:47.43,0:10:48.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bilang apa?
+Dialogue: 0,0:10:48.43,0:10:50.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berduellah dengan Ranma sekali lagi.
+Dialogue: 0,0:10:50.85,0:10:52.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kali ini kau mungkin menang.
+Dialogue: 0,0:10:52.73,0:10:55.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Hei.\N- Kurang lebih begitu. Semoga berhasil.
+Dialogue: 0,0:10:55.02,0:10:57.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau yang membujuknya untuk berduel.
+Dialogue: 0,0:10:57.28,0:10:58.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang kau pikirkan?
+Dialogue: 0,0:10:58.61,0:11:02.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah jelas bahwa Ranma akan menang.
+Dialogue: 0,0:11:02.11,0:11:04.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lalu bagaimana jika Mu Su menang?
+Dialogue: 0,0:11:04.16,0:11:05.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa membayangkannya.
+Dialogue: 0,0:11:06.58,0:11:08.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita tak akan tahu\Nsampai mereka bertarung.
+Dialogue: 0,0:11:08.87,0:11:10.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mana mungkin aku kalah darinya.
+Dialogue: 0,0:11:10.79,0:11:12.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitukah?
+Dialogue: 0,0:11:13.63,0:11:16.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Andai saja, walau peluangnya kecil,
+Dialogue: 0,0:11:16.71,0:11:19.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su bisa mengalahkan Ranma,
+Dialogue: 0,0:11:19.09,0:11:22.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}maka aku akan memacari Mu Su.
+Dialogue: 0,0:11:25.51,0:11:27.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mendengarmu dengan jelas.
+Dialogue: 0,0:11:27.47,0:11:28.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau datang dari mana?
+Dialogue: 0,0:11:30.94,0:11:34.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma, aku akan menghancurkanmu\Ndi hadapan Shan Pu!
+Dialogue: 0,0:11:34.40,0:11:35.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sampai jumpa!
+Dialogue: 0,0:11:40.44,0:11:41.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar bajingan itu.
+Dialogue: 0,0:11:41.61,0:11:43.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma, biarkan dia menang.
+Dialogue: 0,0:11:45.41,0:11:46.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk apa aku mengalah?
+Dialogue: 0,0:11:46.78,0:11:49.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan begitu, kau mungkin bisa\Nmemutus hubungan dengan Shan Pu.
+Dialogue: 0,0:11:53.50,0:11:56.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lebih baik aku memacari Shan Pu\Ndaripada sengaja kalah.
+Dialogue: 0,0:11:57.88,0:12:00.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su, dasar kau lelaki bodoh.
+Dialogue: 0,0:12:03.26,0:12:05.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau berubah pikiran?
+Dialogue: 0,0:12:06.39,0:12:07.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kucing!
+Dialogue: 0,0:12:22.36,0:12:24.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ingat, Ranma,
+Dialogue: 0,0:12:24.24,0:12:25.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}jangan terlalu kelihatan mengalah.
+Dialogue: 0,0:12:25.99,0:12:27.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah tahu.
+Dialogue: 0,0:12:29.33,0:12:32.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Aku tahu apa yang mereka rencanakan,{\i0}
+Dialogue: 0,0:12:32.91,0:12:34.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}tapi mereka tak akan dapat\Nyang mereka mau.{\i0}
+Dialogue: 0,0:12:34.96,0:12:36.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su.
+Dialogue: 0,0:12:39.92,0:12:41.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini adalah...
+Dialogue: 0,0:12:41.42,0:12:44.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pikirkan aku\Nsaat kau bertarung memakai itu.
+Dialogue: 0,0:12:44.13,0:12:45.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu...
+Dialogue: 0,0:12:45.93,0:12:48.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau memberiku senjata yang mengagumkan.
+Dialogue: 0,0:12:48.64,0:12:50.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merasa tak terkalahkan!
+Dialogue: 0,0:12:50.93,0:12:52.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa melakukannya.
+Dialogue: 0,0:12:52.89,0:12:56.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku datang! Bersiaplah, Ranma!
+Dialogue: 0,0:12:56.85,0:12:58.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ingat, jangan terlalu kentara.
+Dialogue: 0,0:12:58.31,0:13:00.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Mana bisa kulakukan hal seculas itu!{\i0}
+Dialogue: 0,0:13:01.78,0:13:05.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Akan kumanfaatkan rencana Akane\Ndemi keuntunganku.{\i0}
+Dialogue: 0,0:13:05.65,0:13:08.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma, kau akan kubuat menang\Napa pun caranya.{\i0}
+Dialogue: 0,0:13:11.58,0:13:15.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Ranma, buat kekalahan yang layak agar kau\Nbisa memutus hubungan dengan Shan Pu.{\i0}
+Dialogue: 0,0:13:38.73,0:13:40.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Luar biasa.
+Dialogue: 0,0:13:47.07,0:13:48.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Matilah, Ranma!
+Dialogue: 0,0:13:48.45,0:13:50.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau lumayan juga.
+Dialogue: 0,0:14:02.38,0:14:03.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menang.
+Dialogue: 0,0:14:04.46,0:14:06.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan begitu maksudnya!
+Dialogue: 0,0:14:06.01,0:14:07.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku masih belum kalah!
+Dialogue: 0,0:14:07.38,0:14:12.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bersumpah demi senjata pemberian\NShan Pu ini bahwa aku akan menang!
+Dialogue: 0,0:14:21.56,0:14:22.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kena kau!
+Dialogue: 0,0:14:34.33,0:14:35.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Telur?
+Dialogue: 0,0:14:47.72,0:14:48.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa dengan senjata itu?
+Dialogue: 0,0:14:53.01,0:14:55.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu,\Nkau memberi senjata rusak untuknya!
+Dialogue: 0,0:14:55.81,0:14:58.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak ada niat untuk memacari Mu Su.
+Dialogue: 0,0:14:58.89,0:15:00.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, Mu Su harus kalah.
+Dialogue: 0,0:15:00.81,0:15:02.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su!
+Dialogue: 0,0:15:05.02,0:15:07.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kali ini kau pasti kalah.
+Dialogue: 0,0:15:07.36,0:15:08.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku agak meragukannya.
+Dialogue: 0,0:15:12.36,0:15:13.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su.
+Dialogue: 0,0:15:26.55,0:15:28.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di sudah benar-benar habis.
+Dialogue: 0,0:15:28.76,0:15:30.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa kau sampai bertindak sejauh ini?
+Dialogue: 0,0:15:30.93,0:15:34.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Aduh, aku mulai merasa iba dengannya.{\i0}
+Dialogue: 0,0:15:36.68,0:15:38.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini belum selesai.
+Dialogue: 0,0:15:39.22,0:15:42.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su, kau masih...
+Dialogue: 0,0:15:42.77,0:15:44.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu...
+Dialogue: 0,0:15:45.90,0:15:47.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu...
+Dialogue: 0,0:15:48.36,0:15:49.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak akan pernah
+Dialogue: 0,0:15:50.32,0:15:52.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kubiarkan menjadi milik orang lain.
+Dialogue: 0,0:15:54.53,0:15:56.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia takkan jadi milik orang lain!
+Dialogue: 0,0:15:58.37,0:15:59.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau gigih.
+Dialogue: 0,0:16:00.12,0:16:02.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika seperti ini,\Naku tak perlu menahan diri.
+Dialogue: 0,0:16:02.33,0:16:05.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma, biarkan saja dia menang.
+Dialogue: 0,0:16:05.00,0:16:07.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau tak kasihan dengannya?
+Dialogue: 0,0:16:15.55,0:16:17.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau lebih senang\Njika aku pura-pura kalah?
+Dialogue: 0,0:16:19.89,0:16:20.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma...
+Dialogue: 0,0:16:21.93,0:16:23.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tak akan senang, 'kan?
+Dialogue: 0,0:16:24.60,0:16:25.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Dia benar.{\i0}
+Dialogue: 0,0:16:25.81,0:16:28.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Niat kami itu hanya akan melukai\Nharga diri Mu Su.{\i0}
+Dialogue: 0,0:16:30.03,0:16:31.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang, kok.
+Dialogue: 0,0:16:31.03,0:16:32.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar kau!
+Dialogue: 0,0:16:33.86,0:16:36.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika itu yang dibutuhkan\Nagar Shan Pu menjadi milikku,
+Dialogue: 0,0:16:36.66,0:16:38.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}maka aku tak butuh harga diri!
+Dialogue: 0,0:16:42.08,0:16:43.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mata Air Bebek Tenggelam!
+Dialogue: 0,0:16:45.71,0:16:47.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Ranma!\N- Begitu, ya?
+Dialogue: 0,0:16:50.17,0:16:51.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sialan.
+Dialogue: 0,0:16:51.46,0:16:53.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ternyata cuma air biasa!
+Dialogue: 0,0:16:53.34,0:16:56.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su lebih unggul\Njika Ranma menjadi perempuan.
+Dialogue: 0,0:16:56.97,0:16:58.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seperti pertarungan sebelumnya.
+Dialogue: 0,0:16:58.35,0:17:00.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\an8}Ini curang, dasar berengsek!
+Dialogue: 0,0:17:00.35,0:17:02.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\an8}Apa menang lawan perempuan\Nmembuatmu senang?
+Dialogue: 0,0:17:02.35,0:17:05.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\an8}Sudah kubilang, aku tak butuh harga diri,
+Dialogue: 0,0:17:05.64,0:17:08.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\an8}jika itu yang dibutuhkan\Nagar kau mengaku kalah.
+Dialogue: 0,0:17:08.86,0:17:12.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\an8}Aku akan melakukan apa pun.\NAku bahkan bersedia meminum air got.
+Dialogue: 0,0:17:14.95,0:17:19.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan lakukan segalanya\Ndemi Shan Pu tercinta!
+Dialogue: 0,0:17:21.20,0:17:23.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Persiapkan dirimu, Ranma!
+Dialogue: 0,0:17:30.09,0:17:31.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su.
+Dialogue: 0,0:17:36.55,0:17:38.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tak bisa kabur!
+Dialogue: 0,0:17:39.01,0:17:41.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima saja kekalahan\Nseperti yang kau katakan!
+Dialogue: 0,0:17:41.22,0:17:42.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Enak saja!
+Dialogue: 0,0:17:42.43,0:17:43.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma.
+Dialogue: 0,0:17:44.89,0:17:45.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih!
+Dialogue: 0,0:17:45.89,0:17:48.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kini dia tak bisa mengejarku.
+Dialogue: 0,0:17:51.65,0:17:53.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar kau.
+Dialogue: 0,0:17:54.86,0:17:57.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika sisa tenagamu masih sebanyak ini,
+Dialogue: 0,0:17:57.07,0:18:00.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku tak perlu\Nmembuang pertarungan ini untukmu!
+Dialogue: 0,0:18:12.54,0:18:15.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang benar saja. Dia seperti monster.
+Dialogue: 0,0:18:16.55,0:18:18.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan menguburnya\Nagar dia tak bangkit lagi.
+Dialogue: 0,0:18:19.55,0:18:20.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ranma!
+Dialogue: 0,0:18:21.64,0:18:22.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su di mana?
+Dialogue: 0,0:18:23.68,0:18:25.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pria itu akan dikenang.
+Dialogue: 0,0:18:26.18,0:18:28.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah kuduga, dia bukan tandingan Ranma.
+Dialogue: 0,0:18:29.48,0:18:31.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dalam bertarung, memang bukan.
+Dialogue: 0,0:18:31.81,0:18:34.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi dalam kegigihan,\Ndia jelas pemenangnya.
+Dialogue: 0,0:18:37.99,0:18:42.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini belum selesai.
+Dialogue: 0,0:18:43.83,0:18:47.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu.
+Dialogue: 0,0:18:54.29,0:18:55.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia pingsan.
+Dialogue: 0,0:19:12.81,0:19:14.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shan Pu.
+Dialogue: 0,0:19:17.94,0:19:19.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia sungguh lelaki bodoh.
+Dialogue: 0,0:19:24.78,0:19:27.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cinta Mu Su yang tulus\Npasti telah mencapai hatinya.
+Dialogue: 0,0:19:27.83,0:19:29.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak yakin soal itu.
+Dialogue: 0,0:19:34.79,0:19:36.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa Ayah mau teh?
+Dialogue: 0,0:19:36.34,0:19:38.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah cukup.
+Dialogue: 0,0:19:38.30,0:19:40.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Paman, aku minta kecap.\N- Ini.
+Dialogue: 0,0:19:40.59,0:19:42.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bisa telat jika tak bergegas.
+Dialogue: 0,0:19:42.13,0:19:43.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak akan.
+Dialogue: 0,0:19:43.72,0:19:46.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa ikut disetrap\Ndi selasar bersamamu.
+Dialogue: 0,0:19:46.22,0:19:49.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayolah. Kalian pasangan tunangan.\NLebih lembutlah kepada satu sama lain.
+Dialogue: 0,0:19:49.68,0:19:51.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu yang Ayah yang putuskan sendiri!
+Dialogue: 0,0:19:51.73,0:19:53.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita sudah mengadakan pernikahannya.
+Dialogue: 0,0:19:53.94,0:19:55.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mempelainya bebek!
+Dialogue: 0,0:19:55.06,0:19:57.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu lucu sekali.
+Dialogue: 0,0:19:57.23,0:19:58.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini.
+Dialogue: 0,0:19:59.94,0:20:01.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lima lembar 3.000 yen.
+Dialogue: 0,0:20:01.70,0:20:03.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya ampun. Aku mau beli.
+Dialogue: 0,0:20:03.61,0:20:05.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Terima kasih.\N- Hentikan!
+Dialogue: 0,0:20:05.24,0:20:07.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selamat pagi, Akane.
+Dialogue: 0,0:20:07.49,0:20:08.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ryoga.
+Dialogue: 0,0:20:09.45,0:20:11.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini suvenir dari Hiroshima.
+Dialogue: 0,0:20:13.54,0:20:15.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukankah ini dari Fukushima?
+Dialogue: 0,0:20:15.21,0:20:17.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Omong-omong, Ranma.\N- Kenapa?
+Dialogue: 0,0:20:17.25,0:20:19.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kudengar kau berusaha menikahi Akane
+Dialogue: 0,0:20:19.80,0:20:22.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}saat aku pergi, dasar berengsek.
+Dialogue: 0,0:20:22.88,0:20:25.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Siapa yang memberitahumu?
+Dialogue: 0,0:20:25.22,0:20:27.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Mempelainya bebek.\N- Tutup mulutmu!
+Dialogue: 0,0:20:27.72,0:20:29.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hari ini, kita tentukan sampai tuntas.
+Dialogue: 0,0:20:29.85,0:20:31.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau menantang?
+Dialogue: 0,0:20:31.23,0:20:33.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hentikan itu! Kita akan telat.
+Dialogue: 0,0:20:33.19,0:20:35.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari belok sedikit\Ndi perjalanan ke sekolah.
+Dialogue: 0,0:20:35.35,0:20:36.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana kalau telat?
+Dialogue: 0,0:20:37.56,0:20:39.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bebek bodoh.
+Dialogue: 0,0:20:40.07,0:20:41.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau?
+Dialogue: 0,0:20:42.07,0:20:44.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu Su tampak lebih bahagia dari dugaanku.
+Dialogue: 0,0:20:44.66,0:20:45.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menurutmu begitu?
+Dialogue: 0,0:20:46.53,0:20:49.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Dia ada benarnya. Bentuk bukanlah masalah.{\i0}
+Dialogue: 0,0:20:49.08,0:20:52.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Kebahagiaan adalah saat bisa bersama\Norang yang kita cintai.{\i0}
+Dialogue: 0,0:20:53.04,0:20:54.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa?
+Dialogue: 0,0:20:54.12,0:20:55.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak ada apa-apa.
+Dialogue: 0,0:20:55.54,0:20:56.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo! Kita berangkat.
+Dialogue: 0,0:21:00.67,0:21:02.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aduh.
+Dialogue: 0,0:21:02.17,0:21:04.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, sudahlah. Aku begini saja hari ini.
+Dialogue: 0,0:21:05.09,0:21:07.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, bentuk bukanlah masalah.
+Dialogue: 0,0:21:08.80,0:21:11.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pria, wanita, penampilan.\NHal-hal itu tidak penting.
+Dialogue: 0,0:21:11.77,0:21:12.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\i1}Deg.{\i0}
+Dialogue: 0,0:21:14.39,0:21:16.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua itu tak penting jika kita terlambat!
+Dialogue: 0,0:21:16.44,0:21:19.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau benar-benar tidak manis!
+Dialogue: 0,0:21:20.48,0:21:22.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akane Tendo! Gadis Berkepang!
+Dialogue: 0,0:21:23.82,0:21:26.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku cinta kalian berdua!
+Dialogue: 0,0:22:56.95,0:23:01.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}{\an8}Terjemahan subtitle oleh Rio Wibowo
