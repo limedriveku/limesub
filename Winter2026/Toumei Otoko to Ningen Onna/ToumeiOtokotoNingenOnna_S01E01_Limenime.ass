@@ -22,400 +22,419 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.98,0:00:04.48,tanda,,0000,0000,0000,,AGENSI DETEKTIF TONOME
-Dialogue: 0,0:07:41.82,0:07:44.57,tanda,,0000,0000,0000,,AGENSI DETEKTIF TONOME
-Dialogue: 0,0:10:00.52,0:10:01.78,tanda,,0000,0000,0000,,AGENSI DETEKTIF TONOME
-Dialogue: 0,0:10:46.48,0:10:49.48,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
-Dialogue: 0,0:13:12.93,0:13:14.93,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
-Dialogue: 0,0:14:04.18,0:14:07.19,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
-Dialogue: 0,0:15:50.72,0:15:51.28,tanda,,0000,0000,0000,,STRUK, DISKON 10%
-Dialogue: 0,0:16:16.74,0:16:17.20,tanda,,0000,0000,0000,,CHURUN\NTERBARU! PROMO! HARGA TERMASUK PAJAK 1600 YEN
-Dialogue: 0,0:22:08.04,0:22:11.05,tanda,,0000,0000,0000,,"EPISODE 1: DITAKDIRKAN BERSAMA"
-Dialogue: 0,0:00:13.24,0:00:15.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh. Tonome.
-Dialogue: 0,0:00:15.63,0:00:16.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh.
-Dialogue: 0,0:00:16.71,0:00:18.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Boleh aku duduk di sebelahmu?
-Dialogue: 0,0:00:18.38,0:00:20.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu, silakan.
-Dialogue: 0,0:00:22.01,0:00:25.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm? Bagaimana kau tahu ini aku?
-Dialogue: 0,0:00:25.24,0:00:25.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:00:26.06,0:00:28.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, kau tidak bisa melihat.
-Dialogue: 0,0:00:29.28,0:00:32.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa mencium aromamu.
-Dialogue: 0,0:00:32.18,0:00:33.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Endus, endus.
-Dialogue: 0,0:00:34.02,0:00:36.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan, maksudku bukan kau bau!
-Dialogue: 0,0:00:36.60,0:00:38.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa aku mengeluarkan aroma?
-Dialogue: 0,0:00:38.64,0:00:44.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan begitu! Aku tidak bisa melihat,\Njadi hidung dan telingaku lebih sensitif!
-Dialogue: 0,0:00:47.75,0:00:51.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, hidungmu pasti tajam.
-Dialogue: 0,0:00:51.02,0:00:53.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa mencium bau badanku sendiri.
-Dialogue: 0,0:00:53.40,0:00:56.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar! Kau sama sekali tidak bau!
-Dialogue: 0,0:00:58.61,0:01:02.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berkat kau, sekarang aku tahu\Nkalau aku punya aroma.
-Dialogue: 0,0:01:08.92,0:01:10.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome?
-Dialogue: 0,0:01:10.56,0:01:13.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, di mana aku sekarang?
-Dialogue: 0,0:01:28.89,0:01:31.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau di sini.
-Dialogue: 0,0:01:33.55,0:01:37.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin cuma kau di dunia ini\Nyang bisa menemukanku.
-Dialogue: 0,0:01:38.32,0:01:40.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jantungku berdebar kencang.
-Dialogue: 0,0:01:41.45,0:01:43.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berdebar...
-Dialogue: 0,0:01:48.39,0:01:50.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau makan malam?
-Dialogue: 0,0:01:50.65,0:01:51.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
-Dialogue: 0,0:01:53.69,0:01:55.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada yang kau inginkan?
-Dialogue: 0,0:01:55.40,0:01:58.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makanan Eropa, Tiongkok, atau Jepang?
-Dialogue: 0,0:01:58.87,0:02:01.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa pun boleh.
-Dialogue: 0,0:02:01.50,0:02:03.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau alergi sesuatu?
-Dialogue: 0,0:02:03.61,0:02:04.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak ada.
-Dialogue: 0,0:02:05.13,0:02:08.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada restoran tertentu yang kau inginkan?
-Dialogue: 0,0:02:08.03,0:02:12.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, aku jarang makan di luar.
-Dialogue: 0,0:02:12.56,0:02:15.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sedikit sekali tempat\Nyang pernah kukunjungi.
-Dialogue: 0,0:02:15.35,0:02:18.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita bisa pergi\Nke restoran mana pun yang kau mau!
-Dialogue: 0,0:02:20.84,0:02:23.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah. Ada restoran yang ingin kucoba.
-Dialogue: 0,0:02:23.82,0:02:27.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ya! Di sana! Ayo ke sana!
-Dialogue: 0,0:02:27.34,0:02:29.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, ayo.
-Dialogue: 0,0:02:30.69,0:02:32.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan pegang aku.
-Dialogue: 0,0:02:39.22,0:02:40.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mulai jalan, ya.
-Dialogue: 0,0:02:40.79,0:02:41.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:02:50.53,0:02:51.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:02:51.66,0:02:54.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Langkah kakinya tidak stabil...
-Dialogue: 0,0:02:54.86,0:02:56.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa dia ragu akan sesuatu?
-Dialogue: 0,0:02:56.90,0:03:01.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Mungkin dia tak tahu mau ke mana,\Ndan sedang mencoba mencarinya?
-Dialogue: 0,0:03:01.67,0:03:04.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Itu semua\Nkarena aku tidak memilih restorannya!
-Dialogue: 0,0:03:04.64,0:03:07.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, maaf sudah merepotkan!
-Dialogue: 0,0:03:07.78,0:03:08.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
-Dialogue: 0,0:03:08.53,0:03:09.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya?
-Dialogue: 0,0:03:09.68,0:03:13.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau mencium aroma\Nyang sangat enak? Ke arah mana?
-Dialogue: 0,0:03:16.95,0:03:18.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ke sini.
-Dialogue: 0,0:03:18.70,0:03:20.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, bagus.
-Dialogue: 0,0:03:20.78,0:03:25.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tadinya aku khawatir jika kita masuk,\Ndan itu tidak sesuai seleramu.
-Dialogue: 0,0:03:25.55,0:03:28.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih sudah memilih bersamaku.
-Dialogue: 0,0:03:29.95,0:03:33.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tidak, terima kasih!\NAku tak sabar mencobanya!
-Dialogue: 0,0:03:33.66,0:03:35.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, aku juga.
-Dialogue: 0,0:03:37.51,0:03:41.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini pertama kalinya aku ke sini,\Njadi aku pesan menu rekomendasi.
-Dialogue: 0,0:03:41.46,0:03:46.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, aku belum pernah mencium\Nbeberapa aroma ini.
-Dialogue: 0,0:03:46.00,0:03:47.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, ini petualangan.
-Dialogue: 0,0:03:47.46,0:03:48.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini petualangan!
-Dialogue: 0,0:03:51.29,0:03:55.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh? Apa ini sayuran? Rasanya aneh.
-Dialogue: 0,0:03:55.70,0:03:57.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin ketumbar.
-Dialogue: 0,0:03:57.37,0:03:58.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh!
-Dialogue: 0,0:04:01.35,0:04:05.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini pertama kalinya\Naku makan bersama rekan kerja.
-Dialogue: 0,0:04:05.15,0:04:06.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, benarkah?
-Dialogue: 0,0:04:06.56,0:04:09.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat senang...
-Dialogue: 0,0:04:11.76,0:04:13.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jantungku berdebar kencang.
-Dialogue: 0,0:04:13.76,0:04:16.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau makan malam?
-Dialogue: 0,0:04:17.44,0:04:21.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak memikirkannya karena fokus\Nsoal pergi ke suatu tempat pertama kali,
-Dialogue: 0,0:04:21.52,0:04:24.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi apakah ini dianggap kencan?
-Dialogue: 0,0:04:25.08,0:04:28.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, dia tidak menyebutnya kencan,\Njadi mungkin bukan?
-Dialogue: 0,0:04:28.94,0:04:29.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
-Dialogue: 0,0:04:29.59,0:04:30.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
-Dialogue: 0,0:04:30.58,0:04:32.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini juga enak.
-Dialogue: 0,0:04:32.32,0:04:34.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kutaruh di piringmu, hm...
-Dialogue: 0,0:04:35.23,0:04:36.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Arah jam 12 di piringmu.
-Dialogue: 0,0:04:36.87,0:04:38.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, terima kasih.
-Dialogue: 0,0:04:41.07,0:04:42.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada masalah?
-Dialogue: 0,0:04:42.22,0:04:47.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tidak, ini pertama kalinya\Naku makan bersama seorang pria.
-Dialogue: 0,0:04:48.18,0:04:52.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku hanya berpikir,\Nrasanya ini seperti kencan.
-Dialogue: 0,0:04:52.21,0:04:53.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itulah niatku.
-Dialogue: 0,0:04:53.41,0:04:54.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh...
-Dialogue: 0,0:04:54.37,0:04:55.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau merasa gugup?
-Dialogue: 0,0:04:55.52,0:04:58.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, itu... Sedikit...
-Dialogue: 0,0:04:59.09,0:05:02.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku berpikir, sungguh memalukan.
-Dialogue: 0,0:05:05.63,0:05:08.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, boleh pinjam tanganmu?
-Dialogue: 0,0:05:08.57,0:05:09.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:05:12.32,0:05:16.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak terlihat, jadi selalu sulit\Nbagi orang lain untuk mengetahuinya.
-Dialogue: 0,0:05:17.48,0:05:18.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:05:18.83,0:05:22.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kau mungkin bisa tahu,\Nbahkan lewat pakaianku.
-Dialogue: 0,0:05:26.85,0:05:30.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak ingin kau berpikir\Nhanya kau yang gugup malam ini.
-Dialogue: 0,0:05:31.81,0:05:34.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, jantungmu juga berdebar kencang!
-Dialogue: 0,0:05:34.20,0:05:36.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga tak ingin semua orang tahu itu.
-Dialogue: 0,0:05:38.73,0:05:40.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makan malam yang menyenangkan.
-Dialogue: 0,0:05:40.30,0:05:42.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang restoran ini pilihan yang bagus.
-Dialogue: 0,0:05:42.35,0:05:45.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, aku juga senang!
-Dialogue: 0,0:05:46.43,0:05:48.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan pegang aku.
-Dialogue: 0,0:05:48.19,0:05:49.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan antar kau ke stasiun.
-Dialogue: 0,0:05:56.18,0:05:59.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, jantungku masih berdebar kencang\Nkarena yang tadi.
-Dialogue: 0,0:06:05.30,0:06:07.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin berbahaya\Njika kau tak pegang erat-erat.
-Dialogue: 0,0:06:07.86,0:06:11.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tidak, aku bawa tongkat putihku!\NAku akan baik-baik saja!
-Dialogue: 0,0:06:11.69,0:06:13.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu.
-Dialogue: 0,0:06:13.02,0:06:13.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
-Dialogue: 0,0:06:13.72,0:06:15.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, aku tidak...
-Dialogue: 0,0:06:15.07,0:06:17.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak berusaha\Nmembuat jarak di antara kita!
-Dialogue: 0,0:06:17.94,0:06:20.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, aku... Bagaimana mengatakannya, ya?
-Dialogue: 0,0:06:21.70,0:06:24.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, apakah justru sebaliknya?
-Dialogue: 0,0:06:26.39,0:06:29.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, hapus seringai itu dari wajahmu!
-Dialogue: 0,0:06:29.26,0:06:30.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Kau tahu?
-Dialogue: 0,0:06:30.85,0:06:33.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tak bisa menyembunyikannya!
-Dialogue: 0,0:06:35.12,0:06:37.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak akan\Nmenyembunyikan apa pun darimu.
-Dialogue: 0,0:06:37.95,0:06:39.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bahkan sebenarnya, aku ingin diketahui.
-Dialogue: 0,0:06:39.85,0:06:40.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:06:43.69,0:06:46.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong, aku merasa\Ningin melompat-lompat kecil sekarang.
-Dialogue: 0,0:06:46.63,0:06:48.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau melompat bersamaku?
-Dialogue: 0,0:06:48.82,0:06:52.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak! Tolong jangan lakukan itu, Tonome!
-Dialogue: 0,0:06:52.17,0:06:53.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, sayang sekali.
-Dialogue: 0,0:06:54.91,0:06:57.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu,\Naku akan menekan emosiku untuk saat ini.
-Dialogue: 0,0:06:58.38,0:07:00.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kuharap kau izinkan aku\Nmengantarmu dengan baik.
-Dialogue: 0,0:07:02.35,0:07:03.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:07:27.35,0:07:34.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa Tonome dan aku\Nbersenang-senang bersama hari ini?!
-Dialogue: 0,0:07:36.78,0:07:38.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Air mandinya sudah siap.
-Dialogue: 0,0:07:39.59,0:07:41.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan mandi.
-Dialogue: 0,0:07:46.66,0:07:49.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome...
-Dialogue: 0,0:07:49.08,0:07:55.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merasa dia pria yang sangat baik\Nsejak dia mewawancaraiku.
-Dialogue: 0,0:07:58.15,0:07:59.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
-Dialogue: 0,0:07:59.45,0:08:01.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia berbicara\Ndengan nada dan suara yang tenang.
-Dialogue: 0,0:08:02.55,0:08:05.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu gerakannya bersih dan halus\Ndari suaranya.
-Dialogue: 0,0:08:08.59,0:08:11.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome adalah orang yang menyenangkan!
-Dialogue: 0,0:08:11.71,0:08:13.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atau begitulah menurutku!
-Dialogue: 0,0:08:13.56,0:08:18.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, berhenti! Kalian baru\Nmakan malam sekali! Pelan-pelan!
-Dialogue: 0,0:08:20.31,0:08:25.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku penasaran\Napa yang Tonome pikirkan tentang aku.
-Dialogue: 0,0:08:27.07,0:08:28.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bahkan sebenarnya, aku ingin diketahui.
-Dialogue: 0,0:08:29.20,0:08:32.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang dia maksud dengan itu?
-Dialogue: 0,0:08:32.75,0:08:33.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ya,
-Dialogue: 0,0:08:34.17,0:08:37.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome adalah manusia tak kasatmata.
-Dialogue: 0,0:08:37.88,0:08:42.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Artinya, orang tidak bisa melihatnya.
-Dialogue: 0,0:08:43.10,0:08:45.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang yang bisa melihat\Ntidak bisa melihatnya.
-Dialogue: 0,0:08:45.66,0:08:47.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku penasaran seperti apa rasanya.
-Dialogue: 0,0:08:48.19,0:08:49.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin...
-Dialogue: 0,0:08:51.23,0:08:57.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, apa kau merasa ingin dilihat?
-Dialogue: 0,0:08:57.18,0:08:58.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku, dilihat?
-Dialogue: 0,0:08:59.26,0:09:02.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm... kurasa tidak.
-Dialogue: 0,0:09:03.23,0:09:05.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku takkan menjadi diriku\Njika aku terlihat.
-Dialogue: 0,0:09:05.75,0:09:09.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, apakah kau ingin melihatku?
-Dialogue: 0,0:09:11.47,0:09:18.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa merasakan kau orang seperti apa,\Ndan menurutku itu sudah cukup.
-Dialogue: 0,0:09:19.82,0:09:21.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu pemikiran yang bagus.
-Dialogue: 0,0:09:22.58,0:09:23.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:09:24.52,0:09:28.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah, jadi Tonome\Ntidak keberatan dirinya tak terlihat.
-Dialogue: 0,0:09:47.58,0:09:49.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hampir saja, Shizuka.
-Dialogue: 0,0:09:49.54,0:09:51.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, Jarashi.
-Dialogue: 0,0:09:51.81,0:09:53.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kuharap kau tidak terluka.
-Dialogue: 0,0:09:53.15,0:09:54.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, aku baik-baik saja.
-Dialogue: 0,0:09:54.59,0:09:57.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, itu sepedaku.
-Dialogue: 0,0:09:58.16,0:09:59.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf.
-Dialogue: 0,0:10:01.78,0:10:03.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Ya.
-Dialogue: 0,0:10:03.27,0:10:06.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang hilang, pemeriksaan latar belakang,\Npengumpulan bukti,
-Dialogue: 0,0:10:06.73,0:10:09.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kami tangani semua jenis penyelidikan!
-Dialogue: 0,0:10:09.17,0:10:11.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau ingin membuat janji temu?
-Dialogue: 0,0:10:11.82,0:10:15.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, aku akan periksa jadwal\Ndan menghubungimu kembali.
-Dialogue: 0,0:10:16.91,0:10:18.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari kita lihat...
-Dialogue: 0,0:10:22.08,0:10:23.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Siapa yang memasang tembok di sini?
-Dialogue: 0,0:10:23.85,0:10:25.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Siapa yang kau sebut tembok?
-Dialogue: 0,0:10:26.80,0:10:28.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kikira.
-Dialogue: 0,0:10:28.09,0:10:30.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau menghalangiku. Mundur lima langkah.
-Dialogue: 0,0:10:34.63,0:10:36.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa pergi sekarang.
-Dialogue: 0,0:10:37.71,0:10:40.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menaruh kopi\Ndi sebelah kanan komputermu.
-Dialogue: 0,0:10:42.71,0:10:44.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih banyak.
-Dialogue: 0,0:10:53.71,0:10:55.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jarashi, Kikira.
-Dialogue: 0,0:10:55.85,0:10:56.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
-Dialogue: 0,0:10:56.61,0:11:00.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa menurut kalian aku terlihat aneh?
-Dialogue: 0,0:11:00.74,0:11:01.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak juga.
-Dialogue: 0,0:11:01.64,0:11:05.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh? Apa kau sudah menemukan\Norang yang menarik bagimu?
-Dialogue: 0,0:11:05.24,0:11:05.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
-Dialogue: 0,0:11:07.04,0:11:09.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau secantik biasanya hari ini, Shizuka.
-Dialogue: 0,0:11:09.06,0:11:11.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika ingin menceritakan kisah cintamu,\Naku siap mendengarkan.
-Dialogue: 0,0:11:11.54,0:11:12.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan begitu-
-Dialogue: 0,0:11:12.54,0:11:16.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wajahmu merah padam! Lucu sekali!
-Dialogue: 0,0:11:17.54,0:11:18.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan berisik.
-Dialogue: 0,0:11:18.94,0:11:21.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?! Kau tak pantas mengatakan itu!
-Dialogue: 0,0:11:21.72,0:11:22.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agh.
-Dialogue: 0,0:11:24.83,0:11:25.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
-Dialogue: 0,0:11:26.38,0:11:27.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome?
-Dialogue: 0,0:11:27.78,0:11:30.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Boleh aku menyentuh rambutmu sebentar?
-Dialogue: 0,0:11:30.18,0:11:30.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
-Dialogue: 0,0:11:31.26,0:11:34.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyentuh... rambutku?
-Dialogue: 0,0:11:37.11,0:11:39.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, kau keberatan?
-Dialogue: 0,0:11:39.15,0:11:40.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
-Dialogue: 0,0:11:40.53,0:11:42.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku tidak keberatan...
-Dialogue: 0,0:11:43.43,0:11:48.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa merasakan\Ntangan Tonome mendekat...
-Dialogue: 0,0:11:50.22,0:11:53.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah. Ada bunga sakura di rambutmu.
-Dialogue: 0,0:11:55.71,0:11:57.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah musim semi.
-Dialogue: 0,0:11:57.36,0:11:59.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh. Terima kasih untuk itu.
-Dialogue: 0,0:11:59.83,0:12:02.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merasa sangat malu\Nkarena terlalu tegang!
-Dialogue: 0,0:12:02.92,0:12:06.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu. Jangan bilang kalau pria itu...
-Dialogue: 0,0:12:06.92,0:12:11.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, sudah hampir waktunya\Nuntuk rapatmu! Mungkin!
-Dialogue: 0,0:12:11.13,0:12:12.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh? Benarkah?
-Dialogue: 0,0:12:12.67,0:12:14.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku akan bawakan dokumennya sebentar lagi!
-Dialogue: 0,0:12:14.90,0:12:16.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ba-Baiklah.
-Dialogue: 0,0:12:17.29,0:12:18.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agh.
-Dialogue: 0,0:12:20.22,0:12:21.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika kau tak keberatan,
-Dialogue: 0,0:12:21.43,0:12:23.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}bisakah kau memberikan lebih banyak detail?
-Dialogue: 0,0:12:23.43,0:12:28.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia penggoda sejati. Aku ingin pastikan\Ndia serius mau menikah denganku!
-Dialogue: 0,0:12:28.71,0:12:31.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah kubilang,\Naku melihat katak yang mengeong!
-Dialogue: 0,0:12:32.23,0:12:36.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku yakin dia selingkuh!\NDia bertingkah sangat mencurigakan!
-Dialogue: 0,0:12:37.61,0:12:39.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah kalau begitu...
-Dialogue: 0,0:12:39.82,0:12:41.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia bisa hidup selama 80.000 tahun.
-Dialogue: 0,0:12:41.34,0:12:42.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia lahir bersama dengan galaksi.
-Dialogue: 0,0:12:42.83,0:12:44.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Spesialisasinya adalah membentuk bintang.
-Dialogue: 0,0:12:44.41,0:12:46.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia mampu melakukan\Nperjalanan antarbintang.
-Dialogue: 0,0:12:46.13,0:12:46.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em...
-Dialogue: 0,0:12:46.89,0:12:51.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}maaf, tapi bisa berikan informasi\Nsoal penampilan putri kalian yang hilang?
-Dialogue: 0,0:12:51.49,0:12:52.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pupilnya 5 mm lebih besar.
-Dialogue: 0,0:12:52.92,0:12:54.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lengannya 1 cm lebih panjang.
-Dialogue: 0,0:12:54.50,0:12:56.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bibirnya 10 persen lebih lembap.
-Dialogue: 0,0:12:56.38,0:12:57.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Giginya kuat.
-Dialogue: 0,0:13:01.64,0:13:03.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah mencatat sebisaku...
-Dialogue: 0,0:13:03.96,0:13:07.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya ras mereka\Nmemiliki sedikit variasi sifat.
-Dialogue: 0,0:13:07.14,0:13:09.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bisakah kita menemukannya berdasarkan ini?
-Dialogue: 0,0:13:09.33,0:13:12.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukankah kita hanya perlu mencari orang\Nyang mirip dengan mereka?
-Dialogue: 0,0:13:24.27,0:13:25.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh!
-Dialogue: 0,0:13:25.82,0:13:28.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maafkan aku! Terima kasih!
-Dialogue: 0,0:13:35.99,0:13:39.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menjadi manusia tak kasatmata\Nmembuat pekerjaan ini jadi lebih mudah.
-Dialogue: 0,0:13:40.50,0:13:44.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia langsung pergi ke kantor\Nsetelah menyelesaikan panggilan penjualan.
-Dialogue: 0,0:13:44.90,0:13:47.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sekarang, aku menunggu\Ndia menyelesaikan pekerjaan...
-Dialogue: 0,0:13:47.71,0:13:48.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
-Dialogue: 0,0:13:55.80,0:13:57.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih!
-Dialogue: 0,0:13:59.83,0:14:03.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menjadi manusia tak kasatmata\Nitu tidak mudah.
-Dialogue: 0,0:14:13.79,0:14:16.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Kau terlihat sangat bahagia hari ini.
-Dialogue: 0,0:14:16.80,0:14:17.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada sesuatu dengan Tonome?
-Dialogue: 0,0:14:17.79,0:14:20.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?! Ti-Tidak, tidak!
-Dialogue: 0,0:14:20.12,0:14:21.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sedang mendengarkan novel ini.
-Dialogue: 0,0:14:21.91,0:14:24.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm? Mendengarkan... novel?
-Dialogue: 0,0:14:25.22,0:14:27.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sedang mendengarkan buku audio.
-Dialogue: 0,0:14:27.72,0:14:29.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, aku mengerti!
-Dialogue: 0,0:14:29.70,0:14:31.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau ingin mencoba mendengarkan juga?
-Dialogue: 0,0:14:31.88,0:14:32.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
-Dialogue: 0,0:14:35.83,0:14:36.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cepat sekali!
-Dialogue: 0,0:14:36.68,0:14:39.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa berhenti mendengarkan\Nnovel romansa ini.
-Dialogue: 0,0:14:39.53,0:14:44.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka makan malam saat berkencan,\Ndan sekuntum mawar mendekatkan mereka...
-Dialogue: 0,0:14:44.13,0:14:44.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kya!
-Dialogue: 0,0:14:44.95,0:14:47.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ini novel romansa?
-Dialogue: 0,0:14:48.31,0:14:52.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka, bagaimana caramu?\NAku tak bisa mendengar sepatah kata pun.
-Dialogue: 0,0:14:52.64,0:14:56.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, aku sudah mendengarkannya\Nsejak masih kecil.
-Dialogue: 0,0:14:56.85,0:15:00.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, Jarashi,\Nkau adalah manusia monster, 'kan?
-Dialogue: 0,0:15:00.63,0:15:01.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
-Dialogue: 0,0:15:01.40,0:15:05.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kudengar seharusnya kau memiliki\Ntelinga dan hidung yang sensitif.
-Dialogue: 0,0:15:05.28,0:15:09.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, biasanya aku tidak seperti itu.
-Dialogue: 0,0:15:09.29,0:15:12.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, Tonome, kau di sini?\NAku tidak menyadarinya.
-Dialogue: 0,0:15:12.45,0:15:15.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak sepenuhnya\Ntak terlihat saat ini...
-Dialogue: 0,0:15:15.33,0:15:17.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berbeda ketika aku sedang fokus.
-Dialogue: 0,0:15:17.63,0:15:20.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, hanya ketika kau sedang fokus?
-Dialogue: 0,0:15:21.10,0:15:22.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terkadang, aku mendengarnya
-Dialogue: 0,0:15:22.86,0:15:25.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}di laporan investigasi Tonome dan Kikira.
-Dialogue: 0,0:15:25.42,0:15:28.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau ada kesulitan dengan sesuatu?
-Dialogue: 0,0:15:28.29,0:15:31.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika fokus, aku akan membereskan\Napa pun yang kau butuhkan.
-Dialogue: 0,0:15:31.49,0:15:34.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh, aku tak perlu membereskan apa pun.
-Dialogue: 0,0:15:35.23,0:15:36.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh.
-Dialogue: 0,0:15:36.01,0:15:39.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi bisakah kau meminjamkan\Nmatamu sebentar?
-Dialogue: 0,0:15:39.39,0:15:40.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
-Dialogue: 0,0:15:40.26,0:15:44.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Entah kenapa, aku tak bisa tahu\Nangka di tanda terima ini.
-Dialogue: 0,0:15:44.72,0:15:46.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Coba kulihat.
-Dialogue: 0,0:15:49.77,0:15:50.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah.
-Dialogue: 0,0:15:51.31,0:15:53.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tintanya tipis.
-Dialogue: 0,0:15:53.75,0:15:54.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah...
-Dialogue: 0,0:15:54.98,0:15:59.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terkadang hal seperti itu terjadi.\NBerapa yang tertulis di sana?
-Dialogue: 0,0:15:59.13,0:16:00.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini 1.600 yen.
-Dialogue: 0,0:16:00.80,0:16:02.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih!
-Dialogue: 0,0:16:02.60,0:16:09.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong, di tanda terimanya tertulis\N"Churun ​​Manusia Monster Ukuran Besar".
-Dialogue: 0,0:16:09.59,0:16:12.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini barang belanjaanmu, 'kan, Jarashi?
-Dialogue: 0,0:16:12.49,0:16:13.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
-Dialogue: 0,0:16:13.71,0:16:16.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku kebetulan menemukannya\Nsaat mengawal klien.
-Dialogue: 0,0:16:17.23,0:16:19.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu sangat sulit ditemukan!
-Dialogue: 0,0:16:20.35,0:16:21.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Harganya juga sangat murah!
-Dialogue: 0,0:16:21.96,0:16:25.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sayangnya, itu tidak dihitung\Nsebagai pengeluaran bisnis.
-Dialogue: 0,0:16:25.58,0:16:27.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?! Tidak?!
-Dialogue: 0,0:16:27.78,0:16:31.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sungguh minta maaf.\NMereka tidak membuat Churun untuk manusia.
-Dialogue: 0,0:16:31.71,0:16:33.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan itu masalahnya...
-Dialogue: 0,0:16:33.18,0:16:35.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gawat! Aku harus pergi sekarang!
-Dialogue: 0,0:16:36.29,0:16:36.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
-Dialogue: 0,0:16:37.96,0:16:40.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ya! Aku meletakkan ponsel\Ndan penyuara telingamu
-Dialogue: 0,0:16:40.85,0:16:42.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}di sebelah kiri komputermu!
-Dialogue: 0,0:16:42.37,0:16:43.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih!
-Dialogue: 0,0:16:43.48,0:16:44.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hati-hati di jalan!
-Dialogue: 0,0:16:44.94,0:16:46.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sampai nanti!
-Dialogue: 0,0:16:53.70,0:16:55.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini sudah agak malam.
-Dialogue: 0,0:16:56.24,0:17:01.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa Tonome lama?\NSeharusnya dia sudah kembali sekarang.
-Dialogue: 0,0:17:06.50,0:17:07.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah.
-Dialogue: 0,0:17:07.49,0:17:09.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selamat datang kembali, Tonome.
-Dialogue: 0,0:17:09.38,0:17:11.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Tidak ada orang di sana.
-Dialogue: 0,0:17:11.71,0:17:12.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Apa?
-Dialogue: 0,0:17:12.97,0:17:13.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
-Dialogue: 0,0:17:13.55,0:17:15.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, apakah kau...
-Dialogue: 0,0:17:15.55,0:17:16.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}terluka?
-Dialogue: 0,0:17:16.72,0:17:17.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:17:17.18,0:17:18.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?!
-Dialogue: 0,0:17:18.18,0:17:20.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka, kau terluka?! Di mana?!
-Dialogue: 0,0:17:20.43,0:17:21.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:17:21.14,0:17:22.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa kau tidak memberitahuku?!
-Dialogue: 0,0:17:22.52,0:17:23.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku tidak...
-Dialogue: 0,0:17:23.51,0:17:25.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo, tunjukkan padaku!
-Dialogue: 0,0:17:25.07,0:17:27.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak! Aku tidak terluka!
-Dialogue: 0,0:17:33.36,0:17:38.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, Jarashi membawakan kotak P3K untukku...
-Dialogue: 0,0:17:38.82,0:17:42.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kurasa kau yang membutuhkannya,\Nbukan aku, Tonome.
-Dialogue: 0,0:17:43.77,0:17:47.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa bersembunyi darimu\Ndengan menjadi tidak terlihat, Yako.
-Dialogue: 0,0:17:49.02,0:17:50.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengalami sedikit masalah.
-Dialogue: 0,0:17:51.86,0:17:55.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku melaporkan temuanku\Ntentang penyelidikan perselingkuhan.
-Dialogue: 0,0:18:01.28,0:18:02.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau!
-Dialogue: 0,0:18:02.55,0:18:04.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau berani selingkuh dariku!
-Dialogue: 0,0:18:04.78,0:18:06.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk apa kau menyewa detektif?!
-Dialogue: 0,0:18:06.74,0:18:08.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?! Jelas kau yang salah!
-Dialogue: 0,0:18:08.67,0:18:10.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Sudah, sudah.\N- Menyelinap seperti tikus!
-Dialogue: 0,0:18:10.55,0:18:12.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tetap tenang.
-Dialogue: 0,0:18:12.01,0:18:12.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan ikut campur!
-Dialogue: 0,0:18:12.85,0:18:13.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aduh!
-Dialogue: 0,0:18:14.13,0:18:17.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mencoba menengahi\Ndan terluka saat melakukannya.
-Dialogue: 0,0:18:17.39,0:18:20.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu mengerikan! Apa kau tidak apa-apa?
-Dialogue: 0,0:18:20.66,0:18:25.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, klien sadar dan menenangkan diri.
-Dialogue: 0,0:18:26.86,0:18:29.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua orang selalu penasaran
-Dialogue: 0,0:18:29.10,0:18:32.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}bagaimana segala sesuatu\Nyang keluar dari tubuhku menjadi terlihat.
-Dialogue: 0,0:18:32.70,0:18:36.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah, manusia tak kasatmata\Njuga bisa berdarah?
-Dialogue: 0,0:18:36.74,0:18:38.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baru kali ini aku melihatnya.
-Dialogue: 0,0:18:39.31,0:18:41.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua orang sangat terkejut.
-Dialogue: 0,0:18:41.21,0:18:45.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bertanya apakah kau tidak apa-apa!\NKau terluka!
-Dialogue: 0,0:18:46.70,0:18:48.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau mengkhawatirkanku?
-Dialogue: 0,0:18:48.93,0:18:50.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja!
-Dialogue: 0,0:18:51.67,0:18:52.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu.
-Dialogue: 0,0:18:54.30,0:18:56.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sejujurnya,
-Dialogue: 0,0:18:56.10,0:18:59.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}lukaku tak terlihat,\Njadi aku tak bisa melihatnya.
-Dialogue: 0,0:18:59.37,0:19:00.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
-Dialogue: 0,0:19:00.42,0:19:03.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ragu luka ini parah.\NMungkin aku baik-baik saja.
-Dialogue: 0,0:19:03.64,0:19:05.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi darahnya lebih banyak dari dugaanku.
-Dialogue: 0,0:19:05.47,0:19:10.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu-Mungkin? Jika kau mengeluarkan\Nbanyak darah, kau bisa mati...
-Dialogue: 0,0:19:10.22,0:19:11.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perdarahannya tidak terlalu banyak.
-Dialogue: 0,0:19:11.62,0:19:15.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Apakah ada yang bisa kubantu?
-Dialogue: 0,0:19:15.55,0:19:17.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm. Kalau begitu...
-Dialogue: 0,0:19:18.82,0:19:22.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bisakah kau menahan kasanya\Nselagi aku menempelkannya?
-Dialogue: 0,0:19:22.06,0:19:22.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
-Dialogue: 0,0:19:26.25,0:19:27.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak tahu harus berkata apa.
-Dialogue: 0,0:19:27.82,0:19:30.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku takut membuatmu khawatir.
-Dialogue: 0,0:19:31.65,0:19:34.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi anehnya aku merasa bahagia.\NBahkan rasanya menggelitik.
-Dialogue: 0,0:19:34.75,0:19:35.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:19:36.13,0:19:37.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh! Maaf!
-Dialogue: 0,0:19:37.71,0:19:40.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa aku menggelitikmu?\NHaruskah aku memegangnya secara berbeda?
-Dialogue: 0,0:19:42.67,0:19:44.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebenarnya aku cukup mudah geli.
-Dialogue: 0,0:19:45.35,0:19:46.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau ingin aku menggelitikmu?
-Dialogue: 0,0:19:46.97,0:19:48.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, tolong jangan.
-Dialogue: 0,0:19:52.71,0:19:55.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh? Yang lainnya sudah pergi.
-Dialogue: 0,0:19:55.11,0:19:58.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kupikir mereka sudah selesai\Nuntuk hari ini.
-Dialogue: 0,0:19:58.50,0:20:00.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau akan pergi sekarang, Yako?
-Dialogue: 0,0:20:00.56,0:20:03.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Bagaimana denganmu, Tonome?
-Dialogue: 0,0:20:03.08,0:20:05.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, aku harus menulis laporan.
-Dialogue: 0,0:20:05.79,0:20:07.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau belum akan pulang?
-Dialogue: 0,0:20:07.53,0:20:10.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Pekerjaanku tertunda,
-Dialogue: 0,0:20:10.85,0:20:13.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan luka ini tidak terlalu parah\Nhingga bisa mengalihkan perhatianku.
-Dialogue: 0,0:20:14.09,0:20:17.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm. Berarti dia bekerja lembur lagi.
-Dialogue: 0,0:20:17.94,0:20:21.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia pasti belum istirahat\Nsama sekali hari ini.
-Dialogue: 0,0:20:22.38,0:20:25.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, aku akan tetap di sini\Ndan memesan perlengkapan kantor.
-Dialogue: 0,0:20:25.35,0:20:27.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Kau tidak perlu...
-Dialogue: 0,0:20:28.59,0:20:36.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em... setelah aku selesai memesannya,\Nkau mau istirahat denganku sejenak?
-Dialogue: 0,0:20:37.35,0:20:40.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak. Mari kita\Nistirahat sejenak sekarang.
-Dialogue: 0,0:20:40.31,0:20:43.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Bagaimana dengan pekerjaanmu?
-Dialogue: 0,0:20:43.38,0:20:45.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa mengurusnya nanti.
-Dialogue: 0,0:20:48.34,0:20:50.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sekali lagi terima kasih, Yako.
-Dialogue: 0,0:20:50.70,0:20:52.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku membuatkan teh untukmu.
-Dialogue: 0,0:20:54.07,0:20:55.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih banyak!
-Dialogue: 0,0:20:56.70,0:20:59.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah ini teh hitam baru?
-Dialogue: 0,0:20:59.01,0:21:00.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini teh herbal campuran.
-Dialogue: 0,0:21:01.25,0:21:02.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku membelinya karena penasaran.
-Dialogue: 0,0:21:02.78,0:21:05.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Harum sekali!
-Dialogue: 0,0:21:08.30,0:21:09.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini enak.
-Dialogue: 0,0:21:11.35,0:21:12.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang kau menikmatinya.
-Dialogue: 0,0:21:14.76,0:21:19.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome mengajakku makan malam sebelumnya...
-Dialogue: 0,0:21:19.76,0:21:22.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah itu akan menjadi\Nyang terakhir kalinya?
-Dialogue: 0,0:21:22.63,0:21:29.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat berharap bisa berkencan lagi\Ndengan Tonome...
-Dialogue: 0,0:21:30.13,0:21:33.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu,\Nkenapa aku tidak mengajaknya saja?
-Dialogue: 0,0:21:33.17,0:21:35.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tapi itu mungkin\Nakan membuatnya repot...
-Dialogue: 0,0:21:35.56,0:21:38.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, tidak! Ini pertanyaan\Ntentang keberanianku sendiri!
-Dialogue: 0,0:21:39.36,0:21:40.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, omong-omong...
-Dialogue: 0,0:21:40.92,0:21:43.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau ingin\Nmakan malam bersama hari ini?!
-Dialogue: 0,0:21:43.90,0:21:45.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah.
-Dialogue: 0,0:21:45.03,0:21:45.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
-Dialogue: 0,0:21:48.13,0:21:50.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! A-A-Ada apa?
-Dialogue: 0,0:21:50.78,0:21:55.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, boleh aku mengajakmu\Nuntuk jalan-jalan berikutnya?
-Dialogue: 0,0:21:56.83,0:21:57.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
-Dialogue: 0,0:21:57.88,0:22:01.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menemukan toko tempat kita bisa\Nmembuat teh campuran sendiri.
-Dialogue: 0,0:22:01.29,0:22:02.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin mengajakmu ke sana.
-Dialogue: 0,0:22:04.04,0:22:05.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku menerima ajakanmu.
-Dialogue: 0,0:22:06.76,0:22:08.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan terlalu terburu-buru.
-Dialogue: 0,0:22:08.04,0:22:11.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari tentukan tanggalnya dulu.
+Dialogue: 0,0:00:13.87,0:00:18.87,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
+Dialogue: 0,0:05:26.25,0:05:29.25,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
+Dialogue: 0,0:05:29.25,0:05:31.15,tanda,,0000,0000,0000,,AGENSI DETEKTIF TONOME
+Dialogue: 0,0:08:49.59,0:08:52.34,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
+Dialogue: 0,0:08:52.34,0:08:54.34,tanda,,0000,0000,0000,,AGENSI DETEKTIF TONOME
+Dialogue: 0,0:09:16.07,0:09:16.97,tanda,,0000,0000,0000,,KIKIRA: REKOMENDASI RESTORAN
+Dialogue: 0,0:09:16.97,0:09:19.78,tanda,,0000,0000,0000,,REKOMENDASI RESTORAN
+Dialogue: 0,0:09:46.93,0:09:49.35,tanda,,0000,0000,0000,,RUANG KONSULTASI
+Dialogue: 0,0:11:32.01,0:11:34.02,tanda,,0000,0000,0000,,AGENSI DETEKTIF TONOME
+Dialogue: 0,0:15:48.69,0:15:51.44,tanda,,0000,0000,0000,,THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE
+Dialogue: 0,0:22:08.67,0:22:10.92,tanda,,0000,0000,0000,,EPISODE 2: RENCANA KENCAN\NBERSAMBUNG
+Dialogue: 0,0:01:38.85,0:01:40.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Halo.
+Dialogue: 0,0:01:40.24,0:01:43.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selamat datang di Elf Garden!
+Dialogue: 0,0:01:43.27,0:01:44.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah...
+Dialogue: 0,0:01:46.03,0:01:48.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}- Reservasi atas nama Tonome.\N- Wanginya!
+Dialogue: 0,0:01:48.23,0:01:51.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami sudah menunggumu\Nuntuk pengalaman teh racikan asli.
+Dialogue: 0,0:01:51.46,0:01:54.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari kuantar ke meja.
+Dialogue: 0,0:01:56.97,0:02:00.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pilih daun teh dengan mempertimbangkan\Nhasil akhirnya.
+Dialogue: 0,0:02:03.30,0:02:06.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, kau suka teh apa?
+Dialogue: 0,0:02:06.42,0:02:09.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pilih teh berdasarkan efeknya.
+Dialogue: 0,0:02:09.50,0:02:13.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk konsentrasi atau relaksasi.
+Dialogue: 0,0:02:13.01,0:02:14.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana denganmu, Yako?
+Dialogue: 0,0:02:14.38,0:02:16.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Coba kupikir...
+Dialogue: 0,0:02:16.67,0:02:22.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, teh seduhanmu kemarin, aku suka itu!
+Dialogue: 0,0:02:23.56,0:02:24.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau terlalu baik...
+Dialogue: 0,0:02:24.62,0:02:28.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh! Aku yang meracik teh itu untuknya!
+Dialogue: 0,0:02:28.85,0:02:29.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:02:29.36,0:02:32.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pacarmu datang ke toko kami\Nbeberapa hari lalu.
+Dialogue: 0,0:02:32.52,0:02:35.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Katanya ingin membuat pacarnya senang.
+Dialogue: 0,0:02:35.46,0:02:37.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pacar yang luar biasa!
+Dialogue: 0,0:02:37.18,0:02:40.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, bagaimana rasanya kencan\Ndengan pria tak kasatmata?
+Dialogue: 0,0:02:40.25,0:02:43.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah lama pacaran?\NSiap menikah? Tinggal bersama?
+Dialogue: 0,0:02:43.51,0:02:46.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, kami belum sampai tahap itu...
+Dialogue: 0,0:02:46.70,0:02:50.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, "belum sampai"?
+Dialogue: 0,0:02:50.17,0:02:52.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, akan segera terjadi?
+Dialogue: 0,0:02:52.08,0:02:55.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, apa kalian akan melakukannya malam ini?
+Dialogue: 0,0:02:56.52,0:02:57.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aduh!
+Dialogue: 0,0:02:57.38,0:03:00.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maafkan aku!\NPemilik kami bodoh!
+Dialogue: 0,0:03:00.16,0:03:03.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Aku dihukum elf putih!
+Dialogue: 0,0:03:03.74,0:03:05.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Diam, Elf Gelap!
+Dialogue: 0,0:03:06.78,0:03:08.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, itu...
+Dialogue: 0,0:03:09.43,0:03:12.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf. Pasti canggung bagimu.
+Dialogue: 0,0:03:13.16,0:03:14.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Anu...
+Dialogue: 0,0:03:14.31,0:03:21.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mumpung di sini, aku akan senang\Njika kau meracik teh untukku.
+Dialogue: 0,0:03:22.91,0:03:24.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja.
+Dialogue: 0,0:03:24.07,0:03:28.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kuracik teh khusus untukmu, Tonome.
+Dialogue: 0,0:03:28.56,0:03:30.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menantikannya.
+Dialogue: 0,0:03:30.18,0:03:31.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, nantikan saja!
+Dialogue: 0,0:03:31.98,0:03:34.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagus! Itu semua berkat aku!
+Dialogue: 0,0:03:34.41,0:03:35.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan melunjak.
+Dialogue: 0,0:03:35.89,0:03:36.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh?
+Dialogue: 0,0:03:38.86,0:03:42.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Izinkan aku siapkan teh\Ndengan daun pilihan kalian.
+Dialogue: 0,0:03:43.33,0:03:46.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meracik teh sangat menyenangkan!
+Dialogue: 0,0:03:46.14,0:03:48.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, aku tak sabar meminumnya.
+Dialogue: 0,0:03:48.75,0:03:50.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Anu...
+Dialogue: 0,0:03:50.88,0:03:55.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau cari info toko ini khusus untukku?
+Dialogue: 0,0:03:55.62,0:03:58.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Teh tempo hari untuk memutuskan\Napa kita harus pergi?
+Dialogue: 0,0:03:59.61,0:04:00.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
+Dialogue: 0,0:04:00.60,0:04:05.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tidak, lupakan!\NAku bisa sangat egois! Maaf!
+Dialogue: 0,0:04:06.85,0:04:08.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya aku ketahuan.
+Dialogue: 0,0:04:08.56,0:04:10.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Ah! Maafkan aku!
+Dialogue: 0,0:04:10.98,0:04:16.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku cenderung menebak motif orang...
+Dialogue: 0,0:04:16.01,0:04:17.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mata batinmu melihat segalanya.
+Dialogue: 0,0:04:18.02,0:04:20.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa jadi asisten detektif hebat.
+Dialogue: 0,0:04:20.89,0:04:22.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ti-Tidak sama sekali.
+Dialogue: 0,0:04:22.87,0:04:26.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Banyak hal yang tidak kutahu,
+Dialogue: 0,0:04:26.14,0:04:27.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}termasuk dirimu.
+Dialogue: 0,0:04:27.99,0:04:32.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa bayangkan\Npenampilanmu tanpa menyentuhmu.
+Dialogue: 0,0:04:32.29,0:04:33.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau menyentuhku?
+Dialogue: 0,0:04:34.02,0:04:34.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:04:36.67,0:04:37.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tanganku, mungkin?
+Dialogue: 0,0:04:37.70,0:04:39.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:04:40.46,0:04:41.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan.
+Dialogue: 0,0:04:43.42,0:04:47.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, jarimu lebih kurus daripada ayahku.
+Dialogue: 0,0:04:47.54,0:04:50.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kukumu dipotong rapi.
+Dialogue: 0,0:04:50.06,0:04:54.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski tak terlihat, itu perawatan penting.
+Dialogue: 0,0:04:54.84,0:04:59.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku lega. Aku tak bisa melihatnya,\Njadi penasaran apakah hasilnya baik.
+Dialogue: 0,0:04:59.35,0:05:00.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku paham perasaan itu!
+Dialogue: 0,0:05:00.74,0:05:04.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga tak bisa lihat kukuku,\Ntapi aku tak mau terlihat tak pantas!
+Dialogue: 0,0:05:06.60,0:05:11.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar. Yako,\Nkukumu juga dipotong rapi.
+Dialogue: 0,0:05:12.24,0:05:16.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Rasanya dia bisa melihat menembusku!
+Dialogue: 0,0:05:16.62,0:05:18.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf menunggu lama.
+Dialogue: 0,0:05:18.49,0:05:21.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini teh pilihan kalian.
+Dialogue: 0,0:05:21.14,0:05:23.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Harum sekali. Mari kita cicipi.
+Dialogue: 0,0:05:23.99,0:05:25.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
+Dialogue: 0,0:05:31.18,0:05:32.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jarashi.
+Dialogue: 0,0:05:32.01,0:05:32.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
+Dialogue: 0,0:05:33.18,0:05:36.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana biasanya Tonome berpakaian?
+Dialogue: 0,0:05:36.42,0:05:37.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:05:37.68,0:05:39.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana dia berpakaian?
+Dialogue: 0,0:05:39.18,0:05:41.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biasanya dia pakai setelan jas.
+Dialogue: 0,0:05:41.66,0:05:45.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelan macam apa?\NMaksudnya, gaya apa?
+Dialogue: 0,0:05:45.30,0:05:46.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gaya?
+Dialogue: 0,0:05:46.94,0:05:50.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm... Gaya pria Inggris?
+Dialogue: 0,0:05:50.30,0:05:53.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pria Inggris? Keren sekali.
+Dialogue: 0,0:05:53.97,0:05:58.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar! Pria Inggris adalah mata-mata hebat!
+Dialogue: 0,0:05:58.15,0:05:59.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?!
+Dialogue: 0,0:05:59.24,0:06:01.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pria Inggris itu mata-mata?!
+Dialogue: 0,0:06:01.45,0:06:03.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hanya di film.
+Dialogue: 0,0:06:03.39,0:06:04.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lagi pula,
+Dialogue: 0,0:06:04.53,0:06:07.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}setelan Tonome adalah setelan bisnis.
+Dialogue: 0,0:06:07.04,0:06:08.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk apa kau cari tahu?
+Dialogue: 0,0:06:08.76,0:06:14.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eng... Aku mau beli pakaian,\Njadi butuh informasi.
+Dialogue: 0,0:06:14.51,0:06:15.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:06:15.04,0:06:18.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa perlu tahu tentang Tonome\Njika kau yang beli pakaian?
+Dialogue: 0,0:06:18.97,0:06:20.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan bilang...
+Dialogue: 0,0:06:20.59,0:06:23.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kau ingin pakai baju kembaran?
+Dialogue: 0,0:06:23.03,0:06:24.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah!
+Dialogue: 0,0:06:24.39,0:06:26.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Tidak juga...
+Dialogue: 0,0:06:26.89,0:06:30.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jelas itu yang akan dia kenakan\Nsaat kencan, Kucing Bodoh.
+Dialogue: 0,0:06:30.10,0:06:31.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau sebut aku apa?!
+Dialogue: 0,0:06:31.70,0:06:33.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aduh! Aduh! Aduh!
+Dialogue: 0,0:06:33.01,0:06:36.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, itu untuk... kencan.
+Dialogue: 0,0:06:36.23,0:06:38.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan Tonome?!
+Dialogue: 0,0:06:38.08,0:06:39.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu... Ya.
+Dialogue: 0,0:06:39.69,0:06:42.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu, Shizuka!\NKau harus pakai pakaian terbaikmu!
+Dialogue: 0,0:06:42.65,0:06:44.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pakaian terbaik itu berlebihan.
+Dialogue: 0,0:06:44.69,0:06:47.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Tolong rahasiakan ini!
+Dialogue: 0,0:06:47.62,0:06:50.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hanya ada kita berempat di agensi, 'kan?
+Dialogue: 0,0:06:50.60,0:06:57.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku selalu beli pakaian jenis yang sama\Nagar tidak salah pilih.
+Dialogue: 0,0:06:57.60,0:07:02.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi sekarang... aku ingin pakai sesuatu\Nuntuk hari istimewa.
+Dialogue: 0,0:07:02.33,0:07:06.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka! Serahkan padaku!\NAku akan menemanimu belanja!
+Dialogue: 0,0:07:06.55,0:07:07.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
+Dialogue: 0,0:07:07.20,0:07:09.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Te-Terima kasih!
+Dialogue: 0,0:07:10.09,0:07:11.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Jarashi.
+Dialogue: 0,0:07:11.14,0:07:11.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:07:12.11,0:07:16.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa jadi tidak pengertian dan egois,\Njadi fokuslah pada kebutuhan Yako.
+Dialogue: 0,0:07:16.89,0:07:18.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau juga pemarah.
+Dialogue: 0,0:07:18.02,0:07:18.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?!
+Dialogue: 0,0:07:18.98,0:07:20.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau buktikan ucapanku.
+Dialogue: 0,0:07:22.45,0:07:23.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, ya!
+Dialogue: 0,0:07:24.06,0:07:25.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagus sekali!
+Dialogue: 0,0:07:25.91,0:07:27.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Manisnya!
+Dialogue: 0,0:07:27.72,0:07:29.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Apa menurutmu begitu?
+Dialogue: 0,0:07:29.73,0:07:33.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pakaianmu biasanya feminin dan agak kasual.
+Dialogue: 0,0:07:34.34,0:07:38.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Punya pakaian elegan dan dewasa\Nakan sangat berguna.
+Dialogue: 0,0:07:38.42,0:07:39.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Coba yang ini juga!
+Dialogue: 0,0:07:39.40,0:07:41.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tu-tunggu sebentar.
+Dialogue: 0,0:07:41.42,0:07:41.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:07:41.99,0:07:45.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin memeriksa seperti apa pakaian ini.
+Dialogue: 0,0:07:46.49,0:07:47.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Analisis selesai. Kain biru muda.
+Dialogue: 0,0:07:47.90,0:07:50.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm... Biru muda...
+Dialogue: 0,0:07:50.34,0:07:51.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh...
+Dialogue: 0,0:07:51.87,0:07:54.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka, akan kujelaskan padamu.
+Dialogue: 0,0:07:54.60,0:07:57.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Terima kasih banyak.
+Dialogue: 0,0:07:58.08,0:07:59.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang ini...
+Dialogue: 0,0:08:00.19,0:08:02.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kainnya punya tampilan sangat penuh.
+Dialogue: 0,0:08:02.70,0:08:05.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seperti apa rasanya tampilan penuh?
+Dialogue: 0,0:08:05.55,0:08:09.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Polanya seperti lipatan kertas,\Njadi tampak penuh, mungkin.
+Dialogue: 0,0:08:09.98,0:08:11.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benarkah?
+Dialogue: 0,0:08:12.14,0:08:13.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu...
+Dialogue: 0,0:08:14.05,0:08:17.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf. Aku benar-benar tidak pengertian.
+Dialogue: 0,0:08:17.41,0:08:18.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:08:18.39,0:08:21.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau memikirkan ucapan Kikira?
+Dialogue: 0,0:08:21.80,0:08:23.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ti-Tidak, tapi...
+Dialogue: 0,0:08:24.06,0:08:27.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tempo hari, aku salah parkir sepeda\Ndan hampir membuatmu tersandung.
+Dialogue: 0,0:08:27.36,0:08:30.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sikapmu tak seperti biasanya, Jarashi.\NKau makan sesuatu yang aneh?
+Dialogue: 0,0:08:30.75,0:08:32.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan makan apa pun di lantai.
+Dialogue: 0,0:08:32.38,0:08:33.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?!
+Dialogue: 0,0:08:33.69,0:08:34.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah.
+Dialogue: 0,0:08:35.38,0:08:38.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh? Jadi, kau juga tahu\Ncara memancing emosi, ya?
+Dialogue: 0,0:08:39.57,0:08:40.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf.
+Dialogue: 0,0:08:40.83,0:08:42.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah! Karena sudah selesai belanja,
+Dialogue: 0,0:08:42.86,0:08:45.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku akan membawamu ke tempat langgananku!
+Dialogue: 0,0:08:45.32,0:08:46.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
+Dialogue: 0,0:08:46.58,0:08:47.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo ke sana!
+Dialogue: 0,0:08:54.99,0:08:56.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong, Kikira,
+Dialogue: 0,0:08:57.13,0:08:59.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}apakah ada restoran rekomendasi?
+Dialogue: 0,0:08:59.26,0:09:00.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak.
+Dialogue: 0,0:09:00.60,0:09:03.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayolah, coba lanjutkan pembicaraan ini.
+Dialogue: 0,0:09:03.53,0:09:05.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terlalu merepotkan.
+Dialogue: 0,0:09:05.13,0:09:08.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, begitu.\NAku berharap dapat rekomendasi.
+Dialogue: 0,0:09:09.31,0:09:11.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah, kembali bekerja.
+Dialogue: 0,0:09:20.09,0:09:21.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyeringai.
+Dialogue: 0,0:09:21.84,0:09:25.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak perlu diberi tahu\Nsoal ekspresimu! Pergi!
+Dialogue: 0,0:09:29.36,0:09:31.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan masuk.
+Dialogue: 0,0:09:33.84,0:09:35.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, hei!
+Dialogue: 0,0:09:35.67,0:09:38.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalian pelanggan tempo hari!
+Dialogue: 0,0:09:38.42,0:09:39.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalian dari toko teh.
+Dialogue: 0,0:09:39.98,0:09:41.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, benar!
+Dialogue: 0,0:09:41.05,0:09:42.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku Karma.
+Dialogue: 0,0:09:42.42,0:09:43.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Istrinya, Light.
+Dialogue: 0,0:09:43.82,0:09:46.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami pasangan elf!
+Dialogue: 0,0:09:49.35,0:09:50.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu meresahkan.
+Dialogue: 0,0:09:50.97,0:09:53.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang mencurigakan berkerudung putih...
+Dialogue: 0,0:09:53.63,0:09:57.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka parkir di seberang jalan toko.
+Dialogue: 0,0:09:57.42,0:10:00.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka tanya warga sekitar tentang kami,
+Dialogue: 0,0:10:00.15,0:10:02.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan memotret kami dari mobil.
+Dialogue: 0,0:10:02.23,0:10:04.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu mengkhawatirkan.
+Dialogue: 0,0:10:04.34,0:10:05.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:10:05.40,0:10:09.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selama 100 tahun,\Naku belum pernah punya penguntit!
+Dialogue: 0,0:10:09.05,0:10:10.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat bersemangat!
+Dialogue: 0,0:10:10.28,0:10:12.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, tapi kau gelisah, 'kan?
+Dialogue: 0,0:10:12.16,0:10:15.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya mereka juga mengikuti kami\Nke mana-mana.
+Dialogue: 0,0:10:15.56,0:10:16.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu, apa mereka mengikuti...
+Dialogue: 0,0:10:16.82,0:10:20.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan khawatir!\NKami lolos sebelum ke sini!
+Dialogue: 0,0:10:20.04,0:10:21.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka tak tahu!
+Dialogue: 0,0:10:21.38,0:10:23.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa sungguh tidak apa-apa?
+Dialogue: 0,0:10:23.45,0:10:24.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengerti.
+Dialogue: 0,0:10:24.76,0:10:27.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami akan cari tahu siapa mereka\Ndan menanganinya.
+Dialogue: 0,0:10:27.92,0:10:29.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih banyak.
+Dialogue: 0,0:10:29.29,0:10:30.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah!
+Dialogue: 0,0:10:32.58,0:10:34.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Tonome.
+Dialogue: 0,0:10:34.08,0:10:34.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya?
+Dialogue: 0,0:10:34.84,0:10:37.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Suar pelacak yang dipasang Jarashi
+Dialogue: 0,0:10:37.72,0:10:39.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}ada di perusahaan farmasi besar,
+Dialogue: 0,0:10:39.35,0:10:41.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"White Pharmaceutical" di pegunungan.
+Dialogue: 0,0:10:41.31,0:10:45.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selain itu, orang-orang di dalam mobil\Nselalu berpakaian sama,
+Dialogue: 0,0:10:45.49,0:10:47.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi bentuk tubuhnya berbeda.
+Dialogue: 0,0:10:47.10,0:10:48.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini...
+Dialogue: 0,0:10:48.43,0:10:50.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin menjadi masalah.
+Dialogue: 0,0:10:50.29,0:10:51.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf,
+Dialogue: 0,0:10:52.07,0:10:53.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}apa maksudmu?
+Dialogue: 0,0:10:54.12,0:10:56.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kemungkinan besar\Nseluruh organisasi terlibat.
+Dialogue: 0,0:10:56.85,0:11:00.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita mungkin bukan melawan penguntit biasa.
+Dialogue: 0,0:11:00.38,0:11:02.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk saat ini,\Nberi tahu Jarashi untuk waspada...
+Dialogue: 0,0:11:04.16,0:11:05.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, ada masalah!
+Dialogue: 0,0:11:05.91,0:11:08.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Beberapa mobil berhenti di depan toko
+Dialogue: 0,0:11:08.39,0:11:10.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan sekelompok pria keluar!
+Dialogue: 0,0:11:10.25,0:11:12.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku baru saja keluar lewat pintu belakang\Nbersama suami istri itu!
+Dialogue: 0,0:11:12.92,0:11:16.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Luar biasa, seperti di film!\NSeru sekali!
+Dialogue: 0,0:11:16.55,0:11:18.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau tak merasakan keadaan mendesak?!
+Dialogue: 0,0:11:18.50,0:11:20.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengerti.\NKami segera ke sana.
+Dialogue: 0,0:11:20.58,0:11:22.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jumlah mereka banyak. Aku ikut.
+Dialogue: 0,0:11:22.51,0:11:26.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan jaga kantor!\NKalian berhati-hatilah!
+Dialogue: 0,0:11:26.09,0:11:28.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, mohon bantuannya.
+Dialogue: 0,0:11:29.06,0:11:31.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semoga semua ini\Nbisa diselesaikan dengan damai...
+Dialogue: 0,0:11:37.91,0:11:39.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan masuk.
+Dialogue: 0,0:11:40.70,0:11:42.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mau berkonsultasi?
+Dialogue: 0,0:11:43.12,0:11:47.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, kami tak lagi terima\Njanji temu hari ini.
+Dialogue: 0,0:11:47.62,0:11:50.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau sendirian di sini?
+Dialogue: 0,0:11:50.04,0:11:52.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Ya, aku...
+Dialogue: 0,0:11:59.04,0:12:00.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jauhi dia.
+Dialogue: 0,0:12:01.29,0:12:03.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Tonome?
+Dialogue: 0,0:12:03.21,0:12:06.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sadar mereka mungkin\Ntargetkan agensi juga.
+Dialogue: 0,0:12:06.21,0:12:07.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, aku...
+Dialogue: 0,0:12:08.92,0:12:10.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku adalah elf!
+Dialogue: 0,0:12:10.59,0:12:13.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Elf putih, sama seperti putriku!
+Dialogue: 0,0:12:14.30,0:12:15.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:12:17.41,0:12:22.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini presdir perusahaan farmasi, ayahku.
+Dialogue: 0,0:12:22.72,0:12:24.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sungguh minta maaf atas masalah ini.
+Dialogue: 0,0:12:24.85,0:12:26.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu rupanya.
+Dialogue: 0,0:12:26.39,0:12:30.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau datang untuk melihat putrimu\Ndan suaminya yang kawin lari.
+Dialogue: 0,0:12:30.36,0:12:34.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayah, kenapa harus datang dengan\Nseluruh klan dan menyamar?
+Dialogue: 0,0:12:34.87,0:12:39.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka semua ingin melihatmu,\Ndan kami tak ingin kau tahu...
+Dialogue: 0,0:12:39.57,0:12:42.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau kunjungi agensi detektif\Nbeberapa hari lalu,
+Dialogue: 0,0:12:42.82,0:12:45.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}jadi aku pikir mungkin ada salah paham.
+Dialogue: 0,0:12:45.56,0:12:47.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, kalian masih mengikuti.
+Dialogue: 0,0:12:47.38,0:12:50.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kau pria yang kikuk, Ayah!
+Dialogue: 0,0:12:50.70,0:12:51.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
+Dialogue: 0,0:12:51.71,0:12:57.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Asal tahu saja,\Naku masih belum menerimamu, Elf Gelap.
+Dialogue: 0,0:12:57.62,0:13:02.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ayolah! Aku tak minta\Npenerimaanmu, Ayah!
+Dialogue: 0,0:13:02.70,0:13:03.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hentikan itu!
+Dialogue: 0,0:13:03.72,0:13:04.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm...
+Dialogue: 0,0:13:05.59,0:13:08.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang masalahnya sudah selesai?
+Dialogue: 0,0:13:08.77,0:13:11.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya mereka tidak beranggapan begitu.
+Dialogue: 0,0:13:14.64,0:13:17.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kerja bagus hari ini, semuanya.
+Dialogue: 0,0:13:19.91,0:13:24.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyenangkan sekali mengadakan\Npesta minum kecil bersama.
+Dialogue: 0,0:13:24.07,0:13:26.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jarang ada kesempatan seperti ini.
+Dialogue: 0,0:13:27.03,0:13:29.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku lebih suka pulang begitu sifku selesai.
+Dialogue: 0,0:13:29.86,0:13:31.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Merusak suasana.
+Dialogue: 0,0:13:31.45,0:13:33.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku yakin kau tak dapat banyak wanita.
+Dialogue: 0,0:13:33.28,0:13:36.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, aku punya pasangan.\NAku tak butuh wanita lain.
+Dialogue: 0,0:13:38.03,0:13:39.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm? Apa?
+Dialogue: 0,0:13:39.79,0:13:41.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak tahu itu!
+Dialogue: 0,0:13:41.50,0:13:42.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini kali pertama aku dengar.
+Dialogue: 0,0:13:42.90,0:13:44.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selamat?
+Dialogue: 0,0:13:44.04,0:13:45.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan memberiku selamat!
+Dialogue: 0,0:13:45.54,0:13:51.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku jadi ingat. Aku sudah lama penasaran,\Ntapi kau tidak minum, Shizuka?
+Dialogue: 0,0:13:51.22,0:13:56.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku minum, tapi takut pulang jika mabuk.
+Dialogue: 0,0:13:56.12,0:13:58.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rasanya berbahaya jika indraku tidak tajam.
+Dialogue: 0,0:13:58.35,0:14:00.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, begitu rupanya.
+Dialogue: 0,0:14:00.42,0:14:02.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu,\Nbagaimana kalau aku antar pulang?
+Dialogue: 0,0:14:02.76,0:14:03.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa minum malam ini!
+Dialogue: 0,0:14:03.91,0:14:05.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Kau yakin?
+Dialogue: 0,0:14:05.32,0:14:08.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja! Ayo, mau minum apa?
+Dialogue: 0,0:14:08.47,0:14:12.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, apakah ada minuman manis?
+Dialogue: 0,0:14:16.02,0:14:18.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu, Jarashi?!
+Dialogue: 0,0:14:19.03,0:14:22.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agh. Dia benar-benar tak ada harapan.
+Dialogue: 0,0:14:22.67,0:14:25.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm... Aku harus bagaimana?
+Dialogue: 0,0:14:25.42,0:14:26.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
+Dialogue: 0,0:14:26.35,0:14:27.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:14:27.04,0:14:30.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah panggilkan taksi.\NAku akan mengantarmu pulang.
+Dialogue: 0,0:14:30.29,0:14:31.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:14:34.54,0:14:37.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-A-A-Apa yang harus kulakukan?!
+Dialogue: 0,0:14:37.25,0:14:40.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah aku ajak dia minum teh?!
+Dialogue: 0,0:14:40.13,0:14:43.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu, apa ruanganku cukup rapi\Nuntuk biarkan orang masuk?!
+Dialogue: 0,0:14:43.84,0:14:44.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
+Dialogue: 0,0:14:44.62,0:14:45.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya?!
+Dialogue: 0,0:14:45.38,0:14:49.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada restoran yang bikin aku penasaran.\NMau pergi bersamaku kapan-kapan?
+Dialogue: 0,0:14:49.60,0:14:54.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu restoran makan gelap.\NKita makan di ruangan gelap gulita.
+Dialogue: 0,0:14:54.54,0:14:57.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}O-Oh! Aku pernah dengar.
+Dialogue: 0,0:14:57.57,0:15:01.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kupikir mungkin itu akan membuatku\Nbisa rasakan duniamu, entah bagaimana.
+Dialogue: 0,0:15:01.85,0:15:03.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau?
+Dialogue: 0,0:15:03.00,0:15:05.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Merasakan duniaku?
+Dialogue: 0,0:15:05.66,0:15:08.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Izinkan aku mengawalmu, Tonome.
+Dialogue: 0,0:15:09.72,0:15:11.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan mengandalkanmu.
+Dialogue: 0,0:15:14.28,0:15:17.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih sudah antarkan aku pulang.
+Dialogue: 0,0:15:17.36,0:15:19.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan sungkan.\NKalau begitu, sampai besok.
+Dialogue: 0,0:15:20.63,0:15:22.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Anu...
+Dialogue: 0,0:15:22.63,0:15:23.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
+Dialogue: 0,0:15:23.58,0:15:24.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ma...
+Dialogue: 0,0:15:24.59,0:15:27.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maukah kau masuk minum teh?
+Dialogue: 0,0:15:28.28,0:15:29.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah...
+Dialogue: 0,0:15:29.93,0:15:31.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Argo taksinya masih jalan.
+Dialogue: 0,0:15:31.87,0:15:34.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah. Benar juga...
+Dialogue: 0,0:15:34.09,0:15:37.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi jika kau mau, lain kali aku akan\Nmenerima tawaranmu dengan senang hati.
+Dialogue: 0,0:15:38.46,0:15:39.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selamat malam.
+Dialogue: 0,0:15:39.68,0:15:42.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Se-Selamat... malam...
+Dialogue: 0,0:15:43.85,0:15:48.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku perlu minta seseorang\Nperiksa ruanganku...
+Dialogue: 0,0:15:54.86,0:15:55.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako.
+Dialogue: 0,0:15:56.15,0:15:57.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:15:57.86,0:16:00.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pakaianmu indah malam ini.
+Dialogue: 0,0:16:00.02,0:16:02.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Apa menurutmu begitu?
+Dialogue: 0,0:16:02.38,0:16:04.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengandalkanmu\Nuntuk mengawalku malam ini.
+Dialogue: 0,0:16:04.82,0:16:06.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku akan lakukan yang terbaik!
+Dialogue: 0,0:16:10.96,0:16:15.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, bagaimana? Sangat gelap\Nsampai kau tak bisa melihat apa pun?
+Dialogue: 0,0:16:15.90,0:16:19.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tidak, ada lilin kecil di atas meja.
+Dialogue: 0,0:16:20.69,0:16:22.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sekarang, Tuan dan Nyonya,
+Dialogue: 0,0:16:22.50,0:16:28.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kami akan mematikan semua lampu\Ndan memberi kalian kegelapan sejati.
+Dialogue: 0,0:16:32.37,0:16:35.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa sekarang gelap gulita?
+Dialogue: 0,0:16:35.33,0:16:37.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, sudah gelap gulita.
+Dialogue: 0,0:16:38.41,0:16:41.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome, selamat datang di duniaku.
+Dialogue: 0,0:16:44.43,0:16:45.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau baik-baik saja?
+Dialogue: 0,0:16:46.58,0:16:47.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:16:47.79,0:16:53.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa mulai dengan rasakan apa\Ndan di mana benda di sekitarmu.
+Dialogue: 0,0:16:53.75,0:16:54.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah.
+Dialogue: 0,0:16:55.40,0:16:58.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya Tonome sangat gugup.
+Dialogue: 0,0:17:02.21,0:17:03.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini enak!
+Dialogue: 0,0:17:04.38,0:17:07.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kau sudah coba terrine ini?
+Dialogue: 0,0:17:09.19,0:17:10.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome?
+Dialogue: 0,0:17:10.85,0:17:13.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Permisi, aku ke toilet dulu.
+Dialogue: 0,0:17:13.97,0:17:15.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, baiklah.
+Dialogue: 0,0:17:25.43,0:17:26.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa?
+Dialogue: 0,0:17:35.79,0:17:36.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako?
+Dialogue: 0,0:17:36.93,0:17:39.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, Tonome.
+Dialogue: 0,0:17:39.63,0:17:42.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana kalau kita sudahi malam ini?
+Dialogue: 0,0:17:42.82,0:17:45.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah... Begitu?
+Dialogue: 0,0:17:45.74,0:17:46.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:17:50.26,0:17:52.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sungguh minta maaf.\NAku yang mengajakmu...
+Dialogue: 0,0:17:52.70,0:17:54.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan khawatir!
+Dialogue: 0,0:17:54.50,0:17:58.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah merusak makan malam kita,\Ntapi aku akan menebusnya nanti.
+Dialogue: 0,0:17:58.99,0:18:00.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan khawatir tentang itu juga!
+Dialogue: 0,0:18:00.67,0:18:04.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku minta staf bungkus sisanya untuk kita!
+Dialogue: 0,0:18:04.97,0:18:06.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah, bagus!
+Dialogue: 0,0:18:09.68,0:18:11.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak sabar ingin memakannya di rumah.
+Dialogue: 0,0:18:11.90,0:18:13.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, aku juga.
+Dialogue: 0,0:18:13.87,0:18:16.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau memakannya di rumahku?
+Dialogue: 0,0:18:16.91,0:18:19.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh? Boleh?
+Dialogue: 0,0:18:19.69,0:18:20.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh!
+Dialogue: 0,0:18:24.34,0:18:25.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makan malam siap.
+Dialogue: 0,0:18:25.75,0:18:26.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh!
+Dialogue: 0,0:18:26.82,0:18:28.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku letakkan semuanya di satu piring.
+Dialogue: 0,0:18:28.81,0:18:30.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh!
+Dialogue: 0,0:18:30.32,0:18:32.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yakin mau sampanye?
+Dialogue: 0,0:18:32.06,0:18:33.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh!
+Dialogue: 0,0:18:34.14,0:18:35.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gawat...
+Dialogue: 0,0:18:35.49,0:18:39.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat gugup, sampai cuma bisa\Nberkata "Oh!"
+Dialogue: 0,0:18:39.76,0:18:42.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako, aku minta maaf soal malam ini.
+Dialogue: 0,0:18:42.38,0:18:45.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, tidak, tolong jangan dipikirkan.
+Dialogue: 0,0:18:45.63,0:18:49.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya aku takut gelap.
+Dialogue: 0,0:18:49.70,0:18:51.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Takut gelap?
+Dialogue: 0,0:18:51.10,0:18:53.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kurasa aku juga tahu penyebabnya.
+Dialogue: 0,0:18:54.63,0:18:58.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tahu karyawisata semalam di SD?
+Dialogue: 0,0:18:58.43,0:19:01.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebagai bagian perjalanan, ada uji nyali.
+Dialogue: 0,0:19:02.21,0:19:05.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami harus bawa lilin\Ndan jalan di jalur pegunungan.
+Dialogue: 0,0:19:06.77,0:19:09.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Itu Kacchan!
+Dialogue: 0,0:19:09.66,0:19:11.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kacchan!
+Dialogue: 0,0:19:11.08,0:19:11.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
+Dialogue: 0,0:19:11.94,0:19:13.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tunggu!
+Dialogue: 0,0:19:28.71,0:19:30.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Se-Seseorang...
+Dialogue: 0,0:19:35.76,0:19:38.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku putuskan terlalu berbahaya\Nuntuk melanjutkan,
+Dialogue: 0,0:19:38.92,0:19:42.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}jadi aku menunggu bantuan di sana.
+Dialogue: 0,0:19:44.48,0:19:47.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi tak ada yang datang.
+Dialogue: 0,0:19:47.58,0:19:52.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku berhenti menunggu\Ndan berhasil jalan kembali ke penginapan.
+Dialogue: 0,0:19:55.69,0:19:58.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak ada yang sadar aku tak ada di sana.
+Dialogue: 0,0:20:00.90,0:20:04.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak terlihat, jadi sama saja\Naku ada atau tidak.
+Dialogue: 0,0:20:09.29,0:20:11.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kurasa trauma ini lebih besar\Ndari yang kukira.
+Dialogue: 0,0:20:13.41,0:20:16.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mengalami kegelapan total di kota itu\Nsangat jarang.
+Dialogue: 0,0:20:17.42,0:20:21.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak sadar begitu takut gelap.\NAku kaget sendiri hari ini.
+Dialogue: 0,0:20:22.21,0:20:24.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku harus lebih berhati-hati\Nmulai sekarang.
+Dialogue: 0,0:20:24.74,0:20:26.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome,
+Dialogue: 0,0:20:26.70,0:20:29.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku akan menyadarinya.
+Dialogue: 0,0:20:30.19,0:20:31.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yako...
+Dialogue: 0,0:20:32.09,0:20:35.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Suaramu bersih dan stabil.
+Dialogue: 0,0:20:35.17,0:20:38.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sangat mudah untuk tahu\Nsaat kau merasa tak tenang.
+Dialogue: 0,0:20:39.35,0:20:42.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, saat ini, kau berusaha\Nbersikap ceria dan tenang,
+Dialogue: 0,0:20:43.03,0:20:46.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi suara gelasmu\Ndan kecepatan minummu tak stabil.
+Dialogue: 0,0:20:46.84,0:20:51.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu kau sangat ketakutan dan sedih.
+Dialogue: 0,0:20:51.87,0:20:55.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan merasa sangat kesepian\Njika kau tak ada, Tonome.
+Dialogue: 0,0:20:55.88,0:20:58.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pasti akan pergi mencarimu.
+Dialogue: 0,0:21:08.44,0:21:11.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau mau mulai berpacaran?
+Dialogue: 0,0:21:11.70,0:21:12.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?!
+Dialogue: 0,0:21:12.58,0:21:14.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh!
+Dialogue: 0,0:21:14.02,0:21:16.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh? Reaksimu begitu saja?
+Dialogue: 0,0:21:16.08,0:21:19.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ti-Tidak, bukannya aku menentangnya!
+Dialogue: 0,0:21:19.35,0:21:20.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya...
+Dialogue: 0,0:21:20.88,0:21:24.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merasa akan sangat bahagia\Njika kau ada di sisiku.
+Dialogue: 0,0:21:25.30,0:21:27.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau merasakan hal yang sama, Yako?
+Dialogue: 0,0:21:27.10,0:21:29.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Uh... Ah... Tapi...
+Dialogue: 0,0:21:29.88,0:21:33.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika kita mulai berkencan sekarang,\Napa yang terjadi setelah ini?
+Dialogue: 0,0:21:35.22,0:21:36.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak!
+Dialogue: 0,0:21:36.06,0:21:37.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak! Tidak!
+Dialogue: 0,0:21:37.31,0:21:41.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku berencana mengantarmu,\Nlalu langsung pulang hari ini!
+Dialogue: 0,0:21:41.03,0:21:42.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Hari ini"?
+Dialogue: 0,0:21:42.42,0:21:45.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, Yako, tapi ini meresahkan...
+Dialogue: 0,0:21:45.99,0:21:47.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah.
+Dialogue: 0,0:21:48.39,0:21:51.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, kau ingin\Nsesuatu terjadi malam ini?
+Dialogue: 0,0:21:51.30,0:21:52.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh!
+Dialogue: 0,0:21:52.32,0:21:55.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa itu?\NKedengarannya seperti efek suara.
+Dialogue: 0,0:21:55.43,0:21:58.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu suara hatiku yang sama sekali tak siap!
+Dialogue: 0,0:21:58.84,0:22:01.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, ya, aku sudah tahu itu.
+Dialogue: 0,0:22:03.87,0:22:04.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:22:05.44,0:22:06.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mencintaimu.
+Dialogue: 0,0:22:06.14,0:22:06.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kyaa!
+Dialogue: 0,0:22:06.92,0:22:08.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Kyaa"?
