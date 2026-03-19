@@ -22,376 +22,345 @@ Style: tanda,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:48.52,0:04:51.01,tanda,,0000,0000,0000,,"10 TAHUN LALU"
-Dialogue: 0,0:10:13.49,0:10:15.45,tanda,,0000,0000,0000,,"PERUSAHAAN BRONSON"
-Dialogue: 0,0:12:29.19,0:12:30.94,tanda,,0000,0000,0000,,SUARA SIAPA YANG INGIN KAU DENGAR?
-Dialogue: 0,0:12:35.69,0:12:36.40,tanda,,0000,0000,0000,,14 TAHUN LALU
-Dialogue: 0,0:00:01.23,0:00:03.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Scarlett menghilang.
-Dialogue: 0,0:00:04.22,0:00:07.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah dua hari berlalu\Nsejak aku bertemu Tuan.
-Dialogue: 0,0:00:08.84,0:00:13.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pikir dia menghilang\Nkarena menggunakan kekuatannya...
-Dialogue: 0,0:00:14.30,0:00:15.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi aku yakin bukan itu penyebabnya.
-Dialogue: 0,0:00:17.15,0:00:22.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah dia, seperti kata mereka,\Nkehilangan kesabaran denganku?
-Dialogue: 0,0:00:23.31,0:00:25.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Constance Grail. Ada yang mengunjungimu.
-Dialogue: 0,0:00:28.09,0:00:30.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar putri\Nyang tidak tahu berterima kasih.
-Dialogue: 0,0:00:31.80,0:00:33.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bayangkan bagaimana perasaanku.
-Dialogue: 0,0:00:34.21,0:00:38.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tiba-tiba mendengar\Nbahwa putriku ditangkap,
-Dialogue: 0,0:00:38.09,0:00:42.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan bergegas kembali ke ibu kota\Nhanya mendapati kau akan dieksekusi.
-Dialogue: 0,0:00:42.70,0:00:44.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ma-Maafkan aku.
-Dialogue: 0,0:00:46.55,0:00:48.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa ini?
-Dialogue: 0,0:00:50.18,0:00:51.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayah.
-Dialogue: 0,0:00:53.75,0:00:56.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tolong putus hubungan keluarga denganku.
-Dialogue: 0,0:00:59.13,0:01:02.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika tindakanku\Nmenimbulkan masalah bagi keluarga...
-Dialogue: 0,0:01:02.70,0:01:05.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak tahu banyak\Ntentang istana kerajaan.
-Dialogue: 0,0:01:06.24,0:01:10.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga tidak tahu\Napa yang terjadi dengan kerajaan ini.
-Dialogue: 0,0:01:10.69,0:01:16.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kupikir setidaknya aku bisa berjuang\Nuntuk menyelamatkan putriku.
-Dialogue: 0,0:01:16.88,0:01:19.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan terlalu gegabah!
-Dialogue: 0,0:01:19.38,0:01:21.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengarkan aku, Constance.
-Dialogue: 0,0:01:21.54,0:01:24.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Manusia terdorong untuk bertindak\Noleh manusia lain.
-Dialogue: 0,0:01:24.99,0:01:26.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak peduli zamannya.
-Dialogue: 0,0:01:28.12,0:01:31.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita memiliki cara kita sendiri\Ndalam melakukan sesuatu.
-Dialogue: 0,0:01:32.57,0:01:35.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Kau harus bertindak dengan tulus."
-Dialogue: 0,0:01:38.66,0:01:41.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang\Nmelihatmu tampak baik-baik saja.
-Dialogue: 0,0:01:47.99,0:01:49.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan.
-Dialogue: 0,0:01:49.34,0:01:50.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih!
-Dialogue: 0,0:01:55.52,0:01:58.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang kau inginkan dariku, Shoshana?
-Dialogue: 0,0:01:59.02,0:02:01.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bebaskan penjaga itu.
-Dialogue: 0,0:02:01.07,0:02:01.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa?
-Dialogue: 0,0:02:02.71,0:02:04.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena dia kejam.
-Dialogue: 0,0:02:07.55,0:02:11.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak tahu apa yang akan dia lakukan\Njika mereka bertindak memberontak.
-Dialogue: 0,0:02:14.42,0:02:16.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa boleh buat.
-Dialogue: 0,0:02:31.86,0:02:33.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kiriki kirikuku.
-Dialogue: 0,0:02:33.52,0:02:35.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berkuasa, dan bersantailah.
-Dialogue: 0,0:02:36.14,0:02:37.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan pergi.
-Dialogue: 0,0:02:42.30,0:02:45.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau menginginkan sesuatu dari kami?
-Dialogue: 0,0:02:45.73,0:02:49.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku di sini untuk memperingatkan\Nwanita muda pemberani.
-Dialogue: 0,0:02:50.04,0:02:53.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan bertindak di luar batas\Nkecuali kau ingin mati.
-Dialogue: 0,0:02:54.23,0:02:56.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau baik sekali.
-Dialogue: 0,0:02:56.11,0:02:57.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik?
-Dialogue: 0,0:02:57.59,0:03:00.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Baik kau maupun Shoshana.
-Dialogue: 0,0:03:01.63,0:03:04.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika aku diperintahkan melakukannya,\Naku akan membunuhmu.
-Dialogue: 0,0:03:04.96,0:03:08.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Bukankah itu sebabnya kau ada di sini?
-Dialogue: 0,0:03:08.31,0:03:11.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agar kau tidak menerima\Nperintah seperti itu.
-Dialogue: 0,0:03:11.62,0:03:13.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agar aku tidak dibunuh.
-Dialogue: 0,0:03:25.11,0:03:27.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sulit kupercaya!
-Dialogue: 0,0:03:27.07,0:03:30.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Connie tidak akan pernah\Nmenculik Pangeran Faris!
-Dialogue: 0,0:03:30.82,0:03:33.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia juga akan dieksekusi di depan umum?!
-Dialogue: 0,0:03:34.14,0:03:36.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Mylene.
-Dialogue: 0,0:03:36.12,0:03:39.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelah eksekusi Scarlett Castiel,
-Dialogue: 0,0:03:39.07,0:03:41.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}mereka meniadakan eksekusi\Ndi depan umum, 'kan?
-Dialogue: 0,0:03:41.81,0:03:43.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tahu kenapa demikian?
-Dialogue: 0,0:03:43.85,0:03:44.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh...
-Dialogue: 0,0:03:45.00,0:03:47.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kupikir itu karena tekanan\Ndari kelompok masyarakat.
-Dialogue: 0,0:03:47.90,0:03:49.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku yakin namanya Perhimpunan Violet.
-Dialogue: 0,0:03:50.35,0:03:52.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perhimpunan Violet?
-Dialogue: 0,0:03:52.20,0:03:53.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih, Mylene.
-Dialogue: 0,0:03:53.47,0:03:55.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Kau mau pergi ke mana?
-Dialogue: 0,0:03:55.56,0:03:58.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja untuk menyelamatkan Connie!
-Dialogue: 0,0:03:58.92,0:04:02.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa hanya duduk\Ndi sini dan bersedih!
-Dialogue: 0,0:04:02.72,0:04:05.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, satu-satunya yang bisa dilakukan\Nadalah mengambil tindakan!
-Dialogue: 0,0:04:05.98,0:04:09.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, sungguh sikap yang mengagumkan.
-Dialogue: 0,0:04:22.23,0:04:24.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hentikan akting sia-sia itu.
-Dialogue: 0,0:04:25.93,0:04:29.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau sudah bisa melihatku\Nselama ini, bukan?
-Dialogue: 0,0:04:29.25,0:04:36.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau pasti menyadari kehadiranku\Nsejak kita bertemu di Grand Merillian.
-Dialogue: 0,0:04:37.17,0:04:42.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika tidak, kau takkan bersusah payah\Nmembatalkan pertunangan putri viscount.
-Dialogue: 0,0:04:44.22,0:04:47.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku memiliki ingatan yang luar biasa, tahu.
-Dialogue: 0,0:04:48.52,0:04:51.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, sayang sekali!
-Dialogue: 0,0:04:51.40,0:04:56.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah ada yang bisa kubantu\Nsebagai pelayanmu yang rendah hati?
-Dialogue: 0,0:04:56.41,0:04:58.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau merusak pemandangan.\NPergi dari hadapanku.
-Dialogue: 0,0:04:59.80,0:05:01.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sungguh disayangkan.
-Dialogue: 0,0:05:01.74,0:05:05.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika berubah pikiran,\Nsilakan hubungi pelayan rendah hati ini.
-Dialogue: 0,0:05:05.48,0:05:07.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, jika aku menginginkannya.
-Dialogue: 0,0:05:09.27,0:05:13.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Butuh sepuluh tahun berlalu,\Ntapi kini akhirnya aku menginginkannya.
-Dialogue: 0,0:05:13.63,0:05:17.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, pinjamkan aku kekuatanmu.
-Dialogue: 0,0:05:18.73,0:05:20.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lalu?
-Dialogue: 0,0:05:21.67,0:05:25.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang kau ingin\Nbabi rendahan ini lakukan untukmu?
-Dialogue: 0,0:05:26.39,0:05:28.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Memburu tikus.
-Dialogue: 0,0:05:32.27,0:05:33.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pangeran Theophilis.
-Dialogue: 0,0:05:34.50,0:05:37.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Diplomat Kendall Levine telah tiba.
-Dialogue: 0,0:05:37.90,0:05:38.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:05:39.08,0:05:43.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kupikir dia pergi ke Adelbide\Nsebagai delegasi.
-Dialogue: 0,0:05:43.38,0:05:44.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begini...
-Dialogue: 0,0:05:44.74,0:05:46.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia datang ke sini untuk urusan mendesak.
-Dialogue: 0,0:05:47.28,0:05:49.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu. Biarkan dia masuk.
-Dialogue: 0,0:05:52.27,0:05:53.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah lama sekali, Kendall.
-Dialogue: 0,0:05:54.53,0:05:56.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa kau kemari?
-Dialogue: 0,0:05:56.90,0:05:58.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika aku boleh bicara dengan rendah hati,
-Dialogue: 0,0:05:58.78,0:06:04.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}bukan Adelbide yang menculik\NPangeran Ulysses, melainkan Daeg Gallus.
-Dialogue: 0,0:06:05.06,0:06:10.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lalu, Pangeran Kedua Roderick\Nbekerja sama dengan Daeg Gallus.
-Dialogue: 0,0:06:10.91,0:06:12.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:06:12.14,0:06:18.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kudengar para anggota mereka\Nmemiliki tato matahari di tubuhnya.
-Dialogue: 0,0:06:18.39,0:06:19.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tato?
-Dialogue: 0,0:06:25.82,0:06:27.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Roderick sialan itu!
-Dialogue: 0,0:06:27.99,0:06:31.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dari mana kau mendapatkan informasi itu?
-Dialogue: 0,0:06:32.02,0:06:36.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putri Ketiga Alexandra.
-Dialogue: 0,0:06:38.19,0:06:39.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dalam keadaan normal,
-Dialogue: 0,0:06:39.56,0:06:44.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pangeran Enrique seharusnya memberi kami\Nsumbangan dalam waktu dekat.
-Dialogue: 0,0:06:44.82,0:06:46.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sumbangan?
-Dialogue: 0,0:06:46.57,0:06:48.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:06:48.01,0:06:50.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agar dapat menerima sabda para dewa,
-Dialogue: 0,0:06:50.78,0:06:54.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kami memerlukan sejumlah uang tunai\Ndari orang beriman.
-Dialogue: 0,0:06:54.72,0:06:57.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan doa, tahu.
-Dialogue: 0,0:06:57.58,0:07:01.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak bisa membayangkan\Nkakakku melakukan itu.
-Dialogue: 0,0:07:01.05,0:07:02.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau pasti salah.
-Dialogue: 0,0:07:03.94,0:07:07.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu, ya. Aku sungguh tidak sopan.
-Dialogue: 0,0:07:09.30,0:07:10.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong...
-Dialogue: 0,0:07:10.59,0:07:11.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:07:12.10,0:07:17.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pangeran Johan, apakah kau sendiri\Nmembutuhkan bantuan dewa?
-Dialogue: 0,0:07:17.75,0:07:19.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu...
-Dialogue: 0,0:07:25.91,0:07:27.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf.
-Dialogue: 0,0:07:27.91,0:07:29.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kalian\Nsedang mendiskusikan sesuatu?
-Dialogue: 0,0:07:29.90,0:07:32.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, dia baru saja akan pergi.
-Dialogue: 0,0:07:32.73,0:07:34.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Siapa kau?
-Dialogue: 0,0:07:35.86,0:07:37.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rufus May.
-Dialogue: 0,0:07:37.33,0:07:41.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku baru saja\Nmenjadi Wakil Menteri Keuangan.
-Dialogue: 0,0:07:41.41,0:07:44.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, jadi kau orangnya.
-Dialogue: 0,0:07:44.53,0:07:48.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau pernah berkunjung\Nke gereja kami?
-Dialogue: 0,0:07:48.76,0:07:51.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sayangnya, aku cukup baru\Ndalam posisi ini.
-Dialogue: 0,0:07:51.72,0:07:53.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan berkunjung pada waktunya.
-Dialogue: 0,0:07:53.09,0:07:55.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, aku menantikannya.
-Dialogue: 0,0:08:01.27,0:08:03.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf. Pasti listrik statis.
-Dialogue: 0,0:08:04.41,0:08:07.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atau mungkin lelucon dari Dewi.
-Dialogue: 0,0:08:09.83,0:08:12.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau kebal terhadap rasa sakit?
-Dialogue: 0,0:08:12.68,0:08:19.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, tapi rasa sakit yang kau timbulkan\Nmerupakan kesenangan terbesar.
-Dialogue: 0,0:08:20.45,0:08:21.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi?
-Dialogue: 0,0:08:21.52,0:08:24.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah ada sesuatu yang menarik minatmu?
-Dialogue: 0,0:08:24.43,0:08:29.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ingat dia tidak melepas sarung tangannya,\Nbahkan untuk berjabat tangan?
-Dialogue: 0,0:08:32.63,0:08:36.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku melihatnya.\NTato matahari di pergelangan tangannya.
-Dialogue: 0,0:08:37.46,0:08:40.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rufus May. Dia adalah tikus kita.
-Dialogue: 0,0:08:40.63,0:08:42.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Periksa latar belakangnya sekarang juga.
-Dialogue: 0,0:08:43.46,0:08:45.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sesuai keinginanmu, Nyonya.
-Dialogue: 0,0:08:46.49,0:08:48.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kurasa aku baik-baik saja\Nsetelah menggunakan sedikit sekali.
-Dialogue: 0,0:08:49.95,0:08:53.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biasanya aku jadi mengantuk\Nsetelah menggunakan kekuatan itu.
-Dialogue: 0,0:08:53.47,0:08:56.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tadi aku menahan kekuatannya,\Njadi sekarang aku baik-baik saja.
-Dialogue: 0,0:08:56.81,0:08:58.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu, ya.
-Dialogue: 0,0:08:58.23,0:09:02.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menimbulkan fenomena seperti itu\Nmenghabiskan banyak tenaga.
-Dialogue: 0,0:09:03.11,0:09:06.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana kau bisa mengetahuinya?
-Dialogue: 0,0:09:06.38,0:09:09.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menerima bantuan Dewi, tahu.
-Dialogue: 0,0:09:10.77,0:09:16.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kebetulan, apakah kau berada di dunia ini\Nuntuk membalas dendam, Nona Scarlett?
-Dialogue: 0,0:09:16.71,0:09:18.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja.
-Dialogue: 0,0:09:19.09,0:09:21.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah itu benar bahkan sampai sekarang?
-Dialogue: 0,0:09:21.22,0:09:22.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa maksudmu?
-Dialogue: 0,0:09:23.31,0:09:28.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah Nona Scarlett\Nsaat ini bertindak demi membalas dendam?
-Dialogue: 0,0:09:28.87,0:09:30.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atau apakah itu...
-Dialogue: 0,0:09:30.82,0:09:33.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk menyelamatkan Constance Grail?
-Dialogue: 0,0:09:35.47,0:09:37.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja untuk balas dendam.
-Dialogue: 0,0:09:38.06,0:09:39.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah begitu?
-Dialogue: 0,0:09:39.70,0:09:43.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Agar jiwa tanpa tubuh tetap berada\Ndi antara orang hidup,
-Dialogue: 0,0:09:43.82,0:09:48.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku percaya bahwa emosi\Natau motif yang kuat sangat diperlukan.
-Dialogue: 0,0:09:49.18,0:09:53.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, begitu kau merasa\Npembalasanmu telah terlaksana...
-Dialogue: 0,0:09:55.19,0:09:58.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau akan kembali kepada para dewa.
-Dialogue: 0,0:10:06.16,0:10:09.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami meminta tanda tangan\Nuntuk memprotes eksekusi!
-Dialogue: 0,0:10:10.33,0:10:12.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Constance Grail tidak bersalah!
-Dialogue: 0,0:10:13.49,0:10:15.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mohon...
-Dialogue: 0,0:10:15.81,0:10:18.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tolong pinjamkan bantuanmu.
-Dialogue: 0,0:10:18.44,0:10:20.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Neil Bronson"
-Dialogue: 0,0:10:20.58,0:10:21.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tolong!
-Dialogue: 0,0:10:22.00,0:10:24.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk menyelamatkan temanku,\NConstance Grail...
-Dialogue: 0,0:10:25.04,0:10:29.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami butuh bantuan semua orang\Nyang masih berakal sehat!
-Dialogue: 0,0:10:30.58,0:10:32.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa artinya ini?
-Dialogue: 0,0:10:32.50,0:10:36.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tanda tangan protes yang aku perintahkan\Ntak boleh diizinkan di istana kerajaan.
-Dialogue: 0,0:10:36.13,0:10:40.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan hanya rakyat jelata,\Nbanyak bangsawan juga di sini!
-Dialogue: 0,0:10:41.76,0:10:43.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Belum lagi buku ini...
-Dialogue: 0,0:10:44.35,0:10:48.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Katanya ini ditulis\Noleh penulis pendatang baru asing...
-Dialogue: 0,0:10:48.08,0:10:49.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Adam Hicks?
-Dialogue: 0,0:10:51.52,0:10:53.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini ditulis oleh Amelia Hobbes!
-Dialogue: 0,0:10:53.69,0:10:56.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putri viscount\Nyang diperlakukan seperti orang suci,
-Dialogue: 0,0:10:56.53,0:10:59.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}mengatasi perbedaan kelas\Ndemi menikahi putra mahkota.
-Dialogue: 0,0:11:00.76,0:11:04.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Namun, sebenarnya\Ndia adalah anggota organisasi kriminal...
-Dialogue: 0,0:11:05.38,0:11:07.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan anak yatim piatu rendahan sejak lahir.
-Dialogue: 0,0:11:08.41,0:11:11.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sinopsis yang anehnya\Nterdengar tidak asing.
-Dialogue: 0,0:11:14.37,0:11:18.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa bertindak sejauh ini\Nuntuk gadis biasa saja seperti dia?
-Dialogue: 0,0:11:18.75,0:11:22.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak peduli apa kata orang,\Neksekusinya akan tetap dilaksanakan.
-Dialogue: 0,0:11:22.65,0:11:26.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk dia dan Lucia,\Nputri angkat Keluarga O'Brian.
-Dialogue: 0,0:11:28.12,0:11:29.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa?
-Dialogue: 0,0:11:29.43,0:11:30.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan apa-apa.
-Dialogue: 0,0:11:30.86,0:11:33.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sungguh situasi yang tidak menyenangkan.
-Dialogue: 0,0:11:33.31,0:11:37.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Belum lagi rumor tak masuk akal\Nyang selama ini beredar.
-Dialogue: 0,0:11:37.52,0:11:38.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rumor?
-Dialogue: 0,0:11:39.15,0:11:40.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau belum pernah mendengarnya?
-Dialogue: 0,0:11:41.08,0:11:43.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Constance Grail.
-Dialogue: 0,0:11:44.48,0:11:47.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka bilang\Ndia bisa mendengar orang mati,
-Dialogue: 0,0:11:47.53,0:11:52.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan bertindak untuk membersihkan nama\NScarlett Castiel dari tuduhan palsu.
-Dialogue: 0,0:11:56.97,0:11:59.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putri Mahkota Cecilia?!
-Dialogue: 0,0:12:00.09,0:12:03.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kudengar kau bisa berbicara\Ndengan orang mati?
-Dialogue: 0,0:12:03.74,0:12:05.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}I-Itu...
-Dialogue: 0,0:12:06.03,0:12:07.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pembohong.
-Dialogue: 0,0:12:08.04,0:12:10.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang mati tidak berbicara.
-Dialogue: 0,0:12:10.43,0:12:12.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, mereka tidak bisa\Nmemikirkan apa pun.
-Dialogue: 0,0:12:12.23,0:12:14.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka hanya berubah menjadi abu.
-Dialogue: 0,0:12:15.54,0:12:16.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu pasti kebenarannya.
-Dialogue: 0,0:12:17.70,0:12:20.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atau setidaknya,\Nbegitu kebenarannya untukku.
-Dialogue: 0,0:12:21.69,0:12:24.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maksudku, mendengar orang mati?
-Dialogue: 0,0:12:27.51,0:12:28.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau...
-Dialogue: 0,0:12:36.41,0:12:37.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cece.
-Dialogue: 0,0:12:37.69,0:12:39.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kembalikan itu!
-Dialogue: 0,0:12:39.47,0:12:41.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Kenapa aku\Nharus mengembalikannya, Ceci?
-Dialogue: 0,0:12:41.58,0:12:43.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pencopetan adalah kejahatan!
-Dialogue: 0,0:12:43.82,0:12:46.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selama mataku terbuka seperti ini,
-Dialogue: 0,0:12:46.90,0:12:51.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku takkan biarkanmu menjalani\Nkehidupan yang tak bisa kau banggakan!
-Dialogue: 0,0:12:55.95,0:12:57.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Pak Tua!
-Dialogue: 0,0:13:00.22,0:13:03.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagus! Itu baru Cece-ku!
-Dialogue: 0,0:13:03.55,0:13:05.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hentikan itu!
-Dialogue: 0,0:13:06.52,0:13:09.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cece! Ceci! Selamat datang kembali!
-Dialogue: 0,0:13:09.67,0:13:12.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada orang aneh di sini.
-Dialogue: 0,0:13:12.25,0:13:13.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang aneh?
-Dialogue: 0,0:13:13.85,0:13:17.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia mencari seorang gadis bernama Cecilia.
-Dialogue: 0,0:13:17.32,0:13:20.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu bukan tugas yang mudah, ya, Ceci?
-Dialogue: 0,0:13:20.35,0:13:24.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Panti asuhan kita sendiri\Nmemiliki banyak anak bernama Cecilia.
-Dialogue: 0,0:13:24.96,0:13:27.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah dia baru saja memanggilmu Ceci?
-Dialogue: 0,0:13:28.18,0:13:30.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah itu berarti\Nnama aslimu adalah Cecilia?
-Dialogue: 0,0:13:31.61,0:13:33.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
-Dialogue: 0,0:13:36.78,0:13:38.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mata itu.
-Dialogue: 0,0:13:39.30,0:13:41.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kurasa kau bisa menyebutnya\Nberwarna mawar.
-Dialogue: 0,0:13:43.25,0:13:46.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Suster, aku ingin berbicara dengannya.
-Dialogue: 0,0:13:49.45,0:13:53.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putri tuan bangsawan\Nsudah lemah sejak lahir,
-Dialogue: 0,0:13:53.37,0:13:56.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan umurnya tidak akan lama lagi.
-Dialogue: 0,0:13:56.42,0:14:00.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, aku akan menggantikannya\Nsebagai Nona Cecilia.
-Dialogue: 0,0:14:00.49,0:14:02.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa kau, Ceci?
-Dialogue: 0,0:14:02.64,0:14:07.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan bangsawan memiliki anak haram\Nbersama seorang pelacur.
-Dialogue: 0,0:14:07.11,0:14:10.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nama gadis itu kebetulan juga Cecilia.
-Dialogue: 0,0:14:10.93,0:14:14.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Katanya, dia dikirim ke panti asuhan\Nbegitu dia dilahirkan.
-Dialogue: 0,0:14:15.52,0:14:18.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka mungkin saja salah orang, 'kan?
-Dialogue: 0,0:14:18.32,0:14:20.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jumlah orang yang...
-Dialogue: 0,0:14:20.39,0:14:24.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menurutku, tidak penting\Napakah aku benar-benar anak haramnya.
-Dialogue: 0,0:14:24.93,0:14:27.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kebetulan aku cocok.
-Dialogue: 0,0:14:27.57,0:14:29.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu tidak berarti bahwa kau...
-Dialogue: 0,0:14:29.73,0:14:33.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan bangsawan\Nakan menyokong panti asuhan ini.
-Dialogue: 0,0:14:35.27,0:14:36.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, jangan khawatirkan aku.
-Dialogue: 0,0:14:55.19,0:14:56.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ibu Natalie!
-Dialogue: 0,0:14:56.85,0:14:59.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Leah! Pete! Semuanya!
-Dialogue: 0,0:15:01.97,0:15:03.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial!
-Dialogue: 0,0:15:03.61,0:15:04.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cece...
-Dialogue: 0,0:15:06.37,0:15:07.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ceci?!
-Dialogue: 0,0:15:08.17,0:15:10.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Syukurlah kau masih hidup!
-Dialogue: 0,0:15:11.15,0:15:12.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa kau ada di sini?!
-Dialogue: 0,0:15:13.28,0:15:15.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini semua salahku.
-Dialogue: 0,0:15:15.32,0:15:17.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bodoh.
-Dialogue: 0,0:15:17.55,0:15:18.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa maksudmu?!
-Dialogue: 0,0:15:19.93,0:15:25.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Viscount Ruzé takkan biarkan mereka\Nyang tahu aku menggantikannya hidup.
-Dialogue: 0,0:15:25.38,0:15:28.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Andai saja aku menyadarinya lebih cepat!
-Dialogue: 0,0:15:28.56,0:15:30.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini bukan salahmu, Ceci!
-Dialogue: 0,0:15:32.13,0:15:34.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bisa berjalan? Di mana yang lainnya?
-Dialogue: 0,0:15:34.79,0:15:36.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka semua telah terbunuh.
-Dialogue: 0,0:15:36.80,0:15:39.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hanya jenazahmu yang tidak ada.
-Dialogue: 0,0:15:39.76,0:15:42.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, masih ada orang yang hidup di sana!
-Dialogue: 0,0:15:43.54,0:15:44.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo kabur dari belakang!
-Dialogue: 0,0:15:52.56,0:15:53.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di mana mereka?!
-Dialogue: 0,0:15:53.40,0:15:54.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita masuk!
-Dialogue: 0,0:16:07.66,0:16:08.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ceci?!
-Dialogue: 0,0:16:10.62,0:16:11.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau pergi lebih dulu!
-Dialogue: 0,0:16:11.80,0:16:13.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Panggil bantuan!
-Dialogue: 0,0:16:13.04,0:16:14.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa maksudmu?!
-Dialogue: 0,0:16:14.39,0:16:15.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ikut aku!
-Dialogue: 0,0:16:15.16,0:16:19.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika melihatmu, mereka\Ntakkan pernah berhenti mengikutimu.
-Dialogue: 0,0:16:19.84,0:16:21.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan baik-baik saja.
-Dialogue: 0,0:16:21.96,0:16:22.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ceci!
-Dialogue: 0,0:16:23.49,0:16:24.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pergi!
-Dialogue: 0,0:16:38.30,0:16:43.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pion yang kita cari dengan susah payah\Ndihancurkan dengan begitu mudah.
-Dialogue: 0,0:16:44.49,0:16:49.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka tak menyangka gadis itu\Nberada di panti asuhan, bukan di wastu.
-Dialogue: 0,0:16:50.74,0:16:54.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini yang terjadi ketika Viscount Ruzé\Nmemutuskan apa yang harus dilakukan.
-Dialogue: 0,0:16:54.10,0:16:56.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hanya itu yang bisa kau harapkan\Ndari bangsawan setingkat dia.
-Dialogue: 0,0:16:58.59,0:17:01.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ada yang selamat?
-Dialogue: 0,0:17:02.70,0:17:03.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Siapa namamu?
-Dialogue: 0,0:17:04.38,0:17:05.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cece.
-Dialogue: 0,0:17:06.66,0:17:07.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh.
-Dialogue: 0,0:17:08.80,0:17:10.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau perempuan?
-Dialogue: 0,0:17:11.57,0:17:15.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cece adalah nama panggilan\Nuntuk Cecilia, ya?
-Dialogue: 0,0:17:16.79,0:17:19.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau juga memiliki\Npupil berwarna mawar yang indah.
-Dialogue: 0,0:17:20.56,0:17:22.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Unik dari Keluarga Ruzé.
-Dialogue: 0,0:17:22.85,0:17:25.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak memperhatikanmu,\Nkarena mengira kau adalah laki-laki.
-Dialogue: 0,0:17:27.05,0:17:30.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pikir dia menyembunyikan sesuatu.
-Dialogue: 0,0:17:30.43,0:17:33.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengerti sekarang, jadi itu kau.
-Dialogue: 0,0:17:34.79,0:17:37.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Untuk melindungiku, Ceci...
-Dialogue: 0,0:17:38.27,0:17:40.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pergi bersama tuan bangsawan itu!
-Dialogue: 0,0:17:40.71,0:17:42.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau membenci Viscount Ruzé?
-Dialogue: 0,0:17:43.30,0:17:44.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu...
-Dialogue: 0,0:17:44.88,0:17:47.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana kau ingin\Nmembalas dendam padanya?
-Dialogue: 0,0:17:48.01,0:17:50.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Balas dendam?
-Dialogue: 0,0:17:51.55,0:17:54.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jika kau melakukan\Npersis seperti yang kami katakan,
-Dialogue: 0,0:17:55.18,0:17:58.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kubiarkan kau perlahan-lahan\Nbermain dengan bajingan itu sesukamu.
-Dialogue: 0,0:18:00.42,0:18:02.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau hanya perlu mengikuti kata hatimu.
-Dialogue: 0,0:18:03.37,0:18:06.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau membencinya, 'kan?\NPerbuatannya tak bisa dimaafkan, 'kan?
-Dialogue: 0,0:18:07.15,0:18:09.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu, hancurkan saja semuanya.
-Dialogue: 0,0:18:10.18,0:18:11.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seluruh kerajaan ini.
-Dialogue: 0,0:18:15.09,0:18:18.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagus! Itu baru Cece-ku!
-Dialogue: 0,0:18:18.32,0:18:19.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hentikan itu!
-Dialogue: 0,0:18:19.59,0:18:20.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini semua salahku.
-Dialogue: 0,0:18:20.97,0:18:22.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bodoh.
-Dialogue: 0,0:18:22.19,0:18:24.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini bukan salahmu, Ceci!
-Dialogue: 0,0:18:28.12,0:18:31.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan menggantikannya\Nsebagai Nona Cecilia.
-Dialogue: 0,0:18:40.16,0:18:42.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak ingin mendengar\Nsuara siapa pun lagi.
-Dialogue: 0,0:18:43.82,0:18:46.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, benar. Itu sudah diputuskan.
-Dialogue: 0,0:18:48.32,0:18:49.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang sudah diputuskan?
-Dialogue: 0,0:18:50.90,0:18:52.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah menyebutkannya, 'kan?
-Dialogue: 0,0:18:52.65,0:18:55.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hari kita akan membunuh anak O'Brian.
-Dialogue: 0,0:18:56.18,0:19:00.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami pikir itu harus terjadi pada hari\Nyang sama dengan eksekusi Constance Grail.
-Dialogue: 0,0:19:02.01,0:19:03.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dua hari lagi.
-Dialogue: 0,0:19:04.07,0:19:04.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu.
-Dialogue: 0,0:19:07.32,0:19:09.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah kau sudah mengetahui sesuatu\Ntentang Rufus?
-Dialogue: 0,0:19:09.78,0:19:16.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya Rufus May yang asli\Nmeninggal sekitar sepuluh tahun yang lalu.
-Dialogue: 0,0:19:16.32,0:19:19.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putra bungsu bangsawan\Nyang tidak terlalu kaya,
-Dialogue: 0,0:19:19.27,0:19:21.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}perilaku buruknya\Nmenyebabkan dia tak diakui
-Dialogue: 0,0:19:21.24,0:19:23.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan diusir pada saat yang sama,
-Dialogue: 0,0:19:23.50,0:19:25.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}maka dia datang ke ibu kota.
-Dialogue: 0,0:19:25.37,0:19:27.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepuluh tahun yang lalu...
-Dialogue: 0,0:19:27.18,0:19:30.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu, jadi dia pasti menggantikannya\Nsaat itu.
-Dialogue: 0,0:19:34.77,0:19:36.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Istirahatlah.
-Dialogue: 0,0:19:36.24,0:19:38.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau hampir tidak tidur, bukan?
-Dialogue: 0,0:19:39.19,0:19:40.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan masalah.
-Dialogue: 0,0:19:43.01,0:19:45.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, apakah aku mengganggu?
-Dialogue: 0,0:19:46.39,0:19:48.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, tidak apa-apa.
-Dialogue: 0,0:19:49.87,0:19:51.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seperti yang aku sebutkan sebelumnya,
-Dialogue: 0,0:19:51.88,0:19:55.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putri Ketiga Faris, Alexandra,\Nmenentang perang ini.
-Dialogue: 0,0:19:55.95,0:19:59.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukankah ideal jika dia naik takhta?
-Dialogue: 0,0:20:00.27,0:20:05.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Putri ketiga tak punya garis keturunan\Natau dukungan yang mengesankan,
-Dialogue: 0,0:20:05.83,0:20:08.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan sedang dikurung di Faris, 'kan?
-Dialogue: 0,0:20:09.79,0:20:12.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak bisa membayangkan\Ndia memiliki peluang.
-Dialogue: 0,0:20:13.28,0:20:16.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana jika dia\Nmendapatkan dukungan besar?
-Dialogue: 0,0:20:17.64,0:20:21.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana jika Raja Ernst, yang sedang\Nmenuju Melvina untuk perjanjian dagang,
-Dialogue: 0,0:20:22.00,0:20:24.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}malah pergi ke Faris?
-Dialogue: 0,0:20:24.76,0:20:26.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa maksudmu?!
-Dialogue: 0,0:20:26.18,0:20:28.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang Mulia tidak punya alasan untuk pergi.
-Dialogue: 0,0:20:28.69,0:20:32.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dalih mengunjungi raja Faris\Nyang sedang sakit sudah cukup.
-Dialogue: 0,0:20:33.13,0:20:38.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Namun, itu hanya jika putri ketiga\Nyang sedang dipenjara mengundangnya.
-Dialogue: 0,0:20:39.36,0:20:40.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengerti.
-Dialogue: 0,0:20:40.95,0:20:43.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau hanya perlu menyebarkan beritanya.
-Dialogue: 0,0:20:43.91,0:20:47.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Adelbide dan putri ketiga memiliki ikatan.
-Dialogue: 0,0:20:47.08,0:20:48.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tepat sekali.
-Dialogue: 0,0:20:48.30,0:20:50.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maka dia akan mendapat dukungan\Nyang cukup besar.
-Dialogue: 0,0:20:51.62,0:20:54.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi bukankah putri ketiga\Nsedang dikurung?
-Dialogue: 0,0:20:54.62,0:20:57.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana bisa dia mengundang Yang Mulia?
-Dialogue: 0,0:20:57.94,0:20:59.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apakah mungkin...
-Dialogue: 0,0:20:59.59,0:21:01.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang di menara itu adalah pengganti?
-Dialogue: 0,0:21:03.20,0:21:06.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayolah! Kau bicara tentang memengaruhi\Nkerajaan hanya dengan gertakan!
-Dialogue: 0,0:21:07.25,0:21:11.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebesar itulah ketakutan Faris\Nakan kerajaan ini.
-Dialogue: 0,0:21:14.72,0:21:18.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa Putri Cecilia\Ntidak mengatakan apa pun?
-Dialogue: 0,0:21:19.91,0:21:21.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada yang mengunjungimu.
-Dialogue: 0,0:21:24.40,0:21:26.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau... Brenda?
-Dialogue: 0,0:21:31.49,0:21:34.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, baiklah... Ada apa?
-Dialogue: 0,0:21:35.21,0:21:36.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ambil ini.
-Dialogue: 0,0:21:37.23,0:21:40.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kate dan Mylene memprotes eksekusi?!
-Dialogue: 0,0:21:40.69,0:21:43.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan hanya mereka.
-Dialogue: 0,0:21:43.43,0:21:47.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayahmu dan mantan tunanganmu,\NNeil Bronson.
-Dialogue: 0,0:21:47.40,0:21:50.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Serta Viscount Hamsworth.
-Dialogue: 0,0:21:50.32,0:21:53.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Juga Earl Ulster, tentu saja.
-Dialogue: 0,0:21:53.12,0:21:54.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia?
-Dialogue: 0,0:21:55.70,0:21:57.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Brenda.
-Dialogue: 0,0:21:57.25,0:21:58.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kapan eksekusiku?
-Dialogue: 0,0:22:00.50,0:22:02.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka bilang besok.
-Dialogue: 0,0:22:02.99,0:22:04.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu, ya.
-Dialogue: 0,0:22:06.13,0:22:08.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begini, aku...
-Dialogue: 0,0:22:09.25,0:22:11.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}berpikir untuk mengakui perbuatan Pamela.
-Dialogue: 0,0:22:12.00,0:22:13.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:22:13.19,0:22:16.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua yang menjadi tanggung jawabnya\Nhingga saat ini!
-Dialogue: 0,0:22:17.22,0:22:19.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu ini sudah terlambat.
-Dialogue: 0,0:22:20.14,0:22:23.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku... Aku selalu ingin\Nmemberitahumu sesuatu.
-Dialogue: 0,0:22:24.48,0:22:28.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat itu, terima kasih\Nkarena sudah menyelamatkanku.
-Dialogue: 0,0:22:29.14,0:22:31.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau salah, Brenda.
-Dialogue: 0,0:22:31.21,0:22:32.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu bukan...
-Dialogue: 0,0:22:32.28,0:22:34.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, itu kau.
-Dialogue: 0,0:22:35.00,0:22:39.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ketulusanmu menyelamatkanku.
-Dialogue: 0,0:22:43.31,0:22:44.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak sendirian.
-Dialogue: 0,0:22:45.60,0:22:47.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua orang berjuang untukku.
-Dialogue: 0,0:22:49.01,0:22:50.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak akan pernah menyerah.
-Dialogue: 0,0:22:51.56,0:22:52.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lagi pula...
-Dialogue: 0,0:22:54.10,0:22:57.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu itu yang akan dikatakan Scarlett.
+Dialogue: 0,0:00:12.49,0:00:14.74,tanda,,0000,0000,0000,,EPISODE 11: DESA ORANG TAK KASATMATA
+Dialogue: 0,0:01:17.84,0:01:22.84,tanda,,0000,0000,0000,,THE INVISIBLE MAN\NAND HIS SOON-TO-BE WIFE
+Dialogue: 0,0:03:57.80,0:03:58.82,tanda,,0000,0000,0000,,TONOME
+Dialogue: 0,0:15:03.57,0:15:05.57,tanda,,0000,0000,0000,,MENGEKSPRESIKAN DIRI
+Dialogue: 0,0:18:05.93,0:18:07.43,tanda,,0000,0000,0000,,STASIUN SHINJUKU
+Dialogue: 0,0:00:01.27,0:00:06.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka merasa lebih nyaman\Nsaat tak terlihat sama sekali.
+Dialogue: 0,0:00:06.48,0:00:07.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku...
+Dialogue: 0,0:00:07.99,0:00:12.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tak bisa bilang aku suka\Nsemua orang tak terlihat sama sekali.
+Dialogue: 0,0:00:25.90,0:00:31.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perhentian berikutnya adalah\NPasar Blok Ketiga. Pasar Blok Ketiga.
+Dialogue: 0,0:00:35.53,0:00:36.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akira?
+Dialogue: 0,0:00:38.35,0:00:40.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau tidak apa-apa?
+Dialogue: 0,0:00:40.03,0:00:41.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ya.
+Dialogue: 0,0:00:42.26,0:00:44.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sungguh minta maaf\Nkarena harus transit berkali-kali.
+Dialogue: 0,0:00:44.81,0:00:47.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kampung halamanku ada di pedesaan.
+Dialogue: 0,0:00:47.05,0:00:51.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan khawatir! Aku sangat bersemangat\Nmengunjungi desa orang tak kasatmata!
+Dialogue: 0,0:00:51.31,0:00:55.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini hanya pedesaan biasa.\NHanya ada ladang di sana.
+Dialogue: 0,0:00:55.13,0:00:56.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lokasinya juga cukup terpencil.
+Dialogue: 0,0:00:56.49,0:00:58.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, benarkah?
+Dialogue: 0,0:00:59.18,0:01:01.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi ini bukan desa biasa.
+Dialogue: 0,0:01:01.79,0:01:03.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukan desa biasa?
+Dialogue: 0,0:02:40.31,0:02:42.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Udaranya sangat segar!
+Dialogue: 0,0:02:42.69,0:02:45.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, inilah ketenangan alam.
+Dialogue: 0,0:02:53.42,0:02:55.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini pasar desa.
+Dialogue: 0,0:02:55.48,0:02:56.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh?
+Dialogue: 0,0:02:58.13,0:03:02.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, di sini cukup ramai.\NApakah semuanya penduduk setempat?
+Dialogue: 0,0:03:05.51,0:03:07.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa merasakan ada banyak orang.
+Dialogue: 0,0:03:07.23,0:03:09.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pengamatanmu tajam, Shizuka.
+Dialogue: 0,0:03:10.24,0:03:15.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Desa ini wilayah ekstrateritorial.\NLegal untuk tak terlihat sepenuhnya di sini.
+Dialogue: 0,0:03:15.81,0:03:21.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Banyak orang tak kasatmata di sini\Nmemilih untuk tak terlihat sama sekali.
+Dialogue: 0,0:03:21.24,0:03:22.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pantas saja.
+Dialogue: 0,0:03:23.07,0:03:28.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh, anehkah jika orang tak kasatmata\Nsama sekali tak terlihat?
+Dialogue: 0,0:03:28.27,0:03:30.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, sebagian orang pasti terkejut,
+Dialogue: 0,0:03:30.66,0:03:33.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi bagimu ini hal biasa.
+Dialogue: 0,0:03:33.22,0:03:33.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hmm...
+Dialogue: 0,0:03:35.24,0:03:37.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, rumahku ada di depan.
+Dialogue: 0,0:03:37.13,0:03:39.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Awawa!
+Dialogue: 0,0:03:39.52,0:03:41.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka, kau tidak apa-apa?
+Dialogue: 0,0:03:41.27,0:03:43.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku gugup sekali...
+Dialogue: 0,0:03:43.81,0:03:45.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengerti perasaanmu,
+Dialogue: 0,0:03:45.44,0:03:47.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi kau pasti bisa, Shizuka.
+Dialogue: 0,0:03:47.59,0:03:49.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Y-Ya! Aku akan berusaha!
+Dialogue: 0,0:03:51.56,0:03:52.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
+Dialogue: 0,0:03:53.04,0:03:54.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu...
+Dialogue: 0,0:03:54.50,0:03:55.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aki?
+Dialogue: 0,0:03:58.82,0:03:59.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pulang.
+Dialogue: 0,0:04:19.07,0:04:23.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka, di sebelah kirimu ada ayahku,\Ndan di sebelah kanan ada ibuku.
+Dialogue: 0,0:04:24.04,0:04:26.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepi sekali...
+Dialogue: 0,0:04:27.16,0:04:31.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akira memang sangat pendiam,\Ntapi ini jauh lebih sepi.
+Dialogue: 0,0:04:31.86,0:04:35.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bahkan merasakan tekanan\Ndari keheningan ini...
+Dialogue: 0,0:04:35.67,0:04:36.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa?
+Dialogue: 0,0:04:36.82,0:04:38.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh! Em...
+Dialogue: 0,0:04:38.50,0:04:40.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Namaku Shizuka Yako!
+Dialogue: 0,0:04:40.59,0:04:43.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akira selalu menjagaku\Ndengan sangat baik!
+Dialogue: 0,0:04:43.06,0:04:44.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em...
+Dialogue: 0,0:04:44.69,0:04:45.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku...
+Dialogue: 0,0:04:45.34,0:04:47.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Senang bertemu dengan kalian!
+Dialogue: 0,0:04:48.76,0:04:49.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya.
+Dialogue: 0,0:04:49.85,0:04:52.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih karena selalu menjaga Akira.
+Dialogue: 0,0:04:52.74,0:04:55.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Suaranya sangat datar...
+Dialogue: 0,0:04:55.30,0:04:58.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin mereka tak tertarik padaku...
+Dialogue: 0,0:04:58.85,0:05:01.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Apa yang harus kulakukan, Akira?!
+Dialogue: 0,0:05:01.11,0:05:04.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami sedang berpacaran.\NKami berencana tinggal bersama.
+Dialogue: 0,0:05:04.94,0:05:06.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?! Langsung bahas itu?!
+Dialogue: 0,0:05:07.55,0:05:09.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kurasa tak masalah.
+Dialogue: 0,0:05:10.11,0:05:12.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, tak masalah.
+Dialogue: 0,0:05:12.17,0:05:13.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lagi pula...
+Dialogue: 0,0:05:13.64,0:05:16.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sejak tadi aku ingin bertanya,
+Dialogue: 0,0:05:16.53,0:05:19.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kenapa kalian pakai topeng aneh itu?
+Dialogue: 0,0:05:19.54,0:05:20.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:05:20.54,0:05:21.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Topeng?
+Dialogue: 0,0:05:23.83,0:05:26.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bilang akan membawa seseorang\Ndari ras yang berbeda.
+Dialogue: 0,0:05:26.79,0:05:29.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami pikir lebih baik jika kami punya wajah.
+Dialogue: 0,0:05:29.80,0:05:32.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka tunanetra.\NKalian tak perlu melakukannya.
+Dialogue: 0,0:05:32.80,0:05:34.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, benar juga.
+Dialogue: 0,0:05:34.86,0:05:36.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, kau benar.
+Dialogue: 0,0:05:36.20,0:05:38.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rasanya aku sudah bilang.
+Dialogue: 0,0:05:38.63,0:05:40.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami tak berpikir sejauh itu.
+Dialogue: 0,0:05:40.30,0:05:42.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, kami tak memikirkannya.
+Dialogue: 0,0:05:42.45,0:05:45.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kurasa tak ada masalah.
+Dialogue: 0,0:05:45.56,0:05:48.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, dia tak keberatan\Njika kami tak terlihat sama sekali?
+Dialogue: 0,0:05:48.82,0:05:50.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, tak apa-apa.
+Dialogue: 0,0:05:50.04,0:05:50.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:05:50.77,0:05:54.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, sepertinya mereka merasa lebih nyaman\Nsaat tak terlihat sama sekali.
+Dialogue: 0,0:05:54.65,0:05:57.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, semua orang tak kasatmata juga begitu.
+Dialogue: 0,0:05:57.90,0:06:00.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, benarkah?
+Dialogue: 0,0:06:00.75,0:06:05.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tak terlihat sepenuhnya\Nadalah wujud asli kami.
+Dialogue: 0,0:06:11.66,0:06:14.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau begitu,\Nselanjutnya kuperkenalkan ke Nenek.
+Dialogue: 0,0:06:14.46,0:06:17.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakinya kurang sehat, jadi dia ada di kamar.
+Dialogue: 0,0:06:23.35,0:06:29.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku... tak bisa bilang aku suka\Nsemua orang tak terlihat sama sekali.
+Dialogue: 0,0:06:31.66,0:06:36.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu kau ingin bajumu\Ndilihat orang lain, 'kan?
+Dialogue: 0,0:06:37.92,0:06:41.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Boleh aku beri tahu hal yang kusuka\Ndari setelan ini nanti?
+Dialogue: 0,0:06:42.00,0:06:44.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, beri tahu aku nanti.
+Dialogue: 0,0:06:46.79,0:06:49.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nenek, kami masuk, ya.
+Dialogue: 0,0:06:49.32,0:06:50.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Masuklah.
+Dialogue: 0,0:06:50.65,0:06:51.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah.
+Dialogue: 0,0:06:51.68,0:06:53.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nenek, Shizuka tak bisa...
+Dialogue: 0,0:06:53.61,0:06:56.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, aku sudah meminta\Nmereka memberitahumu...
+Dialogue: 0,0:06:56.82,0:06:57.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh!
+Dialogue: 0,0:07:00.40,0:07:05.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Keluarga kami mengabdi pada bangsawan\Nsebagai ninja di era Keshogunan!
+Dialogue: 0,0:07:08.44,0:07:09.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hmph!
+Dialogue: 0,0:07:09.94,0:07:11.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ninja!
+Dialogue: 0,0:07:11.46,0:07:14.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?! Ninja?! I-Itu luar biasa!
+Dialogue: 0,0:07:14.09,0:07:18.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ha! Kau bahkan bisa\Nmenemukan shuriken di gudang!
+Dialogue: 0,0:07:18.18,0:07:21.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Apakah kau bisa memakai teknik ninja?!
+Dialogue: 0,0:07:21.10,0:07:27.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagi orang luar, kemampuan tak kasatmata\Nkami persis seperti teknik ninja!
+Dialogue: 0,0:07:27.27,0:07:28.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah!
+Dialogue: 0,0:07:28.21,0:07:32.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi shuriken dan senjata lainnya\Ntak bisa diubah menjadi tak terlihat,
+Dialogue: 0,0:07:32.24,0:07:34.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}jadi penggunaannya butuh usaha!
+Dialogue: 0,0:07:34.23,0:07:36.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sangat menarik!
+Dialogue: 0,0:07:36.36,0:07:38.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia sangat bersemangat.
+Dialogue: 0,0:07:38.02,0:07:39.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akira.
+Dialogue: 0,0:07:46.18,0:07:48.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei. Lama tak bertemu, Aki.
+Dialogue: 0,0:07:48.97,0:07:51.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kiriguro! Kau pulang kampung?
+Dialogue: 0,0:07:51.79,0:07:53.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga bisa bilang begitu padamu.
+Dialogue: 0,0:07:53.62,0:07:56.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Heh, kau sudah jadi pria dewasa sekarang.
+Dialogue: 0,0:07:58.20,0:08:00.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terakhir kali kita bertemu,\Naku masih sekolah.
+Dialogue: 0,0:08:00.62,0:08:03.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, kau hanya bocah nakal.
+Dialogue: 0,0:08:03.34,0:08:05.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku hampir tak mengenalimu\Ndengan setelan itu.
+Dialogue: 0,0:08:06.31,0:08:09.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana kau tahu ini\Naku dari setelannya saja?
+Dialogue: 0,0:08:11.70,0:08:13.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku penasaran siapa dia.
+Dialogue: 0,0:08:15.60,0:08:18.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini Masashi Kiriguro.
+Dialogue: 0,0:08:18.10,0:08:20.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin kau ingat saat kuceritakan
+Dialogue: 0,0:08:21.40,0:08:23.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}soal orang tak kasatmata\Npertama yang jadi model fesyen.
+Dialogue: 0,0:08:23.98,0:08:25.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, dia orangnya!
+Dialogue: 0,0:08:25.61,0:08:28.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa yang kau ceritakan padanya tentangku?
+Dialogue: 0,0:08:29.08,0:08:30.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hanya cerita lama.
+Dialogue: 0,0:08:30.78,0:08:34.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah berhenti jadi model.\NSekarang aku mengelola restoran Italia ini.
+Dialogue: 0,0:08:34.40,0:08:36.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sungguh, itu sangat mengejutkan.
+Dialogue: 0,0:08:36.10,0:08:40.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat kubuka restoran pagi ini,\Nkupikir itu kau, Aki.
+Dialogue: 0,0:08:40.03,0:08:43.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana kau bisa mengenaliku?\NKita tak bertemu selama 10 tahun.
+Dialogue: 0,0:08:43.75,0:08:47.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jarang ada orang di sini\Nyang mau menampakkan diri.
+Dialogue: 0,0:08:47.26,0:08:49.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Firasatku bilang itu pasti kau.
+Dialogue: 0,0:08:50.87,0:08:52.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini dia, silakan dinikmati.
+Dialogue: 0,0:08:53.17,0:08:55.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah! Aromanya harum!
+Dialogue: 0,0:08:55.83,0:08:56.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih.
+Dialogue: 0,0:08:57.38,0:08:59.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mengenaliku, Aki?
+Dialogue: 0,0:08:59.46,0:09:02.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku belum punya tato ini\Nsaat terakhir kali kita bertemu.
+Dialogue: 0,0:09:02.31,0:09:04.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu hanya dengan melihatnya.
+Dialogue: 0,0:09:04.24,0:09:07.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dulu, kau menggambar pola itu\Ndi wajahmu dengan pena.
+Dialogue: 0,0:09:09.33,0:09:13.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah, benar. Aku tak berubah sedikit pun.
+Dialogue: 0,0:09:14.84,0:09:18.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi hal itu menyelamatkanku\Nsaat masih kecil.
+Dialogue: 0,0:09:18.61,0:09:19.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:09:19.41,0:09:24.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, aku ingat! Kau menangis karena\Ntak bisa membedakan siapa saja di sini.
+Dialogue: 0,0:09:24.80,0:09:27.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, jangan sebut-sebut soal itu!
+Dialogue: 0,0:09:30.12,0:09:32.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau menangis?
+Dialogue: 0,0:09:32.34,0:09:35.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tumbuh di lingkungan ras lain.
+Dialogue: 0,0:09:37.58,0:09:40.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat masih kecil,\Nketika aku datang ke desa ini...
+Dialogue: 0,0:09:40.90,0:09:42.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kau sendirian?
+Dialogue: 0,0:09:42.02,0:09:44.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sini. Aku punya permen!
+Dialogue: 0,0:09:44.13,0:09:47.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku kaget karena\Ntak ada satu pun yang terlihat.
+Dialogue: 0,0:09:52.64,0:09:56.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lalu aku bertemu Kiriguro,\Nyang menggambar wajahnya.
+Dialogue: 0,0:09:57.01,0:09:59.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, kau datang dari kota, 'kan?
+Dialogue: 0,0:10:08.71,0:10:12.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku membatin,\Nkenapa dia main Halloween sendirian?
+Dialogue: 0,0:10:12.45,0:10:13.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, kau mau menangis?
+Dialogue: 0,0:10:14.92,0:10:16.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menurutku, dia aneh sekali.
+Dialogue: 0,0:10:17.50,0:10:21.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi aku merasa tenang saat bersamanya.
+Dialogue: 0,0:10:21.46,0:10:26.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau dipikir-pikir lagi,\Naku dulu menggambar banyak hal di wajahku.
+Dialogue: 0,0:10:26.34,0:10:29.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga sempat masuk dunia modeling.\NMasa depan memang tak bisa ditebak.
+Dialogue: 0,0:10:29.38,0:10:32.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat itu, dia tampil\Nsebagai model tak kasatmata pertama
+Dialogue: 0,0:10:32.64,0:10:34.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}di suatu peragaan busana.
+Dialogue: 0,0:10:34.26,0:10:37.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kedengarannya hebat!
+Dialogue: 0,0:10:37.25,0:10:39.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Waktu itu,\Norang-orang mengira orang tak kasatmata
+Dialogue: 0,0:10:39.66,0:10:41.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}hanya akan mengambil\Npekerjaan di balik layar
+Dialogue: 0,0:10:41.76,0:10:45.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}atau tetap tinggal dan\Nbekerja di desa mereka.
+Dialogue: 0,0:10:45.14,0:10:48.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin pergi ke kota.
+Dialogue: 0,0:10:48.47,0:10:50.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengemas satu tas
+Dialogue: 0,0:10:50.58,0:10:51.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}lalu pergi ke kota.
+Dialogue: 0,0:11:03.03,0:11:06.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm? Kau model tak kasatmata pertama
+Dialogue: 0,0:11:06.08,0:11:07.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}yang pernah kulihat.
+Dialogue: 0,0:11:07.46,0:11:10.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini bagus untuk memamerkan\Nbagian dalam pakaian,
+Dialogue: 0,0:11:10.50,0:11:12.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}jadi kupikir ide ini cukup menarik.
+Dialogue: 0,0:11:12.73,0:11:13.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi...
+Dialogue: 0,0:11:13.96,0:11:15.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}hanya sesaat.
+Dialogue: 0,0:11:15.97,0:11:18.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kupikir ide ini hanya menarik sesaat.
+Dialogue: 0,0:11:21.63,0:11:26.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maksudku, asal tak terlihat,\Norang tak kasatmata mana pun bisa.
+Dialogue: 0,0:11:29.05,0:11:30.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa harus kau?
+Dialogue: 0,0:11:35.52,0:11:38.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial! Aku gagal audisi lagi!
+Dialogue: 0,0:11:38.33,0:11:40.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa harus kau?
+Dialogue: 0,0:11:40.27,0:11:42.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa harus aku?
+Dialogue: 0,0:11:42.73,0:11:43.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
+Dialogue: 0,0:11:44.51,0:11:46.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Apa? Apa aku mengenaimu?
+Dialogue: 0,0:11:47.66,0:11:50.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan gulung lengan bajumu! Itu bahaya!
+Dialogue: 0,0:11:55.39,0:11:57.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, kau benar.
+Dialogue: 0,0:11:57.95,0:11:59.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kerja bagus hari ini!
+Dialogue: 0,0:11:59.43,0:12:00.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sampai jumpa besok.
+Dialogue: 0,0:12:01.38,0:12:05.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maksudku, asal tak terlihat,\Norang tak kasatmata mana pun bisa.
+Dialogue: 0,0:12:05.67,0:12:08.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan gulung lengan bajumu! Itu bahaya!
+Dialogue: 0,0:12:08.75,0:12:12.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pantas saja seluruh warga desa\Nmenentang keputusanku pergi ke kota.
+Dialogue: 0,0:12:12.82,0:12:17.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kota terlalu keras bagi kami\Nsi orang tak kasatmata.
+Dialogue: 0,0:12:34.63,0:12:37.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau kemampuanmu hanya tak terlihat,\Ntak harus kau orangnya!
+Dialogue: 0,0:12:38.43,0:12:43.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bisa melihatmu,\Njadi aku tak tahu apa yang kau pikirkan!
+Dialogue: 0,0:12:44.41,0:12:46.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan lari!
+Dialogue: 0,0:12:47.19,0:12:49.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau sendiri yang mau datang ke sini!
+Dialogue: 0,0:12:50.50,0:12:53.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Padahal kau bisa hidup damai di desa!
+Dialogue: 0,0:12:54.15,0:12:56.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua ini salahmu sendiri\Nkarena datang kemari!
+Dialogue: 0,0:13:23.19,0:13:24.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hm?
+Dialogue: 0,0:13:38.89,0:13:40.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ugh...
+Dialogue: 0,0:13:40.79,0:13:42.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Badanku hancur rasanya.
+Dialogue: 0,0:13:42.58,0:13:45.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial, hari ini ada audisi.
+Dialogue: 0,0:13:45.89,0:13:47.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Harus buru-buru.
+Dialogue: 0,0:13:48.92,0:13:49.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:13:50.17,0:13:52.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Apa-apaan ini?!
+Dialogue: 0,0:13:53.83,0:13:57.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial! Sial! Aku harus ikut audisi sekarang!
+Dialogue: 0,0:14:02.13,0:14:03.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang benar saja.
+Dialogue: 0,0:14:04.73,0:14:10.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, aku minta maaf datang\Naudisi dengan penampilan seperti ini.
+Dialogue: 0,0:14:10.67,0:14:11.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sial!
+Dialogue: 0,0:14:11.94,0:14:14.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau mau menggagalkanku, lakukan saja!
+Dialogue: 0,0:14:14.80,0:14:15.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau...
+Dialogue: 0,0:14:16.02,0:14:17.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau sangat menarik.
+Dialogue: 0,0:14:17.34,0:14:18.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:14:18.07,0:14:20.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}O-Oh, maksud Anda, hanya untuk sesaat?
+Dialogue: 0,0:14:21.57,0:14:25.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, kau sangat menarik. Kau diterima.
+Dialogue: 0,0:14:33.03,0:14:35.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan tato kerangka di kulitnya
+Dialogue: 0,0:14:35.48,0:14:38.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan cat tubuh yang sesuai\Ndengan desain pakaian,
+Dialogue: 0,0:14:39.34,0:14:42.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}mereka bilang polanya\Nseperti keluar dari pakaian.
+Dialogue: 0,0:14:42.76,0:14:44.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh?
+Dialogue: 0,0:14:44.94,0:14:47.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hmm... Aku sama sekali\Ntak bisa membayangkannya.
+Dialogue: 0,0:14:47.89,0:14:51.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Polanya sangat mencolok. Aku dipanggil\Nuntuk tampil di banyak peragaan.
+Dialogue: 0,0:14:51.89,0:14:55.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami, kaum tak kasatmata,\Nselalu dianggap sama karena tak terlihat.
+Dialogue: 0,0:14:55.58,0:15:01.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi dipikir-pikir, cat tubuh dan\Ntato ini adalah caraku berekspresi.
+Dialogue: 0,0:15:05.99,0:15:09.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Inilah satu-satunya caraku\Nmengekspresikan diri.
+Dialogue: 0,0:15:11.19,0:15:12.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mengekspresikan diri...
+Dialogue: 0,0:15:19.32,0:15:21.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka mirip sekali.
+Dialogue: 0,0:15:23.95,0:15:29.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, apa warga desa tak kesulitan\Njika semuanya tak terlihat?
+Dialogue: 0,0:15:29.64,0:15:30.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang tak kasatmata memiliki organ
+Dialogue: 0,0:15:30.96,0:15:34.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}yang memungkinkan mereka merasakan kaumnya.
+Dialogue: 0,0:15:34.05,0:15:37.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka bisa merasakan hawa\Nkeberadaan satu sama lain
+Dialogue: 0,0:15:37.16,0:15:39.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan membedakan individu.
+Dialogue: 0,0:15:39.30,0:15:42.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi bagi kaum tak kasatmata\Nyang tumbuh di kota sepertiku,
+Dialogue: 0,0:15:42.96,0:15:45.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}organ itu cenderung kurang berkembang.
+Dialogue: 0,0:15:47.07,0:15:52.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku belajar membedakan\Norang-orang dari suara dan aroma
+Dialogue: 0,0:15:52.58,0:15:54.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}saat masih SD.
+Dialogue: 0,0:15:54.19,0:15:56.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ema, itu kau?
+Dialogue: 0,0:15:56.43,0:15:58.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Tahu dari mana?
+Dialogue: 0,0:15:58.47,0:16:00.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya orang lain tak bisa melakukannya.
+Dialogue: 0,0:16:00.95,0:16:02.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu membuat mereka cukup kaget.
+Dialogue: 0,0:16:02.94,0:16:06.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku paham.\NTubuh kita beradaptasi dengan lingkungan.
+Dialogue: 0,0:16:06.81,0:16:09.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tumbuh bersama ras lain yang terlihat.
+Dialogue: 0,0:16:09.88,0:16:13.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya. Aku belajar membedakan orang,
+Dialogue: 0,0:16:13.18,0:16:15.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}bukan karena sengaja berusaha,
+Dialogue: 0,0:16:15.51,0:16:18.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}atau karena orang lain membantuku,
+Dialogue: 0,0:16:18.31,0:16:22.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi karena aku hidup sebagai tunanetra.
+Dialogue: 0,0:16:22.30,0:16:25.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bisa membedakannya karena terpaksa.
+Dialogue: 0,0:16:25.46,0:16:27.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat memahaminya.
+Dialogue: 0,0:16:27.56,0:16:29.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Namun...
+Dialogue: 0,0:16:29.26,0:16:34.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena itu juga,\Naku sangat bersyukur bisa mengenalmu.
+Dialogue: 0,0:16:36.85,0:16:39.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, kalian berdua, cari kamar sana.
+Dialogue: 0,0:16:40.23,0:16:41.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami pamit dulu.
+Dialogue: 0,0:16:41.15,0:16:42.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih banyak!
+Dialogue: 0,0:16:42.69,0:16:44.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aki, mampirlah ke restoranku sesekali.
+Dialogue: 0,0:16:44.91,0:16:46.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, sampai jumpa.
+Dialogue: 0,0:16:53.89,0:16:55.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Banyak prasangka terhadap kaum tak kasatmata
+Dialogue: 0,0:16:55.40,0:16:57.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}berdasarkan terlihat atau tidaknya kami.
+Dialogue: 0,0:16:58.35,0:17:00.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami dihargai karena tak terlihat,
+Dialogue: 0,0:17:00.36,0:17:02.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi dicurigai karena tak terlihat,
+Dialogue: 0,0:17:02.36,0:17:03.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}ditakuti,
+Dialogue: 0,0:17:03.85,0:17:05.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan diabaikan.
+Dialogue: 0,0:17:06.28,0:17:10.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi aku yakin semua itu\Ntak penting bagi Shizuka.
+Dialogue: 0,0:17:18.14,0:17:19.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka.
+Dialogue: 0,0:17:19.35,0:17:20.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya?
+Dialogue: 0,0:17:22.78,0:17:24.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bersyukur bisa bertemu denganmu.
+Dialogue: 0,0:17:25.18,0:17:27.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau blak-blakan sekali.
+Dialogue: 0,0:17:27.77,0:17:30.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itulah yang kurasakan di hatiku saat ini.
+Dialogue: 0,0:17:30.38,0:17:33.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau selalu saja begitu blak-blakan.
+Dialogue: 0,0:17:33.02,0:17:39.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena aku tak kasatmata, emosiku\Nhanya bisa diungkapkan lewat kata-kata.
+Dialogue: 0,0:17:39.17,0:17:39.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah.
+Dialogue: 0,0:17:45.30,0:17:49.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jantungku berdebar sangat\Nkencang saat kau melakukannya.
+Dialogue: 0,0:17:50.22,0:17:53.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tiap tutur kata dan tindakan kecilmu
+Dialogue: 0,0:17:53.79,0:17:55.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}juga membuat jantungku berdebar kencang.
+Dialogue: 0,0:17:55.17,0:17:57.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau bohong...
+Dialogue: 0,0:17:59.53,0:18:00.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tak bohong.
+Dialogue: 0,0:18:12.24,0:18:13.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya sampai juga.
+Dialogue: 0,0:18:13.94,0:18:14.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak.
+Dialogue: 0,0:18:16.29,0:18:17.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Fu!
+Dialogue: 0,0:18:17.81,0:18:21.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seharusnya kau bilang kalau mau datang.\NAda apa?
+Dialogue: 0,0:18:23.43,0:18:24.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mana Tonome?
+Dialogue: 0,0:18:24.78,0:18:27.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia tak mengantarmu pulang sepulang kerja?
+Dialogue: 0,0:18:27.28,0:18:30.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akira masih bekerja!
+Dialogue: 0,0:18:30.02,0:18:32.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Detektif tak punya jam kerja pasti!
+Dialogue: 0,0:18:32.70,0:18:33.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah...
+Dialogue: 0,0:18:34.21,0:18:35.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong, aku lapar nih.
+Dialogue: 0,0:18:35.85,0:18:37.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bawa aku ke tempat makan enak.
+Dialogue: 0,0:18:37.62,0:18:40.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa? Gajianku kan baru minggu depan...
+Dialogue: 0,0:18:43.42,0:18:46.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayah memberiku uang saku\Nmakan malam 10.000 yen.
+Dialogue: 0,0:18:46.08,0:18:47.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Asyik, ayo pergi!
+Dialogue: 0,0:18:47.42,0:18:51.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah menyimpan beberapa\Nrestoran di aplikasi navigasiku.
+Dialogue: 0,0:18:55.09,0:18:55.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:18:57.72,0:19:00.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Ada apa?
+Dialogue: 0,0:19:00.60,0:19:04.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada pria tak kasatmata berjas. Itu Tonome?
+Dialogue: 0,0:19:04.34,0:19:06.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?! Akira ada di dekat sini?!
+Dialogue: 0,0:19:06.56,0:19:08.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kupastikan itu dia atau bukan.
+Dialogue: 0,0:19:08.35,0:19:11.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah? Dipastikan?
+Dialogue: 0,0:19:13.82,0:19:14.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pegang ini.
+Dialogue: 0,0:19:20.28,0:19:22.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome!
+Dialogue: 0,0:19:23.41,0:19:25.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih banyak!
+Dialogue: 0,0:19:27.83,0:19:28.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak.
+Dialogue: 0,0:19:28.82,0:19:30.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kau sudah kembali.
+Dialogue: 0,0:19:30.30,0:19:32.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana? Benar itu Akira?
+Dialogue: 0,0:19:32.25,0:19:35.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tonome itu tukang selingkuh.
+Dialogue: 0,0:19:35.30,0:19:36.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari kita labrak dia.
+Dialogue: 0,0:19:36.50,0:19:38.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bicara apa kau ini?
+Dialogue: 0,0:19:39.08,0:19:42.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang benar saja, mau membuntuti Akira?
+Dialogue: 0,0:19:42.19,0:19:44.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia itu detektif. Dia akan sadar dibuntuti.
+Dialogue: 0,0:19:44.26,0:19:46.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia yang main gila di belakangmu.
+Dialogue: 0,0:19:46.13,0:19:47.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan melabraknya bagaimanapun caranya.
+Dialogue: 0,0:19:47.89,0:19:50.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lagi pula,\Nini sudah masuk penipuan pernikahan.
+Dialogue: 0,0:19:50.10,0:19:54.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayolah, Akira tak mungkin melakukan hal itu.
+Dialogue: 0,0:19:54.31,0:19:58.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Buktimu belum cukup untuk\Nbilang kalau dia selingkuh.
+Dialogue: 0,0:19:58.83,0:20:01.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak, dia memberinya cincin. Sudah pasti.
+Dialogue: 0,0:20:01.81,0:20:06.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Heh. Astaga. Kau amatir sekali, Fu.
+Dialogue: 0,0:20:06.62,0:20:10.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku kan bekerja di agensi detektif!
+Dialogue: 0,0:20:10.86,0:20:13.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau juga amatir. Kau kan bukan detektif.
+Dialogue: 0,0:20:13.57,0:20:16.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah. Mereka masuk ke sebuah gedung.
+Dialogue: 0,0:20:25.37,0:20:26.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau gugup?
+Dialogue: 0,0:20:26.58,0:20:29.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya, sangat.
+Dialogue: 0,0:20:31.30,0:20:32.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hah?
+Dialogue: 0,0:20:32.21,0:20:33.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah! Ah!
+Dialogue: 0,0:20:36.97,0:20:40.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Fu, kau di mana?! Jangan tinggalkan aku!
+Dialogue: 0,0:20:40.60,0:20:42.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini kaca? Jendela?
+Dialogue: 0,0:20:42.26,0:20:44.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Fu! Ayolah!
+Dialogue: 0,0:21:01.49,0:21:03.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Shizuka, sebelah sini.
+Dialogue: 0,0:21:04.24,0:21:05.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh?
+Dialogue: 0,0:21:05.75,0:21:07.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Akira?
+Dialogue: 0,0:21:13.99,0:21:14.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh.
+Dialogue: 0,0:21:16.55,0:21:17.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku lupa.
+Dialogue: 0,0:21:17.50,0:21:20.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em... Eh...
+Dialogue: 0,0:21:20.06,0:21:22.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}K-Kebetulan sekali.
+Dialogue: 0,0:21:22.21,0:21:25.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maafkan aku, tapi aku sedang bekerja.
+Dialogue: 0,0:21:25.50,0:21:27.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bisakah kita bahas nanti?
+Dialogue: 0,0:21:28.73,0:21:30.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kerja?
+Dialogue: 0,0:21:34.97,0:21:38.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Em, maaf sudah mengganggu...
+Dialogue: 0,0:21:38.03,0:21:39.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}K-Kakak!
+Dialogue: 0,0:21:39.26,0:21:40.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ah!
+Dialogue: 0,0:21:43.27,0:21:46.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah lama mencarimu!
+Dialogue: 0,0:21:46.07,0:21:48.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah 20 tahun lamanya...
+Dialogue: 0,0:21:48.57,0:21:50.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya kita bertemu lagi!
+Dialogue: 0,0:21:50.62,0:21:51.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya!
+Dialogue: 0,0:21:58.71,0:22:00.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau baik-baik saja?!
+Dialogue: 0,0:22:00.58,0:22:02.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat merindukanmu!
+Dialogue: 0,0:22:02.81,0:22:03.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga!
+Dialogue: 0,0:22:03.97,0:22:05.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita biarkan mereka dulu?
+Dialogue: 0,0:22:07.25,0:22:09.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kau mau ikut makan malam?
