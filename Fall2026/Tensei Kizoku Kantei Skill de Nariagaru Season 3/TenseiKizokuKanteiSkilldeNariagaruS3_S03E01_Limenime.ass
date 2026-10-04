@@ -22,369 +22,349 @@ Style: sign,Basic Comical NC,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:23.65,0:01:29.49,sign,,0000,0000,0000,,EPISODE 24: BUPATI
-Dialogue: 0,0:01:41.00,0:01:46.00,sign,,0000,0000,0000,,ISTANA ARCANTEZ
-Dialogue: 0,0:01:58.01,0:02:02.89,sign,,0000,0000,0000,,BASAMARC SAREMAQUIA
-Dialogue: 0,0:02:22.13,0:02:27.17,sign,,0000,0000,0000,,ISTANA CANARRE
-Dialogue: 0,0:02:33.17,0:02:36.59,sign,,0000,0000,0000,,PEMIMPIN BARU
-Dialogue: 0,0:05:58.00,0:05:58.67,sign,,0000,0000,0000,,ZAT BROZD, PRIA 31 TAHUN
-Dialogue: 0,0:05:58.67,0:05:59.22,sign,,0000,0000,0000,,KEPEMIMPINAN 51, KEBERANIAN 81,
-Dialogue: 0,0:05:59.22,0:06:00.11,sign,,0000,0000,0000,,KEBIJAKSANAAN 71, POLITIK 70, AMBISI 56
-Dialogue: 0,0:06:00.11,0:06:01.26,sign,,0000,0000,0000,,INFANTERI A, KAVALERI C, MEMANAH C, SIHIR D,
-Dialogue: 0,0:06:01.26,0:06:02.53,sign,,0000,0000,0000,,KONSTRUKSI D, KESENJATAAN D, ANGKATAN LAUT D,
-Dialogue: 0,0:06:02.53,0:06:03.47,sign,,0000,0000,0000,,ANGKATAN UDARA D, STRATEGI C
-Dialogue: 0,0:08:31.53,0:08:32.85,sign,,0000,0000,0000,,KEPEMIMPINAN 102, KEBIJAKSANAAN 61,
-Dialogue: 0,0:08:32.85,0:08:34.08,sign,,0000,0000,0000,,KEBERANIAN 92, POLITIK 55, AMBISI 88
-Dialogue: 0,0:08:34.08,0:08:35.60,sign,,0000,0000,0000,,KAVALERI A, MEMANAH B, KONSTRUKSI C,
-Dialogue: 0,0:08:35.60,0:08:36.78,sign,,0000,0000,0000,,KESENJATAAN D, ANGKATAN UDARA D, STRATEGI D
-Dialogue: 0,0:09:06.62,0:09:07.39,sign,,0000,0000,0000,,MUSHA TRICK, WANITA 16 TAHUN
-Dialogue: 0,0:09:07.39,0:09:08.19,sign,,0000,0000,0000,,MUSHA TRICK, KEPEMIMPINAN 76, KEBERANIAN 41,
-Dialogue: 0,0:09:08.19,0:09:08.82,sign,,0000,0000,0000,,KEBIJAKSANAAN 73, POLITIK 75, AMBISI 32
-Dialogue: 0,0:09:08.82,0:09:10.43,sign,,0000,0000,0000,,INFANTERI D, KAVALERI D, MEMANAH D, SIHIR A,
-Dialogue: 0,0:09:10.43,0:09:11.79,sign,,0000,0000,0000,,KONSTRUKSI D, KESENJATAAN D, ANGKATAN LAUT D,
-Dialogue: 0,0:09:11.79,0:09:13.12,sign,,0000,0000,0000,,ANGKATAN UDARA D, STRATEGI C
-Dialogue: 0,0:09:13.12,0:09:15.62,sign,,0000,0000,0000,,SIHIR A
-Dialogue: 0,0:11:04.77,0:11:06.77,sign,,0000,0000,0000,,PENGELOLAAN CANARRE
-Dialogue: 0,0:13:54.31,0:13:57.94,sign,,0000,0000,0000,,AS A REINCARNATED ARISTOCRAT, I'LL USE MY\NAPPRAISAL SKILL TO RISE IN THE WORLD SEASON 3
-Dialogue: 0,0:13:58.36,0:14:01.95,sign,,0000,0000,0000,,AS A REINCARNATED ARISTOCRAT, I'LL USE MY\NAPPRAISAL SKILL TO RISE IN THE WORLD SEASON 3
-Dialogue: 0,0:18:48.44,0:18:51.03,sign,,0000,0000,0000,,ISTANA CANARRE
-Dialogue: 0,0:23:37.48,0:23:40.48,sign,,0000,0000,0000,,SELANJUTNYA: CANARRE DALAM BAHAYA
-Dialogue: 0,0:00:01.85,0:00:04.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tahun 211, kalender kekaisaran.
-Dialogue: 0,0:00:04.68,0:00:07.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di Provinsi Missian, Kekaisaran Summerforth.
-Dialogue: 0,0:00:07.68,0:00:10.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dibunuhnya gubernur memicu sengketa
-Dialogue: 0,0:00:10.90,0:00:17.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}antara kedua putranya, Cran Saremaquia\Ndan Basamarc Saremaquia.
-Dialogue: 0,0:00:17.08,0:00:22.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya, meletuslah perang saudara\Nyang disebut Perang Suksesi.
-Dialogue: 0,0:00:23.59,0:00:26.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ars yang bereinkarnasi dan lahir
-Dialogue: 0,0:00:26.26,0:00:28.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}di wilayah terpencil Lamberg
-Dialogue: 0,0:00:28.97,0:00:31.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}menemukan bakat-bakat terpendam
-Dialogue: 0,0:00:31.45,0:00:35.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dengan skill penilaian\Nyang dianugerahkan padanya.
-Dialogue: 0,0:00:35.82,0:00:41.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia mengumpulkan rekan-rekan hebat\Ndemi membuat wilayah terkuat.
-Dialogue: 0,0:00:42.43,0:00:45.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menghadapi Provinsi Seitz\Nyang bersekutu dengan Basamarc,
-Dialogue: 0,0:00:45.90,0:00:51.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kelompok Ars berhasil bernegosiasi\Ndengan kekaisaran dengan lancar.
-Dialogue: 0,0:00:51.97,0:00:56.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perang di Samuc\Nadalah kemenangan perdana Ars.
-Dialogue: 0,0:00:56.12,0:01:01.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dan di Rolto, teman-teman Ars\Nmenemukan bakat mereka.
-Dialogue: 0,0:01:02.14,0:01:05.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelah pertemuan baru,\Nkemenangan pun diraih.
-Dialogue: 0,0:01:06.74,0:01:10.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelah mengalahkan Thomas,\Ntangan kanan Basamarc,
-Dialogue: 0,0:01:10.21,0:01:14.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}pasukan Cran berhasil menaklukkan Verzud.
-Dialogue: 0,0:01:15.18,0:01:21.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berkat prestasi itu,\NArs diangkat jadi Bupati Canarre.
-Dialogue: 0,0:01:24.58,0:01:26.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami buka lowongan!
-Dialogue: 0,0:01:26.66,0:01:29.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jenis kelamin dan status bukan masalah,
-Dialogue: 0,0:01:29.49,0:01:33.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars mencari pejuang\Nuntuk melindungi Canarre.
-Dialogue: 0,0:01:33.28,0:01:37.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang berminat, silakan daftar!
-Dialogue: 0,0:01:41.79,0:01:46.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, ternyata sudah sejauh itu.
-Dialogue: 0,0:01:46.00,0:01:51.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebentar lagi, pasukan Tuan Cran\Npasti tiba di Arcantez.
-Dialogue: 0,0:01:52.37,0:01:58.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kakak Anda memang luar biasa\Nbisa mengalahkan Thomas.
-Dialogue: 0,0:01:58.88,0:02:02.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dari dulu, keahliannya cuma kekerasan.
-Dialogue: 0,0:02:09.57,0:02:13.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kirim kuda untuk memeriksa\Nkekuatan tempur mereka.
-Dialogue: 0,0:02:13.36,0:02:16.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pakai kuda yang kuat melewati gunung.
-Dialogue: 0,0:02:22.13,0:02:26.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Beri hormat untuk Tuan Ars, Bupati Canarre!
-Dialogue: 0,0:02:27.17,0:02:29.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelah diangkat jadi bupati,
-Dialogue: 0,0:02:29.81,0:02:33.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku pindah dari Lamberg ke Canarre.
-Dialogue: 0,0:02:34.59,0:02:36.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, jangan petakilan!
-Dialogue: 0,0:02:38.66,0:02:41.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, kamar ini boleh buatku...
-Dialogue: 0,0:02:41.65,0:02:44.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, siapa cepat dia dapat.
-Dialogue: 0,0:02:46.37,0:02:48.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mau kamar ini...
-Dialogue: 0,0:02:49.46,0:02:50.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Luas banget!
-Dialogue: 0,0:02:50.24,0:02:51.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kasurku di sini!
-Dialogue: 0,0:02:51.87,0:02:54.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ih, curang!
-Dialogue: 0,0:02:55.50,0:02:58.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini kamarku, titik!
-Dialogue: 0,0:02:58.43,0:03:00.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kebetulan.
-Dialogue: 0,0:03:01.26,0:03:03.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tolong urus aku, ya.
-Dialogue: 0,0:03:03.52,0:03:05.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Si-Sial banget.
-Dialogue: 0,0:03:06.00,0:03:09.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada gudang anggur, mantap!
-Dialogue: 0,0:03:16.47,0:03:21.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}I-Ini jauh lebih luas dari di Lamberg,\Nsudah kayak labirin.
-Dialogue: 0,0:03:21.34,0:03:24.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ars! Ini enak, lo!
-Dialogue: 0,0:03:26.03,0:03:27.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Roti dari mana itu?
-Dialogue: 0,0:03:27.74,0:03:31.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Anak-anak panti buka toko roti.
-Dialogue: 0,0:03:31.07,0:03:32.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semuanya sehat.
-Dialogue: 0,0:03:32.94,0:03:36.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka tambah besar\Nsejak terakhir kita bertemu.
-Dialogue: 0,0:03:36.21,0:03:38.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, mereka?
-Dialogue: 0,0:03:42.98,0:03:46.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rietz, bisa tolong panggil yang lain?
-Dialogue: 0,0:03:46.58,0:03:48.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin bicara.
-Dialogue: 0,0:03:49.55,0:03:52.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi ada apa?
-Dialogue: 0,0:03:52.21,0:03:56.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin salah satu dari kalian\Njadi pemimpin Lamberg.
-Dialogue: 0,0:03:57.41,0:04:03.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perlu ada yang mengurus Lamberg\Nmenggantikan Tuan Ars, ya?
-Dialogue: 0,0:04:03.99,0:04:06.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mau pilih siapa?
-Dialogue: 0,0:04:06.18,0:04:08.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}A-Aku tidak akan bisa!
-Dialogue: 0,0:04:08.77,0:04:12.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin Mireille jadi pemimpin di sana.
-Dialogue: 0,0:04:12.22,0:04:14.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh? A-Aku?
-Dialogue: 0,0:04:14.19,0:04:18.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena menguasai militer dan politik,\Nkamu orang yang cocok.
-Dialogue: 0,0:04:18.37,0:04:21.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya, cuma Kakak yang bisa!
-Dialogue: 0,0:04:21.08,0:04:23.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pejabat wanita, keren!
-Dialogue: 0,0:04:23.41,0:04:27.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jujur aku lebih nyaman kayak sekarang, sih.
-Dialogue: 0,0:04:27.86,0:04:29.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku setuju saja.
-Dialogue: 0,0:04:29.62,0:04:32.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku kurang paham, tapi sepertinya bagus.
-Dialogue: 0,0:04:32.80,0:04:34.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan yakin?
-Dialogue: 0,0:04:34.80,0:04:39.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dilihat dari kebiasaan saja,\Ndia jauh berbeda denganmu.
-Dialogue: 0,0:04:40.22,0:04:44.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tenang saja, dia pasti bekerja dengan baik.
-Dialogue: 0,0:04:44.54,0:04:47.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hubungannya dengan warga juga baik.
-Dialogue: 0,0:04:47.78,0:04:51.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu banyak membantuku\Ndi perang sebelumnya.
-Dialogue: 0,0:04:51.19,0:04:54.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cuma kamu yang bisa kupercayakan.
-Dialogue: 0,0:04:54.98,0:04:56.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu bersedia?
-Dialogue: 0,0:05:00.35,0:05:03.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa boleh buat kalau sebegitunya.
-Dialogue: 0,0:05:03.82,0:05:06.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sip, sudah diputuskan!
-Dialogue: 0,0:05:06.08,0:05:08.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan benar-benar yakin?
-Dialogue: 0,0:05:08.96,0:05:12.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah, saatnya serah terima pekerjaan.
-Dialogue: 0,0:05:12.46,0:05:17.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, Nak, boleh kupikir-pikir dulu?
-Dialogue: 0,0:05:17.02,0:05:19.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak akan lama, kok.
-Dialogue: 0,0:05:19.62,0:05:23.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah, rapatnya sudah selesai.
-Dialogue: 0,0:05:23.10,0:05:26.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Demi membuat Canarre jadi lebih baik,
-Dialogue: 0,0:05:26.88,0:05:28.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}mohon bantuan kalian.
-Dialogue: 0,0:05:28.81,0:05:30.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik!
-Dialogue: 0,0:05:30.22,0:05:33.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Waktunya latihan!
-Dialogue: 0,0:05:33.22,0:05:36.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sisa anggurnya diapakan, ya...
-Dialogue: 0,0:05:36.66,0:05:40.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, iya, bagaimana kabar dua orang\Nyang baru kurekrut?
-Dialogue: 0,0:05:41.10,0:05:44.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eng, soal itu...
-Dialogue: 0,0:05:44.20,0:05:47.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, tapi aku mau berhenti.
-Dialogue: 0,0:05:48.10,0:05:50.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelah jadi bupati Canarre,
-Dialogue: 0,0:05:50.18,0:05:54.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku merekrut dan mendapat dua orang baru.
-Dialogue: 0,0:05:55.12,0:05:58.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang ini salah satunya, Zat Brozd.
-Dialogue: 0,0:05:58.00,0:06:00.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Petarung andal yang malang melintang
-Dialogue: 0,0:06:00.11,0:06:01.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}di Kekaisaran Summerforth
-Dialogue: 0,0:06:01.26,0:06:03.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}sebagai pemburu hadiah dan tentara bayaran.
-Dialogue: 0,0:06:04.02,0:06:04.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Keberanian,
-Dialogue: 0,0:06:04.97,0:06:06.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kebijaksanaan,
-Dialogue: 0,0:06:06.47,0:06:08.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan nilai politiknya cukup tinggi.
-Dialogue: 0,0:06:08.97,0:06:10.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa?
-Dialogue: 0,0:06:10.53,0:06:14.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu tidak puas dijadikan\Nwakil kapten pasukan elite?
-Dialogue: 0,0:06:14.48,0:06:18.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Justru aku senang dengan posisi itu, tapi...
-Dialogue: 0,0:06:18.56,0:06:20.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Zat!
-Dialogue: 0,0:06:21.44,0:06:25.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sini duel sama kaptenmu!
-Dialogue: 0,0:06:26.29,0:06:27.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo!
-Dialogue: 0,0:06:28.02,0:06:30.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dua dekade lamanya aku\Ndi medan tempur sejak usia 10.
-Dialogue: 0,0:06:30.91,0:06:33.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski mau mengabdi untuk Canarre,
-Dialogue: 0,0:06:33.30,0:06:36.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku tidak sudi jadi bawahan si bodoh ini!
-Dialogue: 0,0:06:36.46,0:06:39.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa? Mana orang bodohnya?
-Dialogue: 0,0:06:40.18,0:06:42.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Intinya, aku mengundurkan diri.
-Dialogue: 0,0:06:42.32,0:06:46.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tu-Tunggu!\NTolong pertimbangkan lagi!
-Dialogue: 0,0:06:46.48,0:06:49.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami membutuhkanmu!
-Dialogue: 0,0:06:49.89,0:06:53.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ya sudah, Rietz, jadikan aku bawahanmu.
-Dialogue: 0,0:06:53.89,0:06:55.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mau atasan yang bisa kompromi.
-Dialogue: 0,0:06:55.85,0:06:58.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku bukan kapten.
-Dialogue: 0,0:07:00.80,0:07:03.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ternyata memang sia-sia.
-Dialogue: 0,0:07:03.09,0:07:04.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Zat.
-Dialogue: 0,0:07:05.07,0:07:08.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini pedang kayumu, ayo bertarung.
-Dialogue: 0,0:07:08.53,0:07:10.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu tidak mendengarkan, ya?
-Dialogue: 0,0:07:10.80,0:07:11.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Anu!
-Dialogue: 0,0:07:12.54,0:07:15.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cobalah bertarung dengan Braham.
-Dialogue: 0,0:07:15.94,0:07:22.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau bisa mengalahkan sang kapten,\Nposisimu akan kami evaluasi.
-Dialogue: 0,0:07:23.18,0:07:24.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah.
-Dialogue: 0,0:07:28.89,0:07:32.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mustahil aku kalah dari orang bodoh ini.
-Dialogue: 0,0:07:33.65,0:07:35.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kutunjukkan jauhnya
-Dialogue: 0,0:07:35.83,0:07:37.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}pengalaman kami.
-Dialogue: 0,0:07:45.60,0:07:47.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku menang.
-Dialogue: 0,0:07:47.20,0:07:50.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia kuat sekali!
-Dialogue: 0,0:07:50.20,0:07:56.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setelah belajar dari Rietz, Braham makin kuat\Nhanya dalam beberapa bulan.
-Dialogue: 0,0:07:56.37,0:07:59.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia sama pentingnya dengan Zat.
-Dialogue: 0,0:08:00.35,0:08:03.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski bertolak belakang,
-Dialogue: 0,0:08:03.06,0:08:06.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku merasa kalian bisa saling melengkapi.
-Dialogue: 0,0:08:07.09,0:08:12.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Zat, maukah kamu menopang Braham\Nsebagai wakil kaptennya?
-Dialogue: 0,0:08:16.88,0:08:20.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baiklah, aku bersedia.
-Dialogue: 0,0:08:21.18,0:08:23.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku senang!\NMohon kerja samanya!
-Dialogue: 0,0:08:23.74,0:08:25.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih.
-Dialogue: 0,0:08:25.98,0:08:28.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa dia dipasangkan dengan Braham?
-Dialogue: 0,0:08:28.80,0:08:31.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Potensi kepemimpinan Braham
-Dialogue: 0,0:08:31.53,0:08:34.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}bahkan bisa melampauimu.
-Dialogue: 0,0:08:34.08,0:08:36.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi dia butuh bimbingan.
-Dialogue: 0,0:08:36.78,0:08:38.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itulah tugas Zat.
-Dialogue: 0,0:08:38.82,0:08:42.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau bersama Zat yang cerdas\Ndan berpengalaman,
-Dialogue: 0,0:08:42.66,0:08:46.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dia bisa jadi panglima besar!
-Dialogue: 0,0:08:46.05,0:08:48.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi Braham harus diakui dulu.
-Dialogue: 0,0:08:48.88,0:08:50.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Be-Betul.
-Dialogue: 0,0:08:55.33,0:08:56.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tu-Tuan Ars!
-Dialogue: 0,0:08:56.72,0:08:58.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Musha, kamu baik-baik saja?
-Dialogue: 0,0:08:58.77,0:09:01.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maafkan aku!
-Dialogue: 0,0:09:01.71,0:09:06.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia rekrutan baru yang satu lagi,\NMusha Trick.
-Dialogue: 0,0:09:06.62,0:09:08.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia gadis desa pinggiran Canarre
-Dialogue: 0,0:09:08.82,0:09:11.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}yang daftar untuk bidang administrasi.
-Dialogue: 0,0:09:11.79,0:09:13.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi ternyata,
-Dialogue: 0,0:09:13.12,0:09:15.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dia punya bakat terpendam.
-Dialogue: 0,0:09:15.62,0:09:18.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Musha, sekarang giliranmu.
-Dialogue: 0,0:09:18.25,0:09:21.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ba-Baik!
-Dialogue: 0,0:09:24.05,0:09:25.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu baik-baik saja?
-Dialogue: 0,0:09:32.42,0:09:35.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bidik target
-Dialogue: 0,0:09:35.14,0:09:38.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}lalu rapalkan mantra.
-Dialogue: 0,0:09:38.14,0:09:41.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lo? Aku lupa mantranya.
-Dialogue: 0,0:09:41.14,0:09:44.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Fo-Forma...
-Dialogue: 0,0:09:44.82,0:09:46.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidak bisa.
-Dialogue: 0,0:09:48.40,0:09:50.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, tenanglah.
-Dialogue: 0,0:09:50.75,0:09:52.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cha-Charlotte?
-Dialogue: 0,0:09:53.70,0:09:57.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ingat, jangan lihat targetnya kalau gugup.
-Dialogue: 0,0:09:57.71,0:09:58.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tutup saja matamu.
-Dialogue: 0,0:10:00.82,0:10:03.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Yang penting konsentrasi dulu.
-Dialogue: 0,0:10:03.89,0:10:05.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Coba lakukan.
-Dialogue: 0,0:10:10.82,0:10:12.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Forma.
-Dialogue: 0,0:10:12.72,0:10:14.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Igni.
-Dialogue: 0,0:10:14.55,0:10:15.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Erupt!
-Dialogue: 0,0:10:18.31,0:10:19.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dahsyat sekali!
-Dialogue: 0,0:10:19.81,0:10:24.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Luar biasa!\NPantas saja kamu dipilih ketua kami!
-Dialogue: 0,0:10:31.24,0:10:34.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah, parah.
-Dialogue: 0,0:10:34.20,0:10:39.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sangat takjub waktu Charlotte\Npertama kali memakai sihir.
-Dialogue: 0,0:10:39.87,0:10:41.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sama seperti sekarang.
-Dialogue: 0,0:10:42.59,0:10:46.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski sifatnya kurang cocok dalam perang,
-Dialogue: 0,0:10:46.16,0:10:49.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kalau dia mulai terbiasa\Ndan dipadukan dengan Charlotte...
-Dialogue: 0,0:10:50.30,0:10:54.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kemungkinan kita akan punya\Npasukan sihir terbaik di Missian.
-Dialogue: 0,0:10:54.69,0:10:57.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami punya banyak orang hebat.
-Dialogue: 0,0:10:57.49,0:11:01.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Canarre pasti mengalami perubahan besar.
-Dialogue: 0,0:11:04.77,0:11:06.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah, Tuan Ars.
-Dialogue: 0,0:11:06.77,0:11:09.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu sedang bekerja?
-Dialogue: 0,0:11:09.15,0:11:11.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, biar kubantu.
-Dialogue: 0,0:11:12.46,0:11:15.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku cuma membaca berkas bupati sebelumnya.
-Dialogue: 0,0:11:15.89,0:11:21.41,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Lemaire dan Tuan Menas mencatat\Ninformasi Canarre secara detail.
-Dialogue: 0,0:11:21.41,0:11:26.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Skala sebesar ini membuat Lamberg\Nserasa sangat kecil.
-Dialogue: 0,0:11:26.66,0:11:30.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyusun anggaran akan lebih mudah pakai ini.
-Dialogue: 0,0:11:30.10,0:11:36.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebaiknya Ayah dan Tuan Klar segera dikabari\Nsoal rencana kebijakan kita.
-Dialogue: 0,0:11:36.70,0:11:38.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Setuju.
-Dialogue: 0,0:11:39.68,0:11:43.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia selalu bisa diandalkan.
-Dialogue: 0,0:11:43.18,0:11:44.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, iya.
-Dialogue: 0,0:11:45.52,0:11:49.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada surat untukmu dari Lamberg.
-Dialogue: 0,0:11:49.42,0:11:51.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dari Ann si kepala maid?
-Dialogue: 0,0:11:55.28,0:12:01.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars, maaf mengirim surat\Nmeski Anda baru pindah ke Canarre.
-Dialogue: 0,0:12:01.58,0:12:06.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi takutnya Krantz si pelayan\Nkepalang tumbang.
-Dialogue: 0,0:12:06.66,0:12:12.96,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini soal Shin Seimaro yang Tuan Ars\Nundang ke Lamberg.
-Dialogue: 0,0:12:15.09,0:12:19.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Shin, kali ini apa lagi?
-Dialogue: 0,0:12:24.47,0:12:26.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gu-Gudangnya...
-Dialogue: 0,0:12:31.84,0:12:33.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lagi-lagi gagal.
-Dialogue: 0,0:12:33.74,0:12:36.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi tenang, selanjutnya pasti berhasil.
-Dialogue: 0,0:12:36.42,0:12:37.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa?
-Dialogue: 0,0:12:37.97,0:12:42.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Penelitian Tuan Shin mengacaukan\Nkeuangan Keluarga Louvent.
-Dialogue: 0,0:12:42.75,0:12:47.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Krantz sebagai pengurus keuangan, tiap hari\Nmengejar Tuan Shin dengan wajah merah.
-Dialogue: 0,0:12:47.89,0:12:51.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku takut pembuluh darahnya pecah.
-Dialogue: 0,0:12:53.50,0:12:59.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga melampirkan laporan\Nhasil penelitian Tuan Shin.
-Dialogue: 0,0:12:59.79,0:13:02.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski Krantz terus mengeluh,
-Dialogue: 0,0:13:02.64,0:13:08.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku merasa terbantu karena sumurnya\Njadi bisa menimba otomatis.
-Dialogue: 0,0:13:08.77,0:13:11.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini kapal?
-Dialogue: 0,0:13:11.06,0:13:13.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari siapkan anggaran tambahan.
-Dialogue: 0,0:13:13.38,0:13:17.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau Krantz tumbang,\NKeluarga Louvent bisa gawat.
-Dialogue: 0,0:13:17.46,0:13:23.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars sangat yakin Shin bisa membuat\Nkapal yang melayang di udara, ya?
-Dialogue: 0,0:13:23.46,0:13:26.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gagal itu wajar dalam mencoba.
-Dialogue: 0,0:13:26.03,0:13:32.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kalau berhasil,\Nteknologinya akan memudahkan kita.
-Dialogue: 0,0:13:32.00,0:13:34.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dan Shin itu orang baik.
-Dialogue: 0,0:13:35.54,0:13:37.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars tidak pernah berubah.
-Dialogue: 0,0:13:37.55,0:13:40.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh? Be-Benarkah?
-Dialogue: 0,0:13:40.19,0:13:42.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Padahal aku tambah tinggi.
-Dialogue: 0,0:13:42.70,0:13:44.43,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tahu.
-Dialogue: 0,0:13:44.43,0:13:46.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kok tahu?
-Dialogue: 0,0:13:46.83,0:13:49.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kapan kamu mengukurnya?
-Dialogue: 0,0:13:49.39,0:13:50.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rahasia.
-Dialogue: 0,0:13:50.81,0:13:53.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh? Kok rahasia?
-Dialogue: 0,0:14:01.95,0:14:05.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ars, aku membawakan makanan.
-Dialogue: 0,0:14:05.95,0:14:09.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berkas perbaikan jalan utama sudah kususun!\NMohon ditandatangani!
-Dialogue: 0,0:14:09.91,0:14:12.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada berkas dari serikat dagang!
-Dialogue: 0,0:14:12.50,0:14:15.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Poin pentingnya sudah kucatat,\Ntolong diperiksa!
-Dialogue: 0,0:14:15.33,0:14:17.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ba-Baik!
-Dialogue: 0,0:14:18.62,0:14:19.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu tidak apa-apa?
-Dialogue: 0,0:14:19.81,0:14:21.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Charlotte!
-Dialogue: 0,0:14:21.26,0:14:22.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku membawakan makanan.
-Dialogue: 0,0:14:22.95,0:14:24.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih!
-Dialogue: 0,0:14:44.27,0:14:46.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalian terlalu sibuk.
-Dialogue: 0,0:14:46.97,0:14:49.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Istirahatlah sebentar.
-Dialogue: 0,0:14:49.12,0:14:53.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aman, aku dibantu oleh dua orang cekatan.
-Dialogue: 0,0:14:53.62,0:14:57.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, aku khawatir melihatmu belakangan ini.
-Dialogue: 0,0:14:57.74,0:15:00.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu khawatir padaku?
-Dialogue: 0,0:15:00.00,0:15:03.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bu-Bukan begitu.
-Dialogue: 0,0:15:03.74,0:15:07.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rietz, bagaimana kabar rencana yang itu?
-Dialogue: 0,0:15:07.14,0:15:09.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lancar jaya.
-Dialogue: 0,0:15:09.18,0:15:12.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Material berkasnya sudah terkumpul.
-Dialogue: 0,0:15:12.64,0:15:16.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rencana yang itu?\NYang mana?
-Dialogue: 0,0:15:16.22,0:15:17.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Charlotte.
-Dialogue: 0,0:15:17.97,0:15:19.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita keliling kota, yuk.
-Dialogue: 0,0:15:24.85,0:15:27.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ramai seperti biasa, ya.
-Dialogue: 0,0:15:27.26,0:15:31.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Banyak orang dan banyak barang,\Nbeginilah pusat kota.
-Dialogue: 0,0:15:31.78,0:15:33.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi...
-Dialogue: 0,0:15:36.59,0:15:41.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kesenjangan sosial di Canarre\Nlebih parah dari Lamberg.
-Dialogue: 0,0:15:41.46,0:15:44.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makin banyak warga miskin.
-Dialogue: 0,0:15:44.30,0:15:45.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kok bisa?
-Dialogue: 0,0:15:45.30,0:15:49.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini bukan karena kebijakan Tuan Lemaire.
-Dialogue: 0,0:15:49.62,0:15:51.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini akibat perang.
-Dialogue: 0,0:15:51.50,0:15:56.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kita menang,\Nkenapa mereka jadi miskin?
-Dialogue: 0,0:15:56.54,0:15:58.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena direkrut untuk perang,
-Dialogue: 0,0:15:59.36,0:16:02.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}para petani kekurangan orang.
-Dialogue: 0,0:16:03.30,0:16:07.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Para petani menjual lahannya\Nkarena tidak sanggup mengelola.
-Dialogue: 0,0:16:07.76,0:16:10.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya mereka jadi buruh tani.
-Dialogue: 0,0:16:10.87,0:16:14.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang yang pemasukannya berkurang\Ndan sulit bayar pajak
-Dialogue: 0,0:16:14.91,0:16:17.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}merantau ke Canarre demi mencari kerja.
-Dialogue: 0,0:16:17.87,0:16:21.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi mereka gagal dan jadi gelandangan.
-Dialogue: 0,0:16:21.18,0:16:25.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengetahuinya setelah menelaah\Ncatatan yang ada.
-Dialogue: 0,0:16:25.63,0:16:28.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau dibiarkan, pajak kita akan berkurang,
-Dialogue: 0,0:16:28.27,0:16:31.44,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kesenjangan sosial meluas,\Ndan makin marak kejahatan.
-Dialogue: 0,0:16:31.44,0:16:34.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski menang perang, ini tidak bagus.
-Dialogue: 0,0:16:34.64,0:16:38.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makanya, kita butuh langkah yang berani.
-Dialogue: 0,0:16:51.70,0:16:57.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita akan memangkas besar-besaran pajak\Nyang membebani kebutuhan hidup rakyat.
-Dialogue: 0,0:16:58.00,0:17:00.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rakyat miskin akan diberi lahan
-Dialogue: 0,0:17:00.78,0:17:02.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}untuk bertani.
-Dialogue: 0,0:17:02.45,0:17:05.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dan mereka harus jadi prajurit saat perang.
-Dialogue: 0,0:17:06.00,0:17:08.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski pendapatan berkurang,
-Dialogue: 0,0:17:08.09,0:17:12.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}ke depannya akan meningkat\Nasal daya produksi kita bertambah.
-Dialogue: 0,0:17:12.29,0:17:15.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menambah pasokan prajurit pula.
-Dialogue: 0,0:17:15.01,0:17:16.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitu, ya.
-Dialogue: 0,0:17:16.72,0:17:20.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Buat apa kamu bertempur?
-Dialogue: 0,0:17:20.09,0:17:23.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin buat kamu.
-Dialogue: 0,0:17:23.11,0:17:27.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dan buat anak-anak panti.
-Dialogue: 0,0:17:27.10,0:17:32.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nah, aku dan kamu berjuang\Ndemi melindungi sesuatu.
-Dialogue: 0,0:17:33.25,0:17:38.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau punya tanah, hidup dengan layak,\Ndan punya rasa bangga,
-Dialogue: 0,0:17:38.46,0:17:42.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}orang-orang yang di sini pun akan berjuang.
-Dialogue: 0,0:17:42.62,0:17:45.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Waktu pertama kali ke Canarre,
-Dialogue: 0,0:17:45.30,0:17:49.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku berniat memberi tempat bernaung\Nbagi para orang tidak berdaya.
-Dialogue: 0,0:17:50.54,0:17:57.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, saat itu aku belum tahu\Nbagaimana caranya.
-Dialogue: 0,0:17:57.94,0:18:00.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya aku tahu setelah menjabat.
-Dialogue: 0,0:18:01.63,0:18:05.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka akan kubuat mencintai Canarre.
-Dialogue: 0,0:18:05.15,0:18:10.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cinta bisa memperkuat rakyat\Ndan memakmurkan wilayah.
-Dialogue: 0,0:18:10.64,0:18:14.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akan kubuat semua orang\Nbisa hidup lebih baik di sini.
-Dialogue: 0,0:18:14.11,0:18:18.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gila!\NSungguh hebat kalau semuanya bahagia!
-Dialogue: 0,0:18:18.53,0:18:20.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rencanamu keren!
-Dialogue: 0,0:18:21.00,0:18:24.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Memang akan tambah sibuk, sih.
-Dialogue: 0,0:18:24.08,0:18:29.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi aku bersemangat\Nkarena makin dekat dengan mimpiku.
-Dialogue: 0,0:18:30.26,0:18:34.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski bikin khawatir, aku ingin berusaha.
-Dialogue: 0,0:18:35.55,0:18:39.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dasar, kamu memang kepala batu\Nkalau punya kemauan.
-Dialogue: 0,0:18:39.65,0:18:41.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku dukung, tapi...
-Dialogue: 0,0:18:42.43,0:18:45.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Minimal kita harus kumpul\Nkalau waktunya makan!
-Dialogue: 0,0:18:45.71,0:18:47.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, betul.
-Dialogue: 0,0:18:51.47,0:18:55.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf lama, Nak.
-Dialogue: 0,0:18:55.54,0:18:59.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dipikir-pikir, posisi itu memang vital
-Dialogue: 0,0:18:59.78,0:19:02.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan cuma aku yang cocok.
-Dialogue: 0,0:19:03.33,0:19:04.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, Nak.
-Dialogue: 0,0:19:04.66,0:19:08.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menurutmu seperti apa pemimpin yang ideal?
-Dialogue: 0,0:19:08.88,0:19:10.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kuat?
-Dialogue: 0,0:19:10.17,0:19:14.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menarik? Ahli strategi?
-Dialogue: 0,0:19:15.06,0:19:20.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski tidak punya semua itu,\Nmenurutmu kamu cocok jadi pemimpin.
-Dialogue: 0,0:19:20.48,0:19:22.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa kriteriamu?
-Dialogue: 0,0:19:22.06,0:19:25.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang yang bisa dipercaya.
-Dialogue: 0,0:19:25.98,0:19:30.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin siapa pun bisa saja menggantikanku.
-Dialogue: 0,0:19:32.06,0:19:37.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dan kalau bersamamu, jalanku pasti lancar.
-Dialogue: 0,0:19:38.00,0:19:42.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi karena itulah, Lamberg yang berharga\Ningin kupercayakan padamu.
-Dialogue: 0,0:19:43.87,0:19:48.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, berarti aku juga harus jadi seperti itu.
-Dialogue: 0,0:19:49.34,0:19:52.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rosell, aku tahu kamu di situ.
-Dialogue: 0,0:19:53.71,0:19:58.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu penasaran sama jawabanku?
-Dialogue: 0,0:19:58.11,0:20:03.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ha-Habisnya, kita akan berpisah\Nkalau Guru ke Lamberg.
-Dialogue: 0,0:20:03.95,0:20:07.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Padahal banyak yang belum kupelajari.
-Dialogue: 0,0:20:09.17,0:20:11.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ma-Makanya...
-Dialogue: 0,0:20:12.50,0:20:13.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku memercayaimu.
-Dialogue: 0,0:20:14.22,0:20:18.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukankah waktu itu kamu bisa\Nmelampaui strategiku?
-Dialogue: 0,0:20:19.04,0:20:21.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tanpa aku pun,
-Dialogue: 0,0:20:21.32,0:20:23.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}kamu bisa berkembang.
-Dialogue: 0,0:20:24.35,0:20:26.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan jadi ahli strategi hebat
-Dialogue: 0,0:20:26.83,0:20:29.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}yang kecerdikannya mengejutkanmu.
-Dialogue: 0,0:20:29.47,0:20:32.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan berusaha membantu Tuan Ars!\NMaka dari itu...
-Dialogue: 0,0:20:33.44,0:20:37.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Guru juga harus berusaha.
-Dialogue: 0,0:20:37.81,0:20:41.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentu saja, di sana akan kubuat sangat maju.
-Dialogue: 0,0:20:42.59,0:20:47.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars, meninggalkan Lamberg\Nterasa berat, ya?
-Dialogue: 0,0:20:47.63,0:20:49.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak juga.
-Dialogue: 0,0:20:49.78,0:20:54.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Soalnya orang-orang Lamberg\Nselalu terasa dekat di hati.
-Dialogue: 0,0:20:55.22,0:20:58.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Demi Mireille juga,\Naku akan melindungi Anda.
-Dialogue: 0,0:20:58.66,0:21:01.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya, mohon bantuannya.
-Dialogue: 0,0:21:01.53,0:21:06.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bermula dari Rietz,\Naku dianugerahi banyak pengikut.
-Dialogue: 0,0:21:06.69,0:21:12.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka ahli di bidang masing-masing\Ndan berkembang tanpa henti.
-Dialogue: 0,0:21:12.51,0:21:16.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Para pengikut Keluarga Louvent memang hebat.
-Dialogue: 0,0:21:16.30,0:21:18.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga harus berusaha.
-Dialogue: 0,0:21:18.61,0:21:19.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars!
-Dialogue: 0,0:21:20.82,0:21:22.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada apa?
-Dialogue: 0,0:21:22.42,0:21:24.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini pesan dari tuan kami, Kral.
-Dialogue: 0,0:21:27.63,0:21:28.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars.
-Dialogue: 0,0:21:30.26,0:21:34.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Provinsi Seitz sedang menuju Canarre\Ndengan 80.000 pasukan!
-Dialogue: 0,0:21:47.79,0:21:53.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari bicarakan setelah Canarre\Nberhasil kita taklukkan.
-Dialogue: 0,0:23:26.09,0:23:28.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rosell, kamu sudah dapat kamar?
-Dialogue: 0,0:23:28.76,0:23:31.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya, kamarnya luas dan nyaman.
-Dialogue: 0,0:23:31.93,0:23:35.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berarti, itu akan jadi kamarku juga!
-Dialogue: 0,0:23:35.60,0:23:37.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ja-Jangan, dong!
-Dialogue: 0,0:23:37.48,0:23:40.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selanjutnya, "Canarre dalam Bahaya".
+Dialogue: 0,0:00:01.02,0:00:02.90,sign,,0000,0000,0000,,ISTANA ARCANTEZ
+Dialogue: 0,0:00:02.90,0:00:06.16,sign,,0000,0000,0000,,TARGET PASUKAN SEITZ
+Dialogue: 0,0:00:09.91,0:00:13.53,sign,,0000,0000,0000,,GUBERNUR PROVINSI SEITZ, GLENDA DOMARTSON
+Dialogue: 0,0:00:13.53,0:00:16.18,sign,,0000,0000,0000,,BASAMARC SAREMAQUIA
+Dialogue: 0,0:00:52.32,0:00:57.83,sign,,0000,0000,0000,,BOROTTS HEIGAND
+Dialogue: 0,0:04:49.27,0:04:55.02,sign,,0000,0000,0000,,AS A REINCARNATED ARISTOCRAT, I'LL USE MY\NAPPRAISAL SKILL TO RISE IN THE WORLD SEASON 3
+Dialogue: 0,0:04:55.02,0:04:59.36,sign,,0000,0000,0000,,EPISODE 26: CANARRE DALAM BAHAYA
+Dialogue: 0,0:08:52.43,0:08:54.56,sign,,0000,0000,0000,,SATU MINGGU KEMUDIAN
+Dialogue: 0,0:11:45.68,0:11:47.10,sign,,0000,0000,0000,,AS A REINCARNATED ARISTOCRAT, I'LL USE MY
+Dialogue: 0,0:11:47.10,0:11:49.20,sign,,0000,0000,0000,,APPRAISAL SKILL TO RISE IN THE WORLD SEASON 3
+Dialogue: 0,0:13:20.32,0:13:23.37,sign,,0000,0000,0000,,MALAM SEBELUM PERANG
+Dialogue: 0,0:15:22.11,0:15:26.07,sign,,0000,0000,0000,,RASA TAKUT
+Dialogue: 0,0:17:40.25,0:17:44.25,sign,,0000,0000,0000,,SUNGAI KHMER
+Dialogue: 0,0:17:46.34,0:17:49.01,sign,,0000,0000,0000,,JENDERAL MUSUH, RANTOLK RODDER
+Dialogue: 0,0:18:59.15,0:19:03.52,sign,,0000,0000,0000,,TEKAD MUSHA
+Dialogue: 0,0:23:38.06,0:23:42.61,sign,,0000,0000,0000,,SELANJUTNYA: ZAT DAN BRAHAM
+Dialogue: 0,0:00:02.90,0:00:06.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mari rayakan aliansi kita
+Dialogue: 0,0:00:06.16,0:00:09.91,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan pelantikanmu jadi gubernur Provinsi Seitz.
+Dialogue: 0,0:00:09.91,0:00:13.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku belum terbiasa disebut gubernur.
+Dialogue: 0,0:00:13.53,0:00:16.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak seperti gubernur sebelumnya,
+Dialogue: 0,0:00:16.18,0:00:19.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}terima kasih sudah mau beraliansi dengan kami.
+Dialogue: 0,0:00:19.54,0:00:25.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin berhubungan baik\Ndengan calon gubernur Missian.
+Dialogue: 0,0:00:25.04,0:00:28.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi tujuan kita sejalan.
+Dialogue: 0,0:00:28.04,0:00:34.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Atas nama martabat Seitz,\Nkami akan membantu rencana Tuan Basamarc.
+Dialogue: 0,0:00:34.18,0:00:38.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin Canarre dipisahkan dari Missian.
+Dialogue: 0,0:00:38.38,0:00:42.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kekuatan Canarre terlalu besar\Nbagi sebuah kabupaten.
+Dialogue: 0,0:00:42.67,0:00:45.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tolong hambat pergerakan mereka.
+Dialogue: 0,0:00:52.32,0:00:54.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia Borotts, bawahanku.
+Dialogue: 0,0:00:54.83,0:00:57.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Panglima pemberontakan kami sebelumnya.
+Dialogue: 0,0:00:57.83,0:01:00.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Senang bertemu Anda.
+Dialogue: 0,0:01:00.33,0:01:03.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dia juga akan memimpin invasi ke Canarre.
+Dialogue: 0,0:01:03.90,0:01:07.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami akan mengerahkan 80.000 prajurit.
+Dialogue: 0,0:01:07.46,0:01:12.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Banyak sekali, ya.\NItu 10 kali lipatnya pasukan Canarre.
+Dialogue: 0,0:01:12.96,0:01:17.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Soalnya ada yang aku incar di Canarre.
+Dialogue: 0,0:01:18.86,0:01:22.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu ingin bahan pangan, sumber daya,
+Dialogue: 0,0:01:22.93,0:01:27.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan semua rampasan dari invasi Canarre, kan?
+Dialogue: 0,0:01:27.23,0:01:29.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya, itu saja.
+Dialogue: 0,0:01:29.74,0:01:32.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu mau kekuatan tempur mereka?
+Dialogue: 0,0:01:32.85,0:01:34.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Izin undur diri.
+Dialogue: 0,0:01:35.24,0:01:39.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami ingin segera bersiap.
+Dialogue: 0,0:01:39.20,0:01:41.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau boleh tahu,
+Dialogue: 0,0:01:41.65,0:01:47.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}apa tujuanmu jadi gubernur Missian?\NUntuk merdeka?
+Dialogue: 0,0:01:48.56,0:01:52.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cran itu pria menyedihkan yang sulit\Nmemercayai orang lain.
+Dialogue: 0,0:01:52.82,0:01:55.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bahkan keluarganya sendiri.
+Dialogue: 0,0:01:55.76,0:02:00.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin melindungi tanah air\Ndan rakyat yang Ayah jaga.
+Dialogue: 0,0:02:00.11,0:02:01.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu saja.
+Dialogue: 0,0:02:02.85,0:02:05.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami akan menaklukkan Canarre.
+Dialogue: 0,0:02:05.67,0:02:10.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Silakan tuntaskan urusan dengan kakakmu.
+Dialogue: 0,0:02:16.24,0:02:20.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Borotts, kumpulkan pasukan dari seluruh Seitz.
+Dialogue: 0,0:02:20.86,0:02:22.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, Gubernur.
+Dialogue: 0,0:02:22.99,0:02:27.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Perang kali ini\Ntidak ada untungnya buat kita.
+Dialogue: 0,0:02:28.05,0:02:32.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wilayah dan sumber dayanya tidak seberapa.
+Dialogue: 0,0:02:32.26,0:02:36.00,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita baru saja perang saudara,\Nkenapa tidak minta lebih?
+Dialogue: 0,0:02:36.00,0:02:37.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Borotts.
+Dialogue: 0,0:02:37.79,0:02:41.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu tahu pria bernama Ars Louvent?
+Dialogue: 0,0:02:41.62,0:02:44.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bupati Canarre itu kenapa?
+Dialogue: 0,0:02:44.08,0:02:49.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Usianya baru 13.\NTidak masuk akal, kan?
+Dialogue: 0,0:02:49.12,0:02:53.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kudengar, dia anak ajaib\Nyang bisa melihat bakat orang lain.
+Dialogue: 0,0:02:54.30,0:02:56.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Melihat bakat?
+Dialogue: 0,0:02:56.61,0:03:01.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat kutelusuri,\Npengikutnya memang hebat-hebat.
+Dialogue: 0,0:03:01.83,0:03:08.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku ingin menaklukkan Canarre\Ndan mendapatkan Ars Louvent!
+Dialogue: 0,0:03:08.38,0:03:12.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku mengandalkanmu,
+Dialogue: 0,0:03:12.38,0:03:14.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}wahai tangan kananku.
+Dialogue: 0,0:03:18.78,0:03:20.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ars Louvent...
+Dialogue: 0,0:03:21.47,0:03:24.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang seperti apa dia?
+Dialogue: 0,0:04:56.48,0:04:59.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Inilah inti pesan Tuan Kral.
+Dialogue: 0,0:04:59.87,0:05:06.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Provinsi Seitz mengirim sekitar 80.000 prajurit\Nke dekat perbatasan Provinsi Missian.
+Dialogue: 0,0:05:06.48,0:05:09.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mohon segera bertindak."
+Dialogue: 0,0:05:09.37,0:05:12.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}80.000? Benarkah?
+Dialogue: 0,0:05:12.37,0:05:14.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itu 10 kali lipatnya pasukan Canarre.
+Dialogue: 0,0:05:15.09,0:05:20.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau itu benar, pasukan Khmer\Ntidak akan berkutik.
+Dialogue: 0,0:05:20.88,0:05:23.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, kenapa Provinsi Seitz?
+Dialogue: 0,0:05:23.54,0:05:26.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka baru saja perang saudara, kan?
+Dialogue: 0,0:05:26.74,0:05:27.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar.
+Dialogue: 0,0:05:28.38,0:05:34.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita sempat diam-diam membuat perjanjian damai\Ndengan Seitz yang sedang berperang.
+Dialogue: 0,0:05:34.14,0:05:35.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi,
+Dialogue: 0,0:05:35.06,0:05:39.59,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}gubernur sebelumnya diusir oleh sang bawahan.
+Dialogue: 0,0:05:39.59,0:05:41.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pemberontakannya berhasil.
+Dialogue: 0,0:05:41.70,0:05:44.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akibatnya, perjanjian kita batal.
+Dialogue: 0,0:05:45.50,0:05:47.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi kenapa harus sekarang?
+Dialogue: 0,0:05:47.98,0:05:52.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seharusnya kondisi mereka belum stabil.
+Dialogue: 0,0:05:52.21,0:05:54.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Firasatku tidak enak.
+Dialogue: 0,0:05:55.06,0:05:59.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rencananya, kamu mau bergabung\Ndengan pasukan Cran, kan?
+Dialogue: 0,0:05:59.70,0:06:00.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya.
+Dialogue: 0,0:06:00.91,0:06:04.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sepertinya Seitz tidak asal bergerak.
+Dialogue: 0,0:06:04.46,0:06:06.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada dalang di balik ini semua.
+Dialogue: 0,0:06:07.79,0:06:09.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, aku terlambat.
+Dialogue: 0,0:06:09.64,0:06:13.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Fam, seperti apa pasukan musuh?
+Dialogue: 0,0:06:13.78,0:06:15.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bisa dibilang...
+Dialogue: 0,0:06:15.74,0:06:19.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gawat, aku baru lihat pasukan sebanyak itu.
+Dialogue: 0,0:06:19.31,0:06:21.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Panglimanya pun hebat.
+Dialogue: 0,0:06:21.12,0:06:23.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kudengar, di perang sebelumnya,
+Dialogue: 0,0:06:23.86,0:06:26.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dia membantai 100.000 musuh\Nhanya dengan 50.000 prajurit.
+Dialogue: 0,0:06:26.56,0:06:27.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selain itu...
+Dialogue: 0,0:06:28.45,0:06:29.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini
+Dialogue: 0,0:06:30.02,0:06:32.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}batu sihir api, kan?
+Dialogue: 0,0:06:32.18,0:06:33.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan-jangan...
+Dialogue: 0,0:06:33.21,0:06:38.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya, Seitz tidak punya batu sihir api.
+Dialogue: 0,0:06:38.46,0:06:42.40,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat aku coba telusuri, ternyata benar.
+Dialogue: 0,0:06:42.40,0:06:45.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di waktu yang sama dengan gerakan Seitz,
+Dialogue: 0,0:06:45.38,0:06:48.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Basamarc mengirim pasukan ke Verzud.
+Dialogue: 0,0:06:48.47,0:06:54.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah kuduga, Basamarc beraliansi\Ndengan Gubernur Baru Seitz.
+Dialogue: 0,0:06:54.85,0:06:57.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita dalam bahaya?
+Dialogue: 0,0:06:57.10,0:07:01.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan begitu, Tuan Cran\Ntidak bisa membantu kita.
+Dialogue: 0,0:07:01.70,0:07:06.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita harus melawan 80.000 prajurit\Ntanpa bala bantuan.
+Dialogue: 0,0:07:07.39,0:07:10.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana dengan sistem pertahanan kita?
+Dialogue: 0,0:07:10.51,0:07:15.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski yang bertahan diuntungkan,\Nfasilitas pertahanan kita terbatas.
+Dialogue: 0,0:07:16.67,0:07:19.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Paling lama, cuma tahan setahun.
+Dialogue: 0,0:07:22.21,0:07:24.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bisa-bisa Canarre ditaklukkan.
+Dialogue: 0,0:07:24.82,0:07:26.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana ini?
+Dialogue: 0,0:07:27.26,0:07:29.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu bisa saja berkhianat.
+Dialogue: 0,0:07:32.64,0:07:36.75,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau menyerah,\NCanarre memang akan direbut.
+Dialogue: 0,0:07:36.75,0:07:39.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, kamu masih bisa selamat.
+Dialogue: 0,0:07:40.83,0:07:44.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kemampuan penilaian itu bisa jadi jaminan.
+Dialogue: 0,0:07:44.05,0:07:46.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bawahanmu juga bisa ditolong.
+Dialogue: 0,0:07:47.81,0:07:49.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak bisa.
+Dialogue: 0,0:07:49.41,0:07:54.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Canarre adalah amanat Tuan Cran\Ndan warisan Tuan Lemaire.
+Dialogue: 0,0:07:54.67,0:07:55.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selain itu,
+Dialogue: 0,0:07:56.21,0:07:58.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}ayahku juga menjaganya.
+Dialogue: 0,0:07:58.93,0:08:03.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku jadi pemimpin wilayah\Ndemi menjaga tempat asalku.
+Dialogue: 0,0:08:03.23,0:08:06.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyerah tanpa syarat itu mudah.
+Dialogue: 0,0:08:06.58,0:08:10.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi rakyat akan menderita\Nkalau terjadi penjarahan.
+Dialogue: 0,0:08:11.18,0:08:14.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku berjuang sejauh ini,\Nagar itu tidak terjadi.
+Dialogue: 0,0:08:15.10,0:08:17.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Menyerah bukanlah pilihan.
+Dialogue: 0,0:08:17.84,0:08:21.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku dan orang-orang yang menjaga Canarre
+Dialogue: 0,0:08:22.21,0:08:24.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}harus memenangkan ini!
+Dialogue: 0,0:08:26.82,0:08:29.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah kuduga jawabanmu begitu.
+Dialogue: 0,0:08:29.57,0:08:33.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kemungkinan, musuh akan bergerak\Nbeberapa minggu lagi.
+Dialogue: 0,0:08:36.51,0:08:39.78,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Panggil semua pemimpin wilayah Canarre.
+Dialogue: 0,0:08:39.78,0:08:43.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Minggu depan, kita pergi ke wilayah Khmer.
+Dialogue: 0,0:08:43.14,0:08:44.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik!
+Dialogue: 0,0:08:45.10,0:08:48.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baru beberapa bulan Keluarga Louvent merintis,
+Dialogue: 0,0:08:48.54,0:08:50.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}langsung ada ujian saja.
+Dialogue: 0,0:08:54.56,0:08:55.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars!
+Dialogue: 0,0:08:55.97,0:08:58.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ada surat dari Tuan Cran!\NDan juga...
+Dialogue: 0,0:09:01.30,0:09:03.57,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Info diterima.
+Dialogue: 0,0:09:03.57,0:09:06.69,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hidup mati kita ada di pertahanan Canarre.
+Dialogue: 0,0:09:06.69,0:09:10.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski ini akan jadi pertempuran terberat,
+Dialogue: 0,0:09:10.14,0:09:12.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku yakin kalian bisa mengatasinya.
+Dialogue: 0,0:09:13.70,0:09:17.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mungkin kamu tidak butuh,\Ntapi aku mengirim sedikit bantuan.
+Dialogue: 0,0:09:17.58,0:09:19.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gunakanlah baik-baik.
+Dialogue: 0,0:09:22.00,0:09:25.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Cran mengirim 20.000 prajurit!
+Dialogue: 0,0:09:26.02,0:09:27.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Luar biasa!
+Dialogue: 0,0:09:30.70,0:09:32.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Clamant!
+Dialogue: 0,0:09:32.34,0:09:36.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tentara Bayaran Maitro!\NKita akan sangat terbantu!
+Dialogue: 0,0:09:36.22,0:09:39.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Padahal Tuan Cran juga\Nharus melawan Tuan Basamarc.
+Dialogue: 0,0:09:39.86,0:09:41.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars!
+Dialogue: 0,0:09:41.35,0:09:44.35,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku Pemimpin Wilayah Trubequista,\NHammand Plaid!
+Dialogue: 0,0:09:44.35,0:09:46.98,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Datang karena Canarre dalam bahaya!
+Dialogue: 0,0:09:46.98,0:09:48.94,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Hammand!
+Dialogue: 0,0:09:48.94,0:09:50.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dan juga...
+Dialogue: 0,0:09:52.59,0:09:54.87,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka sudah kubawa, Nak.
+Dialogue: 0,0:09:54.87,0:09:58.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semuanya berisik saking semangatnya.
+Dialogue: 0,0:10:00.34,0:10:03.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku Pemimpin Wilayah Lamberg,\NMireille Grangeon.
+Dialogue: 0,0:10:03.90,0:10:06.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Datang atas perintah Tuan.
+Dialogue: 0,0:10:06.54,0:10:10.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tampaknya bukan cuma Tuan Ars\Nyang merasa harus menang.
+Dialogue: 0,0:10:12.51,0:10:13.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar.
+Dialogue: 0,0:10:15.58,0:10:18.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semuanya, mohon bantuannya!
+Dialogue: 0,0:10:29.82,0:10:31.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Coba jelaskan, Rosell.
+Dialogue: 0,0:10:31.90,0:10:36.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana cara mengalahkan 80.000 prajurit\Ndengan 28.000 prajurit?
+Dialogue: 0,0:10:36.03,0:10:39.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak perlu mengalahkan mereka.
+Dialogue: 0,0:10:39.03,0:10:41.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maksudnya?
+Dialogue: 0,0:10:41.55,0:10:47.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan musuh baru saja berperang,\Nkondisi mereka tidak prima.
+Dialogue: 0,0:10:47.30,0:10:51.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagi mereka, ini perang invasi.
+Dialogue: 0,0:10:51.70,0:10:55.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak wajib menang\Nseperti waktu perang saudara.
+Dialogue: 0,0:10:55.80,0:10:58.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, motivasi mereka rendah.
+Dialogue: 0,0:10:59.76,0:11:02.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan membantu Tuan Basamarc,
+Dialogue: 0,0:11:02.37,0:11:07.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}mungkin ada keuntungan yang mereka incar.
+Dialogue: 0,0:11:07.15,0:11:11.73,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jadi, buat saja mereka berpikir\Nperang ini merugikan.
+Dialogue: 0,0:11:12.13,0:11:16.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tidak perlu mengalahkan 80.000 musuh.
+Dialogue: 0,0:11:16.49,0:11:19.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pakailah 28.000 prajurit kita
+Dialogue: 0,0:11:19.34,0:11:24.62,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}untuk membuat Seitz merasa rugi\Nhingga mereka menyerah!
+Dialogue: 0,0:11:24.62,0:11:29.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik maupun buruk,\Nperang tidak melulu soal jumlah.
+Dialogue: 0,0:11:29.26,0:11:31.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi itulah letak asyiknya.
+Dialogue: 0,0:11:32.40,0:11:35.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berarti musuh tidak harus kalah.
+Dialogue: 0,0:11:35.95,0:11:39.07,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka cuma harus dibuat patah arang, kan?
+Dialogue: 0,0:11:39.07,0:11:41.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Demi Tuan Cran yang turut membantu,
+Dialogue: 0,0:11:41.84,0:11:44.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}mari kita berjuang!
+Dialogue: 0,0:11:45.68,0:11:47.10,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Wah!
+Dialogue: 0,0:11:47.10,0:11:49.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ukurannya juga pas!
+Dialogue: 0,0:11:49.20,0:11:50.31,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya.
+Dialogue: 0,0:11:52.37,0:11:56.29,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Di perang kali ini, aku tidak bisa\Nmendampingi Tuan.
+Dialogue: 0,0:11:56.29,0:12:01.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sebagai gantinya,\Nzirah itu yang akan melindungi Anda.
+Dialogue: 0,0:12:01.98,0:12:03.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih.
+Dialogue: 0,0:12:03.20,0:12:04.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tuan Ars.
+Dialogue: 0,0:12:05.70,0:12:07.89,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga punya sesuatu.
+Dialogue: 0,0:12:08.91,0:12:10.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Lycia, apa itu?
+Dialogue: 0,0:12:10.79,0:12:13.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Air olahan daun dan bunga Lula.
+Dialogue: 0,0:12:13.79,0:12:16.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini jampi-jampi kuno khas Trubequista.
+Dialogue: 0,0:12:18.35,0:12:23.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Konon dengan berpelukan,\Nkita akan pulang dengan selamat.
+Dialogue: 0,0:12:24.32,0:12:27.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Seingatku, tradisi Trubequista cuma airnya.
+Dialogue: 0,0:12:27.94,0:12:33.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pokoknya, selama Tuan Ars pergi,\Naku akan menjaga Canarre.
+Dialogue: 0,0:12:35.06,0:12:36.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku berangkat.
+Dialogue: 0,0:12:39.65,0:12:45.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita akan berperang di sungai Khmer\Nyang jadi perbatasan Missian dan Seitz.
+Dialogue: 0,0:12:45.20,0:12:49.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semua jembatan sudah dihancurkan,\Npasti musuh akan lewat sini.
+Dialogue: 0,0:12:49.52,0:12:52.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sungainya sempit dan relatif dangkal.
+Dialogue: 0,0:12:53.23,0:12:56.05,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Cuma di situ 80.000 prajurit bisa menyeberang.
+Dialogue: 0,0:12:56.46,0:13:01.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}20.000 pasukan utama kita akan bergabung\Nke pasukan Khmer yang bersiaga.
+Dialogue: 0,0:13:01.50,0:13:05.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita tahan garda depan musuh dari tepi sungai.
+Dialogue: 0,0:13:05.64,0:13:09.30,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sisanya akan masuk ke Benteng Khmer.
+Dialogue: 0,0:13:09.30,0:13:13.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tugasnya membantu pasukan utama\Ndan melawan musuh yang memutar.
+Dialogue: 0,0:13:16.05,0:13:19.92,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan utama akan dipimpin Rietz.
+Dialogue: 0,0:13:24.00,0:13:26.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Terima kasih telah menahan musuh cukup lama.
+Dialogue: 0,0:13:27.73,0:13:30.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kami terbiasa perang untuk bertahan.
+Dialogue: 0,0:13:30.34,0:13:32.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini baru permulaan.
+Dialogue: 0,0:13:32.67,0:13:34.80,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kita punya keunggulan medan.
+Dialogue: 0,0:13:34.80,0:13:37.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Strategimu juga bagus.
+Dialogue: 0,0:13:41.23,0:13:46.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Besok kita akan tiba di sungai Khmer,\Ntidurlah agar siap berperang.
+Dialogue: 0,0:13:46.39,0:13:50.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mustahil tidur, ini perang perdanaku.
+Dialogue: 0,0:13:50.21,0:13:53.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Saat perang nanti, senjata perlu dicek.
+Dialogue: 0,0:13:54.69,0:13:55.79,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini untukmu.
+Dialogue: 0,0:13:55.79,0:13:58.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Te-Terima kasih.
+Dialogue: 0,0:14:01.40,0:14:04.21,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa Abang jadi pengikut?
+Dialogue: 0,0:14:04.21,0:14:07.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kenapa kalian penasaran?\NTidak ada alasan khusus, kok.
+Dialogue: 0,0:14:07.99,0:14:11.55,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Habisnya, namamu sudah terkenal!
+Dialogue: 0,0:14:11.55,0:14:14.85,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kapten veteran pasukan penyerbu\NTentara Bayaran Liben!
+Dialogue: 0,0:14:14.85,0:14:17.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Orang sehebat kamu bergabung,
+Dialogue: 0,0:14:17.26,0:14:20.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}pasti demi tujuan besar, kan?
+Dialogue: 0,0:14:20.59,0:14:22.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Demi uang.
+Dialogue: 0,0:14:22.63,0:14:24.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Uang?
+Dialogue: 0,0:14:24.37,0:14:29.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kalau jadi pengikut bangsawan,\Nuangku akan melimpah.
+Dialogue: 0,0:14:29.18,0:14:30.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh...
+Dialogue: 0,0:14:30.77,0:14:35.27,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Hei, kalian, kalau perang dimulai\Nbakal susah tidur, lo.
+Dialogue: 0,0:14:35.71,0:14:38.61,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku tidur duluan, ah.
+Dialogue: 0,0:14:39.06,0:14:43.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Charlotte memang hebat,\Nmentalnya kuat banget.
+Dialogue: 0,0:14:43.33,0:14:46.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Begitulah sifatnya dari dulu.
+Dialogue: 0,0:14:46.42,0:14:48.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Beda banget sama kami!
+Dialogue: 0,0:14:51.68,0:14:55.25,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Musha, ibu masih tetap khawatir.
+Dialogue: 0,0:14:55.79,0:14:59.26,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu tidak cocok berperang.
+Dialogue: 0,0:14:59.26,0:15:02.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sifat kikukmu mirip denganku.
+Dialogue: 0,0:15:03.79,0:15:10.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Dengan rambut indah dan paras cantik,\Nkamu pasti dapat suami yang layak.
+Dialogue: 0,0:15:10.72,0:15:13.14,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biarkan para pria yang berperang
+Dialogue: 0,0:15:13.58,0:15:15.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan pulanglah ke rumah.
+Dialogue: 0,0:15:20.02,0:15:22.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku harus tidur.
+Dialogue: 0,0:15:29.44,0:15:31.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Charlotte.
+Dialogue: 0,0:15:31.52,0:15:34.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh, kukira siapa, ternyata Musha.
+Dialogue: 0,0:15:34.51,0:15:36.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu masih bangun?
+Dialogue: 0,0:15:36.32,0:15:39.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merawat senjata untuk besok.
+Dialogue: 0,0:15:39.12,0:15:41.63,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ini rutinitasku sebelum perang.
+Dialogue: 0,0:15:41.63,0:15:45.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gagal mengeluarkan kekuatan\Nkarena senjata rusak itu tidak lucu, kan?
+Dialogue: 0,0:15:45.18,0:15:46.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nanti aku tidur.
+Dialogue: 0,0:15:46.88,0:15:48.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu juga tidurlah.
+Dialogue: 0,0:15:48.77,0:15:51.20,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Masa mau terkapar di perang perdana?
+Dialogue: 0,0:15:51.20,0:15:52.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik.
+Dialogue: 0,0:15:54.60,0:15:58.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu tidak takut berperang?
+Dialogue: 0,0:15:58.90,0:16:04.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku merantau demi mengubah diriku\Nyang tidak bisa apa-apa.
+Dialogue: 0,0:16:04.08,0:16:06.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Meski telah banyak berlatih,
+Dialogue: 0,0:16:06.66,0:16:09.28,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku masih takut.
+Dialogue: 0,0:16:09.76,0:16:12.24,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana cara agar berani?
+Dialogue: 0,0:16:14.27,0:16:15.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga takut, kok.
+Dialogue: 0,0:16:15.70,0:16:17.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Eh, tapi...
+Dialogue: 0,0:16:17.17,0:16:21.22,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi bukan takut mati.\NToh, aku yakin menang.
+Dialogue: 0,0:16:21.22,0:16:22.51,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Oh.
+Dialogue: 0,0:16:22.51,0:16:26.47,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku sudah sering berperang,\Nmembunuh banyak orang,
+Dialogue: 0,0:16:27.01,0:16:29.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}dan berusaha hidup tanpa penyesalan.
+Dialogue: 0,0:16:29.99,0:16:31.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi...
+Dialogue: 0,0:16:31.65,0:16:33.18,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku takut
+Dialogue: 0,0:16:33.60,0:16:35.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}gagal memenuhi harapan Ars.
+Dialogue: 0,0:16:37.71,0:16:44.23,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ingin berubah, ingin percaya diri,\Nyang kucemaskan hanyalah diri sendiri.
+Dialogue: 0,0:16:44.23,0:16:46.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi, orang ini berbeda.
+Dialogue: 0,0:16:47.15,0:16:48.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Makanya dia kuat.
+Dialogue: 0,0:16:49.26,0:16:50.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Anu.
+Dialogue: 0,0:16:50.86,0:16:53.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Boleh aku gabung?
+Dialogue: 0,0:16:53.90,0:16:56.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Boleh, sini kuajarkan.
+Dialogue: 0,0:16:57.22,0:16:58.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Semoga suatu saat
+Dialogue: 0,0:16:59.38,0:17:01.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku bisa sepertinya.
+Dialogue: 0,0:17:05.04,0:17:07.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Berisik sekali.
+Dialogue: 0,0:17:07.13,0:17:10.13,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tolong lakukan sesuatu, Zat!
+Dialogue: 0,0:17:10.13,0:17:12.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mana bisa tidur kalau begini?
+Dialogue: 0,0:17:12.81,0:17:15.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kapten, jangan berisik...
+Dialogue: 0,0:17:17.64,0:17:19.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Abang...
+Dialogue: 0,0:17:20.03,0:17:21.02,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayah...
+Dialogue: 0,0:17:23.81,0:17:26.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasti tidurnya gelisah akibat memeluk senjata.
+Dialogue: 0,0:17:26.53,0:17:28.56,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biar aku bereskan.
+Dialogue: 0,0:17:29.04,0:17:30.83,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tinggal ditutup saja.
+Dialogue: 0,0:17:30.83,0:17:33.49,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Masih kedengaran, lo!
+Dialogue: 0,0:17:33.49,0:17:34.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo kita tidur.
+Dialogue: 0,0:17:34.72,0:17:36.77,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kok selimutnya dipakai semua?
+Dialogue: 0,0:17:36.77,0:17:38.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya, nih!
+Dialogue: 0,0:17:46.34,0:17:49.01,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Demi Tuan Borotts!
+Dialogue: 0,0:17:49.01,0:17:52.36,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maju!
+Dialogue: 0,0:17:52.76,0:17:54.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mencegah musuh menyeberang.
+Dialogue: 0,0:17:54.68,0:17:56.99,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Itulah tugas kita.
+Dialogue: 0,0:17:57.82,0:18:02.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Raih kemenangan demi Canarre\Ndan demi Tuan Ars!
+Dialogue: 0,0:18:02.34,0:18:05.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan Jarak Jauh, bersiap!
+Dialogue: 0,0:18:05.11,0:18:07.70,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tembak!
+Dialogue: 0,0:18:07.70,0:18:10.46,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan Katapel, maju!
+Dialogue: 0,0:18:14.07,0:18:16.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tembak!
+Dialogue: 0,0:18:21.17,0:18:23.50,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan Sihir, buat pelindung!
+Dialogue: 0,0:18:30.30,0:18:33.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan Tempur, maju!
+Dialogue: 0,0:18:35.34,0:18:37.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan Jarak Jauh, serang para infanteri!
+Dialogue: 0,0:18:44.14,0:18:46.48,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mereka pakai sihir pelindung!
+Dialogue: 0,0:18:46.48,0:18:48.88,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Biar saja, jangan berhenti!
+Dialogue: 0,0:18:49.57,0:18:53.53,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Charlotte, Musha, ini giliran kalian.
+Dialogue: 0,0:18:53.97,0:18:57.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya mulai panas.
+Dialogue: 0,0:18:57.65,0:18:59.15,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Rencana dimulai.
+Dialogue: 0,0:18:59.15,0:19:00.93,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bukannya menakuti,
+Dialogue: 0,0:19:00.93,0:19:03.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}tapi kita penentu menang dan kalahnya.
+Dialogue: 0,0:19:03.52,0:19:04.71,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Sudah siap?
+Dialogue: 0,0:19:04.71,0:19:06.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Baik!
+Dialogue: 0,0:19:06.16,0:19:07.04,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tenang saja.
+Dialogue: 0,0:19:07.60,0:19:09.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Nyawa semuanya dipertaruhkan...
+Dialogue: 0,0:19:09.42,0:19:11.11,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku pasti bisa.
+Dialogue: 0,0:19:11.46,0:19:13.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Gadis kampung sepertiku...
+Dialogue: 0,0:19:13.82,0:19:15.32,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasti bisa!
+Dialogue: 0,0:19:15.32,0:19:16.74,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Entah bisa apa...
+Dialogue: 0,0:19:16.74,0:19:17.68,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi,
+Dialogue: 0,0:19:18.06,0:19:19.86,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}aku pasti bisa.
+Dialogue: 0,0:19:20.83,0:19:22.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Forma.
+Dialogue: 0,0:19:28.69,0:19:30.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ti-Tidak bisa.
+Dialogue: 0,0:19:31.65,0:19:33.82,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasti ada yang salah.
+Dialogue: 0,0:19:33.82,0:19:38.67,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Habisnya, aku tidak pernah bisa apa-apa.
+Dialogue: 0,0:19:38.67,0:19:40.08,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena itu...
+Dialogue: 0,0:19:40.48,0:19:41.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena itu...
+Dialogue: 0,0:19:44.77,0:19:47.17,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku percaya padamu.
+Dialogue: 0,0:19:47.55,0:19:49.58,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kamu punya kekuatan.
+Dialogue: 0,0:19:49.58,0:19:51.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ucapan Ars tidak mungkin salah.
+Dialogue: 0,0:19:55.62,0:19:56.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Percayalah.
+Dialogue: 0,0:19:59.38,0:20:03.60,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku juga ingin jadi sepertimu!
+Dialogue: 0,0:20:06.35,0:20:09.12,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Maaf, aku minta pisau.
+Dialogue: 0,0:20:10.24,0:20:13.09,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku belum bisa percaya diri.
+Dialogue: 0,0:20:13.09,0:20:15.90,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Tapi aku ingin jadi kuat,
+Dialogue: 0,0:20:15.90,0:20:18.64,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}agar bisa percaya diri.
+Dialogue: 0,0:20:18.64,0:20:19.66,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Karena itu...
+Dialogue: 0,0:20:27.37,0:20:31.38,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Aku akan memercayai Charlotte\Nyang percaya padaku.
+Dialogue: 0,0:20:32.52,0:20:35.76,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Forma terra aquos...
+Dialogue: 0,0:20:35.76,0:20:37.42,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Magnis!
+Dialogue: 0,0:20:48.66,0:20:49.52,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa ini?
+Dialogue: 0,0:20:52.53,0:20:53.65,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Airnya...
+Dialogue: 0,0:20:53.65,0:20:56.03,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Pasukan Jarak Jauh, tembak!
+Dialogue: 0,0:20:56.03,0:21:00.45,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Forma igni erupt!
+Dialogue: 0,0:21:00.45,0:21:01.95,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mumpung surut!
+Dialogue: 0,0:21:01.95,0:21:04.37,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Ayo maju sekaligus!
+Dialogue: 0,0:21:11.36,0:21:13.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Akhirnya bisa beraksi!
+Dialogue: 0,0:21:13.34,0:21:15.97,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Zat, jangan sampai ketinggalan!
+Dialogue: 0,0:21:15.97,0:21:18.72,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Jangan terlalu maju!
+Dialogue: 0,0:21:27.60,0:21:30.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa-apaan ini?
+Dialogue: 0,0:21:33.19,0:21:37.19,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Mu-Mundur!
+Dialogue: 0,0:21:46.51,0:21:48.16,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Kerja bagus!
+Dialogue: 0,0:21:53.49,0:21:54.54,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Iya!
+Dialogue: 0,0:23:26.26,0:23:29.34,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Bagaimana Rietz?\NMusha kami hebat, kan?
+Dialogue: 0,0:23:29.34,0:23:31.84,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Benar, sikapnya pun baik\Nenggak kayak seseorang.
+Dialogue: 0,0:23:31.84,0:23:34.39,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Apa katamu?\NAku juga baik, tahu!
+Dialogue: 0,0:23:34.39,0:23:36.81,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Omong-omong, selanjutnya kisah mereka.
+Dialogue: 0,0:23:36.81,0:23:38.06,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}Selanjutnya,
+Dialogue: 0,0:23:38.06,0:23:39.33,Default,,0000,0000,0000,,{\blur3}{\fad(00,40)}"Zat dan Braham".
